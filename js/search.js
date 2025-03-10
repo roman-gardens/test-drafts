@@ -14,7 +14,8 @@ function displayResults (results, store) {
       resultList += '<div class="smallcrumbs">' + item.smallcrumbs + '</div>'
 
       // linked title
-      resultList += '<h3 class="list__title post__title"><a href="' + item.url + '">' + item.title + '</a></h3>'
+      resultList += '<h3 class="list__title post__title"><a href="' + item.url + '">' + item.title + '</a>' +
+       (item.draft? ' (DRAFT)' : '') + '</h3>'
 
       // garden description snippet
       let description = item.content.replace(/^(.|\n)*Garden Description /, '').substring(0, 179)
