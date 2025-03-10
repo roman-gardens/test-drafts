@@ -1,11 +1,73 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/dacia_traiana/romula/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Jul 2020 07:56:03 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/dacia_traiana/romula/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion in Romula</title><link>https://roman-gardens.github.io/test-drafts/province/dacia_traiana/romula/tomb_garden_of_ael_iul_iulianus/</link><pubDate>Sun, 12 Jul 2020 07:56:03 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/dacia_traiana/romula/tomb_garden_of_ael_iul_iulianus/</guid><description>Province Dacia Traiana
-Province Description Location Romula
-Romula (Pleiades)
-Garden Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion in Romula
-Keywords epitaphs inscription literary garden tombs Garden Description A slab unearthed near Resça (Romula), Romania, in 1954 records a verse epitaph set up by Valeria Gemellina for her husband Ael(ius) Iul(ius) Iulianus, a decurion of the colony of Romula, some time probably in the later second or third century. In it she describes in pastoral terms well suited to the hexameter the setting of the “eternal home” (i.e. the tomb) she built for him (hanc Iuliano domum flendo fabricavi perennem): “See how Gemellina, along with her children, out of respect for her worthy husband built a resting place for him amidst the vines and shrubbery and the lush grass, where deep shade from an overhanging branch supplies the greenery” (ecce Gemellina pietate ducta marito / struxindolens digno sedem cum liberis una / inter pampinea virgulta et gramina laeta / umbra super rami virides ubi densa ministrat).
-Maps Images Dates Later second century/third century
-Excavation Dates 1954
-Bibliography AE 1957, 334. Pleiades ID 981518
-TGN ID 8712318
-Contributor John Bodel (ORCID: 0000-0003-1820-6368)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/dacia_traiana/romula/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 12 Jul 2020 07:56:03 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/dacia_traiana/romula/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion in Romula</title><link>https://roman-gardens.github.io/test-drafts/province/dacia_traiana/romula/tomb_garden_of_ael_iul_iulianus/</link><pubDate>Sun, 12 Jul 2020 07:56:03 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/dacia_traiana/romula/tomb_garden_of_ael_iul_iulianus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/dacia_traiana/">Dacia Traiana&lt;/a>&lt;/p>
+&lt;h2 id="province-description">Province Description&lt;/h2>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/dacia_traiana/romula/">Romula&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/981518">Romula (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Tomb Garden of Ael(ius) Iul(ius) Iulianus, Decurion in Romula&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300028729">epitaphs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">inscription&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">literary garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005926">tombs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>A slab unearthed near Resça (Romula), Romania, in 1954 records a verse epitaph set up by Valeria Gemellina for her husband Ael(ius) Iul(ius) Iulianus, a decurion of the colony of Romula, some time probably in the later second or third century. In it she describes in pastoral terms well suited to the hexameter the setting of the “eternal home” (i.e. the tomb) she built for him (&lt;em>hanc Iuliano domum flendo fabricavi perennem&lt;/em>): “See how Gemellina, along with her children, out of respect for her worthy husband built a resting place for him amidst the vines and shrubbery and the lush grass, where deep shade from an overhanging branch supplies the greenery” (&lt;em>ecce Gemellina pietate ducta marito&lt;/em> / &lt;em>struxindolens digno sedem cum liberis una&lt;/em> / &lt;em>inter pampinea virgulta et gramina laeta&lt;/em> / &lt;em>umbra super rami virides ubi densa ministrat&lt;/em>).&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Plans-->
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="images">Images&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>Later second century/third century&lt;/p>
+&lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
+&lt;p>1954&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>AE&lt;/em> 1957, 334.&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/981518">981518&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/8712318">8712318&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://www.brown.edu/academics/history/people/john-bodel">John Bodel&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0003-1820-6368">0000-0003-1820-6368&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

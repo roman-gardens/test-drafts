@@ -1,9 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/chester/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 08:58:47 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/britannia/chester/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Painting in Chester</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/chester/chester_tomb_painting/</link><pubDate>Wed, 08 Jul 2020 08:58:47 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/britannia/chester/chester_tomb_painting/</guid><description>Province Britannia
-Province Description Location Chester
-Garden Tomb Painting in Chester
-Keywords funerary buildings tombs Garden Description Toynbee’s suggestion that a military tombstone from Chester depicting a row of three gabled buildings with stylized trees or shrubs planted in front of the two at the sides perhaps represents a tomb garden with tomb and flanking funerary buildings, though plausible, cannot in itself be taken to show that tomb gardens existed in Roman Britain; it would, however, suggest that the concept of planting at tombs was regarded as conventionally Roman and appropriate.
-Dates unspecified
-Bibliography R. P. Wright and I. A. Richmond, Catalogue of the Inscribed and Sculptured Stones in the Grosvenor Museum, Chester (1955) 40 no. 92, pl. 26. (world cat) J. M. C. Toynbee, Death and Burial in the Roman World (London 1971) 100. (world cat) Pleiades ID 89144
-TGN ID 7026064
-Contributor John Bodel (ORCID: 0000-0003-1820-6368)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/chester/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 08:58:47 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/britannia/chester/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Painting in Chester</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/chester/chester_tomb_painting/</link><pubDate>Wed, 08 Jul 2020 08:58:47 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/britannia/chester/chester_tomb_painting/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/britannia/">Britannia&lt;/a>&lt;/p>
+&lt;h2 id="province-description">Province Description&lt;/h2>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/britannia/chester/">Chester&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Tomb Painting in Chester&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005866">funerary buildings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005926">tombs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>Toynbee’s suggestion that a military tombstone from Chester depicting a row of three gabled buildings with stylized trees or shrubs planted in front of the two at the sides perhaps represents a tomb garden with tomb and flanking funerary buildings, though plausible, cannot in itself be taken to show that tomb gardens existed in Roman Britain; it would, however, suggest that the concept of planting at tombs was regarded as conventionally Roman and appropriate.&lt;/p>
+&lt;!-- ### Maps
+
+### Plans
+
+### Images-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>R. P. Wright and I. A. Richmond, &lt;em>Catalogue of the Inscribed and Sculptured Stones in the Grosvenor Museum, Chester&lt;/em> (1955) 40 no. 92, pl. 26. &lt;a href="http://www.worldcat.org/oclc/500390411">(world cat)&lt;/a>&lt;/li>
+&lt;li>J. M. C. Toynbee, &lt;em>Death and Burial in the Roman World&lt;/em> (London 1971) 100. &lt;a href="http://www.worldcat.org/oclc/807342603">(world cat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/89144">89144&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7026064">7026064&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://www.brown.edu/academics/history/people/john-bodel">John Bodel&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0003-1820-6368">0000-0003-1820-6368&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

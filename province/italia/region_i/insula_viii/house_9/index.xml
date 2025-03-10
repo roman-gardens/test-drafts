@@ -1,13 +1,86 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_9/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 08 Aug 2020 19:18:40 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_9/index.xml" rel="self" type="application/rss+xml"/><item><title>House of L. Vetutius Placidus and Ascula (at the rear of Themopolium no. 8) (I.viii.9)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_9/house_of_l._vetutius_placidus/</link><pubDate>Sat, 08 Aug 2020 19:18:40 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_9/house_of_l._vetutius_placidus/</guid><description>Province Italia
-Location Pompeii
-Pompeii (Pleiades)
-Sublocation Region I
-Insula Insula VIII
-House House 9
-Garden House of L. Vetutius Placidus and Ascula (at the rear of Themopolium no. 8) (I.viii.9)
-Keywords archaeological garden columns (architectural elements) engaged columns fulcrum monopodia mural paintings (visual works) pergolas porticoes tables (support furniture) triclinia (rooms) Garden Description An entrance to this small garden (a) was made through the east wall. It was located at the rear of the house and there was a portico on the north supported by two free standing columns and one engaged, all covered with red stucco and connected by a low wall. Fig. 3. A pergola supported by two red columns shaded a masonry triclinium built against the east wall. One column stood on the lectus imus while the other was on a slate base on the corner of the lectus imus. The pergola frame was mortised directly into the back wall at the level of the column capitals. The lectus imus (2.70 m.), the lectus medius (3.00), and the lectus summus (2.86 m.) formed an unusual triclinium because the lectus imus is shorter than the two sides. The lectus summus had a fulcrum and the table measured 0.82 x 0.48 m. The couches were decorated with polychrome floral and geometric designs and the outsides were coated with yellow plaster. It appears there were large animal paintings on the east wall but little of the plaster remains. Excavation uncovered a round monopodium table of marble in the garden.
-Plans Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement). Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement). Images Fig. 3: I. viii. 18.13.59, S.A. Jashemski (Rights Statement). Dates unspecified
-Excavation Date Bibliography Della Corte, NSc (1946), p. 95. Jashemski, Gardens, vol.II, p. 42. (worldcat) Schefold, WändP, p. 37. Soprano, p. 297, no. 7. Pleiades ID 433032
-TGN ID 7004658
-Contributor Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_9/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 08 Aug 2020 19:18:40 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_9/index.xml" rel="self" type="application/rss+xml"/><item><title>House of L. Vetutius Placidus and Ascula (at the rear of Themopolium no. 8) (I.viii.9)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_9/house_of_l._vetutius_placidus/</link><pubDate>Sat, 08 Aug 2020 19:18:40 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_9/house_of_l._vetutius_placidus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/">Italia&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Pompeii&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/">Region I&lt;/a>&lt;/p>
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="insula">Insula&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/">Insula VIII&lt;/a>&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_9/">House 9&lt;/a>&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>House of L. Vetutius Placidus and Ascula (at the rear of Themopolium no. 8) (I.viii.9)&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">archaeological garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300001571">columns (architectural elements)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300001638">engaged columns&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">fulcrum&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300041194">monopodia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300033644">mural paintings (visual works)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300006783">pergolas&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300039548">tables (support furniture)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004359">triclinia (rooms)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>An entrance to this small garden (a) was made through the east wall. It was located at the rear of the house and there was a &lt;em>portico&lt;/em> on the north supported by two free standing columns and one engaged, all covered with red stucco and connected by a low wall. Fig. 3. A &lt;em>pergola&lt;/em> supported by two red columns shaded a masonry &lt;em>triclinium&lt;/em> built against the east wall. One column stood on the &lt;em>lectus imus&lt;/em> while the other was on a slate base on the corner of the &lt;em>lectus imus&lt;/em>. The &lt;em>pergola&lt;/em> frame was mortised directly into the back wall at the level of the column capitals. The &lt;em>lectus imus&lt;/em> (2.70 m.), the &lt;em>lectus medius&lt;/em> (3.00), and the &lt;em>lectus summus&lt;/em> (2.86 m.) formed an unusual &lt;em>triclinium&lt;/em> because the &lt;em>lectus imus&lt;/em> is shorter than the two sides. The &lt;em>lectus summus&lt;/em> had a &lt;em>fulcrum&lt;/em> and the table measured 0.82 x 0.48 m. The couches were decorated with polychrome floral and geometric designs and the outsides were coated with yellow plaster. It appears there were large animal paintings on the east wall but little of the plaster remains. Excavation uncovered a round &lt;em>monopodium&lt;/em> table of marble in the garden.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+ alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure>&lt;img src="../../images/Region_I_insula_8.tif"
+ alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach.">&lt;figcaption>
+ &lt;h4>Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="images">Images&lt;/h3>
+&lt;figure>&lt;img src="../images/Fig_49_I.viii.8_9_18.13.59.jpg"
+ alt="Fig. 3: I. viii. 18.13.59, S.A. Jashemski.">&lt;figcaption>
+ &lt;h4>Fig. 3: I. viii. 18.13.59, S.A. Jashemski (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Della Corte, &lt;em>NSc&lt;/em> (1946), p. 95.&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, p. 42. &lt;a href="http://www.worldcat.org/oclc/921816405">(worldcat)&lt;/a>&lt;/li>
+&lt;li>&lt;span style="color:green">Schefold, &lt;em>WändP&lt;/em>, p. 37. &lt;/span>&lt;/li>
+&lt;li>Soprano, p. 297, no. 7.&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/433032">433032&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7004658">7004658&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

@@ -1,11 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/arae_flaviae/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 11:07:51 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/germania_superior/arae_flaviae/index.xml" rel="self" type="application/rss+xml"/><item><title>Large Building North of Forum in Arae Flaviae</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/arae_flaviae/arae_flaviae_large_building_north_of_forum/</link><pubDate>Mon, 13 Jul 2020 11:07:51 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/germania_superior/arae_flaviae/arae_flaviae_large_building_north_of_forum/</guid><description>Province Germania Superior
-Location Arae Flaviae
-Arae Flaviae (Pleiades)
-Location Description This town on the Neckar river was granted municipal status around 84 AD or slightly later. In modern terms, it lies about halfway between Zurich and Stuttgart.
-Garden Large Building north of Forum in Arae Flaviae
-Keywords archaeological garden colonnades corridors peristyles (Roman courtyards) vestibules Garden Description This building ca. 95 meters in width consisted of several units built at different times. These may represent more than one house, or they may be parts of one large house. The southern part of the complex, entered from the colonnaded street on the west, had a vestibule or corridor leading into a peristyle courtyard. This may have been planted, although the excavators could find no clear evidence of this. Beyond the peristyle to the east was a series of rooms, including one large room presumably with representative character, and an open area interpreted as a courtyard or garden (G in Fig. 1). The complex was built at the earliest during the reign of Trajan, but additions and alterations followed throughout the 2nd and perhaps the 3rd century.
-Maps Plans Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2. (Rights statement) Images Dates Complex built at the earliest during the reign of Trajan.
-Bibliography C. S. Sommer, &amp;ldquo;Municipium Arae Flaviae. Militärisches und ziviles Zentrum im rechtsrheinischen Obergermanien,&amp;rdquo; Bericht der Römisch-Germanischen Kommission 73, 1992: 301-302, Beilage 1.2. Pleiades ID 118572
-TGN ID 6002235
-Contributor Maureen Carroll (ORCID: 0000-0001-9958-8032)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/arae_flaviae/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 11:07:51 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/germania_superior/arae_flaviae/index.xml" rel="self" type="application/rss+xml"/><item><title>Large Building North of Forum in Arae Flaviae</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/arae_flaviae/arae_flaviae_large_building_north_of_forum/</link><pubDate>Mon, 13 Jul 2020 11:07:51 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/germania_superior/arae_flaviae/arae_flaviae_large_building_north_of_forum/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/germania_superior/">Germania Superior&lt;/a>&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/germania_superior/arae_flaviae/">Arae Flaviae&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/118572">Arae Flaviae (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;p>This town on the Neckar river was granted municipal status around 84 AD or slightly later. In modern terms, it lies about halfway between Zurich and Stuttgart.&lt;/p>
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Large Building north of Forum in Arae Flaviae&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">archaeological garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300002613">colonnades&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004294">corridors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyles (Roman courtyards)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300083076">vestibules&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>This building ca. 95 meters in width consisted of several units built at different times. These may represent more than one house, or they may be parts of one large house. The southern part of the complex, entered from the colonnaded street on the west, had a vestibule or corridor leading into a peristyle courtyard. This may have been planted, although the excavators could find no clear evidence of this. Beyond the peristyle to the east was a series of rooms, including one large room presumably with representative character, and an open area interpreted as a courtyard or garden (G in Fig. 1). The complex was built at the earliest during the reign of Trajan, but additions and alterations followed throughout the 2nd and perhaps the 3rd century.&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/EUR_GS_AraFla_Bnf_carroll.jpg"
+ alt="Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2.">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2. (Rights statement)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="images">Images&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>Complex built at the earliest during the reign of Trajan.&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>C. S. Sommer, &amp;quot;Municipium Arae Flaviae. Militärisches und ziviles Zentrum im rechtsrheinischen Obergermanien,&amp;quot; &lt;em>Bericht der Römisch-Germanischen Kommission 73&lt;/em>, 1992: 301-302, Beilage 1.2.&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/118572">118572&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/6002235">6002235&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

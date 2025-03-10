@@ -1,25 +1,140 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/tergeste/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 12:00:02 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/tergeste/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa of the Bath</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/tergeste/villa_of_the_bath/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_x/tergeste/villa_of_the_bath/</guid><description>Province Italia
-Location Tergeste
-Tergeste (Pleiades)
-Sublocation Region X
-Garden Villa of the Bath
-Keywords archaeological garden cisterns (plumbing components) gutters (building drainage components) villae urbanae peristyles (Roman courtyards) porticoes balnea water baths courtyards atrium houses corridors Garden Description Remains discovered in 1888 revealed a large semicircular garden (Fig. 1: c) enclosed by a portico (b), into which opened a series of rooms (d to p). A corridor (a) connected this garden to a bath quarter that boasted a nymphaeum (t) and a panoramic view onto the sea. A similar semicircular portico and garden was in the villa of Anguillara Sabatia, but the radial disposition of the rooms of the ‘Villa della Terma’s’ pars urbana is unusual, revealing a desire to lend each room a view onto the garden. The preservation of this villa is poor because for centuries it was scavenged for building material. Dated material ranges from the first century B.C. (brick stamps) to the early fifth century A.D. (coins). It is possible that these remains were part of the nearby “Villa della Statua.”
-Dates unspecified
-Excavation Date 1888
-Bibliography M. De Franceschini, 1998, Le ville romane della X regio: Venetia et Histria. Catalogo e carta archeologica dell’insediamento romano nel territorio, dall’età repubblicana al tardo impero, Roma.(worldcat) Pleiades ID 187578
-TGN ID 7005539
-Contributor Brady Kiesling
-Publication date 21 Apr 2021</description></item><item><title>Villa of the Statue (I.iii.23)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/tergeste/villa_of_the_statue/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_x/tergeste/villa_of_the_statue/</guid><description>Province Italia
-Location Tergeste
-Tergeste (Pleiades)
-Sublocation Region X
-Garden Villa of the Statue
-Keywords archaeological garden cisterns (plumbing components) gutters (building drainage components) mural paintings (visual works) peristyles (Roman courtyards) porticoes mosaics (visual works) pergolas balnea water baths atrium houses atriums (Roman halls) nymphaea (garden structures) tesserae ceramic tile opus sectile (visual works) opus signinum garden pavilions [apsed triclinium] [archaeological garden] Garden Description A villa dating from the first century B.C. to at least the time of Marcus Aurelius was discovered near the modern via Miramare in Barcola. It overlooked the sea to the west and had a portico at the south (Fig. 1: B), with rooms opening onto it. The main nucleus of the villa unfolded around a rectangular garden surrounded by porticoes on all four sides (the long sides measure 24.5 m.; the short ones 15.2; Fig. 1: U). A rectangular brick pool with a black mosaic pavement was in the north-east portion of the garden (Fig. 1: a). It pre-dates the portico, since it was partly destroyed by the paving of the north-east portico. A terminus post quem for the construction of the portico was determined by a coin of Nero, found inside the pool.
-During nineteenth century excavations, fragments of two superimposed wall paintings were recovered in Room C. The outer layer is not well enough preserved to identify any subject, but the preserved fragments beneath show branches and leaves with colored backgrounds of light blue, red, yellow and white. It is, therefore, possible that this cycle of painting depicted a garden, echoing the view of the real plantings visible through the doorway.
-North of the peristyle was the bath quarter (Fig. 1: G, H, I, M, P), but it is not completely clear how the two parts of the villa were connected. In a partially excavated Tuscan type atrium (G) with an impluvium, several fragments of a marble torso were recovered, possible from a copy of the Polykleitan Doryphoros or Diadumenos. On the west side of the villa facing the sea was a porticoed garden (Z) and large semicircular exedra (24 m in diameter). Under the mosaic floor of this exedra are traces of an earlier room (Fig. 1: a) with a mosaic floor. On axis with the center of the exedra and garden was a triclinium (6.2 x 12 m) with a black-and-white mosaic floor. Another exedra (7.5 x 15 m), with a black-and-white mosaic floor, had large windows looking to the sea, and beside it a staircase leading to the water’s edge and to a dock.
-Dates 100 B.C.
-Excavation Date 19th century
-Bibliography M. De Franceschini, 1998, Le ville romane della X regio: Venetia et Histria. Catalogo e carta archeologica dell’insediamento romano nel territorio, dall’età repubblicana al tardo impero, Roma.(worldcat) Pleiades ID 187578
-TGN ID 7005539
-Contributor Brady Kiesling
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/tergeste/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 12:00:02 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/tergeste/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa of the Bath</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/tergeste/villa_of_the_bath/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_x/tergeste/villa_of_the_bath/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a>&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/tergeste/">Tergeste&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/187578">Tergeste (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/">Region X&lt;/a>&lt;/p>
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Villa of the Bath&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">archaeological garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052558">cisterns (plumbing components)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052565">gutters (building drainage components)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005520">villae urbanae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004029">peristyles (Roman courtyards)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300120377">balnea&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300248755">water baths&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004095">courtyards&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005451">atrium houses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004294">corridors&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>Remains discovered in 1888 revealed a large semicircular garden (Fig. 1: c) enclosed by a portico (b), into which opened a series of rooms (d to p). A corridor (a) connected this garden to a bath quarter that boasted a nymphaeum (t) and a panoramic view onto the sea. A similar semicircular portico and garden was in the villa of Anguillara Sabatia, but the radial disposition of the rooms of the ‘Villa della Terma’s’ pars urbana is unusual, revealing a desire to lend each room a view onto the garden. The preservation of this villa is poor because for centuries it was scavenged for building material. Dated material ranges from the first century B.C. (brick stamps) to the early fifth century A.D. (coins). It is possible that these remains were part of the nearby “Villa della Statua.”&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;p>1888&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>M. De Franceschini, 1998, &lt;em>Le ville romane della X regio: Venetia et Histria. Catalogo e carta archeologica dell’insediamento romano nel territorio, dall’età repubblicana al tardo impero&lt;/em>, Roma.&lt;a href="http://www.worldcat.org/oclc/1071842281">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/187578">187578&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="hhttp://vocab.getty.edu/page/tgn/7005539">7005539&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://pleiades.stoa.org/author/bkiesling">Brady Kiesling&lt;/a>&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Villa of the Statue (I.iii.23)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/tergeste/villa_of_the_statue/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_x/tergeste/villa_of_the_statue/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a>&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/tergeste/">Tergeste&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/187578">Tergeste (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/">Region X&lt;/a>&lt;/p>
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Villa of the Statue&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">archaeological garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052558">cisterns (plumbing components)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052565">gutters (building drainage components)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300033644">mural paintings (visual works)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004029">peristyles (Roman courtyards)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300015342">mosaics (visual works)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300006783">pergolas&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300120377">balnea&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300248755">water baths&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005451">atrium houses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004097">atriums (Roman halls)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300006809">nymphaea (garden structures)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300010730">tesserae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300010678">ceramic tile&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300254462">opus sectile (visual works)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300379969">opus signinum&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300006819">garden pavilions&lt;/a>&lt;/li>
+&lt;li>[apsed triclinium]&lt;/li>
+&lt;li>[archaeological garden]&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>A villa dating from the first century B.C. to at least the time of Marcus Aurelius was discovered near the modern via Miramare in Barcola. It overlooked the sea to the west and had a portico at the south (Fig. 1: B), with rooms opening onto it. The main nucleus of the villa unfolded around a rectangular garden surrounded by porticoes on all four sides (the long sides measure 24.5 m.; the short ones 15.2; Fig. 1: U). A rectangular brick pool with a black mosaic pavement was in the north-east portion of the garden (Fig. 1: a). It pre-dates the portico, since it was partly destroyed by the paving of the north-east portico. A terminus post quem for the construction of the portico was determined by a coin of Nero, found inside the pool.&lt;/p>
+&lt;p>During nineteenth century excavations, fragments of two superimposed wall paintings were recovered in Room C. The outer layer is not well enough preserved to identify any subject, but the preserved fragments beneath show branches and leaves with colored backgrounds of light blue, red, yellow and white. It is, therefore, possible that this cycle of painting depicted a garden, echoing the view of the real plantings visible through the doorway.&lt;/p>
+&lt;p>North of the peristyle was the bath quarter (Fig. 1: G, H, I, M, P), but it is not completely clear how the two parts of the villa were connected. In a partially excavated Tuscan type atrium (G) with an impluvium, several fragments of a marble torso were recovered, possible from a copy of the Polykleitan Doryphoros or Diadumenos. On the west side of the villa facing the sea was a porticoed garden (Z) and large semicircular exedra (24 m in diameter). Under the mosaic floor of this exedra are traces of an earlier room (Fig. 1: a) with a mosaic floor. On axis with the center of the exedra and garden was a triclinium (6.2 x 12 m) with a black-and-white mosaic floor. Another exedra (7.5 x 15 m), with a black-and-white mosaic floor, had large windows looking to the sea, and beside it a staircase leading to the water’s edge and to a dock.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>100 B.C.&lt;/p>
+&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;p>19th century&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>M. De Franceschini, 1998, &lt;em>Le ville romane della X regio: Venetia et Histria. Catalogo e carta archeologica dell’insediamento romano nel territorio, dall’età repubblicana al tardo impero&lt;/em>, Roma.&lt;a href="http://www.worldcat.org/oclc/1071842281">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/187578">187578&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="hhttp://vocab.getty.edu/page/tgn/7005539">7005539&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://pleiades.stoa.org/author/bkiesling">Brady Kiesling&lt;/a>&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

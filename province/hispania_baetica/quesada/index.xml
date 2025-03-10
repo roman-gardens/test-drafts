@@ -1,16 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/quesada/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 10:00:00 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/quesada/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa Bruñel</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/quesada/villa_bru%C3%B1el/</link><pubDate>Thu, 15 Oct 2020 10:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/quesada/villa_bru%C3%B1el/</guid><description>Province Hispania Baetica
-Location Quesada
-Quesada (Pleiades)
-Location Description Garden Villa Bruñel
-Keywords apses buttresses courtyards fountains mosaics (visual works) peristyles (Roman courtyards) porticoes rills Garden Description This villa, 5 kilometers north of the center of Quesada, was excavated in eight campaigns between 1965 and 1971, and had multiple phases of construction. The north end of the villa appears as a normal peristyle villa. Directly across the middle of the peristyle and its garden, a mighty wall slices slices the peristyle in two halves running east-west. Beyond the wall, the peristyle and garden continue. But the east-west wall turns out to be the north side of a vast double-apsed hall, which is followed, further south, by another villa wrapping around a large courtyard with covered galleries on all four sides, while off to the southeast, there is another peristyle with garden, porticoes, and surrounding rooms.
-In the first phase several features, such as the bases of the four buttresses along the western edge, and the semicircular structure in the middle of the large courtyard, were established. Fragments of oil lamps datable to the second century AD were also found.
-Sometime in the third or fourth century AD, to judge by the mosaics, an elegant, standard peristyle villa was built in a second phase of construction. In the center of the garden was a rectangular rill and inside the rill, a fountain with a pool lined, like the rill, with opus signinum. The inner wall of the rill had a raised, fluted moulding on top. The porticoes on four sides around the peristyle were paved in mosaics, now restored and returned to their original places. The oecus [14] was on the south looking north over the garden.
-At some time in the fourth century AD, the southern half of this house was demolished to make way for the constructions of the third phase. The enormous court (46.7 x 13.6 m) with apses at each end lay along the north side of the new construction.
-At the western end of the south side of the templum was a large rectangular open area (20 x 15.5 m) called the gran patio. It was surrounded on all four sides by covered passageways, and looks very like a garden, though without ornament such as a fountain. Probably not a peristyle. The surrounding passageways were all paved with opus signinum. On the inside walls of the east gallery there remain pieces of stucco with crude painting of squares, rectangles, stems of plants, and green leaves. These corridors definitely had roofs because they were found filled with the debris of the collapsed roofs, mixed with ashes. The walls surrounding the gran patio were found reaching a height of about 80 cm, the same as all the other walls in the area. It seems quite possible that the walls held up the roof and that they had windows in them that could have been closed by wooden vanes. The walls have a peculiarity at the southwest corner. The west wall does not meet the south wall squarely but wraps around it leaving a gateway about 60 cm wide and two or three meters long through which one could enter the central area.
-The gran patio and its galleries were bordered on the east by a line of rooms, two of them opening onto it and the others onto what was clearly the residential area further east. There were also two passageways between the two areas. This residential area has a normal peristyle courtyard (8 x 6 m) with a garden. Drainage from the garden went off to the south, while the northern part of the residential area drained across and under the gran patio. In the structures of the third phase, there were no mosaics and no sculptures found. On the other hand, a bronze farm bell with iron clapper, lots of agricultural implements, and some horse gear were found.
-Sotomayor did not think that the gran patio was a garden, and proposed that it might have been a coral for ‘lesser herds’ (ganado menor), by which he presumably meant mainly sheep. He pointed out that there was no ornament, such as a pool or fountain in the middle of the area. While the templum was clearly not a garden, it had no masonry floor save what it had inherited from the second phase of the villa. It seems, however, to have had a wooden or reed roof, for carbonized portions of beams suitable for supporting the roof were found.
-Maps Images Dates unspecified
-Bibliography P. de Palol and M. Sotomayor, ‘Excavaciones en la villa romana de Bruñel (Quesada), de la Provincia de Jaén,’ Actas del VIII Congreso Internacional de Arqueología Cristiana (Barcelona, 5-11 October, 1969), (Roma-Barcelona, 1972), 275-381. (worldcat) M. Sotomayor, ‘La villa romana de Bruñel,’ Cuadernos de Prehistoria de la Universidad de Granada 10, (Granada, 1985), 335-366. (worldcat) M.ª C. Fernández Castro,Villas romanas en Hispania, (Madrid 1982).(worldcat) Pleiades ID [265996]/test-drafts/province/hispania_baetica/quesada/)
-265996
-TGN ID 7027137
-Contributor (AUTHOR_ID) Publication date 21 Apr 20210</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/quesada/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 10:00:00 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/quesada/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa Bruñel</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/quesada/villa_bru%C3%B1el/</link><pubDate>Thu, 15 Oct 2020 10:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/quesada/villa_bru%C3%B1el/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>Hispania Baetica&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/quesada/">Quesada&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/265996">Quesada (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Villa Bruñel&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004607">apses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300000891">buttresses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004095">courtyards&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300006179">fountains&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300015342">mosaics (visual works)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004029">peristyles (Roman courtyards)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300263440">rills&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- [vanes]-->
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>This villa, 5 kilometers north of the center of Quesada, was excavated in eight campaigns between 1965 and 1971, and had multiple phases of construction. The north end of the villa appears as a normal peristyle villa. Directly across the middle of the peristyle and its garden, a mighty wall slices slices the peristyle in two halves running east-west. Beyond the wall, the peristyle and garden continue. But the east-west wall turns out to be the north side of a vast double-apsed hall, which is followed, further south, by another villa wrapping around a large courtyard with covered galleries on all four sides, while off to the southeast, there is another peristyle with garden, porticoes, and surrounding rooms.&lt;/p>
+&lt;p>In the first phase several features, such as the bases of the four buttresses along the western edge, and the semicircular structure in the middle of the large courtyard, were established. Fragments of oil lamps datable to the second century AD were also found.&lt;/p>
+&lt;p>Sometime in the third or fourth century AD, to judge by the mosaics, an elegant, standard peristyle villa was built in a second phase of construction. In the center of the garden was a rectangular rill and inside the rill, a fountain with a pool lined, like the rill, with &lt;em>opus signinum&lt;/em>. The inner wall of the rill had a raised, fluted moulding on top. The porticoes on four sides around the peristyle were paved in mosaics, now restored and returned to their original places. The oecus [14] was on the south looking north over the garden.&lt;/p>
+&lt;p>At some time in the fourth century AD, the southern half of this house was demolished to make way for the constructions of the third phase. The enormous court (46.7 x 13.6 m) with apses at each end lay along the north side of the new construction.&lt;/p>
+&lt;p>At the western end of the south side of the &lt;em>templum&lt;/em> was a large rectangular open area (20 x 15.5 m) called the &lt;em>gran patio&lt;/em>. It was surrounded on all four sides by covered passageways, and looks very like a garden, though without ornament such as a fountain. Probably not a peristyle. The surrounding passageways were all paved with &lt;em>opus signinum&lt;/em>. On the inside walls of the east gallery there remain pieces of stucco with crude painting of squares, rectangles, stems of plants, and green leaves. These corridors definitely had roofs because they were found filled with the debris of the collapsed roofs, mixed with ashes. The walls surrounding the &lt;em>gran patio&lt;/em> were found reaching a height of about 80 cm, the same as all the other walls in the area. It seems quite possible that the walls held up the roof and that they had windows in them that could have been closed by wooden vanes. The walls have a peculiarity at the southwest corner. The west wall does not meet the south wall squarely but wraps around it leaving a gateway about 60 cm wide and two or three meters long through which one could enter the central area.&lt;/p>
+&lt;p>The &lt;em>gran patio&lt;/em> and its galleries were bordered on the east by a line of rooms, two of them opening onto it and the others onto what was clearly the residential area further east. There were also two passageways between the two areas. This residential area has a normal peristyle courtyard (8 x 6 m) with a garden. Drainage from the garden went off to the south, while the northern part of the residential area drained across and under the &lt;em>gran patio&lt;/em>. In the structures of the third phase, there were no mosaics and no sculptures found. On the other hand, a bronze farm bell with iron clapper, lots of agricultural implements, and some horse gear were found.&lt;/p>
+&lt;p>Sotomayor did not think that the gran patio was a garden, and proposed that it might have been a coral for ‘lesser herds’ (&lt;em>ganado menor&lt;/em>), by which he presumably meant mainly sheep. He pointed out that there was no ornament, such as a pool or fountain in the middle of the area. While the &lt;em>templum&lt;/em> was clearly not a garden, it had no masonry floor save what it had inherited from the second phase of the villa. It seems, however, to have had a wooden or reed roof, for carbonized portions of beams suitable for supporting the roof were found.&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Plans-->
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="images">Images&lt;/h3>
+&lt;figure>&lt;img src="../images/HIS_BAE_Quesdad_Vb_lcoation%20map_CA%20fig1.JPG"
+ alt="Fig. 1: Location map of Villa Brunel. (Rights Statement)">
+&lt;/figure>
+
+&lt;figure>&lt;img src="../images/HIS_BAE_Quesdad_Vb_all%20phases%20CA%20fig2.JPG"
+ alt="Fig. 2: Plan of Villa Brunel showing all phases. (Rights Statement)">
+&lt;/figure>
+
+&lt;figure>&lt;img src="../images/HIS_BAE_Quesdad_Vb_Phase2%20plan_CA%20fig3.JPG"
+ alt="Fig. 3: Plan of Villa Brunel showing phase 2. (Rights Statement)">
+&lt;/figure>
+
+&lt;figure>&lt;img src="../images/HIS_BAE_Quesdad_Vb_plan_phase3_CAfig4.JPG"
+ alt="Fig. 4: Plan of Villa Brunel showing phase 3. (Rights Statement)">
+&lt;/figure>
+
+&lt;figure>&lt;img src="../images/HIS_BAE_Quesdad_Vb_fig5_CA.JPG"
+ alt="Fig. 5: Photo of Villa Brunel looking south across the garden. (Rights Statement)">
+&lt;/figure>
+
+&lt;figure>&lt;img src="../images/HIS_BAE_Quesdad_Vb_photo%20CA%20fig%206.JPG"
+ alt="Fig. 6: Photo of Villa Brunel looking west across the garden. (Rights Statement)">
+&lt;/figure>
+
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>P. de Palol and M. Sotomayor, ‘Excavaciones en la villa romana de Bruñel (Quesada), de la Provincia de Jaén,’ &lt;em>Actas del VIII Congreso Internacional de Arqueología Cristiana (Barcelona, 5-11 October, 1969)&lt;/em>, (Roma-Barcelona, 1972), 275-381. &lt;a href="http://www.worldcat.org/oclc/805693419">(worldcat)&lt;/a>&lt;/li>
+&lt;li>M. Sotomayor, ‘La villa romana de Bruñel,’ &lt;em>Cuadernos de Prehistoria de la Universidad de Granada 10&lt;/em>, (Granada, 1985), 335-366. &lt;a href="http://www.worldcat.org/oclc/934427727">(worldcat)&lt;/a>&lt;/li>
+&lt;li>M.ª C. Fernández Castro,&lt;em>Villas romanas en Hispania&lt;/em>, (Madrid 1982).&lt;a href="http://www.worldcat.org/oclc/876519837">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>[265996]/test-drafts/province/hispania_baetica/quesada/) &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/265996">265996&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/77027137">7027137&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="link">(AUTHOR_ID)&lt;/a> &lt;!-- - (ORCID: [xxx](link)) -->&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 20210&lt;/p></description></item></channel></rss>

@@ -1,10 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/germania_inferior/rheinbach-flerzheim/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Jul 2020 10:57:12 -0700</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/germania_inferior/rheinbach-flerzheim/index.xml" rel="self" type="application/rss+xml"/><item><title>Rustic villa at Rheinbach-Flerzheim</title><link>https://roman-gardens.github.io/test-drafts/province/germania_inferior/rheinbach-flerzheim/rheinbach-flerzheim/</link><pubDate>Sun, 12 Jul 2020 10:57:12 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/germania_inferior/rheinbach-flerzheim/rheinbach-flerzheim/</guid><description>Province Germania inferior
-Province Description Location Rheinbach-Flerzheim
-Garden Rustic villa at Rheinbach-Flerzheim
-Keywords villae rusticae hedges balnea kitchen gardens piscinae Garden Description There was no division between the residential and service parts of this modest farm. The house, with its bath (A and B on plan), and the outbuildings were built of stone at the beginning of the 2nd century (Plan 1). The winged corridor type house of this villa rustica was 37 m. long and 20 m. wide, and it had a bath attached to the back.
-Enclosing the farm complex was a hedge or row of trees, the planting trenches of which were uncovered in excavations (gray wavy border on plan). Based on the palaeobotanical evidence of carbonised plant remains and pollen, a kitchen garden near the house and fruit trees on the property have been reconstructed. In front of the entrance to the main residence at the south were the remains of a small pool lined with clay. This has been taken as evidence for an ornamental garden surrounding the pool. On a farm of this modest size and simplicity, however, an ornamental garden seems rather unlikely. The farm was occupied until the mid-5th century.
-Maps Plans Plan 1. Plan of the farmyard with its house (A) and bath (B) enclosed by a hedge (grey line). The open circles are wells. Adapted from Carroll 2001, fig. 38. (Rights statement). Images Dates Second century CE to mid-fifth century CE
-Bibliography M. Gechter, &amp;ldquo;Der römische Gutshof von Rheinbach-Flerzheim,&amp;rdquo; in Spurensicherung. Archäologische Denkmalpflege in der Euregio Maas-Rhein, Mainz, 1992, pp. 249-54, 452-60. worldcat M. Carroll, Romans, Celts and Germans. The German Provinces of Rome, Stroud, 2001, p. 79, fig. 38. worldcat Pleiades ID 981524
-TGN ID 7192890
-Contributor Maureen Carroll (ORCID: 0000-0001-9958-8032)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/germania_inferior/rheinbach-flerzheim/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 12 Jul 2020 10:57:12 -0700</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/germania_inferior/rheinbach-flerzheim/index.xml" rel="self" type="application/rss+xml"/><item><title>Rustic villa at Rheinbach-Flerzheim</title><link>https://roman-gardens.github.io/test-drafts/province/germania_inferior/rheinbach-flerzheim/rheinbach-flerzheim/</link><pubDate>Sun, 12 Jul 2020 10:57:12 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/germania_inferior/rheinbach-flerzheim/rheinbach-flerzheim/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/germania_inferior/">Germania inferior&lt;/a>&lt;/p>
+&lt;h3 id="province-description">Province Description&lt;/h3>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>Rheinbach-Flerzheim&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Rustic villa at Rheinbach-Flerzheim&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005518">villae rusticae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300266413">hedges&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300120377">balnea&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300008110">kitchen gardens&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300375619">piscinae&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>There was no division between the residential and service parts of this modest farm. The house, with its bath (A and B on plan), and the outbuildings were built of stone at the beginning of the 2nd century (Plan 1). The winged corridor type house of this &lt;em>villa rustica&lt;/em> was 37 m. long and 20 m. wide, and it had a bath attached to the back.&lt;/p>
+&lt;p>Enclosing the farm complex was a hedge or row of trees, the planting trenches of which were uncovered in excavations (gray wavy border on plan). Based on the palaeobotanical evidence of carbonised plant remains and pollen, a kitchen garden near the house and fruit trees on the property have been reconstructed. In front of the entrance to the main residence at the south were the remains of a small pool lined with clay. This has been taken as evidence for an ornamental garden surrounding the pool. On a farm of this modest size and simplicity, however, an ornamental garden seems rather unlikely. The farm was occupied until the mid-5th century.&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/rheinbach-flerzheim_plan1_EUR_GI_RheFle_Rv_carroll.jpg"
+ alt="Plan 1. Plan of the farmyard with its house (A) and bath (B) enclosed by a hedge (grey line). The open circles are wells. Adapted from Carroll 2001, fig. 38. (Rights statement).">&lt;figcaption>
+ &lt;h4>Plan 1. Plan of the farmyard with its house (A) and bath (B) enclosed by a hedge (grey line). The open circles are wells. Adapted from Carroll 2001, fig. 38. (Rights statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="images">Images&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>Second century CE to mid-fifth century CE&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>M. Gechter, &amp;quot;Der römische Gutshof von Rheinbach-Flerzheim,&amp;quot; in &lt;em>Spurensicherung. Archäologische Denkmalpflege in der Euregio Maas-Rhein&lt;/em>, Mainz, 1992, pp. 249-54, 452-60. &lt;a href="http://www.worldcat.org/oclc/28027282">worldcat&lt;/a>&lt;/li>
+&lt;li>M. Carroll, &lt;em>Romans, Celts and Germans. The German Provinces of Rome&lt;/em>, Stroud, 2001, p. 79, fig. 38. &lt;a href="http://www.worldcat.org/oclc/1120840822">worldcat&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/981524">981524&lt;/a>&lt;/p>
+&lt;!-- germania imferior; no pleiades location -->
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7192890">7192890&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="link">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

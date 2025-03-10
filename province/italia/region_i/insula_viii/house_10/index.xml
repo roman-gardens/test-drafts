@@ -1,25 +1,139 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_10/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 09 Aug 2020 10:35:46 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_10/index.xml" rel="self" type="application/rss+xml"/><item><title>I.viii.10 B</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_10/i.viii.10_b/</link><pubDate>Sun, 09 Aug 2020 10:35:46 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_10/i.viii.10_b/</guid><description>Province Italia
-Location Pompeii
-Pompeii (Pleiades)
-Sublocation Region I
-Insula Insula VIII
-House House 10
-Garden I.viii.10 B
-Keywords Garden Description B. At the southwest corner of the house, the courtyard (b) was possibly a garden.
-Plans Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement). Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement). Dates unspecified
-Excavation Date Bibliography Jashemski, Gardens, vol.II, p. 43. (worldcat) Maiuri, RM (1953-54), p. 91. Pleiades ID 433032
-TGN ID 7004658
-Contributor Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250)
-Publication date 21 Apr 2021</description></item><item><title>Caupona-Hospitium dei "Pulcinella" (I.viii.10)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_10/caupona-hospitium_dei_pulcinella/</link><pubDate>Sun, 09 Aug 2020 09:29:04 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_10/caupona-hospitium_dei_pulcinella/</guid><description>Province Italia
-Location Pompeii
-Pompeii (Pleiades)
-Sublocation Region I
-Insula Insula VIII
-House House 10
-Garden Caupona-Hospitium dei &amp;ldquo;Pulcinella&amp;rdquo; (I.viii.10)
-Keywords archaeological garden lararia mural paintings (visual works) peristyles (Roman courtyards) porticoes Garden Description A. This house had no atrium and the peristyle was entered directly from the street. The peristyle garden (a) was enclosed on the east and the south by a portico. Two lararium flanked the door to a basement on the north end of the east portico. The one on the right was well preserved with paintings of an altar, two Lares, serpents, and a rectangular niche painted with what appear to be poppies. When a layer of plaster crumbled from the wall in March 1949 it revealed a painting of a pottery shop and led Maiuri to believe that there had been a pottery shop entrance to the street from the room on the left. Two other paintings on the façade depict Mercury and costumed men attired as Neapolitan Punch and Judy puppets. This gave the house the identity as a caupona-hospitium of the “Pulcinella.”
-Plans Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement). Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement). Dates unspecified
-Excavation Date Bibliography Della Corte, Case, p. 326, no. 675. Jashemski, Gardens, vol.II, pp. 42-43. (worldcat) Maiuri, RM (1953-54), pp. 89-91 (the house is erroneously numbered I.v.10) on the plan, fig, 1. Pleiades ID 433032
-TGN ID 7004658
-Contributor Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_10/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 09 Aug 2020 10:35:46 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_10/index.xml" rel="self" type="application/rss+xml"/><item><title>I.viii.10 B</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_10/i.viii.10_b/</link><pubDate>Sun, 09 Aug 2020 10:35:46 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_10/i.viii.10_b/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/">Italia&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Pompeii&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/">Region I&lt;/a>&lt;/p>
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="insula">Insula&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/">Insula VIII&lt;/a>&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_10/">House 10&lt;/a>&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>I.viii.10 B&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>B. At the southwest corner of the house, the courtyard (b) was possibly a garden.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+ alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure>&lt;img src="../../images/Region_I_insula_8.tif"
+ alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach.">&lt;figcaption>
+ &lt;h4>Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;!--### Images-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, p. 43. &lt;a href="http://www.worldcat.org/oclc/921816405">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, &lt;em>RM&lt;/em> (1953-54), p. 91.&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/433032">433032&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7004658">7004658&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Caupona-Hospitium dei "Pulcinella" (I.viii.10)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_10/caupona-hospitium_dei_pulcinella/</link><pubDate>Sun, 09 Aug 2020 09:29:04 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_10/caupona-hospitium_dei_pulcinella/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/">Italia&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Pompeii&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/">Region I&lt;/a>&lt;/p>
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="insula">Insula&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/">Insula VIII&lt;/a>&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_10/">House 10&lt;/a>&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Caupona-Hospitium dei &amp;quot;Pulcinella&amp;quot; (I.viii.10)&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">archaeological garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300400600">lararia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300033644">mural paintings (visual works)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004029">peristyles (Roman courtyards)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>A. This house had no &lt;em>atrium&lt;/em> and the &lt;em>peristyle&lt;/em> was entered directly from the street. The &lt;em>peristyle&lt;/em> garden (a) was enclosed on the east and the south by a &lt;em>portico&lt;/em>. Two &lt;em>lararium&lt;/em> flanked the door to a basement on the north end of the east &lt;em>portico&lt;/em>. The one on the right was well preserved with paintings of an altar, two &lt;em>Lares&lt;/em>, serpents, and a rectangular niche painted with what appear to be poppies. When a layer of plaster crumbled from the wall in March 1949 it revealed a painting of a pottery shop and led Maiuri to believe that there had been a pottery shop entrance to the street from the room on the left. Two other paintings on the façade depict Mercury and costumed men attired as Neapolitan Punch and Judy puppets. This gave the house the identity as a &lt;em>caupona-hospitium&lt;/em> of the “Pulcinella.”&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+ alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure>&lt;img src="../../images/Region_I_insula_8.tif"
+ alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach.">&lt;figcaption>
+ &lt;h4>Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;!--### Images-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Della Corte, &lt;em>Case&lt;/em>, p. 326, no. 675.&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, pp. 42-43. &lt;a href="http://www.worldcat.org/oclc/921816405">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, &lt;em>RM&lt;/em> (1953-54), pp. 89-91 (the house is erroneously numbered I.v.10) on the plan, fig, 1.&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/433032">433032&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7004658">7004658&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

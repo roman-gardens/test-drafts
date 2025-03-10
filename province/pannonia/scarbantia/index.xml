@@ -1,10 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/pannonia/scarbantia/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 22 Jul 2020 10:08:21 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/pannonia/scarbantia/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden of Iul(ia) Victorin(a) in Scarbantia</title><link>https://roman-gardens.github.io/test-drafts/province/pannonia/scarbantia/scarbantia_tomb_garden_of_iulia_victorina/</link><pubDate>Wed, 22 Jul 2020 10:08:21 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/pannonia/scarbantia/scarbantia_tomb_garden_of_iulia_victorina/</guid><description>Province Pannonia
-Location Scarbantia
-Scarbantia (Pleiades)
-Garden Tomb Garden of Iul(ia) Victorin(a) in Scarbantia
-Keywords epitaphs literary garden stelae tombs viridarium Garden Description A limestone funerary stele of probably third century date unearthed in 1973 near Scarbantia at Winder am See (Burgenland) and now in the Burgenländische Landesmuseum at Eisenstadt records an epitaph set up by Septimius Alcides, a veteran of the legio XIII Gemina Iulia, for his wife, Iul(ia) Victorin(a), dead at thirty, for whom he built at his own expense a funerary pleasure garden (viridarium).
-Maps Dates 3rd century
-Bibliography AE 1973, 433. Epigraphische Datenbank Heidelberg HD011378. Pleiades ID 197501
-TGN ID 4008442
-Contributor John Bodel (ORCID: 0000-0003-1820-6368)
-Publication date 21 Apr 20210</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/pannonia/scarbantia/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 22 Jul 2020 10:08:21 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/pannonia/scarbantia/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden of Iul(ia) Victorin(a) in Scarbantia</title><link>https://roman-gardens.github.io/test-drafts/province/pannonia/scarbantia/scarbantia_tomb_garden_of_iulia_victorina/</link><pubDate>Wed, 22 Jul 2020 10:08:21 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/pannonia/scarbantia/scarbantia_tomb_garden_of_iulia_victorina/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/pannonia/">Pannonia&lt;/a>&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/pannonia/scarbantia/">Scarbantia&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/197501">Scarbantia (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Tomb Garden of Iul(ia) Victorin(a) in Scarbantia&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300028729">epitaphs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">literary garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300007023">stelae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005926">tombs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">viridarium&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>A limestone funerary stele of probably third century date unearthed in 1973 near Scarbantia at Winder am See (Burgenland) and now in the Burgenländische Landesmuseum at Eisenstadt records an epitaph set up by Septimius Alcides, a veteran of the legio XIII Gemina Iulia, for his wife, Iul(ia) Victorin(a), dead at thirty, for whom he built at his own expense a funerary pleasure garden (&lt;em>viridarium&lt;/em>).&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;!--### Plans-->
+&lt;!--### Images-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>3rd century&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>AE&lt;/em> 1973, 433.&lt;/li>
+&lt;li>&lt;em>Epigraphische Datenbank Heidelberg&lt;/em> HD011378.&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/197501">197501&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/4008442">4008442&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://www.brown.edu/academics/history/people/john-bodel">John Bodel&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0003-1820-6368">0000-0003-1820-6368&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 20210&lt;/p></description></item></channel></rss>

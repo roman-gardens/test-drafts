@@ -1,10 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/egabrum/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 10:00:00 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/egabrum/index.xml" rel="self" type="application/rss+xml"/><item><title>House of the Mithra</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/egabrum/house_of_the_mithra/</link><pubDate>Thu, 15 Oct 2020 10:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/egabrum/house_of_the_mithra/</guid><description>Province Hispania Baetica
-Location Egabrum
-Egabrum (Pleiades)
-Location Description Garden House of the Mithra
-Keywords courtyards drains exedrae (site elements) fountains peristyles (Roman courtyards) Garden Description Excavations identified two building phases in the villa. The early Imperial phase of the villa contained a peristyle courtyard with a pool, central drain and possibly a garden. During the late Imperial phase (fourth century AD), the pool was converted into a double fountain with two semicircular exedras on its short sides, which housed sculptures of Mithra and Dionysus. The space which may have been a garden was transformed into a second pool around the original one by paving it and building a low wall at the base of the peristyle. The ruins show this second state.
-Maps Images Dates unspecified
-Bibliography A. Blanco, J. García y M. Bendala, ‘Excavaciones en Cabra (Córdoba).La Casa de Mitra (Primera campaña, 1972),’ Habis 3, Universidad de Sevilla, (Sevilla 1973), 297-319.(worldcat) M.ª C. Fernández Castro,Villas romanas en Hispania, (Madrid 1982). (worldcat) J. L. Jiménez Salvador and M. Martín Bueno,La Casa del Mitra, Ayuntamiento de Córdoba, (Córdoba, 1991).(worldcat) Pleiades ID [265919]/test-drafts/province/hispania_baetica/egabrum/)
-265919
-TGN ID 7007570
-Contributor (AUTHOR_ID) Publication date 21 Apr 20210</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/egabrum/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 10:00:00 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/egabrum/index.xml" rel="self" type="application/rss+xml"/><item><title>House of the Mithra</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/egabrum/house_of_the_mithra/</link><pubDate>Thu, 15 Oct 2020 10:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/egabrum/house_of_the_mithra/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>Hispania Baetica&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/egabrum/">Egabrum&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/265919">Egabrum (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>House of the Mithra&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004095">courtyards&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052564">drains&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300081589">exedrae (site elements)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300006179">fountains&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004029">peristyles (Roman courtyards)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- [Doric order]-->
+&lt;!-- [triclinium]-->
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>Excavations identified two building phases in the villa. The early Imperial phase of the villa contained a peristyle courtyard with a pool, central drain and possibly a garden. During the late Imperial phase (fourth century AD), the pool was converted into a double fountain with two semicircular exedras on its short sides, which housed sculptures of Mithra and Dionysus. The space which may have been a garden was transformed into a second pool around the original one by paving it and building a low wall at the base of the peristyle. The ruins show this second state.&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Plans-->
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="images">Images&lt;/h3>
+&lt;figure>&lt;img src="../images/HIS_BAE_Ega_Hm_plan_CA%20fig1.JPG"
+ alt="Fig. 1: Plan of the House of the Mithra. Source: Gorges, Planche XXXIII. (Rights Statement)">
+&lt;/figure>
+
+&lt;figure>&lt;img src="../images/HIS_BAE_Ega_Hm_photo_CA%20fig2.JPG"
+ alt="Fig. 2: Photo of the peristyle looking northwest. (Rights Statement)">
+&lt;/figure>
+
+&lt;figure>&lt;img src="../images/HIS_BAE_Ega_Hm_Mosaic_CA%20fig3.JPG"
+ alt="Fig. 3: Photo of one of the mosaics from the House of Mithra on display at the municipal museum. (Rights Statement)">
+&lt;/figure>
+
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>A. Blanco, J. García y M. Bendala, ‘Excavaciones en Cabra (Córdoba).La Casa de Mitra (Primera campaña, 1972),’ &lt;em>Habis 3&lt;/em>, Universidad de Sevilla, (Sevilla 1973), 297-319.&lt;a href="http://www.worldcat.org/oclc/920418457">(worldcat)&lt;/a>&lt;/li>
+&lt;li>M.ª C. Fernández Castro,&lt;em>Villas romanas en Hispania&lt;/em>, (Madrid 1982). &lt;a href="http://www.worldcat.org/oclc/876519837">(worldcat)&lt;/a>&lt;/li>
+&lt;li>J. L. Jiménez Salvador and M. Martín Bueno,&lt;em>La Casa del Mitra&lt;/em>, Ayuntamiento de Córdoba, (Córdoba, 1991).&lt;a href="http://www.worldcat.org/oclc/490626772">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>[265919]/test-drafts/province/hispania_baetica/egabrum/) &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/265919">265919&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7007570">7007570&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="link">(AUTHOR_ID)&lt;/a> &lt;!-- - (ORCID: [xxx](link)) -->&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 20210&lt;/p></description></item></channel></rss>

@@ -1,11 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/pannonia/aquincum/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 16:44:26 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/pannonia/aquincum/index.xml" rel="self" type="application/rss+xml"/><item><title>Urban House or Schola in Aquincum</title><link>https://roman-gardens.github.io/test-drafts/province/pannonia/aquincum/aquincum_urban_house_or_schola/</link><pubDate>Tue, 21 Jul 2020 16:44:26 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/pannonia/aquincum/aquincum_urban_house_or_schola/</guid><description>Province Pannonia
-Province Description Location Aquincum
-Aquincum (Pleiades)
-Location Description This town on the Danube river acquired the rank of municipium under Hadrian in 124 A.D. In the year 194 it was granted colonial status.
-Garden Urban House or Schola in Aquincum
-Keywords archaeological garden balnea fountains peristyles (Roman courtyards) piscinae statues statuettes (free-standing sculpture) Garden Description Very few houses of Mediterranean type have been discovered, and only one can be said with certainty to have had a garden (Fig. 1, G in Fig. 1). The peristyle courtyard was a prominent feature of this house of irregular plan and substantial size near the southern city wall. The house dates to the 3rd century, and it is thought to have been a clubhouse or schola for young men (collegium iuventutis), complete with a bath suite. In the middle of the courtyard, framed on four sides by a low wall supporting columns, was a square masonry pool (Fig. 2). In the center of the pool was a fountain consisting of a small marble satyr standing on a column of the same material. This decorative element and the unpaved ground strongly suggest the existence of a garden.
-Plans Fig. 1: Plan of a building with a peristyle garden courtyard (G) and a pool in its center. Adapted from Polenz and Póczy 1986, fig. 47.(Rights statement.) Images Fig. 2: The excavated courtyard building with its peristyle garden. Photo courtesy of M. Carroll.) Dates 3rd century
-Bibliography A. Mócsy, Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire, London, 1974, p. 166, pl. 16b. (worldcat) H. Polenz and K. Póczy, Das römische Budapest. Neue Ausgrabungen und Funde in Aquincum, Münster, 1986, p. 124, fig. 47, pl. 10. (worldcat) Pleiades ID 1971301
-TGN ID 8713146
-Contributor Maureen Carroll (ORCID: 0000-0001-9958-8032)
-Publication date 21 Apr 20210</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/pannonia/aquincum/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 16:44:26 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/pannonia/aquincum/index.xml" rel="self" type="application/rss+xml"/><item><title>Urban House or Schola in Aquincum</title><link>https://roman-gardens.github.io/test-drafts/province/pannonia/aquincum/aquincum_urban_house_or_schola/</link><pubDate>Tue, 21 Jul 2020 16:44:26 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/pannonia/aquincum/aquincum_urban_house_or_schola/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/pannonia/">Pannonia&lt;/a>&lt;/p>
+&lt;h3 id="province-description">Province Description&lt;/h3>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/pannonia/aquincum/">Aquincum&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/1971301">Aquincum (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;p>This town on the Danube river acquired the rank of &lt;em>municipium&lt;/em> under Hadrian in 124 A.D. In the year 194 it was granted colonial status.&lt;/p>
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Urban House or Schola in Aquincum&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">archaeological garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300120377">balnea&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300006179">fountains&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyles (Roman courtyards)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300375619">piscinae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300047600">statues&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300312262">statuettes (free-standing sculpture)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>Very few houses of Mediterranean type have been discovered, and only one can be said with certainty to have had a garden (Fig. 1, G in Fig. 1). The peristyle courtyard was a prominent feature of this house of irregular plan and substantial size near the southern city wall. The house dates to the 3rd century, and it is thought to have been a clubhouse or &lt;em>schola&lt;/em> for young men (&lt;em>collegium iuventutis&lt;/em>), complete with a bath suite. In the middle of the courtyard, framed on four sides by a low wall supporting columns, was a square masonry pool (Fig. 2). In the center of the pool was a fountain consisting of a small marble satyr standing on a column of the same material. This decorative element and the unpaved ground strongly suggest the existence of a garden.&lt;/p>
+&lt;!--### Maps-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/PAN_AQU_House%201_M%20Carroll.tif"
+ alt="Fig. 1: Plan of a building with a peristyle garden courtyard (G) and a pool in its center. Adapted from Polenz and Póczy 1986, fig. 47.">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of a building with a peristyle garden courtyard (G) and a pool in its center. Adapted from Polenz and Póczy 1986, fig. 47.(Rights statement.)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="images">Images&lt;/h3>
+&lt;figure>&lt;img src="../images/PAN_AQU.jpg"
+ alt="Fig. 2: The excavated courtyard building with its peristyle garden. Photo courtesy of M. Carroll.">&lt;figcaption>
+ &lt;h4>Fig. 2: The excavated courtyard building with its peristyle garden. Photo courtesy of M. Carroll.)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>3rd century&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>A. Mócsy, &lt;em>Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire&lt;/em>, London, 1974, p. 166, pl. 16b. &lt;a href="http://www.worldcat.org/oclc/644823914">(worldcat)&lt;/a>&lt;/li>
+&lt;li>H. Polenz and K. Póczy, &lt;em>Das römische Budapest. Neue Ausgrabungen und Funde in Aquincum&lt;/em>, Münster, 1986, p. 124, fig. 47, pl. 10. &lt;a href="http://www.worldcat.org/oclc/19741038">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/1971301">1971301&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/8713146">8713146&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 20210&lt;/p></description></item></channel></rss>

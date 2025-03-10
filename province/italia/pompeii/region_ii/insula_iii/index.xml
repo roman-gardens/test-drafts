@@ -1,10 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 06 Mar 2021 15:03:29 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/index.xml" rel="self" type="application/rss+xml"/><item><title>II.iii.3 ()</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/ii.iii.3/</link><pubDate>Sat, 06 Mar 2021 15:03:29 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/ii.iii.3/</guid><description>Province Province Description Location Location Description Sublocation Sublocation Description Garden Dates Bibliography Periodo ID Pleiades ID TGN ID Contributor ORCID Publication date</description></item><item><title>II.3.7/9</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/ii.iii.7_9/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/ii.iii.7_9/</guid><description>Province Italia
-Location Pompeii
-Pompeii (Pleiades)
-Sublocation Region II
-Garden Commercial restaurant garden.
-Keywords tables (support furniture) Garden Description This garden restaurant was strategically located across from the Palaestra. This garden occupied most of the southern part of this insula and had a masonry triclinium (l. medius, 4.90 m; l. imus and summus 4.50m), as well as a round table (1.00 m in diameter) and a square table (0.90m x 0.90m).
-Dates 1951-1953.
-Bibliography Jashemski, Wilhelmina F, 1979. The Gardens of Pompeii, Herculaneum, and the Villas Destroyed by Vesuvius, New Rochelle: Aristide D. Caratzas, 1:176. worldcat Jashemski, Wilhelmina F, 1993. The Gardens of Pompeii, Herculaneum, and the Villas Destroyed by Vesuvius, vol.II, p. 85. worldcat Della, Corte M. 1954. Case Ed Abitanti Di Pompei. Pompei-scavi:. worldcat Pleiades ID 425769173
-Contributor Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 06 Mar 2021 15:03:29 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/index.xml" rel="self" type="application/rss+xml"/><item><title>II.iii.3 ()</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/ii.iii.3/</link><pubDate>Sat, 06 Mar 2021 15:03:29 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/ii.iii.3/</guid><description>&lt;h1 id="province">Province&lt;/h1>
+&lt;!--- Content of Province heading --->
+&lt;h2 id="province-description">Province Description&lt;/h2>
+&lt;!-- DESCRIPTION -->
+&lt;h1 id="location">Location&lt;/h1>
+&lt;!-- [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751) -->
+&lt;h2 id="location-description">Location Description&lt;/h2>
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h1 id="sublocation">Sublocation&lt;/h1>
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;h2 id="sublocation-description">Sublocation Description&lt;/h2>
+&lt;!-- DESCRIPTION -->
+&lt;h1 id="garden">Garden&lt;/h1>
+&lt;!-- List of gardens in province -->
+&lt;!-- May be left blank for now -->
+&lt;h2 id="dates">Dates&lt;/h2>
+&lt;!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
+&lt;!-- If no date, use "unspecified" -->
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
+&lt;!--
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+-->
+&lt;h3 id="periodo-id">Periodo ID&lt;/h3>
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h3 id="pleiades-id">Pleiades ID&lt;/h3>
+&lt;!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
+&lt;!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h3 id="tgn-id">TGN ID&lt;/h3>
+&lt;!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
+&lt;!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
+&lt;h2 id="contributor">Contributor&lt;/h2>
+&lt;!-- [AUTHOR_NAME](AUTHOR_LINK) -->
+&lt;h3 id="orcid">ORCID&lt;/h3>
+&lt;!-- [ORCID](https://orcid.org/ORCID) -->
+&lt;h2 id="publication-date">Publication date&lt;/h2>
+&lt;!-- Format: dd MONTH_NAME yyyy -->
+&lt;!-- DATE --></description></item><item><title>II.3.7/9</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/ii.iii.7_9/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/ii.iii.7_9/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/">Region II&lt;/a>&lt;/p>
+&lt;!-- pleiades link prompts for login
+## House
+[II.iii.7/9 (Pleiades)](https://pleiades.stoa.org/places/243620947)
+-->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Commercial restaurant garden.&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300039548">tables (support furniture)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>This garden restaurant was strategically located across from the Palaestra. This garden occupied most of the southern part of this &lt;em>insula&lt;/em> and had a masonry &lt;a href="http://vocab.getty.edu/page/aat/300004359">triclinium&lt;/a> (l. medius, 4.90 m; l. imus and summus 4.50m), as well as a round table (1.00 m in diameter) and a square table (0.90m x 0.90m).&lt;/p>
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>1951-1953.&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Jashemski, Wilhelmina F, 1979. &lt;em>The Gardens of Pompeii, Herculaneum, and the Villas Destroyed by Vesuvius,&lt;/em> New Rochelle: Aristide D. Caratzas, 1:176. &lt;a href="http://www.worldcat.org/oclc/884024123">worldcat&lt;/a>&lt;/li>
+&lt;li>Jashemski, Wilhelmina F, 1993. &lt;em>The Gardens of Pompeii, Herculaneum, and the Villas Destroyed by Vesuvius, vol.II&lt;/em>, p. 85. &lt;a href="http://www.worldcat.org/oclc/769881162">worldcat&lt;/a>&lt;/li>
+&lt;li>Della, Corte M. 1954. &lt;em>Case Ed Abitanti Di Pompei. Pompei-scavi:&lt;/em>. &lt;a href="http://www.worldcat.org/oclc/878618392">worldcat&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/425769173">425769173&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

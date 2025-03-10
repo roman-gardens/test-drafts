@@ -1,12 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/altinum/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 12:00:02 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/altinum/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden of L. Ogius Patroclus</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/altinum/tomb_garden_of_l_ogius_patroclus/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_x/altinum/tomb_garden_of_l_ogius_patroclus/</guid><description>Province Italia
-Location Altinum
-Altinum (Pleiades)
-Sublocation Region X
-Garden Tomb Garden of L. Ogius Patroclus
-Keywords tombs epitaphs stelae grove (sacred grove) vegetable gardens Garden Description A marble slab reported at Altinum in the sixteenth century and now in Venice records, above a depiction of an axe, a plumb-line, and a tree with birds, the epitaph of L. Ogius Patroclus, who some time (probably) in the late first or second century, “following the tradition of dutiful respect maintained by the corporation of firemen, donated while still living the gardens with building adjoining the tomb, so that from their revenue roses and food would be supplied generously for his patron and, eventually, for himself” (secutus pietatem col(legii) cent(onariorum) hortos cum aedificio huic sepult(urae) {a} iunctos vivos donavit, ut ex reditu eor(um) largius rosae et esce patrono suo et quandoque sibi ponerentur). The pairing of roses for the dead and food for the living (rosae et escae) was common in Roman funerary celebrations at the grave site, which perhaps suggests that mixed planting of flowers and vegetables was common in Roman tomb gardens as well (cf. ILS 6711, 8371).
-Dates unspecified
-Excavation Date 16th century
-Bibliography CIL 5.2176 ILS 8369 Pleiades ID 197110
-TGN ID 4000603
-Contributor Sean Gillies (https://pleiades.stoa.org/author/sgillies)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/altinum/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 12:00:02 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/altinum/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden of L. Ogius Patroclus</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/altinum/tomb_garden_of_l_ogius_patroclus/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_x/altinum/tomb_garden_of_l_ogius_patroclus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a>&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/altinum/">Altinum&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/197110">Altinum (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/">Region X&lt;/a>&lt;/p>
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Tomb Garden of L. Ogius Patroclus&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005926">tombs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300028729">epitaphs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300007023">stelae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300251876">grove (sacred grove)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300008142">vegetable gardens&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>A marble slab reported at Altinum in the sixteenth century and now in Venice records, above a depiction of an axe, a plumb-line, and a tree with birds, the epitaph of L. Ogius Patroclus, who some time (probably) in the late first or second century, “following the tradition of dutiful respect maintained by the corporation of firemen, donated while still living the gardens with building adjoining the tomb, so that from their revenue roses and food would be supplied generously for his patron and, eventually, for himself” (secutus pietatem col(legii) cent(onariorum) hortos cum aedificio huic sepult(urae) {a} iunctos vivos donavit, ut ex reditu eor(um) largius rosae et esce patrono suo et quandoque sibi ponerentur). The pairing of roses for the dead and food for the living (rosae et escae) was common in Roman funerary celebrations at the grave site, which perhaps suggests that mixed planting of flowers and vegetables was common in Roman tomb gardens as well (cf. ILS 6711, 8371).&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;p>16th century&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>CIL 5.2176&lt;/li>
+&lt;li>ILS 8369&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/197110">197110&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/4000603">4000603&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Sean Gillies (&lt;a href="https://pleiades.stoa.org/author/sgillies">https://pleiades.stoa.org/author/sgillies&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

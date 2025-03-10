@@ -1,11 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/tomb_garden_near_rome/via_aurelia/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 10:54:29 -0700</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/tomb_garden_near_rome/via_aurelia/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden of Terentia</title><link>https://roman-gardens.github.io/test-drafts/province/italia/tomb_garden_near_rome/via_aurelia/tomb_garden_of_terentia/</link><pubDate>Mon, 30 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/tomb_garden_near_rome/via_aurelia/tomb_garden_of_terentia/</guid><description>Province Italia
-Location Via Aurelia Tomb Garden of C. Nonius Minyas
-Sublocation Via Aurelia
-Sublocation Description An ancient Roman road begun ca. 241 B.C. by the censor C. Aurelius Cotta.
-Garden Tomb Garden of Terentia
-Keywords epitaphs tombs Garden Description A fragmentary (and probably reused) epitaph, probably of the first or second century CE, found in the catacombs of Calepodio beside the Via Aurelia identifies a cepota[phium] of Terentia.
-Bibliography J. Bodel, Roman Tomb Gardens, Cambridge University Press, 2018, pp. 225, 237. link
-G.-L. Gregori, Horti sepulchrales e cepotaphia nelle iscrizioni urbane, Bullettino della Commissione Archeologica Comunale di Roma worldcat
-Pleiades ID 283772837
-Contributor John Bodel
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/tomb_garden_near_rome/via_aurelia/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 10:54:29 -0700</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/tomb_garden_near_rome/via_aurelia/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden of Terentia</title><link>https://roman-gardens.github.io/test-drafts/province/italia/tomb_garden_near_rome/via_aurelia/tomb_garden_of_terentia/</link><pubDate>Mon, 30 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/tomb_garden_near_rome/via_aurelia/tomb_garden_of_terentia/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/">Italia&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/174900201">Via Aurelia&lt;/a>
+&lt;a href="https://pleiades.stoa.org/places/283772837">Tomb Garden of C. Nonius Minyas&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>Via Aurelia&lt;/p>
+&lt;h3 id="sublocation-description">Sublocation Description&lt;/h3>
+&lt;p>An ancient Roman road begun ca. 241 B.C. by the censor C. Aurelius Cotta.&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Tomb Garden of Terentia&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300028729">epitaphs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005926">tombs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>A fragmentary (and probably reused) epitaph, probably of the first or second century CE, found in the catacombs of Calepodio beside the Via Aurelia identifies a cepota[phium] of Terentia.&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>J. Bodel, &lt;em>Roman Tomb Gardens&lt;/em>, Cambridge University Press, 2018, pp. 225, 237. &lt;a href="https://www.cambridge.org/core/books/gardens-of-the-roman-empire/roman-tomb-gardens/6BDAE36C21FFFADD3EB4E9CBD4BB8986">link&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>G.-L. Gregori, &lt;em>Horti sepulchrales e cepotaphia nelle iscrizioni urbane,&lt;/em> Bullettino della Commissione Archeologica Comunale di Roma &lt;a href="http://www.worldcat.org/oclc/886794800">worldcat&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/283772837">283772837&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>John Bodel&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

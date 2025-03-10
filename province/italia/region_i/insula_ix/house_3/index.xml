@@ -1,14 +1,100 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_3/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 09 Aug 2020 17:59:16 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_3/index.xml" rel="self" type="application/rss+xml"/><item><title>House of Successus (I.ix.3)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_3/house_of_successus/</link><pubDate>Sun, 09 Aug 2020 17:59:16 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_3/house_of_successus/</guid><description>Province Italia
-Location Pompeii
-Pompeii (Pleiades)
-Sublocation Region I
-Insula Insula IX
-House House 3
-Garden House of Successus (I.ix.3)
-Keywords archaeological garden atriums (Roman halls) cubicula (domestic spaces) graffiti (casual notations) inscription mural paintings (visual works) porticoes statues statuettes (free-standing sculpture) tables (support furniture) Garden Description A portrait of a little boy painted on the north wall of the cubiculum, to the left of the atrium, with the graffito PVER/SUCCUSSVS (CIL IV. 9992a) gave this house its name. Excavated in 1952, the garden (a) at the rear of the house had a portico, and a table base carved as a statuette of a small boy with a dove (Pompeii inv. no. 20395) was discovered in the north portico. Fig. 3, Fig. 4. The room in the southwest corner of the garden (b) had a garden representation on the large white middle panel on the south wall of the room. It was framed by a narrow reddish-brown border and painted in shades of brown and white on a light blue-green background. Two gardens enclosed by a wooden fence contained an open apse-shaped area in between them with a round pool. A jet in the center jetted water which descended in two separate streams. The gardens on the side were cut off by the frame. A figure across the front of the painting was perhaps a fence defining a passageway.Fig. 5.
-Plans Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement). Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement). Images Fig. 3: 18.15.59, S.A. Jashemski (Rights Statement). Fig. 4: 18.16.59, S.A. Jashemski (Rights Statement). Fig. 5: 18.22.59, S.A. Jashemski (Rights Statement). Dates unspecified
-Excavation Date 1952
-Bibliography Della Corte, Case, p. 339, no. 723a. Jashemski, Gardens, vol. 1, fig. 160 on p. 102 (for the portrait). (worldcat) Jashemski, Gardens, vol.II, pp. 44; 395. (worldcat) Maiuri, Pompeii, p. 82. (worldcat) Schefold, WandP, p. 38. Pleiades ID 433032
-TGN ID 7004658
-Contributor Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_3/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 09 Aug 2020 17:59:16 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_3/index.xml" rel="self" type="application/rss+xml"/><item><title>House of Successus (I.ix.3)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_3/house_of_successus/</link><pubDate>Sun, 09 Aug 2020 17:59:16 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_3/house_of_successus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/">Italia&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Pompeii&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/">Region I&lt;/a>&lt;/p>
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="insula">Insula&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/">Insula IX&lt;/a>&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_3/">House 3&lt;/a>&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>House of Successus (I.ix.3)&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">archaeological garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004097">atriums (Roman halls)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004367">cubicula (domestic spaces)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300015613">graffiti (casual notations)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">inscription&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300033644">mural paintings (visual works)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300047600">statues&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300312262">statuettes (free-standing sculpture)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300039548">tables (support furniture)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>A portrait of a little boy painted on the north wall of the &lt;em>cubiculum&lt;/em>, to the left of the &lt;em>atrium&lt;/em>, with the graffito PVER/SUCCUSSVS (&lt;em>CIL&lt;/em> IV. 9992a) gave this house its name. Excavated in 1952, the garden (a) at the rear of the house had a &lt;em>portico&lt;/em>, and a table base carved as a statuette of a small boy with a dove (Pompeii inv. no. 20395) was discovered in the north portico. Fig. 3, Fig. 4. &lt;span style="color:orange">The room in the southwest corner of the garden (b) had a garden representation on the large white middle panel on the south wall of the room. It was framed by a narrow reddish-brown border and painted in shades of brown and white on a light blue-green background. Two gardens enclosed by a wooden fence contained an open apse-shaped area in between them with a round pool. A jet in the center jetted water which descended in two separate streams. The gardens on the side were cut off by the frame. A figure across the front of the painting was perhaps a fence defining a passageway.&lt;/span> Fig. 5.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+ alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure>&lt;img src="../../images/Region_I_insula_ix.tif"
+ alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44.">&lt;figcaption>
+ &lt;h4>Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="images">Images&lt;/h3>
+&lt;figure>&lt;img src="../images/Fig_51_I.ix.3_18.15.59.jpg"
+ alt="Fig. 3: 18.15.59, S.A. Jashemski.">&lt;figcaption>
+ &lt;h4>Fig. 3: 18.15.59, S.A. Jashemski (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure>&lt;img src="../images/Fig_52_I.ix.3_18.16.59.jpg"
+ alt="Fig. 4: 18.16.59, S.A. Jashemski.">&lt;figcaption>
+ &lt;h4>Fig. 4: 18.16.59, S.A. Jashemski (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure>&lt;img src="../images/Fig_53_I.ix.3_18.22.59.jpg"
+ alt="Fig. 5: 18.22.59, S.A. Jashemski.">&lt;figcaption>
+ &lt;h4>Fig. 5: 18.22.59, S.A. Jashemski (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;p>1952&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Della Corte, &lt;em>Case&lt;/em>, p. 339, no. 723a.&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. 1, fig. 160 on p. 102 (for the portrait). &lt;a href="http://www.worldcat.org/oclc/884024123">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, pp. 44; &lt;span style="color:orange">395&lt;/span>. &lt;a href="http://www.worldcat.org/oclc/921816405">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, &lt;em>Pompeii&lt;/em>, p. 82. &lt;a href="http://www.worldcat.org/oclc/470375462">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Schefold, &lt;em>WandP&lt;/em>, p. 38.&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/433032">433032&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7004658">7004658&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

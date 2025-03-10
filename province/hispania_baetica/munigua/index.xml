@@ -1,10 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/munigua/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 10:00:00 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/munigua/index.xml" rel="self" type="application/rss+xml"/><item><title>Sanctuary</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/munigua/sanctuary/</link><pubDate>Thu, 15 Oct 2020 10:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/munigua/sanctuary/</guid><description>Province Hispania Baetica
-Location Munigua
-Munigua (Pleiades)
-Location Description Garden Sanctuary
-Keywords exedrae (site elements) porticoes Garden Description The sanctuary occupies various terraces and dominates the city below. The plan of the sanctuary follows a Hellenistic model, late-Republican in date. The structure is symmetrical in design with an apsidal space backed by the temple and its dependencies. The sanctuary was constructed in the second half of the first century AD and was dedicated perhaps to the Imperial cult. It was approached by means of two symmetrically placed ramps leading to a rectangular terrace on which animal sacrifices may have taken place. By way of stairs one reached two higher terraces on either side of the temple complex. These terraces were surrounded on two sides by porticoes. They were paved in opus signinum. In the upper terrace there was a central pool, as well as small circular holes in the pavement for plants or trees. From this garden terrace there was access to the exedra and the forecourt of the temple at a still higher level.
-Maps Images Dates unspecified
-Bibliography T. Hauschild, ‘Los templos romanos de Munigua,’ Templos romanos de Hispania vol. I of Cuadernos de Arquitectura Romana, (Murcia, 1992). 133-143 (worldcat) Pleiades ID [256318]/test-drafts/province/hispania_baetica/munigua/)
-256318
-TGN ID 7027137
-Contributor (AUTHOR_ID) Publication date 21 Apr 20210</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/munigua/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 10:00:00 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/munigua/index.xml" rel="self" type="application/rss+xml"/><item><title>Sanctuary</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/munigua/sanctuary/</link><pubDate>Thu, 15 Oct 2020 10:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/munigua/sanctuary/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>Hispania Baetica&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/munigua/">Munigua&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/256318">Munigua (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Sanctuary&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300081589">exedrae (site elements)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>The sanctuary occupies various terraces and dominates the city below. The plan of the sanctuary follows a Hellenistic model, late-Republican in date. The structure is symmetrical in design with an apsidal space backed by the temple and its dependencies. The sanctuary was constructed in the second half of the first century AD and was dedicated perhaps to the Imperial cult. It was approached by means of two symmetrically placed ramps leading to a rectangular terrace on which animal sacrifices may have taken place. By way of stairs one reached two higher terraces on either side of the temple complex. These terraces were surrounded on two sides by porticoes. They were paved in &lt;em>opus signinum&lt;/em>. In the upper terrace there was a central pool, as well as small circular holes in the pavement for plants or trees. From this garden terrace there was access to the exedra and the forecourt of the temple at a still higher level.&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Plans-->
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="images">Images&lt;/h3>
+&lt;figure>&lt;img src="../images/HIS_BAE_Munigua_Sanctuary%20axon_CA.JPG"
+ alt="Fig. 1: Perspective drawing of the Sanctuary at Munigua. Source: Hauschild, p.136. (Rights Statement)">
+&lt;/figure>
+
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>T. Hauschild, ‘Los templos romanos de Munigua,’ &lt;em>Templos romanos de Hispania vol. I of Cuadernos de Arquitectura Romana&lt;/em>, (Murcia, 1992). 133-143 &lt;a href="http://www.worldcat.org/oclc/492641941">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>[256318]/test-drafts/province/hispania_baetica/munigua/) &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/256318">256318&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/77027137">7027137&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="link">(AUTHOR_ID)&lt;/a> &lt;!-- - (ORCID: [xxx](link)) -->&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 20210&lt;/p></description></item></channel></rss>

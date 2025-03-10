@@ -1,12 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/germania_inferior/colonia_ulpia_xanten/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Jul 2020 10:54:29 -0700</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/germania_inferior/colonia_ulpia_xanten/index.xml" rel="self" type="application/rss+xml"/><item><title>The Houses of Insula 7 in Colonia Ulpia Traiana</title><link>https://roman-gardens.github.io/test-drafts/province/germania_inferior/colonia_ulpia_xanten/colonia_xanten_insula7/</link><pubDate>Sun, 12 Jul 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/germania_inferior/colonia_ulpia_xanten/colonia_xanten_insula7/</guid><description>Province Germania inferior
-Location Xanten
-Xanten (Pleiades)
-Sublocation Industrial quarter
-Sublocation Description This insula southeast of the forum is commonly referred to as an industrial quarter (Plan 1). It was divided into several long, narrow plots on which were houses, shops and workshops.
-Garden The houses of Insula 7 in Colonia Ulpia Traiana (Xanten)
-Keywords insulae kitchen gardens courtyards Garden Description Between the buildings were open areas, some paved and equipped with ovens and pottery kilns, wells and latrines, others unpaved. Some of the small courtyards have been reconstructed by the excavators as kitchen gardens and shrine gardens (Image 1). Organic material from a well in this insula included the remains of peas, beans, lentils, apples, pears and herbs. These fruits and vegetables may have grown in kitchen gardens in the insula, but they may, on the other hand, have been brought into the city from nearby farms.
-Maps Plans Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. The black dots are wells. Adapted from Precht and Rüger 1991. Rights statement. Images Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll. Dates Unspecified
-Bibliography H.G. Horn, ed., Die Römer in Nordrhein-Westfalen, Stuttgart, 1987, pp. 634-636, fig. 542 (incorrectly labeled as Insula 26). worldcat G. Precht and C.B. Rüger, Archaologischer Stadtplan. Colonia Ulpia Traiana, Cologne, 1991. worldcat Pleiades ID 108896
-TGN ID 7208125
-Contributor Maureen Carroll (ORCID: 0000-0001-9958-8032)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/germania_inferior/colonia_ulpia_xanten/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 12 Jul 2020 10:54:29 -0700</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/germania_inferior/colonia_ulpia_xanten/index.xml" rel="self" type="application/rss+xml"/><item><title>The Houses of Insula 7 in Colonia Ulpia Traiana</title><link>https://roman-gardens.github.io/test-drafts/province/germania_inferior/colonia_ulpia_xanten/colonia_xanten_insula7/</link><pubDate>Sun, 12 Jul 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/germania_inferior/colonia_ulpia_xanten/colonia_xanten_insula7/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/germania_inferior/">Germania inferior&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/germania_inferior/colonia_ulpia_xanten/">Xanten&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/108896">Xanten (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>Industrial quarter&lt;/p>
+&lt;h3 id="sublocation-description">Sublocation Description&lt;/h3>
+&lt;p>This &lt;em>insula&lt;/em> southeast of the &lt;em>forum&lt;/em> is commonly referred to as an industrial quarter (Plan 1). It was divided into several long, narrow plots on which were houses, shops and workshops.&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>The houses of Insula 7 in Colonia Ulpia Traiana (Xanten)&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300000325">insulae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300008110">kitchen gardens&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004095">courtyards&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>Between the buildings were open areas, some paved and equipped with ovens and pottery kilns, wells and latrines, others unpaved. Some of the small courtyards have been reconstructed by the excavators as kitchen gardens and shrine gardens (Image 1). Organic material from a well in this &lt;em>insula&lt;/em> included the remains of peas, beans, lentils, apples, pears and herbs. These fruits and vegetables may have grown in kitchen gardens in the &lt;em>insula&lt;/em>, but they may, on the other hand, have been brought into the city from nearby farms.&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/xanten_insula7_plan1_EUR_GI_ColUlpTra_Hi7_carroll.jpg"
+ alt="Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. Right statement.">&lt;figcaption>
+ &lt;h4>Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. The black dots are wells. Adapted from Precht and Rüger 1991. Rights statement.&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="images">Images&lt;/h3>
+&lt;figure>&lt;img src="../images/xanten_insula7_image1_GER_INF_ColUlpTra_Fig%202.jpg"
+ alt="Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll.">&lt;figcaption>
+ &lt;h4>Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll.&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>Unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>H.G. Horn, ed., &lt;em>Die Römer in Nordrhein-Westfalen&lt;/em>, Stuttgart, 1987, pp. 634-636, fig. 542 (incorrectly labeled as Insula 26). &lt;a href="http://www.worldcat.org/oclc/462024461">worldcat&lt;/a>&lt;/li>
+&lt;li>G. Precht and C.B. Rüger, &lt;em>Archaologischer Stadtplan. Colonia Ulpia Traiana&lt;/em>, Cologne, 1991. &lt;a href="http://www.worldcat.org/oclc/28844426">worldcat&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/108896">108896&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7208125">7208125&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="link">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

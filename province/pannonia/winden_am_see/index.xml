@@ -1,11 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/pannonia/winden_am_see/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 22 Jul 2020 10:17:25 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/pannonia/winden_am_see/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Winden Am See</title><link>https://roman-gardens.github.io/test-drafts/province/pannonia/winden_am_see/winden_am_see_rural_villa/</link><pubDate>Wed, 22 Jul 2020 10:17:25 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/pannonia/winden_am_see/winden_am_see_rural_villa/</guid><description>Province Pannonia
-Location Winden Am See
-Winden Am See (Pleiades)
-Garden Rural Villa in Winden Am See
-Keywords archaeological garden corridors rural villas vestibules villae rusticae Garden Description The modest house of this villa rustica is of the so-called corridor type, a type common in the region and already seen at Carnuntum (Fig. 1). It was built around 100 A.D. and occupied until the 4th century.
-On the southeast of the house was a vestibule, from which a central corridor departed at a 90 degree angle. This corridor divided the house into two parts of equal width. Two walls at right angles to the house at the northeast enclosed an area in which the excavators found &amp;ldquo;fine garden soil.&amp;rdquo; This observation allows the reconstruction of a garden, probably a kitchen garden, next to the house (G in Fig. 1).
-Plans Fig. 1: Plan of the farmhouse with a garden plot (G) enclosed by walls. Adapted from Thomas 1964, fig. 107.(Rights statement.) Dates 100 AD - 4th century
-Bibliography E.B. Thomas, Römische Villen in Pannonien, Budapest, 1964, pp. 201-210, figs. 107-10. (worldcat) A. Mócsy, Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire, London, 1974, p. 173, fig. 32. (worldcat) Pleiades ID 197425
-TGN ID 4008442
-Contributor Maureen Carroll (ORCID: 0000-0001-9958-8032)
-Publication date 21 Apr 20210</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/pannonia/winden_am_see/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 22 Jul 2020 10:17:25 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/pannonia/winden_am_see/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Winden Am See</title><link>https://roman-gardens.github.io/test-drafts/province/pannonia/winden_am_see/winden_am_see_rural_villa/</link><pubDate>Wed, 22 Jul 2020 10:17:25 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/pannonia/winden_am_see/winden_am_see_rural_villa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/pannonia/">Pannonia&lt;/a>&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/pannonia/winden_am_see/">Winden Am See&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/197425">Winden Am See (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Rural Villa in Winden Am See&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">archaeological garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004294">corridors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">rural villas&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300083076">vestibules&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005518">villae rusticae&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>The modest house of this &lt;em>villa rustica&lt;/em> is of the so-called corridor type, a type common in the region and already seen at Carnuntum (Fig. 1). It was built around 100 A.D. and occupied until the 4th century.&lt;/p>
+&lt;p>On the southeast of the house was a vestibule, from which a central corridor departed at a 90 degree angle. This corridor divided the house into two parts of equal width. Two walls at right angles to the house at the northeast enclosed an area in which the excavators found &amp;quot;fine garden soil.&amp;quot; This observation allows the reconstruction of a garden, probably a kitchen garden, next to the house (G in Fig. 1).&lt;/p>
+&lt;!--### Maps-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/PAN_WID_Villa_M_Carroll.tif"
+ alt="Fig. 1: Plan of the farmhouse with a garden plot (G) enclosed by walls. Adapted from Thomas 1964, fig. 107.">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of the farmhouse with a garden plot (G) enclosed by walls. Adapted from Thomas 1964, fig. 107.(Rights statement.)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;!--### Images-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>100 AD - 4th century&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>E.B. Thomas, &lt;em>Römische Villen in Pannonien&lt;/em>, Budapest, 1964, pp. 201-210, figs. 107-10. &lt;a href="http://www.worldcat.org/oclc/785736879">(worldcat)&lt;/a>&lt;/li>
+&lt;li>A. Mócsy, &lt;em>Pannonia and Upper Moesia. A History of the Middle Danube Provinces of the Roman Empire&lt;/em>, London, 1974, p. 173, fig. 32. &lt;a href="http://www.worldcat.org/oclc/644823914">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/197425">197425&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/4008442">4008442&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 20210&lt;/p></description></item></channel></rss>

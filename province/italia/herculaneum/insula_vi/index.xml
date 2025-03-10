@@ -1,15 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_vi/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:10:10 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_vi/index.xml" rel="self" type="application/rss+xml"/><item><title>Forum Baths</title><link>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_vi/forum_baths/</link><pubDate>Tue, 29 Sep 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_vi/forum_baths/</guid><description>Province Italia
-Italia (Pleiades)
-Location Herculaneum
-Herculaneum (Pleiades)
-Location Description An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
-Insula VI
-House 1/7/8/10
-Garden Forum Baths
-Keywords palaestrae porticoes Garden Description 555.VI.1/7/8/10. During 1873-1875 the courtyard (a) of the palaestra was excavated. A section of the northeast portico was not excavated until 1930. The courtyard measured 15.75 x 25.25 m. and was bounded by the portico on the west, north and east sides. Engaged columns stood along the south. This area was likely planted after the palestra was built. Although the original excavators labeled this as a garden, no detailed observations were recorded to confirm this supposition.
-Plans Plan of Casa A Graticcio Pleiades ID 432873
-TGN ID 7031897
-Dates unspecified
-Excavation Date 1873-1875, 1930
-Bibliography Jashemski, Gardens, 1:165 Maiuri,Herculaneum, p. 40 Maiuri, Ercolano, pp. 91, 100-102 and fig. 68 (plan) on p. 92 Ruggiero, Ercolano, p. 654 and pl. 12, where the garden is no. 55 on the plan. Contributor Wilhelmina Jashemski worldcat
-Publication date</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_vi/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 29 Sep 2020 12:00:02 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_vi/index.xml" rel="self" type="application/rss+xml"/><item><title>Forum Baths</title><link>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_vi/forum_baths/</link><pubDate>Tue, 29 Sep 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_vi/forum_baths/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/">Herculaneum&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/432873">Herculaneum (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;p>An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.&lt;/p>
+&lt;h2 id="insula">Insula&lt;/h2>
+&lt;p>VI&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>1/7/8/10&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Forum Baths&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300007301">palaestrae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>555.VI.1/7/8/10.
+During 1873-1875 the courtyard (a) of the &lt;em>palaestra&lt;/em> was excavated. A section of the northeast &lt;em>portico&lt;/em> was not excavated until 1930. The courtyard measured 15.75 x 25.25 m. and was bounded by the &lt;em>portico&lt;/em> on the west, north and east sides. Engaged columns stood along the south. This area was likely planted after the &lt;em>palestra&lt;/em> was built. Although the original excavators labeled this as a garden, no detailed observations were recorded to confirm this supposition.&lt;/p>
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/H_3_3-17.jpg"
+ alt="Plan of Casa A Graticcio">&lt;figcaption>
+ &lt;h4>Plan of Casa A Graticcio&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7031897">7031897&lt;/a>&lt;/p>
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;p>1873-1875, 1930&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Jashemski, Gardens, 1:165&lt;/li>
+&lt;li>Maiuri,Herculaneum, p. 40&lt;/li>
+&lt;li>Maiuri, Ercolano, pp. 91, 100-102 and fig. 68 (plan) on p. 92&lt;/li>
+&lt;li>Ruggiero, Ercolano, p. 654 and pl. 12, where the garden is no. 55 on the plan.&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski &lt;a href="http://worldcat.org/identities/lccn-n80037970/">worldcat&lt;/a>&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

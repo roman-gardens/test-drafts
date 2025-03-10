@@ -1,11 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/camulodunum/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 16:47:36 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/britannia/camulodunum/index.xml" rel="self" type="application/rss+xml"/><item><title>Suburban Gardens in Camulodunum</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/camulodunum/camulodunum_suburban_gardens/</link><pubDate>Mon, 06 Jul 2020 16:47:36 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/britannia/camulodunum/camulodunum_suburban_gardens/</guid><description>Province Britannia
-Province Description Location Camulodunum
-Camulodunum (Pleiades)
-Location Description Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43. On the site of the fort, a veteran colony was planted in about AD 49 and given the name Colonia Victricensis, City of Victory. It became the first provincial capital, later superseded by Londinium (London). Outside its walls was a V-shaped defensive ditch.
-Garden Suburban Gardens in Camulodunum
-Keywords archaeological gardens ditches villae suburbanae Garden Description Outside the walls of the city, utilitarian gardens were planted, possibly in the 3rd century, in allotments along the road leading to the Balkerne Gate. Upon the widening of the defensive ditch at the foot of the walls around AD 275, a thick dump of soil was deposited on these garden allotments, preserving a short stretch of mounded cultivation beds laid out in rows. The excavators have suggested that the beds might have been formed for growing vines or plants such as asparagus. It is uncertain whether the gardens were attached to suburban dwellings at this time, but by about 300 practically all suburban houses in this area had been demolished without replacement.
-Dates 3rd century - about 300 CE
-Bibliography P. Crummy, Excavations at Lion Walk, Balkerne Lane and Middleborough, Colchester, Essex. Colchester Archaeological Report 3, Colchester, 1984, fig. 106. (worldcat) P. Crummy, City of Victory, Colchester, 1997, pp. 114-115, figs. on pp. 100, 116-117. (worldcat) Periodo ID Pleiades ID 79393
-TGN ID 7011866
-Contributor Maureen Carroll (ORCID: 0000-0001-9958-8032)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/camulodunum/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 16:47:36 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/britannia/camulodunum/index.xml" rel="self" type="application/rss+xml"/><item><title>Suburban Gardens in Camulodunum</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/camulodunum/camulodunum_suburban_gardens/</link><pubDate>Mon, 06 Jul 2020 16:47:36 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/britannia/camulodunum/camulodunum_suburban_gardens/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/britannia/">Britannia&lt;/a>&lt;/p>
+&lt;h2 id="province-description">Province Description&lt;/h2>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/britannia/camulodunum/">Camulodunum&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/79393">Camulodunum (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;p>Camulodunum began as an Iron Age settlement defended by dykes, a combination of V-shaped ditch and rampart created by the upcast earth. It extended from the Roman river on the south to the Colne on the north, a distance of some four kilometers. Within this larger area, a legionary fort was built after the Claudian conquest of Britain in AD 43. On the site of the fort, a veteran colony was planted in about AD 49 and given the name &lt;a href="dead_link">Colonia Victricensis&lt;/a>, City of Victory. It became the first provincial capital, later superseded by Londinium (London). Outside its walls was a V-shaped defensive ditch.&lt;/p>
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Suburban Gardens in Camulodunum&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">archaeological gardens&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300006178">ditches&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005519">villae suburbanae&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>Outside the walls of the city, utilitarian gardens were planted, possibly in the 3rd century, in allotments along the road leading to the Balkerne Gate. Upon the widening of the defensive ditch at the foot of the walls around AD 275, a thick dump of soil was deposited on these garden allotments, preserving a short stretch of mounded cultivation beds laid out in rows. The excavators have suggested that the beds might have been formed for growing vines or plants such as asparagus. It is uncertain whether the gardens were attached to suburban dwellings at this time, but by about 300 practically all suburban houses in this area had been demolished without replacement.&lt;/p>
+&lt;!-- ### Maps
+
+### Plans
+
+### Images
+
+ig. 1: Area outside the Balkerne gate before widening of the town ditch. Details of the beds in the middle of the section of are gardens in the foreground are based on excavation. From Crummy, City of Victory, p. 42. (Rights statement)
+
+-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>3rd century - about 300 CE&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>P. Crummy, &lt;em>Excavations at Lion Walk, Balkerne Lane and Middleborough, Colchester, Essex&lt;/em>. Colchester Archaeological Report 3, Colchester, 1984, fig. 106. &lt;a href="http://www.worldcat.org/oclc/12511745">(worldcat)&lt;/a>&lt;/li>
+&lt;li>P. Crummy, &lt;em>City of Victory&lt;/em>, Colchester, 1997, pp. 114-115, figs. on pp. 100, 116-117. &lt;a href="http://www.worldcat.org/oclc/1152612897">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="periodo-id">Periodo ID&lt;/h4>
+&lt;!--[PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID)-->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/79393">79393&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7011866">7011866&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

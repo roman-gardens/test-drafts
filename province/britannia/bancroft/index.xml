@@ -1,12 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/bancroft/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 18:04:20 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/britannia/bancroft/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Bancroft</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/bancroft/bancroft_rural_villa/</link><pubDate>Tue, 07 Jul 2020 18:04:20 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/britannia/bancroft/bancroft_rural_villa/</guid><description>Province Britannia
-Province Description Location Bancroft
-Garden Rural Villa in Bancroft
-Keywords archaeological gardens balnea drains gazebos horticultural containers piscinae villae rusticae Garden Description Excavations between 1983 and 1986 at this site in Buckinghamshire revealed a Roman villa of the winged corridor type, which was built in the late 3rd century and rebuilt and enlarged in the mid-4th century (Fig.1).
-From the two projecting wings of the house at the northeast and southeast two walls ran eastward, forming an enclosed courtyard 35.5 meters in width and ca. 42 meters in length in front of the 4th century house. In the centre of the yard was a stone-built rectangular fishpond (P in Fig. 1), 2.6 x 13 meters in size and 50-80 centimeters deep which was continually fed by a drain running from an overflow in the cold plunge bath at the south end of the house. An overflow at the east end of the pool may have led to a nearby stream. Although traces of plantings or planting beds were not preserved in the gravelly subsoil, a shallow rectangular depression just west of the fishpool, filled with dark humic soil, may represent a flowerbed through which the water pipe feeding the pool ran. The courtyard therefore was at least partially planted as a garden (G in Fig. 1). Adjacent to the courtyard enclosure at the south was an octagonal structure with stone walls, interpreted as a possible gazebo (A in Fig. 1).
-The villa complex that preceded the winged corridor house is also of interest in regard to gardens. The earlier aisled house of late 1st to late 2nd century date was part of a series of buildings and enclosures that included a walled area to the northeast measuring 27 x 18.3 meters in size. Inside this enclosure was a deposit of dark humic soil between 4 and 6 centimeters deep. Environmental analysis of soil samples from the enclosure suggests that the area was used as a kitchen garden with plants such as brassicas, celery, mustard, coriander, summer savory and caper spurge. Three ceramic vessels with at least one hole pierced through the side or the base, possibly planting pots, may have been associated with this phase of the villa garden.
-Plans Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4. Dates late 3rd century CE, rebuilt and enlarged in the mid-4th century
-Excavation Dates 1983-1986
-Bibliography R. J. Williams and R. J. Zeepvat, Bancroft. The late Bronze Age and Iron Age Settlement and Roman Villa and Temple-Mausoleum. Buckinghamshire Archaeological Society Monograph Series 7, Aylesbury, 1994, pp. 154, 163, 188-191, figs. 66, 80, 83, 85, 93, 101-103, pls. 57-59. (worldcat) R.J. Zeepvat, “Roman Gardens in Britain,” in: A. E. Brown, ed., Garden Archaeology. Council for British Archaeology Research Report 78, London, 1991, pp. 56-58, fig. 5.4. (worldcat) Pleiades ID 79312
-TGN ID 7030316
-Contributor Maureen Carroll (ORCID: 0000-0001-9958-8032)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/bancroft/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 18:04:20 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/britannia/bancroft/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Bancroft</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/bancroft/bancroft_rural_villa/</link><pubDate>Tue, 07 Jul 2020 18:04:20 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/britannia/bancroft/bancroft_rural_villa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/britannia/">Britannia&lt;/a>&lt;/p>
+&lt;h2 id="province-description">Province Description&lt;/h2>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/britannia/bancroft/">Bancroft&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Rural Villa in Bancroft&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">archaeological gardens&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300120377">balnea&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052564">drains&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300006798">gazebos&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300198749">horticultural containers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300375619">piscinae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005518">villae rusticae&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>Excavations between 1983 and 1986 at this site in Buckinghamshire revealed a Roman villa of the winged corridor type, which was built in the late 3rd century and rebuilt and enlarged in the mid-4th century (Fig.1).&lt;/p>
+&lt;p>From the two projecting wings of the house at the northeast and southeast two walls ran eastward, forming an enclosed courtyard 35.5 meters in width and ca. 42 meters in length in front of the 4th century house. In the centre of the yard was a stone-built rectangular fishpond (P in Fig. 1), 2.6 x 13 meters in size and 50-80 centimeters deep which was continually fed by a drain running from an overflow in the cold plunge bath at the south end of the house. An overflow at the east end of the pool may have led to a nearby stream. Although traces of plantings or planting beds were not preserved in the gravelly subsoil, a shallow rectangular depression just west of the fishpool, filled with dark humic soil, may represent a flowerbed through which the water pipe feeding the pool ran. The courtyard therefore was at least partially planted as a garden (G in Fig. 1). Adjacent to the courtyard enclosure at the south was an octagonal structure with stone walls, interpreted as a possible gazebo (A in Fig. 1).&lt;/p>
+&lt;p>The villa complex that preceded the winged corridor house is also of interest in regard to gardens. The earlier aisled house of late 1st to late 2nd century date was part of a series of buildings and enclosures that included a walled area to the northeast measuring 27 x 18.3 meters in size. Inside this enclosure was a deposit of dark humic soil between 4 and 6 centimeters deep. Environmental analysis of soil samples from the enclosure suggests that the area was used as a kitchen garden with plants such as brassicas, celery, mustard, coriander, summer savory and caper spurge. Three ceramic vessels with at least one hole pierced through the side or the base, possibly planting pots, may have been associated with this phase of the villa garden.&lt;/p>
+&lt;!--### Maps-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/Bancroft_fig_1.jpg"
+ alt="Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of the villa with its garden courtyard (G), a central pool (P), and a possible gazebo (A). Adapted from Zeepvat 1991, fig. 5.4.&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;!--### Images-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>late 3rd century CE, rebuilt and enlarged in the mid-4th century&lt;/p>
+&lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
+&lt;p>1983-1986&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>R. J. Williams and R. J. Zeepvat, Bancroft. &lt;em>The late Bronze Age and Iron Age Settlement and Roman Villa and Temple-Mausoleum&lt;/em>. Buckinghamshire Archaeological Society Monograph Series 7, Aylesbury, 1994, pp. 154, 163, 188-191, figs. 66, 80, 83, 85, 93, 101-103, pls. 57-59. &lt;a href="http://www.worldcat.org/oclc/669708984">(worldcat)&lt;/a>&lt;/li>
+&lt;li>R.J. Zeepvat, “Roman Gardens in Britain,” in: A. E. Brown, ed., &lt;em>Garden Archaeology&lt;/em>. Council for British Archaeology Research Report 78, London, 1991, pp. 56-58, fig. 5.4. &lt;a href="http://www.worldcat.org/oclc/911653165">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/79312">79312&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7030316">7030316&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

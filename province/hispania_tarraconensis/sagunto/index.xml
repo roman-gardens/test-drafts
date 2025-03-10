@@ -1,7 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/sagunto/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/sagunto/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb garden and baths of P. Caecil(ius) Rufus and Valeria</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/sagunto/tomb_garden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/sagunto/tomb_garden/</guid><description>Province Sagunto Sagunto (Pleiades)
-Location Saguntum
-Saguntum/Arse (Pleiades)
-Garden Tomb garden and baths of P. Caecil(ius) Rufus and Valeria
-Keywords tombs Garden Description A marble slab found at Puçol (Puzol) near Saguntum, now lost, but originally preserving an epitaph of the late first or early second century set up by P. Caecil(ius) Rufus for himself and his wife Valeria, records that they purchased an area (locus) vaulted over with walls, baths (a notable amenity at a tomb), and gardens and constructed a monument there for themselves and their daughters, to the end that their ashes be mingled with those of their ancestors (se vivis compararunt locum uti est concameratum parietib(us), balneis, hortis; monumentum construxerunt sibi et filiabus donec avitis cineribus immisceantur). For the identification of the couple and the approximate date, see Alföldy in CIL.
-Maps Plans Images Bibliography H. von Hesberg, “Römische Grabbauten in den hispanischen Provinzen” in W. Trimllmich et al., eds., Hispania Antiqua. Denkmäler der Römerzeit (Mainz 1993) XXX; EDH HD026300. (worldcat) Pleiades ID 266021
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/sagunto/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/sagunto/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb garden and baths of P. Caecil(ius) Rufus and Valeria</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/sagunto/tomb_garden/</link><pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/sagunto/tomb_garden/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/">Sagunto&lt;/a>
+&lt;a href="https://pleiades.stoa.org/places/266020">Sagunto (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Province Description-->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/sagunto/">Saguntum&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/266021">Saguntum/Arse (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Tomb garden and baths of P. Caecil(ius) Rufus and Valeria&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005926">tombs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>A marble slab found at Puçol (Puzol) near Saguntum, now lost, but originally preserving an epitaph of the late first or early second century set up by P. Caecil(ius) Rufus for himself and his wife Valeria, records that they purchased an area (locus) vaulted over with walls, baths (a notable amenity at a tomb), and gardens and constructed a monument there for themselves and their daughters, to the end that their ashes be mingled with those of their ancestors (se vivis compararunt locum uti est concameratum parietib(us), balneis, hortis; monumentum construxerunt sibi et filiabus donec avitis cineribus immisceantur). For the identification of the couple and the approximate date, see Alföldy in CIL.&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="images">Images&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Dates-->
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>H. von Hesberg, “Römische Grabbauten in den hispanischen Provinzen” in W. Trimllmich et al., eds., Hispania Antiqua. Denkmäler der Römerzeit (Mainz 1993) XXX; EDH HD026300. &lt;a href="http://www.worldcat.org/oclc/7377084156">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/266021">266021&lt;/a>&lt;/p>
+&lt;!--#### TGN ID
+[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
+&lt;!--### Contributor-->
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

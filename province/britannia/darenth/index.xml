@@ -1,12 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/darenth/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 12:08:30 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/britannia/darenth/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Darenth</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/darenth/darenth_rural_villa/</link><pubDate>Wed, 08 Jul 2020 12:08:30 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/britannia/darenth/darenth_rural_villa/</guid><description>Province Britannia
-Province Description Location Darenth
-Darenth (Pleiades)
-Garden Rural Villa in Darenth
-Keywords archaeological gardens kitchen gardens piscinae villae rusticae waterspouts Garden Description Excavations at this site of a Roman villa in Kent uncovered a large rectangular masonry pool in the courtyard, which was enclosed by buildings on the north, west, and east (Fig. 1). The villa buildings took up an area of 150 x 225 meters in total, including the courtyard with a width of 26.5 meters. Occupation at the site began after A.D. 100 and continued until the closing decades of the 4th century.
-This pool (P in Fig. 1), measuring 25.6 x 3.36 meters, lay at right angles to the center of the main residence and bisected an enclosed courtyard, possibly a garden (G in Fig. 1) in front of the house. The pool would have been a decorative element in the courtyard. Within the pool at the end nearest the house was found a small bronze water-spout in the form of the head of a lioness. At the other end was a semi-circular pool with provision for the inflow and outflow of water.
-South of the western range of rooms was a large, open space measuring 14.6 x 58.4 meters, enclosed by walls. There was no paving in this area, nor was there any evidence for partitions. It has been suggested that this might have been a kitchen garden (G in Fig. 1).
-Plans Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20. Dates ca. 100 CE - late 4th century CE
-Bibliography A. Detsicas, The Cantiaci, Gloucester, 1983, pp. 103-107, fig. 20. (worldcat) B. Philp, Excavations in the Darent Valley, Kent, Gloucester, 1984, pp. 89-92, figs. 24, 33. (worldcat) Pleiades ID 79413
-TGN ID 7027349
-Contributor Maureen Carroll (ORCID: 0000-0001-9958-8032)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/darenth/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 12:08:30 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/britannia/darenth/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Darenth</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/darenth/darenth_rural_villa/</link><pubDate>Wed, 08 Jul 2020 12:08:30 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/britannia/darenth/darenth_rural_villa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/britannia/">Britannia&lt;/a>&lt;/p>
+&lt;h2 id="province-description">Province Description&lt;/h2>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/britannia/darenth/">Darenth&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/79413">Darenth (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Rural Villa in Darenth&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">archaeological gardens&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300008110">kitchen gardens&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300375619">piscinae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005518">villae rusticae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300248603">waterspouts&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>Excavations at this site of a Roman villa in Kent uncovered a large rectangular masonry pool in the courtyard, which was enclosed by buildings on the north, west, and east (Fig. 1). The villa buildings took up an area of 150 x 225 meters in total, including the courtyard with a width of 26.5 meters. Occupation at the site began after A.D. 100 and continued until the closing decades of the 4th century.&lt;/p>
+&lt;p>This pool (P in Fig. 1), measuring 25.6 x 3.36 meters, lay at right angles to the center of the main residence and bisected an enclosed courtyard, possibly a garden (G in Fig. 1) in front of the house. The pool would have been a decorative element in the courtyard. Within the pool at the end nearest the house was found a small bronze water-spout in the form of the head of a lioness. At the other end was a semi-circular pool with provision for the inflow and outflow of water.&lt;/p>
+&lt;p>South of the western range of rooms was a large, open space measuring 14.6 x 58.4 meters, enclosed by walls. There was no paving in this area, nor was there any evidence for partitions. It has been suggested that this might have been a kitchen garden (G in Fig. 1).&lt;/p>
+&lt;!-- The Gs referenced in the article are not clear as there are three Gs in the figure-->
+&lt;!--### Maps-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/darenth.png"
+ alt="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20.&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;!--### Images-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>ca. 100 CE - late 4th century CE&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>A. Detsicas, &lt;em>The Cantiaci&lt;/em>, Gloucester, 1983, pp. 103-107, fig. 20. &lt;a href="http://www.worldcat.org/oclc/247009310">(worldcat)&lt;/a>&lt;/li>
+&lt;li>B. Philp, &lt;em>Excavations in the Darent Valley&lt;/em>, Kent, Gloucester, 1984, pp. 89-92, figs. 24, 33. &lt;a href="http://www.worldcat.org/oclc/896055765">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/79413">79413&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7027349">7027349&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

@@ -1,16 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/gigthis/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 07:38:05 -0700</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/gigthis/index.xml" rel="self" type="application/rss+xml"/><item><title>Suburban Villa</title><link>https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/gigthis/suburban_villa/</link><pubDate>Thu, 01 Oct 2020 07:38:05 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/gigthis/suburban_villa/</guid><description>Province Africa Proconsularis
-Africa proconsularis (Pleiades)
-Province Description The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A praetor governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
-Location Gigthis (Bou Ghara)
-Gigthis (Pleiades)
-Location Description The important site Gigthis (50ha) largely excavated in the beginning of the last century by Constans was located on the opposite side of the Jerba Island, on the Gulf of Bou Grara. The remains of Gigthis stretches out along the foothills going down the coast in a fertile region known for its olive groves.
-Garden Suburban Villa
-Keywords villa garden inscription courtyards Garden Description On the other side of the fortified enceinte, one hundred and fifty kilometers south was a large building that belonged to an architect according to an inscription found near the peristyle.
-This huge suburban villa incompletely excavated, was laid out around two peristyles (Plan view, Fig. 1).
-A large peristyle of twenty columns onto which rooms opened may have had a garden.
-On the south of the peristyle was another courtyard with a portico of three columns on the east and west sides. The courtyard may have been planted.
-Plans Fig. 1: Plan of then city and its suburbs (Constans, L.-A., 1916, pl. I) Images Dates unknown
-Bibliography Constans, L.-A., &amp;ldquo;Gigthis. Étude d&amp;rsquo;Histoire et d&amp;rsquo;Archéologie sur un Emporium de la Petite Syrte: avec 14 planches hors texte et 3 figures dans le texte&amp;rdquo;, in Extrait des Nouvelles Archives des Missions Scientifiques. 14° fasc, pl.I, pp.100-103, Paris: Imprimerie Nationale, 1916.(worldcat) https://gallica.bnf.fr/ark:/12148/bpt6k74033b/f119.item.r=constans Pleiades ID 344380
-TGN ID 5003665
-Contributor Amina-Aïcha Malek (ORCID: 0000-0002-1628-615X)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/gigthis/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 07:38:05 -0700</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/gigthis/index.xml" rel="self" type="application/rss+xml"/><item><title>Suburban Villa</title><link>https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/gigthis/suburban_villa/</link><pubDate>Thu, 01 Oct 2020 07:38:05 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/gigthis/suburban_villa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/">Africa Proconsularis&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/991341">Africa proconsularis (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="province-description">Province Description&lt;/h3>
+&lt;p>The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire. The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia. A &lt;em>praetor&lt;/em> governed the area from his headquarters at Utica. The Romans inherited a thriving agriculture developed by the Carthaginians. The climate was hospitable. Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/gigthis/">Gigthis (Bou Ghara)&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/344380">Gigthis (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;p>The important site Gigthis (50ha) largely excavated in the beginning of the last century by Constans was located on the opposite side of the Jerba Island, on the Gulf of Bou Grara. The remains of Gigthis stretches out along the foothills going down the coast in a fertile region known for its olive groves.&lt;/p>
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Suburban Villa&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">villa garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">inscription&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004095">courtyards&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!-- [urban villas](#) -->
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>On the other side of the fortified enceinte, one hundred and fifty kilometers south was a large building that belonged to an architect according to an inscription found near the peristyle.&lt;/p>
+&lt;p>This huge suburban villa incompletely excavated, was laid out around two peristyles (Plan view, Fig. 1).&lt;/p>
+&lt;p>A large peristyle of twenty columns onto which rooms opened may have had a garden.&lt;/p>
+&lt;p>On the south of the peristyle was another courtyard with a portico of three columns on the east and west sides. The courtyard may have been planted.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/suburban_villa.jpg"
+ alt="Plan of then city and its suburbs; rights statement">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of then city and its suburbs (Constans, L.-A., 1916, pl. I)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;!--&lt;figure>&lt;img src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg"
+ alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement">&lt;figcaption>
+ &lt;h4>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+-->
+&lt;h3 id="images">Images&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unknown&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Constans, L.-A., &amp;quot;Gigthis. Étude d'Histoire et d'Archéologie sur un Emporium de la Petite Syrte: avec 14 planches hors texte et 3 figures dans le texte&amp;quot;, in &lt;em>Extrait des Nouvelles Archives des Missions Scientifiques. 14° fasc&lt;/em>, pl.I, pp.100-103, Paris: Imprimerie Nationale, 1916.&lt;a href="http://www.worldcat.org/oclc/8271308381">(worldcat)&lt;/a> &lt;a href="https://gallica.bnf.fr/ark:/12148/bpt6k74033b/f119.item.r=constans">https://gallica.bnf.fr/ark:/12148/bpt6k74033b/f119.item.r=constans&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/344380">344380&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/5003665">5003665&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="link">Amina-Aïcha Malek&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0002-1628-615X">0000-0002-1628-615X&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>

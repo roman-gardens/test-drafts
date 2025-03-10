@@ -1,10 +1,77 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/andematunnum/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 10:33:04 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/germania_superior/andematunnum/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden of Anonymous Gaul in Andematunnum</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/andematunnum/andematunnum_tomb_garden_of_anonymous_gaul/</link><pubDate>Mon, 13 Jul 2020 10:33:04 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/germania_superior/andematunnum/andematunnum_tomb_garden_of_anonymous_gaul/</guid><description>Province Germania Superior
-Location Andematunnum
-Andematunnum (Pleiades)
-Garden Tomb Garden of Anonymous Gaul in Andematunnum
-Keywords former reservoirs inscription literary garden mausoleums orchards tombs Garden Description A famous inscription from the territory of the Lingonian Gauls (Langres) known only from a manuscript of the tenth century records the will of a local hunting enthusiast who built for himself a lavish mausoleum (cella memoriae) and equipped it with orchards (pomaria) and a reservoir (lacus) put in the care of two freedmen who are instructed to devote the revenues from them to upkeep of the tomb complex, and three landscape gardeners (topiarii) and their apprentices, each to be supported annually by the testator’s grandson, Sex. Iulius Aquila, and his heirs. The will goes on to provide for annual banquets at the tomb site, to be funded by Aquila and his heirs (not explicitly from proceeds of the orchards), and to ensure that any deviations from the testator’s prescriptions be undertaken only in order that the complex be better adorned, better planted, and better perfected (nisi..ut melius colantur et conserantur perficianturque).
-Maps Images Dates unspecified
-Bibliography CIL 13.5708. EDCS-19800561 ILS 8379. FIRA III 49. J.-J. Hatt, La tombe gallo-romaine (Paris 1951) 65-84. (worldcat) Pleiades ID 177441
-TGN ID 6002235
-Contributor John Bodel (ORCID: 0000-0003-1820-6368)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/andematunnum/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 10:33:04 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/germania_superior/andematunnum/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden of Anonymous Gaul in Andematunnum</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/andematunnum/andematunnum_tomb_garden_of_anonymous_gaul/</link><pubDate>Mon, 13 Jul 2020 10:33:04 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/germania_superior/andematunnum/andematunnum_tomb_garden_of_anonymous_gaul/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/germania_superior/">Germania Superior&lt;/a>&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/germania_superior/andematunnum/">Andematunnum&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/177441">Andematunnum (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Tomb Garden of Anonymous Gaul in Andematunnum&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300386966">former reservoirs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">inscription&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">literary garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005891">mausoleums&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300008890">orchards&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005926">tombs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>A famous inscription from the territory of the Lingonian Gauls (Langres) known only from a manuscript of the tenth century records the will of a local hunting enthusiast who built for himself a lavish mausoleum (&lt;em>cella memoriae&lt;/em>) and equipped it with orchards (&lt;em>pomaria&lt;/em>) and a reservoir (&lt;em>lacus&lt;/em>) put in the care of two freedmen who are instructed to devote the revenues from them to upkeep of the tomb complex, and three landscape gardeners (&lt;em>topiarii&lt;/em>) and their apprentices, each to be supported annually by the testator’s grandson, Sex. Iulius Aquila, and his heirs. The will goes on to provide for annual banquets at the tomb site, to be funded by Aquila and his heirs (not explicitly from proceeds of the orchards), and to ensure that any deviations from the testator’s prescriptions be undertaken only in order that the complex be better adorned, better planted, and better perfected (&lt;em>nisi..ut melius colantur et conserantur perficianturque&lt;/em>).&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Plans-->
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="images">Images&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>&lt;em>CIL&lt;/em> 13.5708. &lt;a href="http://db.edcs.eu/epigr/epi_ergebnis.php">EDCS-19800561&lt;/a>&lt;/li>
+&lt;li>&lt;em>ILS&lt;/em> 8379.&lt;/li>
+&lt;li>&lt;em>FIRA&lt;/em> III 49.&lt;/li>
+&lt;li>J.-J. Hatt, &lt;em>La tombe gallo-romaine&lt;/em> (Paris 1951) 65-84. &lt;a href="http://www.worldcat.org/oclc/561069313">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/177441">177441&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/6002235">6002235&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://www.brown.edu/academics/history/people/john-bodel">John Bodel&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0003-1820-6368">0000-0003-1820-6368&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

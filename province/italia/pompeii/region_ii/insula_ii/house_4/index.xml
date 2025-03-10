@@ -1,27 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_ii/house_4/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 29 Nov 2020 10:54:29 -0700</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_ii/house_4/index.xml" rel="self" type="application/rss+xml"/><item><title>II.2.4 House of Messius Ampliatus</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4/</guid><description>Province Italia
-Location Pompeii
-Pompeii (Pleiades)
-Location Description An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
-Sublocation Region II
-Insula Insula II
-House House of Messius Ampliatus(II.ii.4))
-Garden Narrow garden in the house of Messius Ampliatus.
-Keywords courtyards porticoes Garden Description A. The portico which bordered the peristyle garden on the north and east side was accessed from the entrance hall. This site had been extensively damaged prior to excavation.
-B. The east portico gave access to the narrow garden to the back of the house.
-Bibliography Jashemski, W.F. 1979. ‘The Garden of Hercules at Pompeii’ (II.viii.6): The Discovery of a Commercial Flower Garden., American Journal of Archaeology, vol. 83, no. 4, pp. 403–411. [link](https://www.jstor.org/stable/504139. Accessed 2 Dec. 2020.)
-Spinazzola, V. and Aurigemma, S. 1953. Pompei Alla Luce Degli Scavi Nuovi Di Via Dell&amp;rsquo;abbondanza (anni 1910-1923), Roma: Libreria dello Stato, map after p. 376 where this garden is labeled hortus.worldcat
-Pleiades ID 433204
-Contributor Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250)
-Publication date 21 Apr 2021</description></item><item><title>Peristyle garden in house of Messius Ampliatus (II.ii.4)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4a/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4a/</guid><description>Province Italia
-Location Pompeii
-Pompeii (Pleiades)
-Sublocation Region II
-Region II (Pleiades)
-House House of Messius Ampliatus(II.ii.4) (Pleiades)
-Garden Peristyle garden in house of Messius Ampliatus (II.ii.4)
-Keywords insulae courtyards Garden Description Dates Unspecified
-Bibliography Della, Corte M, Case Ed Abitanti Di Pompei, Pompei-scavi: M. Della Corte, 1954. Print. worldcat
-Jashemski, Wilhelmina F, ‘The Garden of Hercules at Pompeii’ (II.viii.6): The Discovery of a Commercial Flower Garden.,American Journal of Archaeology, vol. 83, no. 4, 1979, pp. 403–411. [link](https://www.jstor.org/stable/504139. Accessed 2 Dec. 2020.)
-Pleiades ID 634179974
-Contributor Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_ii/house_4/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 29 Nov 2020 10:54:29 -0700</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_ii/house_4/index.xml" rel="self" type="application/rss+xml"/><item><title>II.2.4 House of Messius Ampliatus</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/">Region II&lt;/a>&lt;/p>
+&lt;h2 id="insula">Insula&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_ii/">Insula II&lt;/a>&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/634179974">House of Messius Ampliatus(II.ii.4))&lt;/a>&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Narrow garden in the house of Messius Ampliatus.&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004095">courtyards&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>A. The &lt;a href="http://vocab.getty.edu/page/aat/300004145">portico&lt;/a> which bordered the &lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyle&lt;/a> garden on the north and east side was accessed from the entrance hall. This site had been extensively damaged prior to excavation.&lt;/p>
+&lt;p>B. The east &lt;a href="http://vocab.getty.edu/page/aat/300004145">portico&lt;/a> gave access to the narrow garden to the back of the house.&lt;/p>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Jashemski, W.F. 1979. &lt;em>‘The Garden of Hercules at Pompeii’ (II.viii.6): The Discovery of a Commercial Flower Garden.&lt;/em>, American Journal of Archaeology, vol. 83, no. 4, pp. 403–411. [link](&lt;a href="https://www.jstor.org/stable/504139">https://www.jstor.org/stable/504139&lt;/a>. Accessed 2 Dec. 2020.)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Spinazzola, V. and Aurigemma, S. 1953. &lt;em>Pompei Alla Luce Degli Scavi Nuovi Di Via Dell'abbondanza (anni 1910-1923),&lt;/em> Roma: Libreria dello Stato, map after p. 376 where this garden is labeled &lt;em>hortus&lt;/em>.&lt;a href="http://www.worldcat.org/oclc/905639908">worldcat&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/433204">433204&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Peristyle garden in house of Messius Ampliatus (II.ii.4)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4a/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_ii/house_4/ii.ii.4a/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/">Region II&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/456321707">Region II (Pleiades)&lt;/a>&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/634179974">House of Messius Ampliatus(II.ii.4) (Pleiades)&lt;/a>&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Peristyle garden in house of Messius Ampliatus (II.ii.4)&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300000325">insulae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004095">courtyards&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>Unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Della, Corte M, &lt;em>Case Ed Abitanti Di Pompei&lt;/em>, Pompei-scavi: M. Della Corte, 1954. Print. &lt;a href="http://www.worldcat.org/oclc/878618392">worldcat&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Jashemski, Wilhelmina F, &lt;em>‘The Garden of Hercules at Pompeii’ (II.viii.6): The Discovery of a Commercial Flower Garden.&lt;/em>,American Journal of Archaeology, vol. 83, no. 4, 1979, pp. 403–411. [link](&lt;a href="https://www.jstor.org/stable/504139">https://www.jstor.org/stable/504139&lt;/a>. Accessed 2 Dec. 2020.)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/634179974">634179974&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

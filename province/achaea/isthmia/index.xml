@@ -1,11 +1,91 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/achaea/isthmia/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 26 Jul 2020 10:54:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/achaea/isthmia/index.xml" rel="self" type="application/rss+xml"/><item><title>Sanctuary of Poseidon</title><link>https://roman-gardens.github.io/test-drafts/province/achaea/isthmia/isthmia_sanctuary_of_poseidon/</link><pubDate>Sun, 26 Jul 2020 10:54:32 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/achaea/isthmia/isthmia_sanctuary_of_poseidon/</guid><description>Province Achaea
-Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands. The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports. After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woollen textiles and marbles.
-Location Isthmia
-Isthmia (Pleiades)
-Garden Sanctuary of Poseidon
-Keywords Literary Pausanias pines (Pinus sp.) sacred groves Strabo Garden Description We know of a grove of trees in the precinct of the temple of Poseidon, thanks to Pausanias’ and Strabo’s descriptions of it in the early 1st and the later 2nd century A.D. (Strab. 8.6.22; Paus. 2.1.7). According to Pausanias, on one side of the precinct stood statues of athletes who had been victorious in the Isthmian games, and opposite them was a row of pine trees. The fact that these trees stood in a row suggests that they were intentionally planted.
-Dates unspecified
-Pleiades ID 107524051
-TGN ID 5004291
-Contributor Maureen Carroll (ORCID: 0000-0001-9958-8032)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/achaea/isthmia/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 26 Jul 2020 10:54:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/achaea/isthmia/index.xml" rel="self" type="application/rss+xml"/><item><title>Sanctuary of Poseidon</title><link>https://roman-gardens.github.io/test-drafts/province/achaea/isthmia/isthmia_sanctuary_of_poseidon/</link><pubDate>Sun, 26 Jul 2020 10:54:32 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/achaea/isthmia/isthmia_sanctuary_of_poseidon/</guid><description>&lt;h3 id="province">Province&lt;/h3>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/achaea/">Achaea&lt;/a>&lt;/p>
+&lt;h3 id="province-description">Province Description&lt;/h3>
+&lt;p>Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
+The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports. After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woollen textiles and marbles.&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/achaea/isthmia/">Isthmia&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/570316">Isthmia (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW
+
+## Sublocation
+
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Sanctuary of Poseidon&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">Literary&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://catalog.perseus.org/catalog/urn:cite:perseus:author.1054">Pausanias&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:328247-2">pines (&lt;em>Pinus&lt;/em> sp.)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300251876">sacred groves&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://catalog.perseus.org/catalog/urn:cite:perseus:author.1333">Strabo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>We know of a grove of trees in the precinct of the temple of Poseidon, thanks to Pausanias’ and Strabo’s descriptions of it in the early 1st and the later 2nd century A.D. (&lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-eng1:8.6.22">Strab. 8.6.22&lt;/a>; &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.1.7">Paus. 2.1.7&lt;/a>). According to Pausanias, on one side of the precinct stood statues of athletes who had been victorious in the Isthmian games, and opposite them was a row of pine trees. The fact that these trees stood in a row suggests that they were intentionally planted.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+
+### Plans
+
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Images-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;!--
+### Bibliography
+
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+-->
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/107524051">107524051&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/5004291">5004291&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="link">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

@@ -1,8 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/castellon/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/castellon/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa de Benicató</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/castellon/villa_de_benicato/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/castellon/villa_de_benicato/</guid><description>Province Castellón Monte Castellone 2 (Pleiades)
-Location Nules
-Pujol de Benicató (Pleiades)
-Garden Villa de Benicató
-Keywords mosaics (visual works) corridors Garden Description The first finds go back to 1883. Part of the site was acquired by the provincial government in 1954 and archaeological work was begun the next year, but the reports remain unpublished.
-The villa from the middle of the 2nd century evolved around a peristyle garden with a large circular pool, 7.6 meters in inside diameter, in the middle. A paved corridor led to the pool from the north gallery of the peristyle. There were baths and two rooms with mosaic floors. Most rooms, however, had floors of hammered earth.
-Maps Plans Fig. 1: Plan of the Villa de Benicto. Adapted from Gorges, Planche XXXIV. Images Bibliography F. Gusi and C. Olaria : La villa romana de Benicató (Nules, Castellón). Cuadernos de Prehistoria y, Arqueología Castellonenses, 4, (1996) pp. 101-144. (worldcat) Pleiades ID 266010
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/castellon/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/castellon/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa de Benicató</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/castellon/villa_de_benicato/</link><pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/castellon/villa_de_benicato/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/">Castellón&lt;/a>
+&lt;a href="https://pleiades.stoa.org/places/432947">Monte Castellone 2 (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Province Description-->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/hispania_tarraconensis/castellon/">Nules&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/266010">Pujol de Benicató (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Villa de Benicató&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300015342">mosaics (visual works)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004294">corridors&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>The first finds go back to 1883. Part of the site was acquired by the provincial government in 1954 and archaeological work was begun the next year, but the reports remain unpublished.&lt;br>
+The villa from the middle of the 2nd century evolved around a peristyle garden with a large circular pool, 7.6 meters in inside diameter, in the middle. A paved corridor led to the pool from the north gallery of the peristyle. There were baths and two rooms with mosaic floors. Most rooms, however, had floors of hammered earth.&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/his_tar_nul_v_benicato_fig1.jpg"
+ alt="Plan of Villa de Benicató at Nules, Castellón Province, Spain">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of the Villa de Benicto. Adapted from Gorges, Planche XXXIV.&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="images">Images&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Dates-->
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>F. Gusi and C. Olaria : La villa romana de Benicató (Nules, Castellón). Cuadernos de Prehistoria y, Arqueología Castellonenses, 4, (1996) pp. 101-144. &lt;a href="http://www.worldcat.org/oclc/802707581">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/266010">266010&lt;/a>&lt;/p>
+&lt;!--#### TGN ID
+[7031751](http://vocab.getty.edu/page/tgn/7031751) -->
+&lt;!--### Contributor-->
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

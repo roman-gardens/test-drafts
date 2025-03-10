@@ -1,12 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/wiesbaden-biebrich/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 10:18:48 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/germania_superior/wiesbaden-biebrich/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Wiesbaden-Biebrich</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/wiesbaden-biebrich/wiesbaden-biebrich_rural_villa/</link><pubDate>Mon, 20 Jul 2020 10:18:48 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/germania_superior/wiesbaden-biebrich/wiesbaden-biebrich_rural_villa/</guid><description>Province Germania Superior
-Location Wiesbaden-Biebrich
-Wiesbaden-Biebrich (Pleiades)
-Location Description Biebrich, now part of Wiesbaden, is directly on the right bank of the Rhein south of the center of Wiesbaden.
-Garden Rural Villa in Wiesbaden-Biebrich
-Keywords archaeological garden \
-kitchen gardens villae rusticae Garden Description Only the residential part of this farm has been excavated. The house with a width of 22 meters had two protruding wings at the south. To the west of the house was an area of irregular proportions enclosed by a wall, and this has been interpreted as a kitchen garden (G in Fig. 1).
-Plans Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471. (Rights Statement) Dates unspecified
-Bibliography D. Baatz and F.-R. Herrmann, eds., Die Römer in Hessen, 2nd ed., Stuttgart, 1989, p. 495, fig. 471. Pleiades ID 109461
-TGN ID 6002235
-Contributor Maureen Carroll (ORCID: 0000-0001-9958-8032)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/wiesbaden-biebrich/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 10:18:48 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/germania_superior/wiesbaden-biebrich/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Wiesbaden-Biebrich</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/wiesbaden-biebrich/wiesbaden-biebrich_rural_villa/</link><pubDate>Mon, 20 Jul 2020 10:18:48 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/germania_superior/wiesbaden-biebrich/wiesbaden-biebrich_rural_villa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/germania_superior/">Germania Superior&lt;/a>&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/germania_superior/wiesbaden-biebrich/">Wiesbaden-Biebrich&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/109461">Wiesbaden-Biebrich (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;p>Biebrich, now part of Wiesbaden, is directly on the right bank of the Rhein south of the center of Wiesbaden.&lt;/p>
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Rural Villa in Wiesbaden-Biebrich&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;p>archaeological garden \&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300008110">kitchen gardens&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005518">villae rusticae&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>Only the residential part of this farm has been excavated. The house with a width of 22 meters had two protruding wings at the south. To the west of the house was an area of irregular proportions enclosed by a wall, and this has been interpreted as a kitchen garden (G in Fig. 1).&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="alt_text">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/EUR_ger_sup_fig_16_wiesbadeb_B_carroll.jpg"
+ alt="Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471.">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of the rural villa with a possible walled garden (G) to the west. Adapted from Baatz and Herrmann 1989, fig. 471. (Rights Statement)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;!--### Images-->
+&lt;!--
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="alt_text">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>D. Baatz and F.-R. Herrmann, eds., &lt;em>Die Römer in Hessen&lt;/em>, 2nd ed., Stuttgart, 1989, p. 495, fig. 471.&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/109461">109461&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/6002235">6002235&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

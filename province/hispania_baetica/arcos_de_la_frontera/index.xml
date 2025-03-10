@@ -1,11 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/arcos_de_la_frontera/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Oct 2020 21:00:00 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/arcos_de_la_frontera/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa el Santiscal</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/arcos_de_la_frontera/villa_el_santiscal/</link><pubDate>Sun, 04 Oct 2020 21:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/arcos_de_la_frontera/villa_el_santiscal/</guid><description>Province Hispania Baetica
-Location Arcos De La Frontera
-Arcos De La Frontera (Pleiades)
-Location Description Garden Villa el Santiscal
-Keywords fountains mosaics (visual works) peristyles (Roman courtyards) rills Garden Description This rich country villa on the left bank of the Guadalete (Pleiades) River was begun in the first century and continued in use through the fourth century with its heyday in the third century AD. Figured mosaics found in the nineteenth century are now lost. Partial excavations around 1965 disclosed a villa built around a central peristyle (14 x 10 m) with a garden in the center. A rill pool ran around the outside of the garden. On each side there was a fountain and semicircular extension of the pool into the planting area of the garden.
-Maps Images Dates unspecified
-Bibliography M.ª C. Fernández Castro,Villas romanas en Hispania, (Madrid 1982), 121-154.(worldcat) J. M. Blázquez, ‘Los jardines en la Hispania Romana,’ Historia de los Parques y Jardines en España, Diputación Provincial de Córdoba-Edita Grupo FCC (Madrid 2001). (worldcat) J.-G. Gorges, Les villas hispano-romaines: Inventaire et Problématique Archéologiques (Publications du Centre Pierre Paris IV). Paris: de Boccard, 1979, 241. (worldcat) Pleiades ID 256436
-256436
-TGN ID 1061772
-Contributor M. Orfila N. Doenges
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/arcos_de_la_frontera/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 04 Oct 2020 21:00:00 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/arcos_de_la_frontera/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa el Santiscal</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/arcos_de_la_frontera/villa_el_santiscal/</link><pubDate>Sun, 04 Oct 2020 21:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/arcos_de_la_frontera/villa_el_santiscal/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/">Hispania Baetica&lt;/a>&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/arcos_de_la_frontera/">Arcos De La Frontera&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/255981">Arcos De La Frontera (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Villa el Santiscal&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300006179">fountains&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300015342">mosaics (visual works)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004029">peristyles (Roman courtyards)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300263440">rills&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>This rich country villa on the left bank of the &lt;a href="https://pleiades.stoa.org/places/256248">Guadalete (Pleiades)&lt;/a> River was begun in the first century and continued in use through the fourth century with its heyday in the third century AD. Figured mosaics found in the nineteenth century are now lost. Partial excavations around 1965 disclosed a villa built around a central peristyle (14 x 10 m) with a garden in the center. A rill pool ran around the outside of the garden. On each side there was a fountain and semicircular extension of the pool into the planting area of the garden.&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Plans-->
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="images">Images&lt;/h3>
+&lt;figure>&lt;img src="../images/HIS_BAE_Villa%20El%20Santiscal_plan_CA%20fig1.JPG"
+ alt="Fig. 1: Plan of Villa el Santiscal, Gorges, Planche LXIII. (Rights Statement)">
+&lt;/figure>
+
+&lt;figure>&lt;img src="../images/HIS_BAE_Villa%20el%20Santiscal_photo_CA%20fig2.JPG"
+ alt="Fig. 2: Photo of Villa el Santiscal seen from northwest. (Rights Statement)">
+&lt;/figure>
+
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>M.ª C. Fernández Castro,&lt;em>Villas romanas en Hispania&lt;/em>, (Madrid 1982), 121-154.&lt;a href="http://www.worldcat.org/oclc/876519837">(worldcat)&lt;/a>&lt;/li>
+&lt;li>J. M. Blázquez, ‘Los jardines en la Hispania Romana,’ &lt;em>Historia de los Parques y Jardines en España&lt;/em>, Diputación Provincial de Córdoba-Edita Grupo FCC (Madrid 2001). &lt;a href="http://www.worldcat.org/oclc/1090911182">(worldcat)&lt;/a>&lt;/li>
+&lt;li>J.-G. Gorges, &lt;em>Les villas hispano-romaines: Inventaire et Problématique Archéologiques&lt;/em> (Publications du Centre Pierre Paris IV). Paris: de Boccard, 1979, 241. &lt;a href="http://www.worldcat.org/oclc/461777678">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/arcos_de_la_frontera/">256436&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/256436">256436&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/1061772">1061772&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="link">M. Orfila&lt;/a>
+&lt;a href="link">N. Doenges&lt;/a>&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

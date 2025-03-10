@@ -1,30 +1,97 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/geneva/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 00:08:52 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/geneva/index.xml" rel="self" type="application/rss+xml"/><item><title>Suburban Villa</title><link>https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/geneva/suburban_villa/</link><pubDate>Mon, 14 Dec 2020 00:08:52 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/geneva/suburban_villa/</guid><description>Province Gallia_narbonensis
-Gallia_narbonensis (Pleiades)
-Location Genava, ((Geneva, France)
-Genava
-Location Description Sublocation The Roman town, located at the western end of Lake Geneva at the confluence of the Rhone and Arve rivers, grew from a late first century B.C. settlement of the Gallic tribe of the Allobroges. The town flourished until the third century A.D., and the territory around Geneva attracted many villa owners. There are few remains of Late Roman Geneva, but it appears to have been fortified around A.D. 300 by a circuit wall.
-Garden Suburban Villa
-Keywords villae suburbanae peristyle courtyard courtyards Garden Description This villa suburbana in the modern Parc de la Grange lay outside the town on the southern shore of Lake Geneva. The villa, built originally in the mid 1st c. A.D., was extended in the 2nd and 3rd c., and was inhabited until the 4th c. (Fig. 8.2). It measured 40 x 30.50 m., and it had a separate bath complex on the northwest. The entire estate was 450 m. long and approximately 180 m. in width.
-A peristyle courtyard surrounded by covered walkways on four sides took up an area of 22 x 11.80 m., about half of the building. In the center of the courtyard was a pool, very fragmentarily preserved, around which, in all probability, were plantings (G on plan).
-To the northwest of the house were enclosed areas which have been interpreted as gardens (G on plan). In the corner of the most easterly of these was an L-shaped pergola. The property between the house and the shore of the lake at the north was terraced and possibly designed as a landscaped park or left as a &amp;ldquo;natural&amp;rdquo; park.
-Plans None Available
-Images None Available
-Dates Bibliography L. Blondel and G. Darier, &amp;ldquo;La villa romaine de la Grange, Genève,&amp;rdquo; Anzeiger für schweizerische Geschichte 24, 1922:70-88, pls. 1-2. (worldcat)
-W. Drack, &amp;ldquo;Die Gutshöfe,&amp;rdquo; in Ur- und frühgeschichtliche Archäologie der Schweiz 5, Basel, 1975, p. 58, fig. 21. (worldcat)
-M.-A. Haldimann, P. André, E. Broillet-Ramjoué, Matthieu Poux, “Entre résidence indigène et domus gallo-romaine: le domaine antique du Parc de La Grange (GE),” Archéologie Suisse 24.2, 2001: 2-15, figs. 4, 13-14, 17. (worldcat)
-Pleiades ID 981537
-TGN ID 7030317 177528
-Contributor AUTHOR_ID (ORCID: 0000-0002-7384-1762)
-Publication date 21 Apr 2021</description></item><item><title>Urban House</title><link>https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/geneva/geneva_urban_house/</link><pubDate>Mon, 14 Dec 2020 00:08:52 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/geneva/geneva_urban_house/</guid><description>Province Gallia_narbonensis
-Gallia_narbonensis (Pleiades)
-Location Genava, ((Geneva, France)
-Genava
-Location Description Sublocation The Roman town, located at the western end of Lake Geneva at the confluence of the Rhone and Arve rivers, grew from a late first century B.C. settlement of the Gallic tribe of the Allobroges. The town flourished until the third century A.D., and the territory around Geneva attracted many villa owners. There are few remains of Late Roman Geneva, but it appears to have been fortified around A.D. 300 by a circuit wall.
-Garden Urban House
-Keywords peristyles (Roman courtyards) terrace Garden Description This badly preserved building situated on the Plateau des Tranchées was on a terraced slope overlooking Lake Geneva (Lacus Lemanus). Originally built between 20 and 40 A.D., and occupied until 180, the house had a central peristyle courtyard measuring 7.80 x 22 m. in size. Below the peristyle was a terrace where excavations uncovered a deposit 15 cm. thick of organically enriched soil. This evidence suggested to the excavators that the terrace was planted as a garden. Due to subsidence and shifting of masonry walls, the house was rebuilt between 50 and 70 without a peristyle courtyard or a garden terrace.
-Plans None Available
-Images None Available
-Dates Bibliography M.-A. Haldimann, E. Ramjoué, and C. Simon, “Les fouilles de la cour de l’ancienne prison de Saint-Antoine,” Archäologie der Schweiz 14, 1991:194-204. (worldcat) Pleiades ID 981537
-TGN ID 7030317 177528
-Contributor AUTHOR_ID (ORCID: 0000-0002-7384-1762)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/geneva/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2020 00:08:52 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/geneva/index.xml" rel="self" type="application/rss+xml"/><item><title>Suburban Villa</title><link>https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/geneva/suburban_villa/</link><pubDate>Mon, 14 Dec 2020 00:08:52 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/geneva/suburban_villa/</guid><description>&lt;h3 id="province">Province&lt;/h3>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/">Gallia_narbonensis&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/981537">Gallia_narbonensis (Pleiades)&lt;/a>&lt;/p>
+&lt;!-- ### Province Description -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/geneva/">Genava, ((Geneva, France)&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/177528">Genava&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>The Roman town, located at the western end of Lake Geneva at the confluence of the Rhone and Arve rivers, grew from a late first century B.C. settlement of the Gallic tribe of the Allobroges. The town flourished until the third century A.D., and the territory around Geneva attracted many villa owners. There are few remains of Late Roman Geneva, but it appears to have been fortified around A.D. 300 by a circuit wall.&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Suburban Villa&lt;/p>
+&lt;!-- ### Keywords -->
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005519">villae suburbanae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyle courtyard&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004095">courtyards&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>This &lt;em>villa suburbana&lt;/em> in the modern Parc de la Grange lay outside the town on the southern shore of Lake Geneva. The villa, built originally in the mid 1st c. A.D., was extended in the 2nd and 3rd c., and was inhabited until the 4th c. (Fig. 8.2). It measured 40 x 30.50 m., and it had a separate bath complex on the northwest. The entire estate was 450 m. long and approximately 180 m. in width.&lt;/p>
+&lt;p>A &lt;em>peristyle courtyard&lt;/em> surrounded by covered walkways on four sides took up an area of 22 x 11.80 m., about half of the building. In the center of the &lt;em>courtyard&lt;/em> was a pool, very fragmentarily preserved, around which, in all probability, were plantings (G on plan).&lt;/p>
+&lt;p>To the northwest of the house were enclosed areas which have been interpreted as gardens (G on plan). In the corner of the most easterly of these was an L-shaped pergola. The property between the house and the shore of the lake at the north was terraced and possibly designed as a landscaped park or left as a &amp;quot;natural&amp;quot; park.&lt;/p>
+&lt;!-- text is from draft file -->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;p>None Available&lt;/p>
+&lt;h3 id="images">Images&lt;/h3>
+&lt;p>None Available&lt;/p>
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>L. Blondel and G. Darier, &amp;quot;La villa romaine de la Grange, Genève,&amp;quot; Anzeiger für schweizerische Geschichte 24, 1922:70-88, pls. 1-2. &lt;a href="http://www.worldcat.org/oclc/891753412">(worldcat)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>W. Drack, &amp;quot;Die Gutshöfe,&amp;quot; in Ur- und frühgeschichtliche Archäologie der Schweiz 5, Basel, 1975, p. 58, fig. 21. &lt;a href="http://www.worldcat.org/oclc/995475924">(worldcat)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>M.-A. Haldimann, P. André, E. Broillet-Ramjoué, Matthieu Poux, “Entre résidence indigène et domus gallo-romaine: le domaine antique du Parc de La Grange (GE),” Archéologie Suisse 24.2, 2001: 2-15, figs. 4, 13-14, 17. &lt;a href="http://www.worldcat.org/oclc/718064040">(worldcat)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/981537">981537&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7030317">7030317&lt;/a>
+&lt;a href="https://pleiades.stoa.org/places/177528">177528&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="link">AUTHOR_ID&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0002-7384-1762">0000-0002-7384-1762&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Urban House</title><link>https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/geneva/geneva_urban_house/</link><pubDate>Mon, 14 Dec 2020 00:08:52 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/geneva/geneva_urban_house/</guid><description>&lt;h3 id="province">Province&lt;/h3>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/">Gallia_narbonensis&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/981537">Gallia_narbonensis (Pleiades)&lt;/a>&lt;/p>
+&lt;!-- ### Province Description -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/gallia_narbonensis/geneva/">Genava, ((Geneva, France)&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/177528">Genava&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>The Roman town, located at the western end of Lake Geneva at the confluence of the Rhone and Arve rivers, grew from a late first century B.C. settlement of the Gallic tribe of the Allobroges. The town flourished until the third century A.D., and the territory around Geneva attracted many villa owners. There are few remains of Late Roman Geneva, but it appears to have been fortified around A.D. 300 by a circuit wall.&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Urban House&lt;/p>
+&lt;!-- ### Keywords -->
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyles (Roman courtyards)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300404778">terrace&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>This badly preserved building situated on the Plateau des Tranchées was on a terraced slope overlooking Lake Geneva (Lacus Lemanus). Originally built between 20 and 40 A.D., and occupied until 180, the house had a central &lt;em>peristyle courtyard&lt;/em> measuring 7.80 x 22 m. in size.
+Below the &lt;em>peristyle&lt;/em> was a &lt;em>terrace&lt;/em> where excavations uncovered a deposit 15 cm. thick of organically enriched soil. This evidence suggested to the excavators that the &lt;em>terrace&lt;/em> was planted as a garden. Due to subsidence and shifting of masonry walls, the house was rebuilt between 50 and 70 without a &lt;em>peristyle courtyard&lt;/em> or a &lt;em>garden terrace&lt;/em>.&lt;/p>
+&lt;!-- text is from draft file -->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;p>None Available&lt;/p>
+&lt;h3 id="images">Images&lt;/h3>
+&lt;p>None Available&lt;/p>
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>M.-A. Haldimann, E. Ramjoué, and C. Simon, “Les fouilles de la cour de l’ancienne prison de Saint-Antoine,” Archäologie der Schweiz 14, 1991:194-204. &lt;a href="http://www.worldcat.org/oclc/891753412">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/981537">981537&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7030317">7030317&lt;/a>
+&lt;a href="https://pleiades.stoa.org/places/177528">177528&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="link">AUTHOR_ID&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0002-7384-1762">0000-0002-7384-1762&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

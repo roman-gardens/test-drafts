@@ -1,10 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/achaea/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 08:54:29 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/achaea/index.xml" rel="self" type="application/rss+xml"/><item><title>Achaea</title><link>https://roman-gardens.github.io/test-drafts/province/achaea/achaea/</link><pubDate>Mon, 20 Jul 2020 13:58:53 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/achaea/achaea/</guid><description>Province Achaea
-Province Description Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands. The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports. After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woollen textiles and marbles.
-Location Achaea
-Achaea (Pleiades)
-Garden Dates 146 BCE to 7th century CE
-Pleiades ID 570028
-570028
-TGN ID 7030332
-Contributor David Gilman Romano (ORCID: 0000-0001-5764-6652)
-Publication date 21 Apr 20210</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/achaea/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 20 Jul 2020 13:58:53 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/achaea/index.xml" rel="self" type="application/rss+xml"/><item><title>Achaea</title><link>https://roman-gardens.github.io/test-drafts/province/achaea/achaea/</link><pubDate>Mon, 20 Jul 2020 13:58:53 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/achaea/achaea/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>Achaea&lt;/p>
+&lt;h3 id="province-description">Province Description&lt;/h3>
+&lt;p>Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
+The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports. After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woollen textiles and marbles.&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/achaea/">Achaea&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/570028">Achaea (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;!-- List of gardens in province -->
+&lt;!-- May be left blank for now -->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>146 BCE to 7th century CE&lt;/p>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/achaea/">570028&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/570028">570028&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7030332">7030332&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://anthropology.arizona.edu/user/david-gilman-romano">David Gilman Romano&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-5764-6652">0000-0001-5764-6652&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 20210&lt;/p></description></item></channel></rss>

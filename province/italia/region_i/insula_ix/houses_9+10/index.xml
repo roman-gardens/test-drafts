@@ -1,13 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/houses_9+10/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 11:47:48 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/houses_9+10/index.xml" rel="self" type="application/rss+xml"/><item><title>I.ix.9/10</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/houses_9+10/i.ix.9+10/</link><pubDate>Mon, 10 Aug 2020 11:47:48 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/houses_9+10/i.ix.9+10/</guid><description>Province Italia
-Location Pompeii
-Pompeii (Pleiades)
-Sublocation Region I
-Insula Insula IX
-House House 9/10
-Garden I.ix.9/10
-Keywords archaeological garden columns (architectural elements) engaged columns pilasters porticoes stairs Garden Description To the rear of this house a raised garden (a), three steps up, had a portico on the east. The portico was supported by two columns on the east, an engaged column and a pilaster.
-Plans Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement). Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement). Dates unspecified
-Excavation Date Bibliography DeVos, “Scavi nuovi sconoscuti (1.9.13),” Meded 38 (1976), pl. 35 (plan). Jashemski, Gardens, vol.II, p. 44. (worldcat) Pleiades ID 433032
-TGN ID 7004658
-Contributor Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/houses_9+10/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 11:47:48 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/houses_9+10/index.xml" rel="self" type="application/rss+xml"/><item><title>I.ix.9/10</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/houses_9+10/i.ix.9+10/</link><pubDate>Mon, 10 Aug 2020 11:47:48 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/houses_9+10/i.ix.9+10/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/">Italia&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Pompeii&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/">Region I&lt;/a>&lt;/p>
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="insula">Insula&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/">Insula IX&lt;/a>&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/houses_9&amp;#43;10/">House 9/10&lt;/a>&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>I.ix.9/10&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">archaeological garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300001571">columns (architectural elements)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300001638">engaged columns&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300002737">pilasters&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300003228">stairs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>To the rear of this house a raised garden (a), three steps up, had a &lt;em>portico&lt;/em> on the east. The &lt;em>portico&lt;/em> was supported by two columns on the east, an engaged column and a pilaster.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+ alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure>&lt;img src="../../images/Region_I_insula_ix.tif"
+ alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44.">&lt;figcaption>
+ &lt;h4>Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;!--### Images-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>DeVos, “Scavi nuovi sconoscuti (1.9.13),” &lt;em>Meded&lt;/em> 38 (1976), pl. 35 (plan).&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, p. 44. &lt;a href="http://www.worldcat.org/oclc/921816405">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/433032">433032&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7004658">7004658&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

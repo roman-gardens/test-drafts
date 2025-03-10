@@ -1,12 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/dacia_traiana/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 12 Jul 2020 07:56:03 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/dacia_traiana/index.xml" rel="self" type="application/rss+xml"/><item><title>Dacia Traiana</title><link>https://roman-gardens.github.io/test-drafts/province/dacia_traiana/dacia_traiana/</link><pubDate>Sat, 11 Jul 2020 19:24:47 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/dacia_traiana/dacia_traiana/</guid><description>Province Dacia Traiana
-Province Description Dacia occupied the region occupied by today by Romania, Moldava, and parts of Bulgaria, Serbia, Hungary and the Ukraine. Homeland of the Gatae tribe, it was conquered by the Romans under Trajan in 106 CE. After the Romans retreated from this region in 271-275 CE, they renamed an area of Moesia Superior “Dacia Aureliana”. This entry concerns only original province of Dacia.
-The area was known to the Romans prior to its conquest, particularly for its position along the Hercynian Forest (Black Forest). Ruled by king Burebista (82–44 BC), Julius Caesar (De Bello Gallico book 6) describes the kingdom in 53 BC starting on the eastern edge of the Hercynian Forest (Black Forest). Strabo, in his Geography (c. 25 CE) writes:
-As for the southern part of Germany beyond the Albis, the portion which is just contiguous to that river is occupied by the Suevi; then immediately adjoining this is the land of the Getae, which, though narrow at first, stretching as it does along the Ister on its southern side and on the opposite side along the mountain-side of the Hercynian Forest (for the land of the Getae also embraces a part of the mountains), afterwards broadens out towards the north as far as the Tyregetae; but I cannot tell the precise boundaries.
-Both rulers were murdered in the same year, and the kingdom was broken into smaller entities. The states of Dacia recognized Rome’s supremacy under Augustus, and interaction is indicated by Augustus’ betrothal of his daughter to Cotiso. Horace (Occidit Daci Cotisonis agmen, Odes, III. 8. 18).
-Dacia was of particular interest to the Romans for its supplies of lead, needed for the water pipes of the cities and villas.
-Maps Dates 106 CE to 271-275 CE
-Pleiades ID 981518
-981518
-TGN ID 7030323
-Contributor John Bodel (ORCID: 0000-0003-1820-6368)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/dacia_traiana/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2020 19:24:47 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/dacia_traiana/index.xml" rel="self" type="application/rss+xml"/><item><title>Dacia Traiana</title><link>https://roman-gardens.github.io/test-drafts/province/dacia_traiana/dacia_traiana/</link><pubDate>Sat, 11 Jul 2020 19:24:47 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/dacia_traiana/dacia_traiana/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>Dacia Traiana&lt;/p>
+&lt;h3 id="province-description">Province Description&lt;/h3>
+&lt;p>Dacia occupied the region occupied by today by Romania, Moldava, and parts of Bulgaria, Serbia, Hungary and the Ukraine. Homeland of the Gatae tribe, it was conquered by the Romans under Trajan in 106 CE. After the Romans retreated from this region in 271-275 CE, they renamed an area of Moesia Superior “Dacia Aureliana”. This entry concerns only original province of Dacia.&lt;/p>
+&lt;p>The area was known to the Romans prior to its conquest, particularly for its position along the Hercynian Forest (Black Forest).
+Ruled by king &lt;a href="https://en.wikipedia.org/wiki/Burebista">Burebista&lt;/a> (82–44 BC), Julius Caesar (De Bello Gallico book 6) describes the kingdom in 53 BC starting on the eastern edge of the Hercynian Forest (Black Forest). Strabo, in his Geography (c. 25 CE) writes:&lt;/p>
+&lt;blockquote>
+&lt;p>As for the southern part of Germany beyond the Albis, the portion which is just contiguous to that river is occupied by the Suevi; then immediately adjoining this is the land of the Getae, which, though narrow at first, stretching as it does along the Ister on its southern side and on the opposite side along the mountain-side of the Hercynian Forest (for the land of the Getae also embraces a part of the mountains), afterwards broadens out towards the north as far as the Tyregetae; but I cannot tell the precise boundaries.&lt;/p>&lt;/blockquote>
+&lt;p>Both rulers were murdered in the same year, and the kingdom was broken into smaller entities. The states of Dacia recognized Rome’s supremacy under Augustus, and interaction is indicated by Augustus’ betrothal of his daughter to Cotiso. &lt;a href="https://en.wikipedia.org/wiki/Horace">Horace&lt;/a> (Occidit Daci Cotisonis agmen, Odes, III. 8. 18).&lt;/p>
+&lt;p>Dacia was of particular interest to the Romans for its supplies of lead, needed for the water pipes of the cities and villas.&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>106 CE to 271-275 CE&lt;/p>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/dacia_traiana/">981518&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/981518">981518&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7030323">7030323&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://www.brown.edu/academics/history/people/john-bodel">John Bodel&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0003-1820-6368">0000-0003-1820-6368&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

@@ -1,29 +1,151 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_ii/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 29 Sep 2020 12:00:02 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_ii/index.xml" rel="self" type="application/rss+xml"/><item><title>Casa D’Argo</title><link>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_ii/casa_d_argo/</link><pubDate>Tue, 29 Sep 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_ii/casa_d_argo/</guid><description>Province Italia
-Italia (Pleiades)
-Location Herculaneum
-Herculaneum (Pleiades)
-Location Description An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
-Insula II
-House 2
-Garden Casa D’Argo
-Keywords cisterns (plumbing components) triclinia (rooms) peristyles (Roman courtyards) porticoes gutters (building drainage components) Garden Description 533.II.2. A. The earliest excavations of Herculaneum were done with underground tunnels. Several of these crossed this site and were discovered sixty three years later when further excavation of this patrician house was conducted in1828-1835. Eight brick columns and one engaged column stood on each of the long sides of the portico that bounded the large peristyle garden (a) on the east, north, and west sides. The north side was supported by four more columns and at the two front corners there was a pillar with an engaged column on each side. In the center of the north side two smaller pillars with one engaged column each framed a garden view from the triclinium. All the supporting members were coated with fine stucco. Gutters ringing the garden conveyed rain water to the cistern.
-534.II.2. B. A second peristyle garden was located to the west of the first, but has only been partially excavated. It has stuccoed columns and pillars joined by a wall 0.4 m. high painted with plants and flowers.
-Plans Plan of Casa D’Argo Dates unspecified
-Excavation Date 1828-1835
-Bibliography A.C. BdI (1835),p. 130 (worldcat) Bonucci, BdI (1830), p.121 (worldcat) Bonucci, Le due Sicilie: Ercolano, fig. 11 (plan) and p. 37 (worldcat) Breton,Pompeia p. 519 (worldcat) Maiuri, Herculaneum, p. 24 (worldcat) Maiuri,Ercolano, pp. 367-368 and fig. 293 (plan) on p. 362 (worldcat) Niccolini,Real museo borbonico, vol. 7, fig. 59 (plan), description by Bechi, pp. 19-21 (worldcat) Ruggiero, Ercolano, pp. 541-545 (contains the detailed reports of Bonucci)(worldcat) Pleiades ID 432873
-TGN ID 7031897
-Contributor Wilhelmina Jashemski worldcat
-Publication date</description></item><item><title>Casadetta del Genio</title><link>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_ii/casadetta_del_genio/</link><pubDate>Tue, 29 Sep 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_ii/casadetta_del_genio/</guid><description>Province Italia
-Italia (Pleiades)
-Location Herculaneum
-Herculaneum (Pleiades)
-Location Description An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
-Insula II; III
-House 3; 3
-Garden Casadetta del Genio
-Keywords porticoes Garden Description This house was partially excavated in 1829-1830 and again in 1850. The portico had a floor on the east slightly lower than the sections on the north and south. A pool (a) was located in the center of the garden with a semi-circular extension on the east end and two small marble posts which probably held herms. The pool measured 2.35 m. wide, 0.87 m. deep and was only excavated to a length of 6.50 m.
-Plans Plan of Casadetta del Genio Images Illustration of Casadetta del Genio Pleiades ID 432873
-TGN ID 7031897 Dates unspecified
-Excavation Date 1829-1830; 1850
-Bibliography Maiuri, Herculaneum, p. 25 (worldcat) Maiuri, Ercolano, pp. 375-377 and fig. 307 (plan) on p. 376 (worldcat) Ruggiero, Ercolano, pp. 562, 566, 574 (worldcat) Contributor Wilhelmina Jashemski worldcat
-Publication date</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_ii/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 29 Sep 2020 12:00:02 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_ii/index.xml" rel="self" type="application/rss+xml"/><item><title>Casa D’Argo</title><link>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_ii/casa_d_argo/</link><pubDate>Tue, 29 Sep 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_ii/casa_d_argo/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/">Herculaneum&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/432873">Herculaneum (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;p>An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h2 id="insula">Insula&lt;/h2>
+&lt;p>II&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>2&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Casa D’Argo&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052558">cisterns (plumbing components)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004359">triclinia (rooms)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004029">peristyles (Roman courtyards)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052565">gutters (building drainage components)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>533.II.2.
+A. The earliest excavations of Herculaneum were done with underground tunnels. Several of these crossed this site and were discovered sixty three years later when further excavation of this patrician house was conducted in1828-1835. Eight brick columns and one engaged column stood on each of the long sides of the &lt;em>portico&lt;/em> that bounded the large &lt;em>peristyle&lt;/em> garden (a) on the east, north, and west sides. The north side was supported by four more columns and at the two front corners there was a pillar with an engaged column on each side. In the center of the north side two smaller pillars with one engaged column each framed a garden view from the &lt;em>triclinium&lt;/em>. All the supporting members were coated with fine stucco. &lt;em>Gutters&lt;/em> ringing the garden conveyed rain water to the &lt;em>cistern&lt;/em>.&lt;/p>
+&lt;p>534.II.2.
+B. A second &lt;em>peristyle&lt;/em> garden was located to the west of the first, but has only been partially excavated. It has stuccoed columns and pillars joined by a wall 0.4 m. high painted with plants and flowers.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/H_2_2.jpg"
+ alt="Plan of Casa D’Argo">&lt;figcaption>
+ &lt;h4>Plan of Casa D’Argo&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;p>1828-1835&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>A.C. &lt;em>BdI&lt;/em> (1835),p. 130 &lt;a href="http://www.worldcat.org/oclc/504636074">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Bonucci, &lt;em>BdI&lt;/em> (1830), p.121 &lt;a href="http://www.worldcat.org/oclc/504636074">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Bonucci, Le due Sicilie: Ercolano, fig. 11 (plan) and p. 37 &lt;a href="http://www.worldcat.org/oclc/79720703">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Breton,&lt;em>Pompeia&lt;/em> p. 519 &lt;a href="http://www.worldcat.org/oclc/602759412">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, &lt;em>Herculaneum&lt;/em>, p. 24 &lt;a href="http://www.worldcat.org/oclc/1107784297">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri,&lt;em>Ercolano&lt;/em>, pp. 367-368 and fig. 293 (plan) on p. 362 &lt;a href="http://www.worldcat.org/oclc/490581395">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Niccolini,&lt;em>Real museo borbonico&lt;/em>, vol. 7, fig. 59 (plan), description by Bechi, pp. 19-21 &lt;a href="http://www.worldcat.org/oclc/277993202">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Ruggiero, &lt;em>Ercolano&lt;/em>, pp. 541-545 (contains the detailed reports of Bonucci)&lt;a href="http://www.worldcat.org/oclc/18405521">(worldcat)&lt;/a>&lt;/li>
+&lt;li>&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7031897">7031897&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski &lt;a href="http://worldcat.org/identities/lccn-n80037970/">worldcat&lt;/a>&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Casadetta del Genio</title><link>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_ii/casadetta_del_genio/</link><pubDate>Tue, 29 Sep 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/insula_ii/casadetta_del_genio/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/herculaneum/">Herculaneum&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/432873">Herculaneum (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;p>An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h2 id="insula">Insula&lt;/h2>
+&lt;p>II; III&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>3; 3&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Casadetta del Genio&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>This house was partially excavated in 1829-1830 and again in 1850. The &lt;em>portico&lt;/em> had a floor on the east slightly lower than the sections on the north and south. A pool (a) was located in the center of the garden with a semi-circular extension on the east end and two small marble posts which probably held herms. The pool measured 2.35 m. wide, 0.87 m. deep and was only excavated to a length of 6.50 m.&lt;/p>
+ &lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/H_2_3.jpg"
+ alt="Plan of Casadetta del Genio">&lt;figcaption>
+ &lt;h4>Plan of Casadetta del Genio&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="images">Images&lt;/h3>
+&lt;figure>&lt;img src="../images/Herc.%20II.3%20%20%2068.6.57.jpg"
+ alt="Illustration of Casadetta del Genio">&lt;figcaption>
+ &lt;h4>Illustration of Casadetta del Genio&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;h2 id="7031897">&lt;a href="http://vocab.getty.edu/page/tgn/7031897">7031897&lt;/a>&lt;/h2>
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;p>1829-1830; 1850&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Maiuri, &lt;em>Herculaneum&lt;/em>, p. 25 &lt;a href="http://www.worldcat.org/oclc/1107784297">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, pp. 375-377 and fig. 307 (plan) on p. 376 &lt;a href="http://www.worldcat.org/oclc/490581395">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Ruggiero, &lt;em>Ercolano&lt;/em>, pp. 562, 566, 574 &lt;a href="http://www.worldcat.org/oclc/18405521">(worldcat)&lt;/a>&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski &lt;a href="http://worldcat.org/identities/lccn-n80037970/">worldcat&lt;/a>&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

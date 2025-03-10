@@ -1,13 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_13/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 09 Aug 2020 10:39:08 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_13/index.xml" rel="self" type="application/rss+xml"/><item><title>House and Workshop of A. Granius Romanus (I.viii.13)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_13/house_and_workshop_of_a._granius_romanus/</link><pubDate>Sun, 09 Aug 2020 10:39:08 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_13/house_and_workshop_of_a._granius_romanus/</guid><description>Province Italia
-Location Pompeii
-Pompeii (Pleiades)
-Sublocation Region I
-Insula Insula VIII
-House House 13
-Garden House and Workshop of A. Granius Romanus (I.viii.13)
-Keywords archaeological garden graffiti (casual notations) inscription lararia Garden Description The courtyard (a) at the front of this house was covered on the west and north and led to a second courtyard (b) at the rear of the house. In the northwest corner of the passageway there was a large lararium. Too much damage had been sustained to determine if any of the areas had been planted, and graffiti on the wall indicated to Della Corte that business had been conducted here because of all the numerical notations.
-Plans Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement). Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement). Dates unspecified
-Excavation Date Bibliography Della Corte, Case, p. 327. Jashemski, Gardens, vol.II, p. 43. (worldcat) Pleiades ID 433032
-TGN ID 7004658
-Contributor Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_13/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 09 Aug 2020 10:39:08 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_13/index.xml" rel="self" type="application/rss+xml"/><item><title>House and Workshop of A. Granius Romanus (I.viii.13)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_13/house_and_workshop_of_a._granius_romanus/</link><pubDate>Sun, 09 Aug 2020 10:39:08 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_13/house_and_workshop_of_a._granius_romanus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/">Italia&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Pompeii&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/">Region I&lt;/a>&lt;/p>
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="insula">Insula&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/">Insula VIII&lt;/a>&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_viii/house_13/">House 13&lt;/a>&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>House and Workshop of A. Granius Romanus (I.viii.13)&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">archaeological garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300015613">graffiti (casual notations)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">inscription&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300400600">lararia&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>The courtyard (a) at the front of this house was covered on the west and north and led to a second courtyard (b) at the rear of the house. In the northwest corner of the passageway there was a large &lt;em>lararium&lt;/em>. Too much damage had been sustained to determine if any of the areas had been planted, and graffiti on the wall indicated to Della Corte that business had been conducted here because of all the numerical notations.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+ alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure>&lt;img src="../../images/Region_I_insula_8.tif"
+ alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach.">&lt;figcaption>
+ &lt;h4>Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;!--### Images-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Della Corte, &lt;em>Case&lt;/em>, p. 327.&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, p. 43. &lt;a href="http://www.worldcat.org/oclc/921816405">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/433032">433032&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7004658">7004658&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

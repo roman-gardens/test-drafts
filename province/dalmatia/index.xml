@@ -1,2 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/dalmatia/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 15 Jul 2020 10:10:26 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/dalmatia/index.xml" rel="self" type="application/rss+xml"/><item><title>Dalmatia</title><link>https://roman-gardens.github.io/test-drafts/province/dalmatia/dalmatia/</link><pubDate>Tue, 14 Jul 2020 16:46:14 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/dalmatia/dalmatia/</guid><description>Province Province Description Introduction Needed
-Location Sublocation Garden Dates Bibliography Pleiades ID Contributor ORCID Publication date</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/dalmatia/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2020 16:46:14 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/dalmatia/index.xml" rel="self" type="application/rss+xml"/><item><title>Dalmatia</title><link>https://roman-gardens.github.io/test-drafts/province/dalmatia/dalmatia/</link><pubDate>Tue, 14 Jul 2020 16:46:14 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/dalmatia/dalmatia/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;!--- Content of Province heading --->
+&lt;h3 id="province-description">Province Description&lt;/h3>
+&lt;!-- DESCRIPTION -->
+&lt;p>&lt;strong>Introduction Needed&lt;/strong>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;!-- [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751) -->
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;!-- 
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;!-- List of gardens in province -->
+&lt;!-- May be left blank for now -->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
+&lt;!-- If no date, use "unspecified" -->
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;!-- 
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL) 
+-->
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
+&lt;!-- [PLEIADES_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;!--#### TGN ID-->
+&lt;!-- N.B. This should be as specific as it can be, i.e., to the garden, sublocation, location, or province. -->
+&lt;!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;!-- [AUTHOR_NAME](AUTHOR_LINK) -->
+&lt;h4 id="orcid">ORCID&lt;/h4>
+&lt;!-- [ORCID](https://orcid.org/ORCID) -->
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;!-- Format: dd MONTH_NAME yyyy -->
+&lt;!-- DATE --></description></item></channel></rss>

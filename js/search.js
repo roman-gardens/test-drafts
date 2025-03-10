@@ -1,3 +1,4 @@
+// custom code for displaying garden search results from Lunr
 function displayResults (results, store) {
   const searchResultsSummary = document.getElementById('search-results-summary')
   const searchResultsList = document.getElementById('search-results-list')
@@ -7,15 +8,20 @@ function displayResults (results, store) {
     // Iterate and build result list elements
     for (const n in results) {
       const item = store[results[n].ref]
-
-      // linked title
-      resultList += '<li><b><a href="' + item.url + '">' + item.title + '</a></b>'
+      resultList += '<article class="list__item post">'
 
       // breadcrumbs
-      resultList += '<br><small>(' + item.breadcrumbs + ')</small>'
+      resultList += '<div class="smallcrumbs">' + item.smallcrumbs + '</div>'
+
+      // linked title
+      resultList += '<h3 class="list__title post__title"><a href="' + item.url + '">' + item.title + '</a></h3>'
 
       // garden description snippet
-      resultList += '<br>' + item.content.replace(/^(.|\n)*Garden Description /, '').substring(0, 150) + '...</li>'
+      let description = item.content.replace(/^(.|\n)*Garden Description /, '').substring(0, 179)
+      description = description.replace(/ \w+$/, ' ...')
+      resultList += description
+
+      resultList += '</article>'
     }
     searchResultsList.innerHTML = resultList
   } else {

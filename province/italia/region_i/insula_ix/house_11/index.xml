@@ -1,15 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_11/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 12:42:04 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_11/index.xml" rel="self" type="application/rss+xml"/><item><title>Caupona of Amarantus Pompeianus (I.ix.11)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_11/caupona_of_amarantus_pompeianus/</link><pubDate>Mon, 10 Aug 2020 12:42:04 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_11/caupona_of_amarantus_pompeianus/</guid><description>Province Italia
-Location Pompeii
-Pompeii (Pleiades)
-Sublocation Region I
-Insula Insula ix
-House House 11
-Garden I.ix.11
-Keywords amphorae (storage vessels) archaeological garden lapilli lararia peristyles (Roman courtyards) terrace gardens Garden Description The peristyle of this house was built before the earthquake of 62 BC. When the lapilli was removed, excavators found the courtyard filled with amphorae, although its original use as a garden was noted by Jashemski. The British School in Rome returned in the early 1990s to undertake strategraphic excavation of the garden, in tandem with systematic environmental retrieval methods. This investigation revealed that the site was terraced. Fertile soils were then brought in from alluvial areas for cultivation. Marks in the soil profile indicated small scale spade horticulture. Archaeobotanical remains revealed burnt waste from crop cleaning and mineralized latrine contents, both of which are characteristic of fertilizer. However, assemblages of burnt bones and plants indicated small deposits of votive offerings buried in the garden, a significant new finding that may be associated with the lararia found in the houses and gardens. Many of the plant species are those seen in the garden paintings, and, overall, the excavators were able to see in the archaeobotanical record a shift from arable cultivation in the pre-Roman levels to the cultivation of olives, vines and fruit trees.
-At the time of the eruption, trees and shrubs grew in the garden, as excavators found root cavities. However, pollen evidence of bracken and weeds suggests that the garden was either overgrown or abandoned, at least from its original purposes.
-Plans Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement). Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement). Dates Built before 62 BCE
-Excavation Date Early 1990s
-Bibliography Jashemski, Gardens, vol. II, p. 45. (worldcat) J. Berry, “The Conditions of Domestic Life in Pompeii in AD 79: A Case Study of Houses 11 and 12, Insula 9, Region I.” in Papers of the British School at Rome, Vol 65 (1997) pp. 103-125. (worldcat) M. Fulford, A. Wallace-Hadrill, G. Clark, A. Clarke, H. Eckardt, A. Locker, A. Powell, M. Rendeli, D. Richards, J. Robinson, M.Robinson, J. Timby, “Towards a History of Pre-Roman Pompeii: Excavation beneath the House of Amaranthus” Papers of the British School at Rome 67 (1999): 37-144. M.A. Robinson, “Wet-sieving and flotation for biological remains” in M. Fulfor and A. Wallace-Hadrill, The House of Amaranthus at Pompeii (1.9.11-12); and interim report on survey and excavation in 1995-6. Rivista di Studi Pompeiani 7 (1995-96): 108-110. CIL IV.10345 (for amphoras found in the garden February, 1953). DeVos, “Scavi nuovi sconoscuti (1.9.13),” Meded 38 (1976), pl. 35 (plan). Pleiades ID 433032
-TGN ID 7004658
-Contributor Kathryn Gleason (ORCID:0000-0001-6260-8378)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_11/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 12:42:04 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_11/index.xml" rel="self" type="application/rss+xml"/><item><title>Caupona of Amarantus Pompeianus (I.ix.11)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_11/caupona_of_amarantus_pompeianus/</link><pubDate>Mon, 10 Aug 2020 12:42:04 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_11/caupona_of_amarantus_pompeianus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/">Italia&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Pompeii&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_i/insula_ix/house_11/">Region I&lt;/a>&lt;/p>
+&lt;h2 id="insula">Insula&lt;/h2>
+&lt;p>Insula ix&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>House 11&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>I.ix.11&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300148696">amphorae (storage vessels)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">archaeological garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#">lapilli&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300400600">lararia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyles (Roman courtyards)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300404778">terrace gardens&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>The &lt;em>peristyle&lt;/em> of this house was built before the earthquake of 62 BC. When the &lt;em>lapilli&lt;/em> was removed, excavators found the courtyard filled with &lt;em>amphorae&lt;/em>, although its original use as a garden was noted by Jashemski. The British School in Rome returned in the early 1990s to undertake strategraphic excavation of the garden, in tandem with systematic environmental retrieval methods. This investigation revealed that the site was terraced. Fertile soils were then brought in from alluvial areas for cultivation. Marks in the soil profile indicated small scale spade horticulture. Archaeobotanical remains revealed burnt waste from crop cleaning and mineralized latrine contents, both of which are characteristic of fertilizer. However, assemblages of burnt bones and plants indicated small deposits of votive offerings buried in the garden, a significant new finding that may be associated with the &lt;em>lararia&lt;/em> found in the houses and gardens. Many of the plant species are those seen in the garden paintings, and, overall, the excavators were able to see in the archaeobotanical record a shift from arable cultivation in the pre-Roman levels to the cultivation of olives, vines and fruit trees.&lt;/p>
+&lt;p>At the time of the eruption, trees and shrubs grew in the garden, as excavators found root cavities. However, pollen evidence of bracken and weeds suggests that the garden was either overgrown or abandoned, at least from its original purposes.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+ alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure>&lt;img src="../../images/Region_I_insula_ix.tif"
+ alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44.">&lt;figcaption>
+ &lt;h4>Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement).&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;!--### Images-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>Built before 62 BCE&lt;/p>
+&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;p>Early 1990s&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 45. &lt;a href="http://www.worldcat.org/oclc/921816405">(worldcat)&lt;/a>&lt;/li>
+&lt;li>J. Berry, “The Conditions of Domestic Life in Pompeii in AD 79: A Case Study of Houses 11 and 12, Insula 9, Region I.” in &lt;em>Papers of the British School at Rome&lt;/em>, Vol 65 (1997) pp. 103-125. &lt;a href="http://www.worldcat.org/oclc/5542941651">(worldcat)&lt;/a>&lt;/li>
+&lt;li>M. Fulford, A. Wallace-Hadrill, G. Clark, A. Clarke, H. Eckardt, A. Locker, A. Powell, M. Rendeli, D. Richards, J. Robinson, M.Robinson, J. Timby, “Towards a History of Pre-Roman Pompeii: Excavation beneath the House of Amaranthus” &lt;em>Papers of the British School at Rome&lt;/em> 67 (1999): 37-144.&lt;/li>
+&lt;li>M.A. Robinson, “Wet-sieving and flotation for biological remains” in M. Fulfor and A. Wallace-Hadrill, The House of Amaranthus at Pompeii (1.9.11-12); and interim report on survey and excavation in 1995-6. Rivista di Studi Pompeiani 7 (1995-96): 108-110.&lt;/li>
+&lt;li>&lt;em>CIL&lt;/em> IV.10345 (for amphoras found in the garden February, 1953).&lt;/li>
+&lt;li>DeVos, “Scavi nuovi sconoscuti (1.9.13),” &lt;em>Meded&lt;/em> 38 (1976), pl. 35 (plan).&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/433032">433032&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7004658">7004658&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://classics.cornell.edu/kathryn-gleason">Kathryn Gleason&lt;/a> (ORCID:&lt;a href="https://orcid.org/0000-0001-6260-8378">0000-0001-6260-8378&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

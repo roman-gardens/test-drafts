@@ -1,9 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/benalmadena-costa/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2020 20:00:00 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/benalmadena-costa/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/benalmadena-costa/villa/</link><pubDate>Mon, 12 Oct 2020 20:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/benalmadena-costa/villa/</guid><description>Province Hispania Baetica
-Location Benalmadena-Costa
-Benalmadena-Costa (Pleiades)
-Location Description Garden Villa
-Keywords Garden Description At the rear of this villa there is a grand euripus running the length of the large rectangular garden.
-Maps Images Dates unspecified
-Bibliography P. Rodriguez Oliva, La arqueológia romana de Benalmádena, Ayuntamiento de Benalmádena, (Malaga 1982).(worldcat) P. Rodriguez Oliva,Anuario Arqueologico de Andalucia, 1986, Direccion general de bienes culturales, (Sevilla, 1987), part II, 407 ff. (worldcat) Mª L. Loza Azuaga,‘La escultura de fuentes en Hispania: ejemplos de la Bética, Actas de la I Reunión sobre escultura romana en Hispania, (Mérida, 1993), 97-110.(worldcat) Pleiades ID [510567671]/test-drafts/province/hispania_baetica/benalmadena-costa/)
-510567671
-TGN ID Contributor (AUTHOR_ID) Publication date 21 Apr 20210</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/benalmadena-costa/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2020 20:00:00 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/benalmadena-costa/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa</title><link>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/benalmadena-costa/villa/</link><pubDate>Mon, 12 Oct 2020 20:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/hispania_baetica/benalmadena-costa/villa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>Hispania Baetica&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/hispania_baetica/benalmadena-costa/">Benalmadena-Costa&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/510567671">Benalmadena-Costa (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Villa&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;!-- [no keyword]-->
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>At the rear of this villa there is a grand &lt;em>euripus&lt;/em> running the length of the large rectangular garden.&lt;/p>
+&lt;h3 id="maps">Maps&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Plans-->
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="images">Images&lt;/h3>
+&lt;!--
+&lt;figure>&lt;img src="IMG_URL"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>P. Rodriguez Oliva, &lt;em>La arqueológia romana de Benalmádena&lt;/em>, Ayuntamiento de Benalmádena, (Malaga 1982).&lt;a href="http://www.worldcat.org/oclc/1123848744">(worldcat)&lt;/a>&lt;/li>
+&lt;li>P. Rodriguez Oliva,&lt;em>Anuario Arqueologico de Andalucia, 1986&lt;/em>, Direccion general de bienes culturales, (Sevilla, 1987), part II, 407 ff. &lt;a href="http://www.worldcat.org/oclc/491540528">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mª L. Loza Azuaga,‘La escultura de fuentes en Hispania: ejemplos de la Bética, &lt;em>Actas de la I Reunión sobre escultura romana en Hispania&lt;/em>, (Mérida, 1993), 97-110.&lt;a href="http://www.worldcat.org/oclc/884615852">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>[510567671]/test-drafts/province/hispania_baetica/benalmadena-costa/) &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/510567671">510567671&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="link">(AUTHOR_ID)&lt;/a> &lt;!-- - (ORCID: [xxx](link)) -->&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 20210&lt;/p></description></item></channel></rss>

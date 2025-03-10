@@ -1,11 +1,76 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/hummetroth/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 16 Jul 2020 11:47:11 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/germania_superior/hummetroth/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Hummetroth</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/hummetroth/hummetroth_rural_villa/</link><pubDate>Thu, 16 Jul 2020 11:47:11 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/germania_superior/hummetroth/hummetroth_rural_villa/</guid><description>Province Germania Superior
-Location Hummetroth
-Hummetroth (Pleiades)
-Garden Rural Villa in Hummetroth
-Keywords apsed triclinium balnea corridors hypocausts porticoes reception rooms terrace gardens villae rusticae Garden Description The enclosed farmyard, including the residential area (pars urbana) and the service zone with outbuildings and working areas (pars rustica), covered an area of 3.5 hectares. The house of this villa rustica of the 2nd century is of the winged corridor type with two protruding wings framing a large courtyard in front of the house at the south (Fig. 1).
-The courtyard was divided into two zones by a terrace(?) wall, and in both zones a garden has been reconstructed (G in Fig. 1). Entering the house from the south, one passed through a large reception room to an apsed triclinium with hypocaust heating. A bath complex lay to the southwest, entered by the portico next to the garden.
-Plans Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south. Plan adapted from Baatz and Herrmann 1989, fig. 303a. Dates 2nd century
-Bibliography D. Baatz and F.-R. Herrmann, eds., Die Römer in Hessen, 2nd ed., Stuttgart,1989, pp. 360-361, fig. 303a-b. (worldcat) M. Carroll, Romans,Celts and Germans. The German Provinces of Rome, Stroud, 2001, p. 74, fig. 29. (worldcat) Pleiades ID 981525
-TGN ID 7165467
-Contributor Maureen Carroll (ORCID: 0000-0001-9958-8032)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/hummetroth/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 16 Jul 2020 11:47:11 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/germania_superior/hummetroth/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Hummetroth</title><link>https://roman-gardens.github.io/test-drafts/province/germania_superior/hummetroth/hummetroth_rural_villa/</link><pubDate>Thu, 16 Jul 2020 11:47:11 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/germania_superior/hummetroth/hummetroth_rural_villa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/germania_superior/">Germania Superior&lt;/a>&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/germania_superior/hummetroth/">Hummetroth&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/981525">Hummetroth (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Rural Villa in Hummetroth&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">apsed triclinium&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300120377">balnea&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004294">corridors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004277">hypocausts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300077176">reception rooms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300404778">terrace gardens&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005518">villae rusticae&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>The enclosed farmyard, including the residential area (pars urbana) and the service zone with outbuildings and working areas (pars rustica), covered an area of 3.5 hectares. The house of this &lt;em>villa rustica&lt;/em> of the 2nd century is of the winged corridor type with two protruding wings framing a large courtyard in front of the house at the south (Fig. 1).&lt;/p>
+&lt;p>The courtyard was divided into two zones by a terrace(?) wall, and in both zones a garden has been reconstructed (G in Fig. 1). Entering the house from the south, one passed through a large reception room to an apsed triclinium with hypocaust heating. A bath complex lay to the southwest, entered by the portico next to the garden.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="alt_text">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/EUR_GS_Hum_Rv_carroll.jpg"
+ alt="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south. Plan adapted from Baatz and Herrmann 1989, fig. 303a.">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south. Plan adapted from Baatz and Herrmann 1989, fig. 303a.&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;!--### Images-->
+&lt;!--
+&lt;figure>&lt;img src="../images/image_name.ext"
+ alt="alt_text">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>2nd century&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>D. Baatz and F.-R. Herrmann, eds., &lt;em>Die Römer in Hessen&lt;/em>, 2nd ed., Stuttgart,1989, pp. 360-361, fig. 303a-b. &lt;a href="http://www.worldcat.org/oclc/476625416">(worldcat)&lt;/a>&lt;/li>
+&lt;li>M. Carroll, &lt;em>Romans,Celts and Germans. The German Provinces of Rome&lt;/em>, Stroud, 2001, p. 74, fig. 29. &lt;a href="http://www.worldcat.org/oclc/1120840822">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/981525">981525&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7165467">7165467&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

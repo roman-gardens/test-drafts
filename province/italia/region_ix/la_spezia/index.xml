@@ -1,12 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_ix/la_spezia/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 12:00:02 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_ix/la_spezia/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa at Luna</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_ix/la_spezia/villa_at_luna/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_ix/la_spezia/villa_at_luna/</guid><description>Province Italia
-Location LA SPEZIA
-LA SPEZIA (Pleiades)
-Sublocation Region IX
-Garden Villa at Luna
-Keywords drains balnea vestibules basins (vessels) water baths reception rooms courtyards gutters (building drainage components) atriums (Roman halls) basins (vessels) Garden Description The coastal villa was located at the east end of the Gulf of La Spezia and controlled a large fundus. Little is known of the first nucleus of the villa, dated to 120-100 B.C. The layout that has survived dates to the second phase (80-50 B.C.). The excavated portion of the pars urbana is to the north of a large courtyard (Fig. 1: 11). On the same axis with the vestibulum and Corinthian atrium (respectively 1 and 2 in fig. 1) was a quadrangular hortus (Fig. 1:8). Most probably this garden was surrounded by porticoes. Several water canals passed through the garden and ended in Courtyard 11. In the late first century A.D. the main residential part was moved to a higher elevation, and the area of the Corinthian atrium was transformed into a bath suite. These changes affected also the hortus: the level of the area was raised, some service-rooms were built, and in the west corner was the praefurnium.. From the west corner a masonry staircase led to the granaria (Fig. 1: 9). Courtyard 11 possessed in the middle one or maybe two open air water basins. Several underground water drains crossed it, gathering rainfall waters into a main drain, which ended in the cove. Building phases dated to the third and fourth centuries A.D. did not substantially change this space distribution. The villa was inhabited until the sixth century A.D.
-Dates 120-100 B.C.
-Excavation Date unspecified
-Bibliography F. Tinè Bertocchi (ed.), 1986, Roma e i Liguri, Genova, 54-56.(worldcat) H. Mielsch, 1987, Die römische Villa: Architektur und Lebensform, Munich, 175-177. (worldcat) Pleiades ID 966420455
-TGN ID 7003143
-Contributor Jeffrey Becker
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_ix/la_spezia/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 12:00:02 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/italia/region_ix/la_spezia/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa at Luna</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_ix/la_spezia/villa_at_luna/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_ix/la_spezia/villa_at_luna/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/">Italia&lt;/a>&lt;/p>
+&lt;!--### Province Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/">LA SPEZIA&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/966420455">LA SPEZIA (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;h2 id="sublocation">Sublocation&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_ix/">Region IX&lt;/a>&lt;/p>
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Villa at Luna&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052564">drains&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300120377">balnea&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300083076">vestibules&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300045614">basins (vessels)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300248755">water baths&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300077176">reception rooms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004095">courtyards&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052565">gutters (building drainage components)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004097">atriums (Roman halls)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300045614">basins (vessels)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>The coastal villa was located at the east end of the Gulf of La Spezia and controlled a large fundus. Little is known of the first nucleus of the villa, dated to 120-100 B.C. The layout that has survived dates to the second phase (80-50 B.C.). The excavated portion of the pars urbana is to the north of a large courtyard (Fig. 1: 11). On the same axis with the vestibulum and Corinthian atrium (respectively 1 and 2 in fig. 1) was a quadrangular hortus (Fig. 1:8). Most probably this garden was surrounded by porticoes. Several water canals passed through the garden and ended in Courtyard 11. In the late first century A.D. the main residential part was moved to a higher elevation, and the area of the Corinthian atrium was transformed into a bath suite. These changes affected also the hortus: the level of the area was raised, some service-rooms were built, and in the west corner was the praefurnium.. From the west corner a masonry staircase led to the granaria (Fig. 1: 9). Courtyard 11 possessed in the middle one or maybe two open air water basins. Several underground water drains crossed it, gathering rainfall waters into a main drain, which ended in the cove. Building phases dated to the third and fourth centuries A.D. did not substantially change this space distribution. The villa was inhabited until the sixth century A.D.&lt;/p>
+&lt;!--### Maps-->
+&lt;!--
+OLD WAY (DO NOT USE)
+![alt_text](../../images/image_name.ext)
+*CAPTION*
+
+NEW WAY ↓↓↓↓
+&lt;figure>&lt;img src="../../images/image_name.ext"
+ alt="ALT_TEXT">&lt;figcaption>
+ &lt;h4>CAPTION&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+-->
+&lt;!--### Images-->
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>120-100 B.C.&lt;/p>
+&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;p>unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>F. Tinè Bertocchi (ed.), 1986, &lt;em>Roma e i Liguri&lt;/em>, Genova, 54-56.&lt;a href="http://www.worldcat.org/oclc/19745032">(worldcat)&lt;/a>&lt;/li>
+&lt;li>H. Mielsch, 1987, &lt;em>Die römische Villa: Architektur und Lebensform&lt;/em>, Munich, 175-177. &lt;a href="http://www.worldcat.org/oclc/1140555144">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/966420455">966420455&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7003143">7003143&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Jeffrey Becker&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>

@@ -1,10 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/eccles/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 17:53:24 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/britannia/eccles/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Eccles</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/eccles/eccles_rural_villa/</link><pubDate>Wed, 08 Jul 2020 17:53:24 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/britannia/eccles/eccles_rural_villa/</guid><description>Province Britannia
-Province Description Location Eccles
-Eccles (Pleiades)
-Garden Rural Villa in Eccles
-Keywords archaeological gardens ditches drains horticultural containers piscinae villae rusticae water baths Garden Description This country estate in modern Kent possessed a large ornamental pool (P in Fig. 1) in the area in front of the main residence (A in Fig. 1) and to the east of the attached bath house (Fig. 1). The masonry pool measuring 25 x 3.50 meters lay parallel to the house frontage. From the pool ran a masonry drain. Although no traces of bedding trenches or plantings have been detected in the yard around the pool, it might be assumed that the pool was a centerpiece of a garden (G in Fig. 1). Interestingly, in the backfill of a ditch under the southeast wing of the villa at least thirty planting pots were retrieved in excavations. The vessels had three knife-cut triangular holes in the lower body and a round hole through the base (Fig. 2, nest page). The pots were misfired and almost certainly manufactured in kilns near the villa in the decade after A.D. 50. Although the planting pots were not found in context in pits within a garden, it is clear that they were being produced locally for use at Eccles or other gardens nearby. Excavations have established that the estate was continually occupied from the middle of the 1st century until the 4th century. In its final 4th century form, the villa complex measured 89 x 116 meters, including its wings and the courtyard.
-Plans Fig. 1: Plan of the villa with the main house (A), a possible garden (G) and a large pool (P). Adapted from Detsicas 1983, fig. 25. Images Fig. 2: Clay planting pot with cut-out holes. Adapted from Detsicas 1981, fig. 26.2. Dates mid-1st to 4th century CE
-Bibliography A. Detsicas, The Cantiaci, Gloucester, 1983, pp. 103-107, fig. 20. (worldcat) R.J. Zeepvat, “Fishponds in Roman Britain,” in: M. Aston, ed., Medieval Fish, Fisheries and Fishponds in England. British Archaeological Reports, Brit. Ser. 182, Oxford, 1988, p. 18, fig. 2. (worldcat) A. Detsicas, “A group of pottery from Eccles, Kent,” in Roman Pottery Research in Britain and Northwest Europe, British Archaeological Reports, Int. Ser. 123, Oxford, 1981, pp. 441-445. Pleiades ID 79448
-TGN ID 1029144
-Contributor Maureen Carroll (ORCID: 0000-0001-9958-8032)
-Publication date 21 Apr 2021</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/eccles/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 17:53:24 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/province/britannia/eccles/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Eccles</title><link>https://roman-gardens.github.io/test-drafts/province/britannia/eccles/eccles_rural_villa/</link><pubDate>Wed, 08 Jul 2020 17:53:24 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/britannia/eccles/eccles_rural_villa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/britannia/">Britannia&lt;/a>&lt;/p>
+&lt;h2 id="province-description">Province Description&lt;/h2>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/britannia/eccles/">Eccles&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/79448">Eccles (Pleiades)&lt;/a>&lt;/p>
+&lt;!--### Location Description-->
+&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;!--## Sublocation-->
+&lt;!--
+[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
+-->
+&lt;!--### Sublocation Description-->
+&lt;!-- DESCRIPTION -->
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>Rural Villa in Eccles&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="#">archaeological gardens&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300006178">ditches&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052564">drains&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300198749">horticultural containers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300375619">piscinae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005518">villae rusticae&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300248755">water baths&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>This country estate in modern Kent possessed a large ornamental pool (P in Fig. 1) in the area in front of the main residence (A in Fig. 1) and to the east of the attached bath house (Fig. 1). The masonry pool measuring 25 x 3.50 meters lay parallel to the house frontage. From the pool ran a masonry drain. Although no traces of bedding trenches or plantings have been detected in the yard around the pool, it might be assumed that the pool was a centerpiece of a garden (G in Fig. 1). Interestingly, in the backfill of a ditch under the southeast wing of the villa at least thirty planting pots were retrieved in excavations. The vessels had three knife-cut triangular holes in the lower body and a round hole through the base (Fig. 2, nest page). The pots were misfired and almost certainly manufactured in kilns near the villa in the decade after A.D. 50. Although the planting pots were not found in context in pits within a garden, it is clear that they were being produced locally for use at Eccles or other gardens nearby. Excavations have established that the estate was continually occupied from the middle of the 1st century until the 4th century. In its final 4th century form, the villa complex measured 89 x 116 meters, including its wings and the courtyard.&lt;/p>
+&lt;!--### Maps-->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/eccles1.png"
+ alt="Fig. 1: Plan of the villa with the main house (A), a possible garden (G) and a large pool (P). Adapted from Detsicas 1983, fig. 25.">&lt;figcaption>
+ &lt;h4>Fig. 1: Plan of the villa with the main house (A), a possible garden (G) and a large pool (P). Adapted from Detsicas 1983, fig. 25.&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="images">Images&lt;/h3>
+&lt;figure>&lt;img src="../images/Eccles_Fig_2.jpg"
+ alt="Fig. 2: Clay planting pot with cut-out holes. Adapted from Detsicas 1981, fig. 26.2.">&lt;figcaption>
+ &lt;h4>Fig. 2: Clay planting pot with cut-out holes. Adapted from Detsicas 1981, fig. 26.2.&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>mid-1st to 4th century CE&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>A. Detsicas, &lt;em>The Cantiaci&lt;/em>, Gloucester, 1983, pp. 103-107, fig. 20. &lt;a href="http://www.worldcat.org/oclc/247009310">(worldcat)&lt;/a>&lt;/li>
+&lt;li>R.J. Zeepvat, “Fishponds in Roman Britain,” in: M. Aston, ed., &lt;em>Medieval Fish, Fisheries and Fishponds in England. British Archaeological Reports&lt;/em>, Brit. Ser. 182, Oxford, 1988, p. 18, fig. 2. &lt;a href="http://www.worldcat.org/oclc/490025716">(worldcat)&lt;/a>&lt;/li>
+&lt;li>A. Detsicas, “A group of pottery from Eccles, Kent,” in &lt;em>Roman Pottery Research in Britain and Northwest Europe, British Archaeological Reports&lt;/em>, Int. Ser. 123, Oxford, 1981, pp. 441-445.&lt;/li>
+&lt;/ul>
+&lt;!--#### Periodo ID-->
+&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/79448">79448&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/1029144">1029144&lt;/a>&lt;/p>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>&lt;a href="https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 2021&lt;/p>
+&lt;!--### Related articles-->
+&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>
