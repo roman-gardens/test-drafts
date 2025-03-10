@@ -19,7 +19,7 @@ body {
 }
 
 body.localhost {
-  background: #8cf;
+  background: #8c8;
 }
 
 body.test-a {
@@ -28,6 +28,10 @@ body.test-a {
 
 body.test-b {
   background: #f84;
+}
+
+body.test-drafts {
+  background: #8cf;
 }
 
 div.test-header {
