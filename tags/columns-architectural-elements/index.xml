@@ -49,33 +49,37 @@
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/hercules_musarum_fig1.jpg"
- alt="fragment from the Forma Urbis Romae showing a part of the Hercules Musarum complex, and inscribed with its name">&lt;figcaption>
- &lt;h4> Fig. 1. Temple of Hercules Musarum on a fragment of the Severan Marble Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig1.jpg" alt="fragment from the Forma Urbis Romae showing a part of the Hercules Musarum complex, and inscribed with its name" onclick="fullscreen(this)">
+ &lt;figcaption> Fig. 1. Temple of Hercules Musarum on a fragment of the Severan Marble Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/hercules_musarum_fig2.jpg"
- alt="fragment from the Forma Urbis Romae showing the corner of the Hercules Musarum complex">&lt;figcaption>
- &lt;h4> Fig. 2. Temple of Hercules Musarum on the Severan Marble Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig2.jpg" alt="fragment from the Forma Urbis Romae showing the corner of the Hercules Musarum complex" onclick="fullscreen(this)">
+ &lt;figcaption> Fig. 2. Temple of Hercules Musarum on the Severan Marble Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/hercules_musarum_fig3.jpg"
- alt="Base plan of the Hercules Musarum">&lt;figcaption>
- &lt;h4>Fig. 3. Base plan of the Temple of Hercules Musarum (Coarelli, 1997).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig3.jpg" alt="Base plan of the Hercules Musarum" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3. Base plan of the Temple of Hercules Musarum (Coarelli, 1997).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/hercules_musarum_fig4.jpg"
- alt="Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas">&lt;figcaption>
- &lt;h4>Figure 4. Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas (Coarelli, 1997, Figs. 113, 114).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig4.jpg" alt="Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 4. Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas (Coarelli, 1997, Figs. 113, 114).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 187 and 179 BCE; restoration and portico constructed in Late Republican era (post 33 BCE)&lt;/p>
@@ -135,35 +139,41 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
-&lt;!--### Plans
+&lt;!--
+### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/region-i-insula-vi.png"
- alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region-i-insula-vi.png" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_19_I.vi.11_13.9.59.jpg"
- alt="Fig. 3: I. vi. 13.9.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I. vi. 13.9.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_19_I.vi.11_13.9.59.jpg" alt="Fig. 3: I. vi. 13.9.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I. vi. 13.9.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -212,12 +222,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1912, 1926-27. Bombed in 1943.&lt;/p>
@@ -278,26 +289,29 @@ NEW WAY ↓↓↓↓
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/divorum_fig1.jpg"
- alt="Photograph of the Severan Forma Urbis depicting the Divorum">&lt;figcaption>
- &lt;h4>Fig. 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/divorum_fig2_edited.jpg"
- alt="Reconstructed plan of the Divorum">&lt;figcaption>
- &lt;h4>Fig. 2. Reconstructed plan of the Divorum. © Valerie Aymer.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. Reconstructed plan of the Divorum. © Valerie Aymer.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/divorum_fig3_placeholder.jpg"
- alt="Perspective view looking north along the central axis of the Divorum">&lt;figcaption>
- &lt;h4>Fig. 3. Perspective view looking north along the central axis. © Valerie Aymer.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3. Perspective view looking north along the central axis. © Valerie Aymer.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>80 CE&lt;/p>
@@ -479,12 +493,13 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
 &lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig1.jpg"
- alt="General Plan of Ostia Antica">&lt;figcaption>
- &lt;h4>Ostia Antica, General Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House of Amor and Psyche &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/868515126">House of Amor and Psyche (Pleiades)&lt;/a>&lt;/p>
@@ -506,30 +521,34 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>The entrance of this house (Fig. 1) (which takes its name from the statuary group found in room b) provides access to a large &lt;a href="http://vocab.getty.edu/page/aat/300004145">portico&lt;/a> (a) with four columns on marble bases, resting on a continuous marble-paneled &lt;a href="http://vocab.getty.edu/page/aat/300001989">balustrade&lt;/a> 50 cm high. To the right of the portico was an area believed to be a garden (&lt;a href="https://en.wiktionary.org/wiki/viridarium">&lt;em>viridarium&lt;/em>&lt;/a>) (c) terminating in a &lt;a href="http://vocab.getty.edu/page/aat/300006809">nymphaeum&lt;/a>. This consisted of a podium 1.10 m. high, paneled in white marble. Hewn into its front side are five deep circular niches. Four are paneled in white marble; only the central niche is panelled in green &lt;a href="https://en.wikipedia.org/wiki/Cipollino_marble">cipollino marble&lt;/a>. The architectural elevation of the nymphaeum rises from this podium (Fig. 2). Over four meters high, it consists of two rectangular alternating with three semicircular niches, framed by six marble columns with &lt;a href="https://en.wikipedia.org/wiki/Corinthian_order">Corinthian&lt;/a> capitals and rectangular travertine &lt;a href="http://vocab.getty.edu/page/aat/300001749">plinths&lt;/a>, from which little brick arches project. Five marble stepped gradients were placed between the bases of the columns. They formed miniature cascades: the water piped in by the lead conduit that ran along the bases of the niches flowed down over them. The water filled small rectangular basins and, flowing through &lt;a href="http://vocab.getty.edu/page/aat/300010669">terracotta&lt;/a> channels inside the podium, spouted from four outlets placed between the niches. The whole of the podium together with the stepped cascades was paneled in white marble and green &lt;em>cipollino&lt;/em>; the upper part, by contrast, was stuccoed and adorned with a &lt;a href="http://vocab.getty.edu/page/aat/300252261">polychrome&lt;/a> &lt;a href="http://vocab.getty.edu/page/aat/300015342">wall mosaic&lt;/a>. A tile-covered drain ran through the entire length of the podium.&lt;/p>
 &lt;p>The &lt;a href="https://en.wiktionary.org/wiki/viridarium">&lt;em>viridarium&lt;/em>&lt;/a> is the main source of light for all the rooms that face on it, including the large reception room (d) (Fig. 3). The house is a typical example of an Ostian patrician house of the early 4th century CE.&lt;/p>
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig3_colored.jpg"
- alt="Plan of the House of Amor and Psyche">&lt;figcaption>
- &lt;h4>Figure 1: Plan (after Becatti 1961).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig3_colored.jpg" alt="Plan of the House of Amor and Psyche" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 1: Plan (after Becatti 1961).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig4.jpg"
- alt="Photo of Nymphaeum">&lt;figcaption>
- &lt;h4>Figure 2: Nymphaeum (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig4.jpg" alt="Photo of Nymphaeum" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 2: Nymphaeum (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig5_better.jpg"
- alt="Axonometry">&lt;figcaption>
- &lt;h4>Figure 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig5_better.jpg" alt="Axonometry" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images_b/ostia_fig4b.jpg"
- alt="Section">&lt;figcaption>
- &lt;h4>Figure 4: Section (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig4b.jpg" alt="Section" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 4: Section (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives).&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -579,12 +598,13 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
 &lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig1.jpg"
- alt="General Plan of Ostia Antica">&lt;figcaption>
- &lt;h4>Ostia Antica, General Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House of the Fortuna Annonaria&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -615,30 +635,34 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>The large apsidal reception room (&lt;a href="http://vocab.getty.edu/page/aat/300080791">&lt;em>oecus&lt;/em>&lt;/a>) (Fig. 1, b), with two columns marking its entrance, was located in the western part of the house. The garden, with flowering plants, onto which it opens, formed its natural continuation. This, together with the &lt;a href="http://vocab.getty.edu/page/aat/300006809">&lt;em>nymphaeum&lt;/em>&lt;/a> that decorated the south side of the room, its rear wall articulated with alternating semicircular and rectangular &lt;a href="http://vocab.getty.edu/page/aat/300002704">niches&lt;/a> containing statues, provided a suitably splendid and prestige-enhancing setting for the public life of the owner, probably a wealthy trader.&lt;/p>
 &lt;p>The garden also forms the backdrop to the rooms in the east part of the house, a &lt;a href="http://vocab.getty.edu/page/aat/300004359">&lt;em>triclinium&lt;/em>&lt;/a> (Fig. 1, c) and a heated cubicle (Fig. 1, d), lit by a large window and decorated with a lavish black and white &lt;a href="http://vocab.getty.edu/page/aat/300015342">mosaic&lt;/a> floor with mythological scenes.&lt;/p>
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig20_better_colored.jpg"
- alt="Plan of the Fortuna Annonaria">&lt;figcaption>
- &lt;h4>Figure 1: Plan (after Boersma 1985).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig20_better_colored.jpg" alt="Plan of the Fortuna Annonaria" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 1: Plan (after Boersma 1985).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig21_better.jpg"
- alt="Axonometry of the Fortuna Annonaria">&lt;figcaption>
- &lt;h4>Figure 2: Axonometry (from Boersma 1985).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig21_better.jpg" alt="Axonometry of the Fortuna Annonaria" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 2: Axonometry (from Boersma 1985).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig22.jpg"
- alt="The garden seen from the oecus">&lt;figcaption>
- &lt;h4>Figure 3: The garden seen from the oecus (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig22.jpg" alt="The garden seen from the oecus" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 3: The garden seen from the oecus (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig23.jpg"
- alt="Well head with bucrania">&lt;figcaption>
- &lt;h4>Figure 4: Well head with bucrania (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig23.jpg" alt="Well head with bucrania" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 4: Well head with bucrania (PA-OAnt, Photo Archive).&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd century CE to 4th century CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -689,12 +713,13 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
 &lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig1.jpg"
- alt="General Plan of Ostia Antica">&lt;figcaption>
- &lt;h4>Ostia Antica, General Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House of the Thunderbolt (Domus Fulminata) &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1554484">House of the Thunderbolt (Pleiades)&lt;/a>&lt;/p>
@@ -719,30 +744,34 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>The residential rooms of the &lt;a href="http://vocab.getty.edu/page/aat/300005506">&lt;em>domus&lt;/em>&lt;/a> were placed on its upper floor. Some experts think that the main reception rooms should be identified in the wing facing onto the northwest side of the garden. However, not everyone agrees that the House of the Thunderbolt was a private residential building. It could also have been the site of a college or corporation, which some archaeologists connect with the nearby sanctuary of the &lt;a href="https://en.wikipedia.org/wiki/Bona_Dea">Bona Dea&lt;/a>. The rooms aligned along the eastern side, all intercommunicating, would have been, in this case, the ceremonial rooms of the college, whereas the residential sector of the building would be identifiable in the rooms on the western side.&lt;/p>
 &lt;p>The house is one of the most interesting examples of the transition from the atrium peristyle house of &lt;a href="http://vocab.getty.edu/page/aat/300020537">Republican&lt;/a> tradition to the house with a colonnaded courtyard typical of Ostian residential architecture in the 2&lt;sup>nd&lt;/sup> century CE.&lt;/p>
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig8_better_colored.jpg"
- alt="Plan of Domus Fulminata">&lt;figcaption>
- &lt;h4>Figure 1: Plan (after Calza 1953).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig8_better_colored.jpg" alt="Plan of Domus Fulminata" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 1: Plan (after Calza 1953).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig9.jpg"
- alt="Photo of the garden of the Domus Fulminata in 1941">&lt;figcaption>
- &lt;h4>Figure 2: Garden, 1941 (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig9.jpg" alt="Photo of the garden of the Domus Fulminata in 1941" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 2: Garden, 1941 (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images_b/ostia_fig12b.jpg"
- alt="Basin shaped as a well head in the garden of the Domus Fulminata">&lt;figcaption>
- &lt;h4>Figure 3: Basin shaped as a well-head (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig12b.jpg" alt="Basin shaped as a well head in the garden of the Domus Fulminata" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 3: Basin shaped as a well-head (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images_b/ostia_fig13b_threshold.jpg"
- alt="Section of the basin in th">&lt;figcaption>
- &lt;h4>Figure 4: Section of the basin (from Ricciardi, Scrinari 1996).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig13b_threshold.jpg" alt="Section of the basin in th" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 4: Section of the basin (from Ricciardi, Scrinari 1996).&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>&lt;a href="https://en.wikipedia.org/wiki/Flavian_dynasty">Flavian period&lt;/a> &lt;br>
 150-200 CE&lt;/p>
@@ -791,12 +820,13 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
 &lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig1.jpg"
- alt="General Plan of Ostia Antica">&lt;figcaption>
- &lt;h4>Ostia Antica, General Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Piazzale della Corporazioni &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/489630692">The Forum of Corporations (Pleiades)&lt;/a>&lt;/p>
@@ -828,30 +858,34 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>During the excavations of &lt;a href="https://it.wikipedia.org/wiki/Dante_Vaglieri">Dante Vaglieri&lt;/a> (1910-1913), a system of conduits was identified. It was linked to a large &lt;a href="http://vocab.getty.edu/page/aat/300006122">sewer&lt;/a> that ran underground at the center of the garden area, sloping downwards from south to north in the direction of the Tiber (Fig. 3). Two conduits parallel to the central sewer ran in front of the &lt;a href="https://en.wiktionary.org/wiki/statio#Latin">&lt;em>stationes&lt;/em>&lt;/a>. At garden level there were two long gutters that collected rainwater from the roof of the portico. Two basins (respectively 3.10x2.90 and 3.45x3.35 m) at ground level were identified on the southern side of the garden; they were paved with &lt;a href="http://vocab.getty.edu/page/aat/300379969">&lt;em>opus signinum&lt;/em>&lt;/a> on the inside and probably panelled in marble.&lt;/p>
 &lt;p>In October 1912 Dante Vaglieri began the reconstruction of the garden at the center of the Piazzale delle Corporazioni (Fig. 4). He commissioned a famous landscape architect of the period to create a garden with rectangular &lt;a href="http://vocab.getty.edu/page/aat/300184573">parterres&lt;/a> of various size which retraced in part the layout of the allées and &lt;a href="http://vocab.getty.edu/page/aat/300239937">flower-beds&lt;/a> of the ancient garden: “This garden, reconstructed by one of our cleverest landscape artists, with its display of classic bushes and flowers, its colonnade lining the four sides of the square, and its array of statues of eminent men, bankers, merchants, magistrates, harbour-masters, &amp;amp;c., has become the chief attraction to the visitors of Ostia…” The leading experts in garden architecture of the period included Pier Andrea and Domenico Saccardi: perhaps one of them was the “cleverest landscape artist.”&lt;/p>
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images_b/ostia_piazzale_fig1.jpg"
- alt="Plan of the Piazzale della Corporazioni from Calza 1953">&lt;figcaption>
- &lt;h4>Figure 1: Plan of the Piazzale della Corporazioni (from Calza 1953).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_piazzale_fig1.jpg" alt="Plan of the Piazzale della Corporazioni from Calza 1953" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 1: Plan of the Piazzale della Corporazioni (from Calza 1953).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images_b/ostia_piazzale_fig2.jpg"
- alt="Plan of the Piazzale della Corporazioni from Lanciani 1881">&lt;figcaption>
- &lt;h4>Figure 2: Plan of the Piazzale della Corporazioni (from Lanciani 1881).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_piazzale_fig2.jpg" alt="Plan of the Piazzale della Corporazioni from Lanciani 1881" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 2: Plan of the Piazzale della Corporazioni (from Lanciani 1881).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images_b/ostia_piazzale_fig3.jpg"
- alt="Sketch of the drainage system found below the Piazzale">&lt;figcaption>
- &lt;h4>Figure 3: Sketch of the drainage system found below the Piazzale (from Giornale degli Scavi 1912).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_piazzale_fig3.jpg" alt="Sketch of the drainage system found below the Piazzale" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 3: Sketch of the drainage system found below the Piazzale (from Giornale degli Scavi 1912).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images_b/ostia_piazzale_fig4.jpg"
- alt="Photo of the garden in 1912">&lt;figcaption>
- &lt;h4>Figure 4: The modern garden, 1912 (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_piazzale_fig4.jpg" alt="Photo of the garden in 1912" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 4: The modern garden, 1912 (PA-OAnt, Photo Archive).&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Augustan period &lt;br>
 Claudian period &lt;br>
@@ -909,12 +943,13 @@ Domitianic period&lt;/p>
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This garden was placed to the east of the Palace and, looking the Valley of Tempe, was sustained by a huge wall (Fig. 1, 15). Now nothing of it is left, but in ancient times a long portico ran all along the eastern side of the terrace. For what is written in Contini's notes, in 1658 many columns of gray marble with corinthian capitals were still standing in the place. Afterwards, Piranesi (who, in 1781, surveyed Villa Adriana, and published a new map of it) found that some of them had been brought to the Vatican Museums. Today only the beautiful view from the terrace and the considerable presence of lead in the soil (SALZA PRINA RICOTTI 1994-95, fig. 7) denounces the presence of this ancient garden.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/1_gardens_general_plan.jpg"
- alt="Plan of the gardens at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 118 and 138 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -980,55 +1015,63 @@ Domitianic period&lt;/p>
 &lt;p>The Canopus (Fig. 2 and 3) is perhaps the most important of all Villa Adriana's gardens (JASHEMSKI, SALZA PRINA RICOTTI 1987-88, pp. 152-162, fig. 11-15; JASHEMSKI, SALZA PRINA RICOTTI 1992, pp. 579-585, tavv. I-IV; SALZA PRINA RICOTTI 1998, pp. 374-383, fig. 9-13; SALZA PRINA RICOTTI 2000, pp. 323-324, fig. 80-81, 87, 134-135). It was set at the principal entrance through which Hadrian's important guests were introduced when they came to visit the emperor. Thus the breathtaking view of the Canopus was the first impression visitors received entering this imperial residence. Their glance ran along the narrow valley set at the South side of Villa Adriana's principal entry. An imposing waterway occupied all its length (Fig. 4). Columns and white marble statues reflected themselves in its blue water, and two statuary groups, both representing Scylla in the act of killing Ulysses' mates, emerged from the canal. It was here that Hadrian held his most important receptions and the banquets that, from time to time, he offered to his subjects (MART. 8.49; 9.91). As in ancient Rome dinner began around two o' clock p.m., and as, at this moment, the sun was still very high and very hot, a portico ran along the eastern bank offering its shade to those guests who had to dine on the sunny side (Fig. 2, A). On the opposite one, which was already protected by the hill, there was no portico (Fig. 2, B), but four beautiful copies of the Erecteum's Caryatids and of two Sylens were set on the canal's edge and were reflected on the water (SALZA PRINA RICOTTI 1987, pp. 175-178, figs. 13-20, 35-37). The spectacle was superb: the golden color of the portico's columns, fashioned in the yellow marble of Shimtou, stood out against the green of the well-cut hedges of box-tree that bordered the lowest part of the valley (SALZA PRINA RICOTTI 2000a), while high terraces rose at its two sides scaling the surrounding hills (Figg. 4 and 5) To complete the landscaping, a monumental &lt;em>exedra&lt;/em>, (Fig. 6) and two elegant pavilion set at its sides (Figg. 2. D and D1 7) decorated the end of the valley (Fig. 2, C). In the old times the exedra was coated with polished marbles and multicolored mosaics. Some of its niches hosted imposing statues and large waterfalls flowed by other ones, while back, at the end of a central long gallery, a powerful cascade fed the outlying waterway (Fig. 2, E). Nothing could have been more pleasant and at the same time more imposing than the Canopus.&lt;/p>
 &lt;p>Then excavations in the valley showed the existence of two long flower beds that were set on the two side of the canal (Fig. 8) and in them both we and the Danish archaeologists found amphoras cut in two and with large holes on their sides to let the plant kept in them to branch their roots in the soil and remain strong and flourishing. Our probes are marked on the plan (Fig 2. m; n; o; p; q).&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/1_gardens_general_plan.jpg"
- alt="Plan of the gardens at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/2_the_canopus_plan.jpg"
- alt="Plan of the Canopus at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 2: The Canopus plan, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/2_the_canopus_plan.jpg" alt="Plan of the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: The Canopus plan, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/3_canopus_autocad.jpg"
- alt="Autocad rendering of the Canopus at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 3: Autocad rendering of the Canopus, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/3_canopus_autocad.jpg" alt="Autocad rendering of the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Autocad rendering of the Canopus, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/5_canopus_isometric.jpg"
- alt="Isometric plan of the Canopus at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 5: Isometry of the Canopus, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/5_canopus_isometric.jpg" alt="Isometric plan of the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: Isometry of the Canopus, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/4_the_canal.jpg"
- alt="Photograph of the canal at the Canopus at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 4: The canal at the Canopus, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/4_the_canal.jpg" alt="Photograph of the canal at the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: The canal at the Canopus, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/6_central_gallery.jpg"
- alt="Photograph of the central gallery at the Canopus at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 6: The central gallery at the Canopus, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/6_central_gallery.jpg" alt="Photograph of the central gallery at the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6: The central gallery at the Canopus, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/7_lateral_pavilion.jpg"
- alt="Photograph of the lateral pavilion at the Canopus at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 7: The lateral pavilion at the Canopus, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/7_lateral_pavilion.jpg" alt="Photograph of the lateral pavilion at the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 7: The lateral pavilion at the Canopus, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/8_the_excavation.jpg"
- alt="Photograph of the excavation at the Canopus at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 8: The excavation at the Canopus, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/8_the_excavation.jpg" alt="Photograph of the excavation at the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 8: The excavation at the Canopus, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 118 and 138 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -1095,31 +1138,35 @@ Domitianic period&lt;/p>
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The Pecile (Fig. 20) was never excavated as a garden. Thus, today, we have only the large pond, 30 m wide x 116 m long (Fig. 21) which hosts a flock of white geese (Fig. 20, A). A garden must have been spread all around it, but its flowerbeds need still to be investigated (SALZA PRINA RICOTTI 2000, pp. 139-141, fig. 45). If, as in Villa Adriana often happens, they have been dug in the tufa platform, sooner or later we will be able to see their shapes and reconstruct the garden's appearance. For the moment we have to be content with the dark green bushes which, cut in the shape of columns, mark the spots once occupied by the ones of the monumental peristyle 100 m wide and 248 m long. On the northern side of the Pecile, we can still admire the long wall around which, once, ran the double portico used by the Emperor for his daily strolls (Fig. 20, B): three spins around the central wall corresponded to a mile as written on a marble slate (HÜLSEN 1896; MANCINI 1952; COARELLI 1997, pp. 207-209). He could circle around it as many times as his doctor had prescribed him to do (Fig. 22). According to ancient Romans' belief, long walks offered an opportunity to exercise and were necessary to preserve both health and fitness. At the western end of the Pecile, a pillared Belvedere offered to Villa Adriana's inhabitants the possibility to rest from time to time admiring the underlying plain and the city of Rome far away on the horizon.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/1_gardens_general_plan.jpg"
- alt="Plan of the gardens at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/20_pecile_isometry.jpg"
- alt="Isometric plan of the Pecile Garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 20: Isometry of the Pecile, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/20_pecile_isometry.jpg" alt="Isometric plan of the Pecile Garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 20: Isometry of the Pecile, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/21_pecile_pond.jpg"
- alt="Photograph of the pond of the Pecile Garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 21: The pond of the Pecile Garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/21_pecile_pond.jpg" alt="Photograph of the pond of the Pecile Garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 21: The pond of the Pecile Garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/22_pecile_wall.jpg"
- alt="Photograph of the wall at the northern side of the Pecile Garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 22: The wall of the Pecile Garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/22_pecile_wall.jpg" alt="Photograph of the wall at the northern side of the Pecile Garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 22: The wall of the Pecile Garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 118 and 138 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -1193,28 +1240,31 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/region-i-insula-8.jpg"
- alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region-i-insula-8.jpg" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1304,59 +1354,66 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
- alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_41_I.vii.11_12_11.32.59.jpg"
- alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_41_I.vii.11_12_11.32.59.jpg" alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_42_I.vii.12_14.3.68.jpg"
- alt="Fig. 4: I.vii. 14.3.68, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 4: I.vii. 14.3.68, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_42_I.vii.12_14.3.68.jpg" alt="Fig. 4: I.vii. 14.3.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: I.vii. 14.3.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_43_I.vii.11_33.27.61.jpg"
- alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 5: I.vii. 33.27.61, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_43_I.vii.11_33.27.61.jpg" alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: I.vii. 33.27.61, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_44_I.vii.11_12_11.33.59.jpg"
- alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_44_I.vii.11_12_11.33.59.jpg" alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1912 and 1925.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -1425,52 +1482,58 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
- alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_38_I.vii.7_13.18.59.jpg"
- alt="Fig. 3: I.vii. 13.18.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I.vii. 13.18.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_38_I.vii.7_13.18.59.jpg" alt="Fig. 3: I.vii. 13.18.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I.vii. 13.18.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_39_I.vii.7_22.12.68.jpg"
- alt="Fig. 4: I.vii. 22.12.68, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 4: I.vii. 22.12.68, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_39_I.vii.7_22.12.68.jpg" alt="Fig. 4: I.vii. 22.12.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: I.vii. 22.12.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_40_I.vii.7_22.22.68.jpg"
- alt="Fig. 5: I.vii. 22.22.68, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 5: I.vii. 22.22.68, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_40_I.vii.7_22.22.68.jpg" alt="Fig. 5: I.vii. 22.22.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: I.vii. 22.22.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1912 and 1924.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

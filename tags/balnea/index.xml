@@ -43,12 +43,13 @@
 &lt;!-- -->
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/severan_complex_fig1.jpg"
- alt="Plan of the Palatine">&lt;figcaption>
- &lt;h4>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/severan_complex_fig1.jpg" alt="Plan of the Palatine" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;p>###Dates&lt;/p>
 &lt;p>1st century CE to 4th century CE&lt;/p>
@@ -77,12 +78,13 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/cuicul/">Cuicul&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/305068">Cuicul (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/cuicul_house_of_asinus_nica.jpg"
- alt="Plan of Cuicul.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_asinus_nica.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
 &lt;!--## Sublocation-->
@@ -106,19 +108,21 @@
 &lt;p>The open area of this peristyle garden, about 9 by 8.5 meters in size, is enclosed by 1 meter-high walls and divided into compartments. Some these were pools, as we can still see hydraulic mortar inside. From the semi-circular pool, a rilled wall brought water to a lower pool, shaped as half a concave octagon. The eastern compartment was a pool that may have been decorated with a water spout, of which only bases remain. It contained a smaller pool, rectangular with two niches. In the western compartment, no mortar was found; it was certainly planted. Four quoining pillars, standing directly on the rock, and eight columns, sitting on low walls, supported the four porticoes that were paved with geometrical mosaics.&lt;/p>
 &lt;p>The house lacked wide-open views from exedra and from the galleries towards the pools and the gardens. This irregularity can be explained by the presence of a first floor opening directly onto the Cardo Maximus, the existence of which is shown by a staircase with seven steps. A reception room was located on the first floor, so that the enclosed garden and the pools could be seen through windows or galleries from the upper floor. From this elevation, the luxurious decoration and lavish use of water would have been seen to full effect.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_asinus_nica_plan1.jpg"
- alt="Plan of the House of Asinus Nica.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Asinus Nica (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_plan1.jpg" alt="Plan of the House of Asinus Nica." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Asinus Nica (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_asinus_nica_photo.jpg"
- alt="View of the garden.">&lt;figcaption>
- &lt;h4>Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_photo.jpg" alt="View of the garden." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd-5th century CE&lt;/p>
 &lt;!--#### Excavation Dates
@@ -145,12 +149,13 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/cuicul/">Cuicul&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/305068">Cuicul (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/cuicul_house_of_europa.jpg"
- alt="Plan of Cuicul.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_europa.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
 &lt;!--## Sublocation-->
@@ -174,25 +179,28 @@
 &lt;p>Room 18 enjoyed a spectacular view toward the terraced fountains and plants. It was paved with mosaics from both the early and late Empire periods, remnants of which have been found. In the fifth century, room 13 was transformed into a triclinium opening towards the west and was paved with a mosaic of Europa.&lt;/p>
 &lt;p>Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century, a terrace overlooked the peristyle courtyard towards the south. It might have been used as a hanging garden, possibly decorated with potted plants.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_europa_plan1.jpg"
- alt="Plan of the House of Europa.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Europa (Blanchard-Lemée, M., 1975, fig.49)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plan1.jpg" alt="Plan of the House of Europa." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Europa (Blanchard-Lemée, M., 1975, fig.49)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_europa_plant1.jpg"
- alt="View of the peristyle of the house.">&lt;figcaption>
- &lt;h4>Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant1.jpg" alt="View of the peristyle of the house." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/house_of_europa_plant.jpg"
- alt="View of planter d.">&lt;figcaption>
- &lt;h4>Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant.jpg" alt="View of planter d." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd-5th century CE&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
@@ -265,45 +273,51 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;p>{&amp;lt; figure src=&amp;quot;../images/sirmio-2.jpg&amp;quot; alt=&amp;quot;Fig. 2: Plan of House of Grotto of Catullus.&amp;quot; title=&amp;quot;Fig. 2: Plan of House of Grotto of Catullus&amp;quot; &amp;gt;}}&lt;/p>
-&lt;figure>&lt;img src="../images/sirmio-3.jpg"
- alt="Fig. 3: Plan of the residential rooms.">&lt;figcaption>
- &lt;h4>Fig. 3: Plan of the residential rooms&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-3.jpg" alt="Fig. 3: Plan of the residential rooms." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Plan of the residential rooms&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-5.jpg"
- alt="Fig. 5: Aerial view of vast olive grove.">&lt;figcaption>
- &lt;h4>Fig. 5: Aerial view of vast olive grove&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-5.jpg" alt="Fig. 5: Aerial view of vast olive grove." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: Aerial view of vast olive grove&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-7.jpg"
- alt="Fig. 7:Aerial view of courtyard-viridarium.">&lt;figcaption>
- &lt;h4>Fig. 7: Aerial view of courtyard-viridarium&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-7.jpg" alt="Fig. 7:Aerial view of courtyard-viridarium." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 7: Aerial view of courtyard-viridarium&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-11.jpg"
- alt="Fig. 11: statue of a Dioscuros.">&lt;figcaption>
- &lt;h4>Fig. 11: statue of a Dioscuros&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-11.jpg" alt="Fig. 11: statue of a Dioscuros." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 11: statue of a Dioscuros&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-12.jpg"
- alt="Fig. 12: Figure of Plant fossils.">&lt;figcaption>
- &lt;h4>Fig. 12: Figure of Plant fossils&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-12.jpg" alt="Fig. 12: Figure of Plant fossils." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 12: Figure of Plant fossils&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -364,12 +378,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_ix/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>

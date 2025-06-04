@@ -18,12 +18,13 @@
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>When this house was excavated in 1826, Fiorelli determined that after the earthquake it had been divided into two separated residences. The southeast corner was the location of a garden (a) that had a portico on three sides with columns connected by a low wall and pilasters on the south wall.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/fig.5._region_viii._insula_iii.png"
- alt="Plan of Region VIII Insula III">&lt;figcaption>
- &lt;h4>Plan of Region VIII Insula III&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_iii/fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Region VIII Insula III&lt;/figcaption>
+&lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>

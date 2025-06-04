@@ -38,20 +38,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_the_gilded_stones.png"
- alt="Plan of House of the Gilded Stones">&lt;figcaption>
- &lt;h4>Plan of House of the Gilded Stones&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/house_of_the_gilded_stones.png" alt="Plan of House of the Gilded Stones" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of House of the Gilded Stones&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>A.D. 20 – A.D. 60&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -124,12 +126,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;!--
@@ -138,12 +141,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;!--
@@ -152,12 +156,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>B.C. 20 - A.D. 20&lt;/p>
@@ -231,20 +236,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/House%20of%20the%20Large%20Peristyle.png"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>house of the large peristyle&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/House%20of%20the%20Large%20Peristyle.png" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>house of the large peristyle&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
 OLD WAY (DO NOT USE)
@@ -252,12 +259,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>A.D. 20-A.D 60&lt;/p>
@@ -328,12 +336,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;!--
@@ -342,12 +351,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;!--
@@ -356,12 +366,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>A.D. 185-A.D 247&lt;/p>
@@ -436,12 +447,13 @@ North of the peristyle, in the center of the main building, was one of the main 
  Farther north, a portico [20] opens onto an esplanade [19] which makes the transition from one of the former houses to the other. The level of this free space was 1.4 meters above that of the garden ahead; stairs to the left and right led down. This second large garden (35 x 30 m), open towards the south, is surrounded on the other three sides by a peristyle with porticoes 3.7 meters wide. A channel pool 1.5 meters wide runs around the three sides of the peristyle. It has been proposed to see in room [25] (54 m2) a cold-weather dining room. The west gallery of the portico opened through three doors to the rooms of the building to the northwest. The space [28], with a pounded earth floor may have been intended as another reception room that was not finished. Beyond the corridor [31] there may have been more open space.&lt;/p>
 &lt;p>Phase III, from around the end of the first century, carried the ideas of Phase II into the first or southern peristyle garden. The pool in the center was converted into space for planting while a U-shaped channel pull was run around the east, south and west sides, while a wider, separate, rectangular pool ran along the north side. The south side had an apse projecting into the garden.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;p>NEW WAY ↓↓&lt;figure>&lt;img src="../images/house_of_vestibule_with_columns_phase_1.png"
- alt="Plang of House of Vestibule with Columns ">&lt;figcaption>
- &lt;h4>plan of House of Vestibule with Columns&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-&lt;/p>
+&lt;p>NEW WAY ↓↓
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/house_of_vestibule_with_columns_phase_1.png" alt="Plang of House of Vestibule with Columns " onclick="fullscreen(this)">
+ &lt;figcaption>plan of House of Vestibule with Columns&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>A.D. 60 -A.D. 185&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -505,20 +517,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_b_under_the_high_school.png"
- alt="Plan of House B under the High School">&lt;figcaption>
- &lt;h4>Plan of La Plaine, House B under the High School&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/house_b_under_the_high_school.png" alt="Plan of House B under the High School" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of La Plaine, House B under the High School&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
 OLD WAY (DO NOT USE)
@@ -526,12 +540,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -599,20 +614,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/la_plaine_house_a_under_the_high_school.png"
- alt="Plan of La Plaine, House A under the High School">&lt;figcaption>
- &lt;h4>Plan of La Plaine, House A under the High School&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/la_plaine_house_a_under_the_high_school.png" alt="Plan of La Plaine, House A under the High School" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of La Plaine, House A under the High School&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ol>
@@ -681,32 +698,36 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_the_columns_phase1.png"
- alt="Plan of House of the columns_phase1">&lt;figcaption>
- &lt;h4>Fig. 1 Plan of House of the columns_phase1&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/house_of_the_columns_phase1.png" alt="Plan of House of the columns_phase1" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1 Plan of House of the columns_phase1&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/house_of_the_columns_phase2.png"
- alt="Plan of House of the columns_phase2">&lt;figcaption>
- &lt;h4>Fig. 2 Plan of House of the columns_phase2&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/house_of_the_columns_phase2.png" alt="Plan of House of the columns_phase2" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2 Plan of House of the columns_phase2&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/house_of_the_columns_phase3.png"
- alt="Plan of House of the columns_phase3">&lt;figcaption>
- &lt;h4>Fig. 3 Plan of House of the columns_phase2&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/house_of_the_columns_phase3.png" alt="Plan of House of the columns_phase3" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3 Plan of House of the columns_phase2&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ol>
@@ -769,12 +790,13 @@ NEW WAY ↓↓↓↓
 &lt;p>Phase II: This phase (called the House of the Five Mosaics by those who call the first phase the House of the Off-center Pool), dates from the end of the second century, probably from 160 - 180. Although more luxurious than the first phase, it nevertheless kept the plan of the original. The covered area was enlarged to 293 square meters; but the garden, though reduced, remained central. The entrance [1] was shifted towards the south and got a more monumental gate 4.25 meter wide. In the southern wing, the main interior walls were rotated from their eastern end to be perpendicular to the north-south walls, with the result that the covered area was enlarged at the expense of the garden, which was reduced to 10-by-8 meters. It was bordered on the north and east by 1.5-meter-wide galleries, while the gallery to the south, though only 1.3 meters wide, had a floor of &lt;em>opus sectile&lt;/em>. The east portico [2] became the only way to get from one of groups of rooms to the other. The garden received a U-shaped rill pool lined with white marble; the branches were of different length and less than a meter wide. The space left free at the end of the northern branch of the pool was the only access to the central part of the garden. In the two corners of the pool were found socles for some decorative elements, perhaps statues or fountains. Some parts of valves were found in the overflow from the pool.
 In the south wing, a large room [8] (7.5 x 7.0 m) opened onto the axis of the garden. With a mosaic of the &lt;em>xenia&lt;/em> type, it apparently served as the &lt;em>triclinium&lt;/em>. To the east, at the south end of the eastern gallery, was a smaller reception room for visitors [7] (4.0 x 4.5 m). The almost square (5 x 5 m) room [12] at the west end of the northern wing may have been, in the opinion of the excavators, a more familial, every-day &lt;em>triclinium&lt;/em>. The house was occupied into the third century, but must have been abandoned, like the rest of the quarter, in the middle of that century.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_with_the_five_mosaics.png"
- alt="Plan of House with the Five Mosaics">&lt;figcaption>
- &lt;h4>Plan of house with five mosaics&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/house_with_the_five_mosaics.png" alt="Plan of House with the Five Mosaics" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of house with five mosaics&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ol>
@@ -850,20 +872,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_with_the_painted_portico.png"
- alt="Plan of House with the Painted Portico">&lt;figcaption>
- &lt;h4>Plan of house with the painted portico&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/house_with_the_painted_portico.png" alt="Plan of House with the Painted Portico" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of house with the painted portico&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ol>
@@ -918,20 +942,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_sucellus.png"
- alt="Plan of House of Sucellus">&lt;figcaption>
- &lt;h4>Plan of House of Sucellus&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/house_of_sucellus.png" alt="Plan of House of Sucellus" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of House of Sucellus&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>It was completely uncovered in 1987 so that its lines might be respected in the building above it, and then covered over to protect it during construction.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -993,20 +1019,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/House%20of%20the%20Fishpond.png"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>house of the fishpond&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/House%20of%20the%20Fishpond.png" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>house of the fishpond&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
 OLD WAY (DO NOT USE)
@@ -1014,12 +1042,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -1085,20 +1114,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/the_house_of_the_lion.png"
- alt="Plan of The House of the Lion">&lt;figcaption>
- &lt;h4>Plan of the house of the lion&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_roman_en-gal/the_house_of_the_lion.png" alt="Plan of The House of the Lion" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the house of the lion&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>It was completely uncovered in 1987 so that its lines might be respected in the building above it, and then covered over to protect it during construction.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

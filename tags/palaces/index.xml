@@ -40,19 +40,21 @@
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/vigna_barberini_fig1.jpg"
- alt="Aerial photograph of the Vigna Barberini">&lt;figcaption>
- &lt;h4>Fig. 1. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/vigna_barberini_fig2.jpg"
- alt="Plan of the Vigna Barberini">&lt;figcaption>
- &lt;h4>Fig. 2. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st century BCE- 2nd century CE&lt;/p>

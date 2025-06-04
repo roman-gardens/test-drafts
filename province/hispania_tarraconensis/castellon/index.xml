@@ -26,28 +26,31 @@ A sublocation is any area larger than an individual garden, but located within a
 The villa from the middle of the 2nd century evolved around a peristyle garden with a large circular pool, 7.6 meters in inside diameter, in the middle. A paved corridor led to the pool from the north gallery of the peristyle. There were baths and two rooms with mosaic floors. Most rooms, however, had floors of hammered earth.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/castellon/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_nul_v_benicato_fig1.jpg"
- alt="Plan of Villa de Benicató at Nules, Castellón Province, Spain">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Villa de Benicto. Adapted from Gorges, Planche XXXIV.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/castellon/his_tar_nul_v_benicato_fig1.jpg" alt="Plan of Villa de Benicató at Nules, Castellón Province, Spain" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Villa de Benicto. Adapted from Gorges, Planche XXXIV.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/castellon/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Dates-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

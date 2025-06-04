@@ -25,27 +25,30 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>There is a circular pool in the center of the peristyle in this grand house (Fig. 5). The date of this pool may belong to the substantial refashioning of the dwelling in the third century A. D.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg"
- alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement">&lt;figcaption>
- &lt;h4>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
-&lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/figure5.jpg"
- alt="Fig. 5 Palermo, Piazza della Vittoria, plans of houses A, B and C">&lt;figcaption>
- &lt;h4>Fig. 5 Palermo, Piazza della Vittoria, plans of houses A, B and C&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
+&lt;!--
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" onclick="fullscreen(this)">
+ &lt;figcaption>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/figcaption>
+&lt;/figure>-->
+&lt;h3 id="images">Images&lt;/h3>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/figure5.jpg" alt="Fig. 5 Palermo, Piazza della Vittoria, plans of houses A, B and C" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5 Palermo, Piazza della Vittoria, plans of houses A, B and C&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;p>R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, p. 127 with references, and p. 121, fig. 109.8. &lt;a href="http://www.worldcat.org/oclc/608028740">(worldcat)&lt;/a>&lt;/p>
@@ -85,27 +88,30 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>A pool, still frescoed in blue, has recently been uncovered at the south end of the peristyle, no doubt opposite the principal room of the south range (which remains to be excavated) of this house, which lies adjacent to houses A and C. The excavation is not yet published and does not appear on Fig. 5.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg"
- alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement">&lt;figcaption>
- &lt;h4>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
-&lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/figure5.jpg"
- alt="Fig. 5 Palermo, Piazza della Vittoria, plans of houses A, B and C">&lt;figcaption>
- &lt;h4>Fig. 5 Palermo, Piazza della Vittoria, plans of houses A, B and C&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
+&lt;!--
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" onclick="fullscreen(this)">
+ &lt;figcaption>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/figcaption>
+&lt;/figure>-->
+&lt;h3 id="images">Images&lt;/h3>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/figure5.jpg" alt="Fig. 5 Palermo, Piazza della Vittoria, plans of houses A, B and C" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5 Palermo, Piazza della Vittoria, plans of houses A, B and C&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;!--#### Periodo ID-->
@@ -144,27 +150,30 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>There is a rectangular tank or fountain set against the rear wall of a small internal court (Fig. 5) in this almost totally unexcavated house, which lies back to back with the house containing garden 4.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg"
- alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement">&lt;figcaption>
- &lt;h4>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
-&lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/figure5.jpg"
- alt="Fig. 5 Palermo, Piazza della Vittoria, plans of houses A, B and C">&lt;figcaption>
- &lt;h4>Fig. 5 Palermo, Piazza della Vittoria, plans of houses A, B and C&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
+&lt;!--
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" onclick="fullscreen(this)">
+ &lt;figcaption>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/figcaption>
+&lt;/figure>-->
+&lt;h3 id="images">Images&lt;/h3>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/figure5.jpg" alt="Fig. 5 Palermo, Piazza della Vittoria, plans of houses A, B and C" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5 Palermo, Piazza della Vittoria, plans of houses A, B and C&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;p>R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, p. 127 with references, and p. 121, fig. 109.8. &lt;a href="http://www.worldcat.org/oclc/608028740">(worldcat)&lt;/a>&lt;/p>
@@ -204,28 +213,31 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>In private housing at this site on the east coast no excavation has so far been attempted to reveal the presence of gardens, and little is known of the arrangements for running water in houses to irrigate such gardens or to supply ornamental pools and fountains. This town house has a small rectangular pool with a small semicircular recess (Farrar Type B) at the south end of the garden peristyle, facing what was presumably the principal dining room at the south end of the house. The precise date is uncertain.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg"
- alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement">&lt;figcaption>
- &lt;h4>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;!--
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" onclick="fullscreen(this)">
+ &lt;figcaption>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -267,33 +279,37 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>In the Roman period, the clearest evidence for the presence of a formal garden in a public place comes from Syracuse, where an impressive piazza, 175 by 45 meters, was laid out early in the Augustan period on the west side of the third-century B. C. Altar of Hieron (Fig. 2). A U-shaped stoa was erected on three sides, with fourteen columns on the short sides and sixty-four on the long; the Altar itself formed the fourth. Within the area enclosed by this portico, a large rectangular basin was erected in the center, with steps at the corners and a statue base in the middle; a drain led away from the basin westwards under the portico. The open space around the basin was planted systematically with five rows of trees, thirty-two trees in the two outermost rows, and twenty-six in each of the rows interrupted by the pool; there were thus 142 trees (of unknown species) in all (Fig. 3). The arrangement, with its central pool, trees and surrounding porticoes, recalls similar monuments in Campania, such as the Great Palaestra, also of Augustan date, at Pompeii (see Vol. 1, no.), and the Palaestra at Herculaneum (see Vol. 1, no.). The function of the Syracuse square is unknown, but it must have been principally intended as a pleasant park where the townsfolk of Syracuse could stroll, especially, perhaps, when attending events staged in the nearby amphitheater.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg"
- alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement">&lt;figcaption>
- &lt;h4>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;!--
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" onclick="fullscreen(this)">
+ &lt;figcaption>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/figure2.jpg"
- alt="Fig. 2 Syracuse, plan of the piazza adjacent to the Altar of Hieron with central pool and pits marking the sites of trees">&lt;figcaption>
- &lt;h4>Fig. 2 Syracuse, plan of the piazza adjacent to the Altar of Hieron with central pool and pits marking the sites of trees&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/figure2.jpg" alt="Fig. 2 Syracuse, plan of the piazza adjacent to the Altar of Hieron with central pool and pits marking the sites of trees" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2 Syracuse, plan of the piazza adjacent to the Altar of Hieron with central pool and pits marking the sites of trees&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/figure3.png"
- alt="Fig. 3 Syracuse, general view of the piazza as it appears today">&lt;figcaption>
- &lt;h4>Fig. 3 Syracuse, general view of the piazza as it appears today&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/figure3.png" alt="Fig. 3 Syracuse, general view of the piazza as it appears today" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3 Syracuse, general view of the piazza as it appears today&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;p>G. V. Gentili, Notizie degli Scavi 1954, pp. 333–61 &lt;a href="https://cornell.on.worldcat.org/oclc/1646037">(worldcat)&lt;/a>;&lt;/p>
@@ -335,27 +351,30 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>There is a four meter square basin located in the middle of the space enclosed by the peristyle (Fig. 6). Belonging to Farrar’s type D, the pool has a square exterior and an inner outline of semicircular corner niches alternating with rectangular recesses. Probably belonging to the first half of the first century A. D., the pool is waterproofed with white mortar inside, and has edges lined with white and grey marble, possibly Carraran (Fig. 7).&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg"
- alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement">&lt;figcaption>
- &lt;h4>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
-&lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/figure7.jpg"
- alt="Fig. 7 Borgellusa, water basin at the centre of the peristyle garden">&lt;figcaption>
- &lt;h4>Fig. 7 Borgellusa, water basin at the centre of the peristyle garden&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
+&lt;!--
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" onclick="fullscreen(this)">
+ &lt;figcaption>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/figcaption>
+&lt;/figure>-->
+&lt;h3 id="images">Images&lt;/h3>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/figure7.jpg" alt="Fig. 7 Borgellusa, water basin at the centre of the peristyle garden" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 7 Borgellusa, water basin at the centre of the peristyle garden&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;p>G. M. Bacci, Scavi e ricerche a Avola, Grammichele, Portopalo, Taormina, Kokalos 30–31 (1984–85): 711–13 &lt;a href="http://www.worldcat.org/oclc/186378054">(worldcat)&lt;/a>;&lt;/p>
@@ -400,27 +419,30 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>There is a rectangular fountain basin set at the south end of the peristyle facing the triclinium, probably of the second century A. D. (Figs 8 and 9).&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg"
- alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement">&lt;figcaption>
- &lt;h4>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
-&lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/figure8.png"
- alt="Fig. 8 Castroreale San Biagio, plan of Roman villa">&lt;figcaption>
- &lt;h4>Fig. 8 Castroreale San Biagio, plan of Roman villa&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
+&lt;!--
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" onclick="fullscreen(this)">
+ &lt;figcaption>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/figcaption>
+&lt;/figure>-->
+&lt;h3 id="images">Images&lt;/h3>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/figure8.png" alt="Fig. 8 Castroreale San Biagio, plan of Roman villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 8 Castroreale San Biagio, plan of Roman villa&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;p>R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 199–203, with figs 165.3 and 166 (202 for the garden).&lt;a href="http://www.worldcat.org/oclc/608028740">(worldcat)&lt;/a>&lt;/p>
@@ -460,27 +482,30 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>There is a small semicircular basin (Farrar Type E) inserted in a secondary period in the north edge of the peristyle, facing the principal marble-paved reception or dining-room of the north wing (Fig. 10). The basin has marble wall-veneer and plain tessellation on its floor (Fig 11). This arrangement at Durrueli may have been influenced by North African fashion, where the demi-lune basin is especially common.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg"
- alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement">&lt;figcaption>
- &lt;h4>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
-&lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/figure10.png"
- alt="Fig. 10 Durrueli di Realmonte, plan of Roman villa">&lt;figcaption>
- &lt;h4>Fig. 10 Durrueli di Realmonte, plan of Roman villa&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
+&lt;!--
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" onclick="fullscreen(this)">
+ &lt;figcaption>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/figcaption>
+&lt;/figure>-->
+&lt;h3 id="images">Images&lt;/h3>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/figure10.png" alt="Fig. 10 Durrueli di Realmonte, plan of Roman villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 10 Durrueli di Realmonte, plan of Roman villa&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;p>R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 198–9 with figs 164 and 165.2.&lt;a href="http://www.worldcat.org/oclc/608028740">(worldcat)&lt;/a>&lt;/p>
@@ -521,28 +546,31 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>This fourth-century villa on the north coast has also yielded evidence for a garden (but no ornamental pools). A figured mosaic pavement belonging to an earlier, third-century villa was found inside the courtyard of the later villa, but it had been heavily damaged by cuttings through it for the plants and trees of the garden of the fourth-century villa. Nothing can be said of the layout of the latter in detail as the excavation remains unpublished, but the potential for garden archaeology in the island has at least been demonstrated.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg"
- alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement">&lt;figcaption>
- &lt;h4>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;!--
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" onclick="fullscreen(this)">
+ &lt;figcaption>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -583,27 +611,30 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The sumptuous fourth-century villa has, not surprisingly, a large and most elaborately-shaped pool at the center of its main peristyle (Farrar Type G: Fig. ): it consists of a rectangular central basin with outward-curving recesses in the middle of the long sides, and two independent demi-lune pools (i.e. with one straight and one curved side, but enclosing overall less than a semicircle) at either end of the short sides; the whole is twenty meters long and nine meters wide (15 on Fig. 12). Its exterior was veneered in marble; the interior was mosaic-lined, with fish depicted on the edge above the water line, and plain tessellation below. Water played from a fountain at the center of the pool, where a small octagonal base was furnished with a vertical lead pipe. The demi-lune pools were wholly marble-lined. A headless marble statuette of a cupid (Fig. 13) and the legs of a second were found in the larger basin: they must have formed a matching pair of statues, set on the pedestals found at either end of the pool. The marble head of a curly-haired young man was also found in the western demi-lune basin (Fig. 14). Nothing is known of the presumed garden surrounding this elaborate pool, but marble slabs set between the columns of the peristyle to restrict access to the central area were carved with stylised dolphins (Fig. 15), and a marble table-support carved with the customary feline on its front face, which was found in the southern peristyle corridor, might also conceivably have come from the garden (Fig. 16). The elliptical court (41) in front of the three-apsed banqueting hall was also provided with two small fountains as well as an elaborate water feature with niches (a nymphaeum) at its west end, but it had no garden, as the area was mosaic-paved (unless the latter is secondary).&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg"
- alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement">&lt;figcaption>
- &lt;h4>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
-&lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/figure12.png"
- alt="Fig. 12 Piazza Armerina, plan of late Roman villa">&lt;figcaption>
- &lt;h4>Fig. 12 Piazza Armerina, plan of late Roman villa&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
+&lt;!--
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne); rights statement" onclick="fullscreen(this)">
+ &lt;figcaption>Plan 1: Plan of the so-called &amp;#39;atrium house&amp;#39; with an apsidal pool (P) in its garden courtyard (G). Adapted from Precht 1971, fig. 2. (Rights statement)&lt;/figcaption>
+&lt;/figure>-->
+&lt;h3 id="images">Images&lt;/h3>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/sicily/figure12.png" alt="Fig. 12 Piazza Armerina, plan of late Roman villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 12 Piazza Armerina, plan of late Roman villa&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;p>A. Carandini, A. Ricci and M. De Vos, Filosofiana. La villa di Piazza Armerina, Palermo 1982, pp. 126–8 &lt;a href="http://www.worldcat.org/oclc/165760407">(worldcat)&lt;/a>&lt;/p>

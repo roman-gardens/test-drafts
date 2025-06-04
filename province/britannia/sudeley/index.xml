@@ -28,12 +28,13 @@ A sublocation is any area larger than an individual garden, but located within a
 ### Maps
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/Sudeley_Fig_16_or_11.1.jpg"
- alt="Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/sudeley/Sudeley_Fig_16_or_11.1.jpg" alt="Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the villa with a path (stippled) leading through a courtyard garden (G) and garden.&lt;/figcaption>
+&lt;/figure>
 &lt;!--
 ### Images
 -->

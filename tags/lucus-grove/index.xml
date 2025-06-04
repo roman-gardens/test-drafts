@@ -49,33 +49,37 @@
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/hercules_musarum_fig1.jpg"
- alt="fragment from the Forma Urbis Romae showing a part of the Hercules Musarum complex, and inscribed with its name">&lt;figcaption>
- &lt;h4> Fig. 1. Temple of Hercules Musarum on a fragment of the Severan Marble Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig1.jpg" alt="fragment from the Forma Urbis Romae showing a part of the Hercules Musarum complex, and inscribed with its name" onclick="fullscreen(this)">
+ &lt;figcaption> Fig. 1. Temple of Hercules Musarum on a fragment of the Severan Marble Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/hercules_musarum_fig2.jpg"
- alt="fragment from the Forma Urbis Romae showing the corner of the Hercules Musarum complex">&lt;figcaption>
- &lt;h4> Fig. 2. Temple of Hercules Musarum on the Severan Marble Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig2.jpg" alt="fragment from the Forma Urbis Romae showing the corner of the Hercules Musarum complex" onclick="fullscreen(this)">
+ &lt;figcaption> Fig. 2. Temple of Hercules Musarum on the Severan Marble Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/hercules_musarum_fig3.jpg"
- alt="Base plan of the Hercules Musarum">&lt;figcaption>
- &lt;h4>Fig. 3. Base plan of the Temple of Hercules Musarum (Coarelli, 1997).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig3.jpg" alt="Base plan of the Hercules Musarum" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3. Base plan of the Temple of Hercules Musarum (Coarelli, 1997).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/hercules_musarum_fig4.jpg"
- alt="Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas">&lt;figcaption>
- &lt;h4>Figure 4. Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas (Coarelli, 1997, Figs. 113, 114).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/hercules_musarum_fig4.jpg" alt="Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 4. Axonometric reconstruction of the aedes Hercules Musarum and transverse section showing possible planting areas (Coarelli, 1997, Figs. 113, 114).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 187 and 179 BCE; restoration and portico constructed in Late Republican era (post 33 BCE)&lt;/p>

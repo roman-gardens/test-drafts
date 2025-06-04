@@ -25,30 +25,33 @@
 &lt;p>The Greeks in Homer’s &lt;em>Iliad&lt;/em> sacrificed to Artemis at Aulis in Boeotia in the hopes of favorable winds to carry them from Greek shores to Troy (&lt;em>Il.&lt;/em> &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:2.301-2.335">2.305-310)&lt;/a>. The late 5th century Athenian playwright, Euripides, made reference to the grove of Artemis in his &lt;em>Iphigenia in Aulis&lt;/em> (&lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0006.tlg018.perseus-eng1:185-205">185-186&lt;/a>, &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0006.tlg018.perseus-eng1:1532-1577">1543-1549&lt;/a>). The shrine of Artemis at Aulis was visited by Pausanias in the 2nd century A.D., and he noted white stone statues (presumably marble) of Artemis and palm trees growing in the sanctuary &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:9.19">(9.19.6-8)&lt;/a>. According to him, the fruit was not all edible, as it was in Palestine, but he remarked that the fruit ripened better than the dates in Ionia.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aulis/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans-->
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aulis/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aulis/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>

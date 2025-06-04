@@ -34,12 +34,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--### Plans-->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/AFR_Uti_Hc_Wjashemski1.jpg"
- alt="Fig. 1: Plan of the House of the Cascade.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of the Cascade (CMT, plan 5,7)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hc_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Cascade." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of the Cascade (CMT, plan 5,7)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st-2nd century CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

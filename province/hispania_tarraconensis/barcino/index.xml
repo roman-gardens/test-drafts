@@ -47,12 +47,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Excavations in the late 1940s and 1950s brought to light the remains of an urban house. Among the structures identified was a &lt;em>peristyle&lt;/em>. The presence of a fountain and the existence of a dividing screen, or pluteus, caused Balil to assert that the house must have contained gardens. Two &lt;em>porticos&lt;/em> were identified, a larger one in which six columns were recovered (a) and a smaller one with two &lt;em>columns&lt;/em> (b). In the center of the larger portico was an L-shaped nympheum or fountain. A lively mosaic in the southwest corner dates the house to the beginning of the second century. Each porticus may have contained a garden.&lt;/p>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_bar_hcbs_fig1.jpg"
- alt="House in Condes de Barcelona Street. Source: Balil Iliana.">&lt;figcaption>
- &lt;h4>House in Condes de Barcelona Street. Source: Balil Iliana. &lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/barcino/his_tar_bar_hcbs_fig1.jpg" alt="House in Condes de Barcelona Street. Source: Balil Iliana." onclick="fullscreen(this)">
+ &lt;figcaption>House in Condes de Barcelona Street. Source: Balil Iliana. &lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Unspecified&lt;/p>
 &lt;h3 id="bibliography-1">Bibliography&lt;/h3>

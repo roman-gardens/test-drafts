@@ -31,28 +31,31 @@ Javier Cortes noted that hardware was found around the edges of the garden suita
 The large number of objects of daily life found in the ruins, some under toppled walls, makes it clear that the villa was violently destroyed, probably in the second half of the fifth century, though the date is uncertain.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/palencia/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/olmeda_fig1.jpg"
- alt="Plan of La Olmeda at Pedrosa de La Vega, Palencia Province, Spain">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of La Olmeda, Pedrosa de la Vega, Palencia. Adapted from J. Cortes, La Olmeda&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/palencia/olmeda_fig1.jpg" alt="Plan of La Olmeda at Pedrosa de La Vega, Palencia Province, Spain" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of La Olmeda, Pedrosa de la Vega, Palencia. Adapted from J. Cortes, La Olmeda&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/palencia/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Dates-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

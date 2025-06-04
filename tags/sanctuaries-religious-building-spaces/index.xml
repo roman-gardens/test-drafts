@@ -6,12 +6,13 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/thamugadi/">Thamugadi&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/334636">Thamugadi (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/timgad_city_plan_water_sanctuary.jpg"
- alt="Plan of Thamugadi.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_water_sanctuary.jpg" alt="Plan of Thamugadi." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>Timgad, ancient Thamugadi was founded as a colony under Trajan. The city had a checker board plan, that measured 11ha. In the center was the forum with its Curia, an imperial temple and the basilica. Between the IInd and the IVth century the city expanded out of its original layout. Temples, baths and a market were built and the center of the city was renovated with the construction of the library, the market and luxurious houses. At the end of the IVth century the bishop Optatus of Timgad a prominent member of the donatist church constructed the great west basilica. During the Byzantine conquest a fortress was erected on the water sanctuary dating to the IIIrd and IVth century.&lt;/p>
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
@@ -37,36 +38,40 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of the city. An inscription that was discovered during the Byzantine fort excavations enumerates the embellishments that were undertaken in 213 by the city of Timgad for the sanctuary, Aqua Septimiana Felix: one of which, a bronze balustrade surrounding the spring (a pool with marble slabs of 3,6 m x 13, 60 m) and a &lt;em>viridarium&lt;/em> surrounded by porticoes decorated with paintings (&lt;em>porticus virdiari (sic) picturis ornatas&lt;/em>).&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/water_sanctuary%20_aqua_eptimania_felix1.jpg"
- alt="Plan of the Water Sanctuary Aqua Septimiana Felix; rights statement">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix (Lassus, J., 1981, fig. 9)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/water_sanctuary%20_aqua_eptimania_felix1.jpg" alt="Plan of the Water Sanctuary Aqua Septimiana Felix; rights statement" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix (Lassus, J., 1981, fig. 9)&lt;/figcaption>
+&lt;/figure>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd-3rd century CE&lt;/p>
@@ -97,12 +102,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thugga/">THUGGA (Dougga) Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315223">THUGGA (Dougga) Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/dougga_the_templa_concordiae.jpg"
- alt="Plan of Thugga">&lt;figcaption>
- &lt;h4>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_templa_concordiae.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>Annexed in 46 B.C., the Romanization of the city of Thugga that was probably a residence of the Numidian kings, was gradual but profound. It became Municipium Thuggense in 205, and was raised to the rank of a Colonia Licinia Septima Aurelia Alexandriana Thuggensesin in 261 under Gallien. Numerous buildings of this city overlooking the valley of the Ouadi Khaled, have been uncovered among them the Capitol dedicated to the Capitoline Triad in 166-67, the theater on the top of the plateau constructed under Antonius Pius, the Temple of Mercury, Fortune, Augustan Piety, Liber Pater, Concordia, Frugifer, Pluto, Saturn and the Temple of Caelestis which stands in the middle of a an olive grove. In the residential areas stands the Licinian Baths with their Palestrae and the Cyclops Baths and the Triumphal Arch of Septimus Severus set astride a street leading down the hill. Two building inscriptions (CIL VIII, 26606 and CIL VIII, 26607), dated to AD 166-169 mention a theater with a basilica, porticoes, and xystis.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -119,12 +125,13 @@ A sublocation is any area larger than an individual garden, but located within a
 The sanctuary comprises a courtyard surrounded by a quadriportico on which five &lt;em>cellae&lt;/em> opened to the northwest. The largest and most elaborate, that dedicated to Concord, is located on the axis of the building and its extension in the theater below. This axiality is expressed by a central aisle that leads from the western portico to the altar located in the center of the courtyard. The area was not paved; one can imagine that it was planted as a garden whose vegetation formed a green setting around the altar.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/sanctuary_b.jpg"
- alt="Plan of the Sanctuary B, the templa Concordiae">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Sanctuary B, the templa Concordiae (From Aounallah, S., Golvin, J.-C. (dir.) 2016, p. 505, fig. 44)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/sanctuary_b.jpg" alt="Plan of the Sanctuary B, the templa Concordiae" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Sanctuary B, the templa Concordiae (From Aounallah, S., Golvin, J.-C. (dir.) 2016, p. 505, fig. 44)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>117-138 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -148,12 +155,13 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thugga/">THUGGA (Dougga) Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315223">THUGGA (Dougga) Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/dougga_the_anonymous_sanctuary_dar_lachheb.jpg"
- alt="Plan of Thugga">&lt;figcaption>
- &lt;h4>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_anonymous_sanctuary_dar_lachheb.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>Annexed in 46 B.C., the Romanization of the city of Thugga that was probably a residence of the Numidian kings, was gradual but profound. It became Municipium Thuggense in 205, and was raised to the rank of a Colonia Licinia Septima Aurelia Alexandriana Thuggensesin in 261 under Gallien. Numerous buildings of this city overlooking the valley of the Ouadi Khaled, have been uncovered among them the Capitol dedicated to the Capitoline Triad in 166-67, the theater on the top of the plateau constructed under Antonius Pius, the Temple of Mercury, Fortune, Augustan Piety, Liber Pater, Concordia, Frugifer, Pluto, Saturn and the Temple of Caelestis which stands in the middle of a an olive grove. In the residential areas stands the Licinian Baths with their Palestrae and the Cyclops Baths and the Triumphal Arch of Septimus Severus set astride a street leading down the hill. Two building inscriptions (CIL VIII, 26606 and CIL VIII, 26607), dated to AD 166-169 mention a theater with a basilica, porticoes, and xystis.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -170,12 +178,13 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 &lt;p>The anonymous sanctuary, called &lt;em>Dar Lachheb&lt;/em> (184-187 CE), located about fifty meters below the forum, is of African type. In line with the entrance to the complex, a large &lt;em>cella&lt;/em> with an apse opens onto the northern gallery of the triplex porticus that frames the courtyard. The courtyard consists of four symmetrical, rectangular spaces of equal dimensions, probably planted and enclosed by solid stone balustrades. The enclosure of areas of greenery in the worship space is similar to the sanctuary of Minerva 2&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/the_anonymous_sanctuary.jpg"
- alt="Plan of the anonymous sanctuary, Dar Lachheb">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the anonymous sanctuary, Dar Lachheb (From Aounallah, S., Golvin J.-C. (dir.) 2016, p. 440, fig. 86)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_anonymous_sanctuary.jpg" alt="Plan of the anonymous sanctuary, Dar Lachheb" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the anonymous sanctuary, Dar Lachheb (From Aounallah, S., Golvin J.-C. (dir.) 2016, p. 440, fig. 86)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>184-187 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -200,12 +209,13 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thugga/">THUGGA (Dougga) Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315223">THUGGA (Dougga) Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/dougga_the_sanctuary_of_caelestis.jpg"
- alt="Plan of Thugga">&lt;figcaption>
- &lt;h4>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_sanctuary_of_caelestis.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>Annexed in 46 B.C., the Romanization of the city of Thugga that was probably a residence of the Numidian kings, was gradual but profound. It became Municipium Thuggense in 205, and was raised to the rank of a Colonia Licinia Septima Aurelia Alexandriana Thuggensesin in 261 under Gallien. Numerous buildings of this city overlooking the valley of the Ouadi Khaled, have been uncovered among them the Capitol dedicated to the Capitoline Triad in 166-67, the theater on the top of the plateau constructed under Antonius Pius, the Temple of Mercury, Fortune, Augustan Piety, Liber Pater, Concordia, Frugifer, Pluto, Saturn and the Temple of Caelestis which stands in the middle of a an olive grove. In the residential areas stands the Licinian Baths with their Palestrae and the Cyclops Baths and the Triumphal Arch of Septimus Severus set astride a street leading down the hill. Two building inscriptions (CIL VIII, 26606 and CIL VIII, 26607), dated to AD 166-169 mention a theater with a basilica, porticoes, and xystis.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -221,12 +231,13 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 &lt;p>The sanctuary of &lt;em>Caelestis&lt;/em>, installed on the north-western outskirts of the city, was built on a sizeable plot of land allocated to it by its commissioner during the reign of Severus Alexander (222-235). This sanctuary is distinguished by its semi-circular shape. Its Corinthian temple, peripteral and hexastyle, rises in the center of the courtyard on a podium reached by a staircase of eleven steps. A wide paved esplanade which spreads out in front of the temple. The complex is united by a central axis, which runs through the esplanade, to the staircase, through the entrances to the temple, whose altar was probably installed on this alignment. The remaining space of the unpaved courtyard was probably planted. This peripteral temple is reminiscent of the temple of &lt;em>Hephaestus&lt;/em> on the Agora in Athens.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/the_sanctuary_of_caelestis.jpg"
- alt="The sanctuary of Caelestis">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the sanctuary of Caelestis (From Golvin, J.-C., Khanoussi, M. (dir.) 2005, p. 181, fig. 171])&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_sanctuary_of_caelestis.jpg" alt="The sanctuary of Caelestis" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the sanctuary of Caelestis (From Golvin, J.-C., Khanoussi, M. (dir.) 2005, p. 181, fig. 171])&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>222-235 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -250,12 +261,13 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thugga/">THUGGA (Dougga) Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315223">THUGGA (Dougga) Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/dougga_the_sanctuary_of_minerva.jpg"
- alt="Plan of Thugga">&lt;figcaption>
- &lt;h4>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_sanctuary_of_minerva.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>Annexed in 46 B.C., the Romanization of the city of Thugga that was probably a residence of the Numidian kings, was gradual but profound. It became Municipium Thuggense in 205, and was raised to the rank of a Colonia Licinia Septima Aurelia Alexandriana Thuggensesin in 261 under Gallien. Numerous buildings of this city overlooking the valley of the Ouadi Khaled, have been uncovered among them the Capitol dedicated to the Capitoline Triad in 166-67, the theater on the top of the plateau constructed under Antonius Pius, the Temple of Mercury, Fortune, Augustan Piety, Liber Pater, Concordia, Frugifer, Pluto, Saturn and the Temple of Caelestis which stands in the middle of a an olive grove. In the residential areas stands the Licinian Baths with their Palestrae and the Cyclops Baths and the Triumphal Arch of Septimus Severus set astride a street leading down the hill. Two building inscriptions (CIL VIII, 26606 and CIL VIII, 26607), dated to AD 166-169 mention a theater with a basilica, porticoes, and xystis.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -274,12 +286,13 @@ The sanctuary comprises a courtyard surrounded by a quadriportico on which five 
 &lt;p>The sanctuary of Minerva 2, (138-161 CE), built later than the &lt;em>templa Concordiae&lt;/em>, presents a very different configuration. The &lt;em>cella&lt;/em>, projecting outwards from the courtyard lined with porticoes, is built on a very high podium whose summit corresponded to the level of the &lt;em>peribolus&lt;/em> roof and to which access was gained by a monumental staircase. The temple, by its insertion in the topography of the site, seems to emerge from the cliff into which it was embedded. The approach was a long allée bordered on both sides by planting beds that emphasized the perspective centered on the &lt;em>cella&lt;/em>. An open-air &lt;em>ambulatio&lt;/em>, bordered by a balustrade, ran alongside the porticoes and the staircase, restricting access into the planted areas. Located on the outskirts of the city, one can imagine that the temple nestled in the cliff, perhaps surrounded by trees. The vegetation thus embraced the sanctuary as a whole and framed the altar located on the axial path leading to the temple.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/the_sanctuary_of_minerva_2.jpg"
- alt="Plan of the sanctuary of Minerva 2">&lt;figcaption>
- &lt;h4>Fig.1 Plan of the sanctuary of Minerva 2 (From Saint-Amans, S., 2004, p. 216, fig. 2a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_sanctuary_of_minerva_2.jpg" alt="Plan of the sanctuary of Minerva 2" onclick="fullscreen(this)">
+ &lt;figcaption>Fig.1 Plan of the sanctuary of Minerva 2 (From Saint-Amans, S., 2004, p. 216, fig. 2a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>138-161 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -304,12 +317,13 @@ Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. &
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thugga/">THUGGA (Dougga) Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315223">THUGGA (Dougga) Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/dougga_the_sanctuary_of_the_victories_of_caracalla.jpg"
- alt="Plan of Thugga">&lt;figcaption>
- &lt;h4>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_sanctuary_of_the_victories_of_caracalla.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>Annexed in 46 B.C., the Romanization of the city of Thugga that was probably a residence of the Numidian kings, was gradual but profound. It became Municipium Thuggense in 205, and was raised to the rank of a Colonia Licinia Septima Aurelia Alexandriana Thuggensesin in 261 under Gallien. Numerous buildings of this city overlooking the valley of the Ouadi Khaled, have been uncovered among them the Capitol dedicated to the Capitoline Triad in 166-67, the theater on the top of the plateau constructed under Antonius Pius, the Temple of Mercury, Fortune, Augustan Piety, Liber Pater, Concordia, Frugifer, Pluto, Saturn and the Temple of Caelestis which stands in the middle of a an olive grove. In the residential areas stands the Licinian Baths with their Palestrae and the Cyclops Baths and the Triumphal Arch of Septimus Severus set astride a street leading down the hill. Two building inscriptions (CIL VIII, 26606 and CIL VIII, 26607), dated to AD 166-169 mention a theater with a basilica, porticoes, and xystis.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -326,25 +340,28 @@ Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. &
 &lt;p>The sanctuary of the Victories of Caracalla, situated in the southwest of the forum, was built in a residential area in 214 CE on a particularly cramped and steep site (figure 12). Its urban and topographical situation conditioned its architecture. It is accessed by a lateral staircase, built onto bedrock, which leads to a courtyard, without a portico due to the lack of space. Its layout is similar to that of the sanctuaries of Minerva 2 and &lt;em>Dar Lachheb&lt;/em>, with the cross-shaped layout of the paths that delimit four quadrangular spaces, probably planted, located at each corner of the courtyard, and bordered by solid balustrades, also in stone. A staircase of nine steps leads to the tetrastyle temple in antis and pseudo-peripteral which occupies the full width of the sanctuary. This example attests to the desire to introduce vegetation when space was lacking; could this be an indication of the role given to plants in certain cult spaces?&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/the_sanctuary_of_the_victories_of_caracalla.jpg"
- alt="Plan of the sanctuary of the Victories of Caracalla">&lt;figcaption>
- &lt;h4>Fig.1: Plan of the sanctuary of the Victories of Caracalla (From Golvin, J.-C., Khanoussi M. (dir.) 2005, p. 41, fig. 17. http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf))&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_sanctuary_of_the_victories_of_caracalla.jpg" alt="Plan of the sanctuary of the Victories of Caracalla" onclick="fullscreen(this)">
+ &lt;figcaption>Fig.1: Plan of the sanctuary of the Victories of Caracalla (From Golvin, J.-C., Khanoussi M. (dir.) 2005, p. 41, fig. 17. http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf))&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/restitution_sanctuaire_caracalla_Page_2.jpg"
- alt="Cross section of the courtyard (A-A’)">&lt;figcaption>
- &lt;h4>Fig.2: Cross section of the courtyard (A-A’) (http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/restitution_sanctuaire_caracalla_Page_2.jpg" alt="Cross section of the courtyard (A-A’)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig.2: Cross section of the courtyard (A-A’) (http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/restitution_sanctuaire_caracalla_Page_3.jpg"
- alt="Cross section of the courtyard (B-B’)">&lt;figcaption>
- &lt;h4>Fig.3: Cross section of the courtyard (B-B’) (http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/restitution_sanctuaire_caracalla_Page_3.jpg" alt="Cross section of the courtyard (B-B’)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig.3: Cross section of the courtyard (B-B’) (http://www.dougga.rnrt.tn/file/restitution_sanctuaire_caracalla.pdf)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>214 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -370,12 +387,13 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thuburbo_maius/">THUBURBO MAIUS (Henchir Kasbat), Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315220">THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/thuburbo_temple_of_baalat.jpg"
- alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus">&lt;figcaption>
- &lt;h4>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_temple_of_baalat.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a &lt;em>municipium&lt;/em> by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -390,12 +408,13 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 &lt;p>Only the central passage (III) way leading to the temple (IV) was paved. The rest of the courtyard (II), which was enclosed by a portico (I), was probably planted as in temple E (Plan view, Fig.1).&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/Temple%20of%20Baalat.jpg"
- alt="Plan of the Temple of Baalat ">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Temple of Baalat (CMT, V. II, fasc.2, plan 10.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/Temple%20of%20Baalat.jpg" alt="Plan of the Temple of Baalat " onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Temple of Baalat (CMT, V. II, fasc.2, plan 10.)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -419,12 +438,13 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thuburbo_maius/">THUBURBO MAIUS (Henchir Kasbat), Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315220">THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/thuburbo_temple_of_caelestis.jpg"
- alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus">&lt;figcaption>
- &lt;h4>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_temple_of_caelestis.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a &lt;em>municipium&lt;/em> by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -439,12 +459,13 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 &lt;p>The marble causeway leading to the temple was bordered on each side with soil that was probably planted as in temple E (Plan view, Fig. 1).&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/Temple_of_Caelestis1.jpg"
- alt="Plan of the Temple of Caelestis ">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Temple of Caelestis (CMT, V. II, fasc.2, plan 9)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/Temple_of_Caelestis1.jpg" alt="Plan of the Temple of Caelestis " onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Temple of Caelestis (CMT, V. II, fasc.2, plan 9)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

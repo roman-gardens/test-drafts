@@ -101,45 +101,51 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;p>{&amp;lt; figure src=&amp;quot;../images/sirmio-2.jpg&amp;quot; alt=&amp;quot;Fig. 2: Plan of House of Grotto of Catullus.&amp;quot; title=&amp;quot;Fig. 2: Plan of House of Grotto of Catullus&amp;quot; &amp;gt;}}&lt;/p>
-&lt;figure>&lt;img src="../images/sirmio-3.jpg"
- alt="Fig. 3: Plan of the residential rooms.">&lt;figcaption>
- &lt;h4>Fig. 3: Plan of the residential rooms&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-3.jpg" alt="Fig. 3: Plan of the residential rooms." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Plan of the residential rooms&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-5.jpg"
- alt="Fig. 5: Aerial view of vast olive grove.">&lt;figcaption>
- &lt;h4>Fig. 5: Aerial view of vast olive grove&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-5.jpg" alt="Fig. 5: Aerial view of vast olive grove." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: Aerial view of vast olive grove&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-7.jpg"
- alt="Fig. 7:Aerial view of courtyard-viridarium.">&lt;figcaption>
- &lt;h4>Fig. 7: Aerial view of courtyard-viridarium&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-7.jpg" alt="Fig. 7:Aerial view of courtyard-viridarium." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 7: Aerial view of courtyard-viridarium&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-11.jpg"
- alt="Fig. 11: statue of a Dioscuros.">&lt;figcaption>
- &lt;h4>Fig. 11: statue of a Dioscuros&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-11.jpg" alt="Fig. 11: statue of a Dioscuros." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 11: statue of a Dioscuros&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-12.jpg"
- alt="Fig. 12: Figure of Plant fossils.">&lt;figcaption>
- &lt;h4>Fig. 12: Figure of Plant fossils&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-12.jpg" alt="Fig. 12: Figure of Plant fossils." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 12: Figure of Plant fossils&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -200,12 +206,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_ix/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -265,12 +272,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>This richly decorated house is considered as one of the most remarkable &lt;em>domus&lt;/em> of Africa (Plan view, Fig.1). Twenty-four Corinthian columns that may have reached 3m high, supported a portico on four sides. On the North, the South and the West, the peristyle is surrounded by rooms and apartments, some with their own colonnaded courtyards paved with mosaics (pseudo-atria). The Eastern portico, because of the declivity of the land was constructed on vaults. It probably opened on the exterior by a colonnade that allowed the visitor to admire the sea, the mountains and the valley of Oued Zaghouan. A small wooden fence enclosed the garden except in front of the vestibule and the &lt;em>oecus&lt;/em>, from the vestibule one could traverse the garden and enter the &lt;em>oecus&lt;/em>, without having to use the porticoes. At a later phase these entries were closed by a basin and cistern. The garden had in its center a rectangular basin, of which only the foundation was found.&lt;/p>
 &lt;!--### Maps-->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/House_of_Icarios_Uthina2.jpg"
- alt="Fig.1: Plan of the House of icarios">&lt;figcaption>
- &lt;h4>Fig.1: Plan of the House of Icarios (Gauckler, P., 1896, fig.1)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/uthina/House_of_Icarios_Uthina2.jpg" alt="Fig.1: Plan of the House of icarios" onclick="fullscreen(this)">
+ &lt;figcaption>Fig.1: Plan of the House of Icarios (Gauckler, P., 1896, fig.1)&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd-3rd century CE&lt;/p>
@@ -354,59 +362,66 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
- alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_41_I.vii.11_12_11.32.59.jpg"
- alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_41_I.vii.11_12_11.32.59.jpg" alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_42_I.vii.12_14.3.68.jpg"
- alt="Fig. 4: I.vii. 14.3.68, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 4: I.vii. 14.3.68, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_42_I.vii.12_14.3.68.jpg" alt="Fig. 4: I.vii. 14.3.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: I.vii. 14.3.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_43_I.vii.11_33.27.61.jpg"
- alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 5: I.vii. 33.27.61, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_43_I.vii.11_33.27.61.jpg" alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: I.vii. 33.27.61, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_44_I.vii.11_12_11.33.59.jpg"
- alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_44_I.vii.11_12_11.33.59.jpg" alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1912 and 1925.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

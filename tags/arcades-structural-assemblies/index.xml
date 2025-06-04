@@ -43,12 +43,13 @@
 &lt;!-- -->
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/severan_complex_fig1.jpg"
- alt="Plan of the Palatine">&lt;figcaption>
- &lt;h4>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/severan_complex_fig1.jpg" alt="Plan of the Palatine" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;p>###Dates&lt;/p>
 &lt;p>1st century CE to 4th century CE&lt;/p>

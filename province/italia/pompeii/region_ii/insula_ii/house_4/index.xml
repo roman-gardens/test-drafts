@@ -24,12 +24,13 @@
 &lt;p>A. The &lt;a href="http://vocab.getty.edu/page/aat/300004145">portico&lt;/a> which bordered the &lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyle&lt;/a> garden on the north and east side was accessed from the entrance hall. This site had been extensively damaged prior to excavation.&lt;/p>
 &lt;p>B. The east &lt;a href="http://vocab.getty.edu/page/aat/300004145">portico&lt;/a> gave access to the narrow garden to the back of the house.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_ii/insula_ii/house_4/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>

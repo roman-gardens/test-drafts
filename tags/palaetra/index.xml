@@ -18,19 +18,21 @@
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The courtyard of this large peristyle to the NE of the Summer Baths, dedicated by Petronius and his sons, may have been planted with avenues of trees as recommended by Vitruvius, and as in the &lt;em>Palaetra&lt;/em> at Pompeii (Pan view, Fig. 1).&lt;/p>
 &lt;h3 id="plan">Plan&lt;/h3>
-&lt;figure>&lt;img src="../images/peristyle_des_petronii_plan.jpg"
- alt="Plan of the Peristyle of the Petronii ">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Peristyle of the Petronii &lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/peristyle_des_petronii_plan.jpg" alt="Plan of the Peristyle of the Petronii " onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Peristyle of the Petronii &lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/peristyle_des_petronii_detail.jpg"
- alt="Detail Plan of the Peristyle of the Petronii ">&lt;figcaption>
- &lt;h4>Fig. 2: Detail Plan of the Peristyle of the Petronii &lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/peristyle_des_petronii_detail.jpg" alt="Detail Plan of the Peristyle of the Petronii " onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Detail Plan of the Peristyle of the Petronii &lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>

@@ -6,12 +6,13 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thuburbo_maius/">THUBURBO MAIUS (Henchir Kasbat), Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315220">THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/thuburbo_east_temple.jpg"
- alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus">&lt;figcaption>
- &lt;h4>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_east_temple.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a &lt;em>municipium&lt;/em> by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -27,12 +28,13 @@
 &lt;p>A strip of soil bordered most of the long sides of the temple and the mosaic paving in front of it (Plan view, Fig. 1). Preliminary excavations in 1990 in a strip 1m wide at the front of the garden, on the left, yielded a row of root cavities approximately 15cm in diameter and 50-70cm apart suggesting a formal planting. The size of the root cavities indicates that trees or large shrubs, perhaps laurels, were planted there. Temple gardens and groves are well known in the ancient world, primarily from literary evidence, but there is little archaeological evidence. For this reason the complete excavation of both strips of soil is extremely important. The soil in the preceding temples should also be excavated.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/East_temple_Plan.jpg"
- alt="Plan of the East Temple">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the East Temple (CMT, V. II, fasc.4, plan 1-2. Malek, A.-A., 2018, fig. 14)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/East_temple_Plan.jpg" alt="Plan of the East Temple" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the East Temple (CMT, V. II, fasc.4, plan 1-2. Malek, A.-A., 2018, fig. 14)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Unspecified&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

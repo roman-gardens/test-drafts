@@ -26,33 +26,37 @@
 &lt;p>These two sites represent a rare glimpse of the transformation of suburban Rome over more than twelve centuries of occupation.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/via_gabina/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/fig04_recon_phase2d.jpg"
- alt="fig04_recon_phase2d">&lt;figcaption>
- &lt;h4>fig04_recon_phase2d&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/via_gabina/fig04_recon_phase2d.jpg" alt="fig04_recon_phase2d" onclick="fullscreen(this)">
+ &lt;figcaption>fig04_recon_phase2d&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;p>&lt;figure>&lt;img src="../images/fig05_recon_phase2d.jpg"
- alt="fig05_recon_phase2d.">&lt;figcaption>
- &lt;h4>fig05_recon_phase2d.&lt;/h4>
- &lt;/figcaption>
+&lt;p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/via_gabina/fig05_recon_phase2d.jpg" alt="fig05_recon_phase2d." onclick="fullscreen(this)">
+ &lt;figcaption>fig05_recon_phase2d.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/fig06_10emboecus.jpg"
- alt="fig06_10emboecus.">&lt;figcaption>
- &lt;h4>The Rape of Hylas.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-&lt;/p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/via_gabina/fig06_10emboecus.jpg" alt="fig06_10emboecus." onclick="fullscreen(this)">
+ &lt;figcaption>The Rape of Hylas.&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Unspecified&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -96,27 +100,30 @@
 &lt;p>This villa at Site 11 was a simple “U” plan farmhouse initiated at the beginning of the 3rd century B.C. (Period 1). In the Augustan Age this farmhouse was transformed into a more luxurious atrium type villa/residence (Period 2 – Figs. 2 and 3). During the reign of Trajan a bath suite was added as well as an outside plunge pool in what seems to have been a western enclosed garden (hortus) from as early as Period 1. Because of the proximity of bedrock and the fact the slight earth cover had been ploughed for centuries, any evidence of what might have been planted in the garden had long since been destroyed. We know, however, that there must have been surrounding olive groves from the press facilities of the villa, also dating from the time of Trajan. All was abandoned in the second or third decade of the 3rd century of the Christian Era.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/via_gabina/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/fig02_11plan2bc.jpg"
- alt="fig02_11plan2bc.">&lt;figcaption>
- &lt;h4>Plan at the Villa at site 11.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/via_gabina/fig02_11plan2bc.jpg" alt="fig02_11plan2bc." onclick="fullscreen(this)">
+ &lt;figcaption>Plan at the Villa at site 11.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/fig03_11axon2bc.jpg"
- alt="fig03_11axon2bc.">&lt;figcaption>
- &lt;h4>fig03_the axon of the Villa at site 11.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/via_gabina/fig03_11axon2bc.jpg" alt="fig03_11axon2bc." onclick="fullscreen(this)">
+ &lt;figcaption>fig03_the axon of the Villa at site 11.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Unspecified&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

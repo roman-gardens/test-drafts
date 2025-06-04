@@ -31,41 +31,51 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The third phase distinguished by Maloney and Hale covered several building campaigns and extended through the second half of the 3rd and perhaps into the very beginning of the 4th century AD. The northeast corner of the house was largely demolished and rebuilt with a central peristyle courtyard. A rather deep tank was in the center, and between it and the peristyle was an unpaved area that was almost certainly a garden, quite possibly formal. The granaries that had previously occupied part of the buildings around the east court were surpressed, indicating an “urbanization” or up-scaling of the area. The entrance remained on the south; the visitor would still have crossed the east court to get to the main house. The villa’s triclinium had a full, central view of the garden and pool. The tablinum or master's office on the east side of the peristyle also had a fine view of the garden.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/monforte/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS%20LUS_Torre%20de%20Palma_plan%20fig1.jpg"
- alt="Plan of Villa de Torre de Palma at Monforte Province, Spain">&lt;figcaption>
- &lt;h4>Fig. 1: Torre de Palma, Plan of all exposed walls. From Maloney and Hale, p. 277.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/monforte/HIS%20LUS_Torre%20de%20Palma_plan%20fig1.jpg" alt="Plan of Villa de Torre de Palma at Monforte Province, Spain" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Torre de Palma, Plan of all exposed walls. From Maloney and Hale, p. 277.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/HIS%20LUS_Torre%20de%20Palma%20ph2%20fig2.jpg">&lt;figcaption>
- &lt;h4>Fig. 2: Phase 2 constructions. Adapted from Maloney and Hale.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/monforte/HIS%20LUS_Torre%20de%20Palma%20ph2%20fig2.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Phase 2 constructions. Adapted from Maloney and Hale.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/HIS%20LUS_Torre%20de%20Palma_ph3%20fig3.jpg">&lt;figcaption>
- &lt;h4>Fig. 3: Phase 3 constructions. Adapted from Maloney and Hale.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/monforte/HIS%20LUS_Torre%20de%20Palma_ph3%20fig3.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Phase 3 constructions. Adapted from Maloney and Hale.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/HIS%20LUS_Torre%20de%20Palma_ph4%20fig4.jpg">&lt;figcaption>
- &lt;h4>Fig. 4: Phase 4 construction. Adapted from Maloney and Hale.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/monforte/HIS%20LUS_Torre%20de%20Palma_ph4%20fig4.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: Phase 4 construction. Adapted from Maloney and Hale.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS%20LUS_Torre%20de%20Palma_photo_CA%20fig5.jpg">&lt;figcaption>
- &lt;h4>Fig. 5: Photo of the peristyle seen from northwest corner.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/monforte/HIS%20LUS_Torre%20de%20Palma_photo_CA%20fig5.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: Photo of the peristyle seen from northwest corner.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Dates-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>

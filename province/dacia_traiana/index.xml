@@ -10,12 +10,13 @@ Ruled by king &lt;a href="https://en.wikipedia.org/wiki/Burebista">Burebista&lt;
 &lt;p>Dacia was of particular interest to the Romans for its supplies of lead, needed for the water pipes of the cities and villas.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/dacia_traiana/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>106 CE to 271-275 CE&lt;/p>

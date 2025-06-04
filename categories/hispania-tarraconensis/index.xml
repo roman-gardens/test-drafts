@@ -52,19 +52,21 @@
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_plan_fig2.jpg"
- alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.">&lt;figcaption>
- &lt;h4>Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_plan_fig2.jpg" alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_aerial_viewfig1.jpg"
- alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.">&lt;figcaption>
- &lt;h4>Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_aerial_viewfig1.jpg" alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." onclick="fullscreen(this)">
+ &lt;figcaption>Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House of the Mosaic of Hedykoitos&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -75,12 +77,13 @@
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This house in the northwest corner of Neapolis backs onto the edge of the city, against the western wall. It had gardens or terraces on its outside edges.&lt;/p>
 &lt;h3 id="plans-1">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_Hedykoitos_fig1.jpg"
- alt="Plan of the House of the Mosaic of Hedykoitos.">&lt;figcaption>
- &lt;h4>Plan of the House of the Mosaic of Hedykoitos. Adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_Hedykoitos_fig1.jpg" alt="Plan of the House of the Mosaic of Hedykoitos." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the House of the Mosaic of Hedykoitos. Adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Unspecified&lt;/p>
 &lt;!---doesn't have ## Bibliography-->
@@ -128,28 +131,31 @@ Javier Cortes noted that hardware was found around the edges of the garden suita
 The large number of objects of daily life found in the ruins, some under toppled walls, makes it clear that the villa was violently destroyed, probably in the second half of the fifth century, though the date is uncertain.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/palencia/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/olmeda_fig1.jpg"
- alt="Plan of La Olmeda at Pedrosa de La Vega, Palencia Province, Spain">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of La Olmeda, Pedrosa de la Vega, Palencia. Adapted from J. Cortes, La Olmeda&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/palencia/olmeda_fig1.jpg" alt="Plan of La Olmeda at Pedrosa de La Vega, Palencia Province, Spain" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of La Olmeda, Pedrosa de la Vega, Palencia. Adapted from J. Cortes, La Olmeda&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/palencia/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Dates-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -199,28 +205,31 @@ Javier Cortes noted that hardware was found around the edges of the garden suita
 The large number of objects of daily life found in the ruins, some under toppled walls, makes it clear that the villa was violently destroyed, probably in the second half of the fifth century, though the date is uncertain. -->
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/toledo/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_rie_baths_fig1.jpg"
- alt="Plan of The so-called &amp;#34;Baths&amp;#34; of Rielves at Toledo Province, Spain. The axial plan of this villa and its mosaics are representative of the luxurious villas of the late Imperial period. The semicircular colonnade, which enclosed the garden, was typical of North African villas. The garden may have been watered with run-off from the villa baths. ">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the &amp;#34;Baths&amp;#34; of Rielves.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/toledo/his_tar_rie_baths_fig1.jpg" alt="Plan of The so-called &amp;#34;Baths&amp;#34; of Rielves at Toledo Province, Spain. The axial plan of this villa and its mosaics are representative of the luxurious villas of the late Imperial period. The semicircular colonnade, which enclosed the garden, was typical of North African villas. The garden may have been watered with run-off from the villa baths. " onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the &amp;#34;Baths&amp;#34; of Rielves.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/toledo/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Dates-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -263,30 +272,33 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>A marble slab found at Puçol (Puzol) near Saguntum, now lost, but originally preserving an epitaph of the late first or early second century set up by P. Caecil(ius) Rufus for himself and his wife Valeria, records that they purchased an area (locus) vaulted over with walls, baths (a notable amenity at a tomb), and gardens and constructed a monument there for themselves and their daughters, to the end that their ashes be mingled with those of their ancestors (se vivis compararunt locum uti est concameratum parietib(us), balneis, hortis; monumentum construxerunt sibi et filiabus donec avitis cineribus immisceantur). For the identification of the couple and the approximate date, see Alföldy in CIL.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/sagunto/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/sagunto/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/sagunto/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Dates-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -331,28 +343,31 @@ A sublocation is any area larger than an individual garden, but located within a
 The villa from the middle of the 2nd century evolved around a peristyle garden with a large circular pool, 7.6 meters in inside diameter, in the middle. A paved corridor led to the pool from the north gallery of the peristyle. There were baths and two rooms with mosaic floors. Most rooms, however, had floors of hammered earth.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/castellon/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_nul_v_benicato_fig1.jpg"
- alt="Plan of Villa de Benicató at Nules, Castellón Province, Spain">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Villa de Benicto. Adapted from Gorges, Planche XXXIV.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/castellon/his_tar_nul_v_benicato_fig1.jpg" alt="Plan of Villa de Benicató at Nules, Castellón Province, Spain" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Villa de Benicto. Adapted from Gorges, Planche XXXIV.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/castellon/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Dates-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -398,28 +413,31 @@ A sublocation is any area larger than an individual garden, but located within a
 The villa is built around two peristyles of similar size. The surrounding rooms featured more than 30 mosaics. The western peristyle (11 x 11 m) was built first, with porticoes on all four sides of its central garden, and, a double gallery on the north side against the summer sun. The later, eastern half had a slightly larger peristyle (12.5 x 21 m), with galleries on three sides of its garden. A large hall extended directly off the fourth side. The peristyle was richly adorned with sculptures, mosaics, and mural paintings.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/soria/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_cue_soria_fig1.jpg"
- alt="Plan of Villa los Quintanares at Soria Province, Spain">&lt;figcaption>
- &lt;h4>Fig.1 Villa los Quintanares, Rioseco de Soria, Soria. Source: Gorges, Planche LIII&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/soria/his_tar_cue_soria_fig1.jpg" alt="Plan of Villa los Quintanares at Soria Province, Spain" onclick="fullscreen(this)">
+ &lt;figcaption>Fig.1 Villa los Quintanares, Rioseco de Soria, Soria. Source: Gorges, Planche LIII&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/soria/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Dates-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -495,19 +513,21 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>These baths are remarkable for their size (55 x 95 m), symmetry, and inclusion of a large garden. At the back of the grand semicircular entrance hall opened the garden, formerly thought to have been a &lt;em>natatio&lt;/em>. On either side then followed a palestra (Fig. 1, P), an apodyterium or changing room (A), a frigidarium (F), and a tepidarium (T). Only the &lt;em>caldarium&lt;/em> (C) was shared between the sexes. The semicircular wall at the northeastern end of the garden area goes quite deep into the ground and was presumably part of a swimming pool. As late as 1994, de Palol thought that most of the central court had been a pool, but subsequent thorough investigation could not find evidence for it except near that wall. The oldest elements go back to Tiberian times as attested by ceramics near the base of the semicircular wall, constituting the oldest finds in Clunia. Two further datable extensions occurred in Flavian and Antonine times.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_clu_arc_pb_fig1.jpg"
- alt="Plan of the Arcos I baths.">&lt;figcaption>
- &lt;h4>Plan of the Arcos I baths. Adapted from de Palol, p. 81.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/clunia/arcos_i_public_baths/his_tar_clu_arc_pb_fig1.jpg" alt="Plan of the Arcos I baths." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the Arcos I baths. Adapted from de Palol, p. 81.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_clu_arc_pb_fig2.jpg"
- alt="Photo looking north across Arcos I baths.">&lt;figcaption>
- &lt;h4>Photo looking north across Arcos I baths.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/clunia/arcos_i_public_baths/his_tar_clu_arc_pb_fig2.jpg" alt="Photo looking north across Arcos I baths." onclick="fullscreen(this)">
+ &lt;figcaption>Photo looking north across Arcos I baths.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Unspecified&lt;/p>
 &lt;h3 id="bibliography-2">Bibliography&lt;/h3>
@@ -591,39 +611,44 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 &lt;p>On the southeast corner of the house was a curious structure placed more than a meter below street level possibly to protect it from the harsh weather of the meseta . There are elements of a sort of subterranean peristyle and atrium with high walls between the columns. There are also kitchen fireplaces and connection to a cryptoportico.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/clunia/house_of_taracena/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_clu_htaracena_fig1.jpg"
- alt="Plan of underground water chambers.">&lt;figcaption>
- &lt;h4>Plan of underground water chambers. Adapted from de Palol 1994, p. 100.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/clunia/house_of_taracena/his_tar_clu_htaracena_fig1.jpg" alt="Plan of underground water chambers." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of underground water chambers. Adapted from de Palol 1994, p. 100.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_clu_fig2.jpg"
- alt="Photograph looking east over the subterranean structures.">&lt;figcaption>
- &lt;h4>Photograph looking east over the subterranean structures.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/clunia/house_of_taracena/his_tar_clu_fig2.jpg" alt="Photograph looking east over the subterranean structures." onclick="fullscreen(this)">
+ &lt;figcaption>Photograph looking east over the subterranean structures.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/his_tar_clu_fig3.jpg"
- alt="Photograph of a floral band from the south side of room 1.">&lt;figcaption>
- &lt;h4>Photograph of a floral band from the south side of room 1.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/clunia/house_of_taracena/his_tar_clu_fig3.jpg" alt="Photograph of a floral band from the south side of room 1." onclick="fullscreen(this)">
+ &lt;figcaption>Photograph of a floral band from the south side of room 1.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/his_tar_clu_fig4.jpg"
- alt="Photograph of the peristyle on the north side of the house, probably a garden.">&lt;figcaption>
- &lt;h4>Photograph of the peristyle on the north side of the house, probably a garden.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/clunia/house_of_taracena/his_tar_clu_fig4.jpg" alt="Photograph of the peristyle on the north side of the house, probably a garden." onclick="fullscreen(this)">
+ &lt;figcaption>Photograph of the peristyle on the north side of the house, probably a garden.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Unspecified&lt;/p>
 &lt;!---doesn't have ## Bibliography-->
@@ -692,19 +717,21 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_plan_fig2.jpg"
- alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.">&lt;figcaption>
- &lt;h4>Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_plan_fig2.jpg" alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_aerial_viewfig1.jpg"
- alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.">&lt;figcaption>
- &lt;h4>Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_aerial_viewfig1.jpg" alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." onclick="fullscreen(this)">
+ &lt;figcaption>Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House of the L-shaped Cistern&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -782,19 +809,21 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_plan_fig2.jpg"
- alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.">&lt;figcaption>
- &lt;h4>Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_plan_fig2.jpg" alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_aerial_viewfig1.jpg"
- alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.">&lt;figcaption>
- &lt;h4>Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_aerial_viewfig1.jpg" alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." onclick="fullscreen(this)">
+ &lt;figcaption>Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House of the Peristyle&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -814,12 +843,13 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="plans-1">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_peristyle_fig1.jpg"
- alt="Plan of the House of the Peristyle.">&lt;figcaption>
- &lt;h4>Plan of the House of the Peristyle.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_peristyle_fig1.jpg" alt="Plan of the House of the Peristyle." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the House of the Peristyle.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Unspecified&lt;/p>
 &lt;!---doesn't have ## Bibliography-->
@@ -888,19 +918,21 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_plan_fig2.jpg"
- alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.">&lt;figcaption>
- &lt;h4>Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_plan_fig2.jpg" alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_aerial_viewfig1.jpg"
- alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.">&lt;figcaption>
- &lt;h4>Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_aerial_viewfig1.jpg" alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." onclick="fullscreen(this)">
+ &lt;figcaption>Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House R2 (Tang AmpR2 and AmpR3)&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -926,19 +958,21 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="plans-1">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_R2_fig1.jpg"
- alt="The Roman or Republican city at Ampurias.">&lt;figcaption>
- &lt;h4>The Roman or Republican city at Ampurias. Adapted from Mar and Ruiiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_R2_fig1.jpg" alt="The Roman or Republican city at Ampurias." onclick="fullscreen(this)">
+ &lt;figcaption>The Roman or Republican city at Ampurias. Adapted from Mar and Ruiiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images-1">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_R2_fig2.jpg"
- alt="House R2 (Tang R2 and R3) in the Roman City in Ampurias.">&lt;figcaption>
- &lt;h4>House R2 (Tang R2 and R3) in the Roman City in Ampurias.(The dividing line runs between House R2B in the upper left and R2A; the vertical red line shows the approximate location of the original city wall.) Adapted from Tang, where it was adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_R2_fig2.jpg" alt="House R2 (Tang R2 and R3) in the Roman City in Ampurias." onclick="fullscreen(this)">
+ &lt;figcaption>House R2 (Tang R2 and R3) in the Roman City in Ampurias.(The dividing line runs between House R2B in the upper left and R2A; the vertical red line shows the approximate location of the original city wall.) Adapted from Tang, where it was adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1C BC&lt;/p>
 &lt;!---doesn't have ## Bibliography-->
@@ -1007,19 +1041,21 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_plan_fig2.jpg"
- alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.">&lt;figcaption>
- &lt;h4>Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_plan_fig2.jpg" alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_aerial_viewfig1.jpg"
- alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.">&lt;figcaption>
- &lt;h4>Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_aerial_viewfig1.jpg" alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." onclick="fullscreen(this)">
+ &lt;figcaption>Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Houses N5 and N7&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -1030,18 +1066,20 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>These two adjacent houses are typical Tuscan atrium houses, both are against the western city wall, and both have gardens of some 50 square meters at the back of the house (Fig. 1). In Pompeii, Jashemski found many small, non-peristyle gardens in modest homes. Few have been found elsewhere, probably because they were in cities and most ancient cities are under modern ones. This example of two side-by-side is therefore particularly noteworthy. Mar and R. de Arbulo, in their comprehensive volume on Emporiae, give two somewhat different versions of House N5, one on page 366 and one on the foldout map in the pocket at the back of the book. The main differences, however, are in the interpretation of the walls and spaces on the inside of the house and do not affect the interpretation of the garden areas.&lt;/p>
 &lt;h3 id="plans-1">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_5_7_fig1.jpg"
- alt="Plan of Houses N7 and N5.">&lt;figcaption>
- &lt;h4>Plan of Houses N7 and N5. Adapted from Ampurias Romana, p.366.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_5_7_fig1.jpg" alt="Plan of Houses N7 and N5." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Houses N7 and N5. Adapted from Ampurias Romana, p.366.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_5_7_fig2.jpg"
- alt="Plan of Houses N7 and N6.">&lt;figcaption>
- &lt;h4>Plan of Houses N7 and N6. Adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_5_7_fig2.jpg" alt="Plan of Houses N7 and N6." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Houses N7 and N6. Adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Unspecified&lt;/p>
 &lt;!---doesn't have ## Bibliography-->
@@ -1110,19 +1148,21 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_plan_fig2.jpg"
- alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.">&lt;figcaption>
- &lt;h4>Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_plan_fig2.jpg" alt="Plan of Emporiae, adapted from Mar and Ruiz de Arbulo." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Emporiae, adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_aerial_viewfig1.jpg"
- alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.">&lt;figcaption>
- &lt;h4>Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_aerial_viewfig1.jpg" alt="Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo." onclick="fullscreen(this)">
+ &lt;figcaption>Aerial view of Emporiae at the end of the first century BC. Adapted from Mar and Ruiz de Arbulo.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>R1 Casa Villanueve&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -1142,12 +1182,13 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="plans-1">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_TAR_Emp_villanueva_fig1.jpg"
- alt="Plan of R1 Casa Villanueve.">&lt;figcaption>
- &lt;h4>Plan of R1 Casa Villanueve.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/emporiae/HIS_TAR_Emp_villanueva_fig1.jpg" alt="Plan of R1 Casa Villanueve." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of R1 Casa Villanueve.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1C BC&lt;/p>
 &lt;!---doesn't have ## Bibliography-->
@@ -1218,12 +1259,13 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/fraga_villa_of_fortunus_ca.jpg"
- alt="Plan of the Villa of Fortunatus, Fraga, Huesca.">&lt;figcaption>
- &lt;h4>Plan of the Villa of Fortunatus, Fraga, Huesca. Source: Gorges, Planche XLII&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/fraga/fraga_villa_of_fortunus_ca.jpg" alt="Plan of the Villa of Fortunatus, Fraga, Huesca." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the Villa of Fortunatus, Fraga, Huesca. Source: Gorges, Planche XLII&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Unspecific&lt;/p>
@@ -1303,12 +1345,13 @@ Blas Taracena Aguirre, 1949, p.16&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/lei_v_romana_fig1.jpg"
- alt="Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls. In some cases these walls were used in the second villa.">&lt;figcaption>
- &lt;h4>Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls. In some cases these walls were used in the second villa.(Clopper Almon, adapted from Taracena.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/liedena/lei_v_romana_fig1.jpg" alt="Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls. In some cases these walls were used in the second villa." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls. In some cases these walls were used in the second villa.(Clopper Almon, adapted from Taracena.)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1C CE&lt;/p>
 &lt;!---doesn't have ## Bibliography-->
@@ -1372,12 +1415,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Excavations in the late 1940s and 1950s brought to light the remains of an urban house. Among the structures identified was a &lt;em>peristyle&lt;/em>. The presence of a fountain and the existence of a dividing screen, or pluteus, caused Balil to assert that the house must have contained gardens. Two &lt;em>porticos&lt;/em> were identified, a larger one in which six columns were recovered (a) and a smaller one with two &lt;em>columns&lt;/em> (b). In the center of the larger portico was an L-shaped nympheum or fountain. A lively mosaic in the southwest corner dates the house to the beginning of the second century. Each porticus may have contained a garden.&lt;/p>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_bar_hcbs_fig1.jpg"
- alt="House in Condes de Barcelona Street. Source: Balil Iliana.">&lt;figcaption>
- &lt;h4>House in Condes de Barcelona Street. Source: Balil Iliana. &lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/barcino/his_tar_bar_hcbs_fig1.jpg" alt="House in Condes de Barcelona Street. Source: Balil Iliana." onclick="fullscreen(this)">
+ &lt;figcaption>House in Condes de Barcelona Street. Source: Balil Iliana. &lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Unspecified&lt;/p>
 &lt;h3 id="bibliography-1">Bibliography&lt;/h3>
@@ -1438,12 +1482,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The villa dates from the first century BC to the third century AD when it was transformed into a bath complex. It was partially reclaimed as a villa in late Roman and Medieval times. The excavators identified one of the rooms as a garden (Fig. 1, a) because of a fountain at its south side; however, other scholars, such as Fernández Castro, doubt this identification.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_cal_vilarenc_fig1.jpg"
- alt="Plan of Vilarenc">&lt;figcaption>
- &lt;h4>Plan of Vilarenc; Source: Gorges Planche LXX.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/calafell/his_tar_cal_vilarenc_fig1.jpg" alt="Plan of Vilarenc" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Vilarenc; Source: Gorges Planche LXX.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1C BC - 3C AD&lt;/p>
 &lt;h3 id="bibliography-1">Bibliography&lt;/h3>
@@ -1581,19 +1626,21 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This fourth-century villa was discovered in 1973. An apse and a figured mosaic with two panthers mark the room on the north corner as probably the triclinium. It did not, however, have a view of the garden but looked along the northeast gallery of the peristyle. That there was a garden is indicated by the presence of a pipe which crossed the northeast portico presumably to supply water for plants or a nymphaeum in the center of the peristyle.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_albadalejo_olmilla_fig1.jpg"
- alt="Plan drawing of the Villa en Puente de la Olmilla">&lt;figcaption>
- &lt;h4>Plan drawing of the Villa en Puente de la Olmilla. &lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/albaladejo/his_tar_albadalejo_olmilla_fig1.jpg" alt="Plan drawing of the Villa en Puente de la Olmilla" onclick="fullscreen(this)">
+ &lt;figcaption>Plan drawing of the Villa en Puente de la Olmilla. &lt;/figcaption>
+&lt;/figure>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/albaladejo/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>4C&lt;/p>
@@ -1665,19 +1712,21 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>This richly adorned pleasure villa by the sea was built early in the first century AD and continued in use into the fifth century. Its period of greatest splendor was between about 100 and 250 AD. It was pillaged and burned shortly after 268, dated by a hoard of coins found in the underground prison. The prison was equipped with stocks, presumably for punishment of slaves. The mansion was rebuilt and enlarged during the fourth century AD.&lt;/p>
 &lt;p>Across the front of the house on the side by the sea ran a &lt;em>portico&lt;/em> [1] in a northwest-to-southeast direction to offer the best view. The garden lay between this portico and the sea. The excavator judged the area to be a garden, and his view is supported by several pools and perhaps a nymphaeum in the area. Also, at its southeast end, the portico turns and runs towards the sea. Opening onto this arm was a reception room with seven octagonal fountains arranged in a U. This room thus faced the garden and a pool rather than the sea. The portico was extended by a walkway and steps which defined the edge of the garden and led down the hill to a large bath complex added in the fourth-century rebuilding.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_alt_vr_munts_fig1.jpg"
- alt="Plan of Villa Romana de Els Munts">&lt;figcaption>
- &lt;h4>Villa Romana de Els Munts, Altafulla. (Source: Gorges, Planche LVI.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/altafulla/his_tar_alt_vr_munts_fig1.jpg" alt="Plan of Villa Romana de Els Munts" onclick="fullscreen(this)">
+ &lt;figcaption>Villa Romana de Els Munts, Altafulla. (Source: Gorges, Planche LVI.)&lt;/figcaption>
+&lt;/figure>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/altafulla/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1C AD&lt;/p>
@@ -1757,27 +1806,30 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>N 39 53' 10” W 2° 48' 45”
 Monumental baths about 88 meters long and 40 meters wide were built in Flavian times in the north end of the city. Immediately after the entry came a large peristyle courtyard. Perhaps it was a garden but could also have been primarily a palestra. At the end away from the entrance and towards the baths proper was found the base of a statue.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/segobriga/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_seg_bath_fig1.jpg"
- alt="Fig. 1: Segobriga: Plan of the Flavian baths.">&lt;figcaption>
- &lt;h4>Fig. 1: Segobriga: Plan of the Flavian baths. From Spanisharts website.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/segobriga/his_tar_seg_bath_fig1.jpg" alt="Fig. 1: Segobriga: Plan of the Flavian baths." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Segobriga: Plan of the Flavian baths. From Spanisharts website.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_seg_bath_fig2.jpg"
- alt="Fig 2. Segobriga. looking north over, from left to right, the edifice for the imperial cult, the peristyle of the baths, the beginning of the baths proper, and the hermitage built above the caldarium of the baths.">&lt;figcaption>
- &lt;h4>Fig 2. Segobriga. looking north over, from left to right, the edifice for the imperial cult, the peristyle of the baths, the beginning of the baths proper, and the hermitage built above the caldarium of the baths. Photo Juan Manuel Abascal or Rosario Cebrián. From Cervantesvirtual website.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/segobriga/his_tar_seg_bath_fig2.jpg" alt="Fig 2. Segobriga. looking north over, from left to right, the edifice for the imperial cult, the peristyle of the baths, the beginning of the baths proper, and the hermitage built above the caldarium of the baths." onclick="fullscreen(this)">
+ &lt;figcaption>Fig 2. Segobriga. looking north over, from left to right, the edifice for the imperial cult, the peristyle of the baths, the beginning of the baths proper, and the hermitage built above the caldarium of the baths. Photo Juan Manuel Abascal or Rosario Cebrián. From Cervantesvirtual website.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Flavian times（A.D 69–96）&lt;/p>
 &lt;h3 id="bibliography-1">Bibliography&lt;/h3>
@@ -1847,12 +1899,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The Schola of the collegium fabrum had a nympheum (a) decorated by a sculptural group of two figures pouring water (a reclining nymph and a group with a drunken Dionysus supported by Silenius) and at least two other sculptures, a sleeping Eros and a herakliskos – the infant Hercules struggling with snakes. The presence of a highly decorative nymphaeum and Dionysiac sculpture group suggests the presence of a garden.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/tarraco/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>UNKOWN&lt;/p>
@@ -1925,20 +1978,22 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The theater of Tarraco is poorly preserved. Part of the orchestra, the proscaenium, the scaena frons, the first five rows of seats, and a cryptoporticus running parallel to the curved façade survive. Connected to the theater was a monumental nympheum (a) and a large garden area (b), through which privileged spectators passed to be seated in the first rows. The garden, constructed in the first century A.D. along with the theater, included the nympheum, which was in the center of a large blind wall with pilasters bordering the uneven hill. Two large bases flanked the nympheum and perhaps held monumental craters. Water from the fountain passed into a large pool, four meters deep, with fountains at either end. This large pool had walls lined with opus signinum and was topped with a molded raised edge. It now lies buried beneath a neighboring plot of ground. A small door at the end of the pilaster wall joined this whole unit to the theater. From the door, one reached the parascenium, and by means of stairs to the west, one reached the entrance of the theater.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/tarraco/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_tar_theater_fig1.jpg"
- alt="Fig. 1: Plan of the Tarraco Theater.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Tarraco Theater. (No scale or north arrow available.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/tarraco/his_tar_tar_theater_fig1.jpg" alt="Fig. 1: Plan of the Tarraco Theater." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Tarraco Theater. (No scale or north arrow available.)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st century CE&lt;/p>
 &lt;h3 id="bibliography-1">Bibliography&lt;/h3>
@@ -2009,20 +2064,22 @@ A sublocation is any area larger than an individual garden, but located within a
 The villa is about 200 meters south of the center of the modern village of Santervas del Burgo and about 100 meters south of the left bank of the river Cejos. The ruins are reburied beneath the earth in a field, awaiting funds to present them properly.
 The villa was built in the first third of the 2nd century, destroyed by the Germanic invasions of the years immediately after 256, then rebuilt and enlarged under the restored empire, and finally abandoned in the 5th century. The large central peristyle courtyard (43.5 x 19 m) had porticoes on all four sides and a garden with a drainage system in the middle. On the south side, the room with the circular, quadrilobed interior had a mosaic of Ceres and a cornucopia. A series of agricultural buildings and other gardens joined it on the north side.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/villa_de_los_villares/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_san_villares_fig1.jpg"
- alt="Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria">&lt;figcaption>
- &lt;h4>Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria Source: Gorges, Planche XLV&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/villa_de_los_villares/his_tar_san_villares_fig1.jpg" alt="Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria Source: Gorges, Planche XLV&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>The first third of the 2nd century&lt;/p>
 &lt;h3 id="bibliography-1">Bibliography&lt;/h3>
@@ -2096,20 +2153,22 @@ It was presumably the residence of the offical in charge of the gold extraction.
 Built under Tiberius, this site is a rare if not unique example of a first century Iberian villa for which we have a complete plan. Excavation began in the 1930's. Of modest dimensions and without mosaics, it followed an Italian plan with a central (slightly trapezoidal) peristyle with little adaptation to the much cooler climate at this elevation. It did, however, have several rooms heated by hypocausts and many rooms paved in opus signinum. There were found many fragments of wall painting (of deer, birds, and humans) and of ceramic and glass.
 In the center of the peristyle was a rectangular pool with protruding semi-circular niches at each corner; it was lined with painted stucco. The garden around the pool was open on the north side in front of the reception room [1]. In a later modification, the west portico was divided into four small rooms beside the garden.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/villa_el_soldan/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_san_soldan_sultan_fig1.jpg"
- alt="Fig. 1: Plan of Villa El Soldán.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa El Soldán. Source: Gorges, Planche XXXVI&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/villa_el_soldan/his_tar_san_soldan_sultan_fig1.jpg" alt="Fig. 1: Plan of Villa El Soldán." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa El Soldán. Source: Gorges, Planche XXXVI&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Tiberius times(A.D 14-37)&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
@@ -2230,12 +2289,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The villa was first excavated in 1928-9.(Ampu More than 22 rooms were paved with mosaics for a total area of 1,400 square meters of mosaic. Made of local stones, they date from the second century AD. Among them is a rare picture of a crown of shafts a grain, a symbol of agricultural fertility.&lt;/p>
 &lt;p>This villa is one of the best examples in Spain of an axially planned peristyle villa. In the center of its grand peristyle courtyard (41 x 22 m.) was a structure which may have been part of a water supply system for the garden in the courtyard. The main reception room (Fig. 1, 1, in the center of the north wing) had a wide opening onto the garden and a passage through the low wall which otherwise surrounded the garden on three sides and half of the fourth. Likewise room [2] on the east side, possibly a triclinium, had a good view of the garden. An unusual feature, however, is that, with the exception of these two rooms, all the other rooms around the porticoes of the peristyle did not open directly onto the portico but onto narrow corridors perpendicular to the portico. Thus, unless they had windows, they did not get light and air directly from the garden courtyard.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_cue_soria_fig1.jpg"
- alt="Villa of Cuevas de Soria.">&lt;figcaption>
- &lt;h4>Villa of Cuevas de Soria. Source: Gorges, Planche XLIV.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/cuevas_de_sona/his_tar_cue_soria_fig1.jpg" alt="Villa of Cuevas de Soria." onclick="fullscreen(this)">
+ &lt;figcaption>Villa of Cuevas de Soria. Source: Gorges, Planche XLIV.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2C AD&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

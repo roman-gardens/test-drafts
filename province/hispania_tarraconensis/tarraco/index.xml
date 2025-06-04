@@ -50,12 +50,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The Schola of the collegium fabrum had a nympheum (a) decorated by a sculptural group of two figures pouring water (a reclining nymph and a group with a drunken Dionysus supported by Silenius) and at least two other sculptures, a sleeping Eros and a herakliskos – the infant Hercules struggling with snakes. The presence of a highly decorative nymphaeum and Dionysiac sculpture group suggests the presence of a garden.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/tarraco/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>UNKOWN&lt;/p>
@@ -128,20 +129,22 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The theater of Tarraco is poorly preserved. Part of the orchestra, the proscaenium, the scaena frons, the first five rows of seats, and a cryptoporticus running parallel to the curved façade survive. Connected to the theater was a monumental nympheum (a) and a large garden area (b), through which privileged spectators passed to be seated in the first rows. The garden, constructed in the first century A.D. along with the theater, included the nympheum, which was in the center of a large blind wall with pilasters bordering the uneven hill. Two large bases flanked the nympheum and perhaps held monumental craters. Water from the fountain passed into a large pool, four meters deep, with fountains at either end. This large pool had walls lined with opus signinum and was topped with a molded raised edge. It now lies buried beneath a neighboring plot of ground. A small door at the end of the pilaster wall joined this whole unit to the theater. From the door, one reached the parascenium, and by means of stairs to the west, one reached the entrance of the theater.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/tarraco/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_tar_theater_fig1.jpg"
- alt="Fig. 1: Plan of the Tarraco Theater.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Tarraco Theater. (No scale or north arrow available.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/tarraco/his_tar_tar_theater_fig1.jpg" alt="Fig. 1: Plan of the Tarraco Theater." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Tarraco Theater. (No scale or north arrow available.)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st century CE&lt;/p>
 &lt;h3 id="bibliography-1">Bibliography&lt;/h3>

@@ -32,33 +32,37 @@ A sublocation is any area larger than an individual garden, but located within a
 ### Maps
 
 
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/judaea/masada/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/ASIA-JUD-MASADA-KGLEASON-1.jpg"
- alt="Fig. 1: Axonometric drawing of Masada (Gleason after Netzer 1999, fig. 124).">&lt;figcaption>
- &lt;h4>Axonometric drawing of Masada (Gleason after Netzer 1999, fig. 124)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/judaea/masada/ASIA-JUD-MASADA-KGLEASON-1.jpg" alt="Fig. 1: Axonometric drawing of Masada (Gleason after Netzer 1999, fig. 124)." onclick="fullscreen(this)">
+ &lt;figcaption>Axonometric drawing of Masada (Gleason after Netzer 1999, fig. 124)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;p>&lt;figure>&lt;img src="../images/ASIA-JUD-MASADA-KGLEASON-2.jpg"
- alt="Fig. 2: View of southern garden area with pools and columbarium.">&lt;figcaption>
- &lt;h4>Fig. 2: View of southern garden area with pools and columbarium.&lt;/h4>
- &lt;/figcaption>
+&lt;p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/judaea/masada/ASIA-JUD-MASADA-KGLEASON-2.jpg" alt="Fig. 2: View of southern garden area with pools and columbarium." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: View of southern garden area with pools and columbarium.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ASIA-JUD-MASADA-KGLEASON-3.jpg"
- alt="Fragments of a thick garland from the Northern Palace. Location of garden rooms is indicated with an asterix on Fig. 1. (Foerster, 1996).">&lt;figcaption>
- &lt;h4>Fig. 3:Fragments of a thick garland from the Northern Palace. Location of garden rooms is indicated with an asterix on Fig. 1. (Foerster, 1996).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-&lt;/p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/judaea/masada/ASIA-JUD-MASADA-KGLEASON-3.jpg" alt="Fragments of a thick garland from the Northern Palace. Location of garden rooms is indicated with an asterix on Fig. 1. (Foerster, 1996)." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3:Fragments of a thick garland from the Northern Palace. Location of garden rooms is indicated with an asterix on Fig. 1. (Foerster, 1996).&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>30 BCE - 60 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

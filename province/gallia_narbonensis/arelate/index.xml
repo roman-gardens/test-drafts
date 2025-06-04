@@ -24,12 +24,13 @@
 &lt;p>This house on the right bank of the Rhone is at [20] on the map. Excavations in 1982-1984, partially uncovered the remains of the building of about 240 square meters. Almost all of the fourteen known rooms of this rich house have mosaic or &lt;em>opus sectile&lt;/em> floors. The house revealed by the excavations was built about 180 CE, but three prior phases, from the first and second century, were noted. It was occupied until about 260 and underwent repairs visible in restorations of the mosaics.
 The free space north of rooms [1], [2] and [9] was probably a garden without porticoes. How far it extended to the north and east is not known.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house1_quartier_de_la_verrerie_glassworks_quarter_at_trinquetaille.png"
- alt="Plan of House I, Quartier de la Verrerie at Trinquetaille">&lt;figcaption>
- &lt;h4>Plan of House I, Quartier de la Verrerie at Trinquetaille&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/arelate/house1_quartier_de_la_verrerie_glassworks_quarter_at_trinquetaille.png" alt="Plan of House I, Quartier de la Verrerie at Trinquetaille" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of House I, Quartier de la Verrerie at Trinquetaille&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavations in 1982-1984&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -81,12 +82,13 @@ The free space north of rooms [1], [2] and [9] was probably a garden without por
 &lt;h3 id="house-description">House Description&lt;/h3>
 &lt;p>This house at [14] on the map, was discovered in 1977 in an emergency salvage excavation. It was constructed about 180 and destroyed in the third quarter of the third century. The portion revealed was composed of four rooms, aligned in an east-west direction, with polychrome mosaic floors and a southern wall that was seemingly without openings. Along the north side, however, was a wide portico giving light and air to the rooms. Beyond it, there extended an area that was perhaps a garden.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_under_the_credit_agricole.png"
- alt="Plan of House under the Crédit Agricole">&lt;figcaption>
- &lt;h4>Plan of House under the Crédit Agricole&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/arelate/house_under_the_credit_agricole.png" alt="Plan of House under the Crédit Agricole" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of House under the Crédit Agricole&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

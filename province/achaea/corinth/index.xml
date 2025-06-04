@@ -32,33 +32,37 @@ Fragments of marble sculpture were found in the fill above the spina, including 
 &lt;p>The so-called “hippodrome garden” type (see the Domus Flavia on the Palatine Hill in Rome, the “Stadium-Garden at Hadrian’s Villa at Tivoli, the Villa of the Little Circus at Silin, Jericho, Pliny’s Tuscan villa, and Domitian’s villa above Lake Albano) must have been inspired in some way by Greek hippodromes and/or by Roman circuses with planted areas with sculptural and possibly architectural decoration in the central area and probably around the circumference of the elongated racecourse. It must be pointed out, however, that no Greek hippodrome has ever been excavated, although &lt;a href="http://lykaionexcavation.org">recent excavations&lt;/a> at the Sanctuary of Zeus on Mt. Lykaion in Arcadia may be able to shed some light for the first time on a Classical period hippodrome structure and its possible garden features. In addition, although trees appear in circus scenes illustrating the spina and meta of the Circus Maximus in Rome on 3rd – 4th century A.D. mosaics, e.g., the Barcelona mosaic, as well as on coins, e.g., coin of Philip I, and on sarcophagus reliefs, such as the Vatican sarcophagus (Humphrey, 235-236, figs. 56, 119; p. 127, fig. 56; pp. 196-203, fig. 99-101) and the possibility of plantings has been proposed in the spinae of Roman circuses (e.g., by Humphrey, 38 for the circus at Leptis Magna), no specific archaeological evidence has been recorded until the publication of this circus at Corinth.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/corinth/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/corinth-plan.jpg"
- alt="plan of the Roman circus, with planting pits labeled">&lt;figcaption>
- &lt;h4>Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, “Roman Circus,” p. 589, fig. 3. Plan courtesy of the author.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/corinth/corinth-plan.jpg" alt="plan of the Roman circus, with planting pits labeled" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, “Roman Circus,” p. 589, fig. 3. Plan courtesy of the author.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/corinth-circus-restored.jpg"
- alt="reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta">&lt;figcaption>
- &lt;h4>Fig 2. Reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta. Drawing by David Pacifico for the Corinth Computer Project.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/corinth/corinth-circus-restored.jpg" alt="reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta" onclick="fullscreen(this)">
+ &lt;figcaption>Fig 2. Reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta. Drawing by David Pacifico for the Corinth Computer Project.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/amphora-in-planting-pit.jpg"
- alt="fragmentary amphora found in pit 2 in the spina of the Roman circus">&lt;figcaption>
- &lt;h4>Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus. Photograph courtesy of James Wiseman.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/corinth/amphora-in-planting-pit.jpg" alt="fragmentary amphora found in pit 2 in the spina of the Roman circus" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus. Photograph courtesy of James Wiseman.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
 &lt;!-- If no date, use "unspecified" -->

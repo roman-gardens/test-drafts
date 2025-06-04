@@ -6,12 +6,13 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/cuicul/">Cuicul&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/305068">Cuicul (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/cuicul_house_of_bacchus.jpg"
- alt="Plan of Cuicul.">&lt;figcaption>
- &lt;h4>Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_bacchus.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
 &lt;!--## Sublocation-->
@@ -36,31 +37,35 @@
 &lt;p>2-The main building (Plan view Fig. 1) is composed of two peristyle dwellings, formerly separate, linked up during the Late Empire; the central space of the large one was paved, first with slabs, afterwards with mosaic. The little peristyle (7 m x 10 m) was a garden (B) enclosed by three porticoes, supported by six columns (rough and probably stuccoed) and bordered by a low wall. On the south side, there was a semi-circular pool, the front of which was closed by two stone plates, engraved with lozenges and joined by a cut column. The exedra and the rooms having view into the garden seem to have been devoted to private life, unlike the large one.&lt;/p>
 &lt;p>3-The rear garden (C) of the &amp;quot;House of Bacchus&amp;quot; seems to have originally belonged to the little baths and then the house with the large peristyle VI (see Plan view in red Fig. 1). It was greatly transformed in Late Antiquity. The great seven apses hall, built in the middle of the fifth century, took the place of the small baths and overwhelmed this space with its impressive volume. The large &lt;em>oecus&lt;/em> may be assigned to the Constantinian period: perhaps it had a view over the rear garden at that time. Afterwards, this room was extended with an absidial pool (11 m long); through a wide door, people accessed a little terrace, from where they overlooked the new pool, paved with marble, one meter below. Water arrived from two little pools on each side and went into the drain of the seven apses room. Two little columns bore a small pediment. In the inside edges, we see terracotta amphoras used to raise fish. The inside borders are complete, but the outside masonry is unfinished, so that we may think that the rear wall may have stood high enough to form a nymphaeum. The masonry is similar in the fish pool and in the seven apses (brick tiles joined by brick layers forming crosses) : from that, we infer they were built at the same time, in the middle of the fifth century. The foundation of the fish pool was laid on the bottom of the rectangular one, which perhaps was filled up.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_bacchus_plan_new1.jpg"
- alt="Plan of the House of Bacchus.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Bacchus (Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_new1.jpg" alt="Plan of the House of Bacchus." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Bacchus (Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_bacchus_plan_photo1.jpg"
- alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc">&lt;figcaption>
- &lt;h4>Fig. 2: The small peristyle garden B and its semi circular basin (Février, P.-A. – CCJ 62889))&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_photo1.jpg" alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: The small peristyle garden B and its semi circular basin (Février, P.-A. – CCJ 62889))&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/pool_and_fish_pool.jpg"
- alt="The pool and fish pool.">&lt;figcaption>
- &lt;h4>Fig. 3: The pool and fish pool (Février, P.-A.– CCJ 62945)&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/pool_and_fish_pool.jpg" alt="The pool and fish pool." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: The pool and fish pool (Février, P.-A.– CCJ 62945)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/fish_pool.jpg"
- alt="The fish pool.">&lt;figcaption>
- &lt;h4>Fig. 4: The fish pool (Février, P.-A.– CCJ 62886)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/fish_pool.jpg" alt="The fish pool." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: The fish pool (Février, P.-A.– CCJ 62886)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>3nd-5th century CE&lt;/p>
 &lt;!--#### Excavation Dates
@@ -92,12 +97,13 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/cuicul/">Cuicul&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/305068">Cuicul (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/cuicul_house_of_castorius.jpg"
- alt="Plan of Cuicul.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_castorius.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
 &lt;!--## Sublocation-->
@@ -120,25 +126,28 @@
 &lt;p>We can see the complex building of Late Antiquity (1500 m2), centered around the peristyle, with a large central area (8.10 x 7.70 m) (Fig. 1). The bases of the columns (four on each side) are not visible; therefore, they seem to lay on a lower level, hidden by later phase of construction. During the first half of the fifth century, low walls were set against the columns, except on the west side, where the open area was entered from the gallery. On the north side, an apse, paved with a mosaic representing a shell, encroaches upon the inner space. On the east side, in front of the large exedra XVIII, a mass of masonry includes three small semi-circular pools. A large rectangular fish pool rests against the mass of masonry; there are little terracotta amphoras inside the edges. At the center of this pool, rose a tall hexagonal base engraved with an ivy scroll and unreadable inscriptions, standing on a hollow base. The peristyle galleries were paved with mosaics: there were geometric patterns and two inscriptions glorifying the owner Castorius and his family.&lt;/p>
 &lt;p>The L shaped space between the fish pool and the columns was probably planted.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_castorius_plan1.jpg"
- alt="Plan of the House of Castorius.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Castorius (Blanchard-Lemée, M., 1975, fig. 4)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_plan1.jpg" alt="Plan of the House of Castorius." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Castorius (Blanchard-Lemée, M., 1975, fig. 4)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_castorius_photo1.jpg"
- alt="Southwest corner of the peristyle XVI, the L shaped planted area.">&lt;figcaption>
- &lt;h4>Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_photo1.jpg" alt="Southwest corner of the peristyle XVI, the L shaped planted area." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/house_of_castorius_photo2.jpg"
- alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool.">&lt;figcaption>
- &lt;h4>Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_photo2.jpg" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>5th century&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
@@ -165,12 +174,13 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/cuicul/">Cuicul&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/305068">Cuicul (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/cuicul_small_baths.jpg"
- alt="Plan of Cuicul.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_small_baths.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
 &lt;!--## Sublocation-->
@@ -190,31 +200,35 @@
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The garden A mentioned as an open area was excavated in 1930-1931 and in 1944 (Plan view, Fig. 1). It was enclosed on the N, by the Small Baths I (covered in a later period by the seven apse hall built in the fifth century); on the W, by the limit of a long boundary wall (44m long) of the property; on the S, by another wall and by the little building II with the well known dionysiac pavement. Along the rear wall of the garden on the W, there was a terrace III (9 m long) paved with black mosaic. It runs from the large reservoir at the SW corner to a pavilion IV near the NW corner. The pavilion (6.40 m x 3.60 m) commanded a large view over the garden; it may be interpreted as a summer dining room, a diaeta. It was decorated with stuccoed moldings and a colorful mosaic pavement, which could hardly be dated before the fourth century, but perhaps was not the original pavement. Parallel to the edge of the terrace, one meter below the reservoir, sixty centimeters below the terrace, there was a rectangular pool V (16. 50 m X 4.50 m, 1.63 m deep). Water entered at the south edge, under the pedestal (a) still in place. Along the W and the S sides of the pool, more or less than two meters away, there is a row of stone bases, each showing a hole for a wood post, that likely supported a pergola; a vine probably shaded the passage (similar holes are visible in the N and W edges of the pool) (fig. 2, fig. 3). Standing on the pedestal (a), we may imagine a garden statue, for the feet of a marble statuette of an Unraveling Venus (1 m high) were found precisely at the same time (fig. 4) ; the body had been carried, by the load of earth along the sharp slope, towards the large peristyle. Near the pool were also found a broken head of Aseculapius (30 cm high) and a set of surgical instruments. On the E side of the garden, there was a tank that stored water from the spring, the channel of which crosses the garden towards the large peristyle VI. The little building II with dionysiac pavement, perhaps widely opened towards the garden, and must be interpreted in connection to it: the vine in the mosaic may recall the vine in the pergola. This ornamental garden combines many uses (bathing, dining, curing, entertaining) and many religious significations, referring to Dionysus, Venus, Aesculapius.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/plan_of_small_baths.jpg"
- alt="Plan of the Small Baths">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Small Baths (Blanchard-Lemée, M., 1998, fig. 6)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/plan_of_small_baths.jpg" alt="Plan of the Small Baths" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Small Baths (Blanchard-Lemée, M., 1998, fig. 6)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_bacchus_plan_photo2.jpg"
- alt="Southern side of the rectangular pool">&lt;figcaption>
- &lt;h4>Fig. 2: Southern side of the rectangular pool (Février, P.-A. – CCJ 62881)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_photo2.jpg" alt="Southern side of the rectangular pool" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Southern side of the rectangular pool (Février, P.-A. – CCJ 62881)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/small_baths_rectangular_pool.jpg"
- alt="Drawing of reconstruction of the rectangular pool">&lt;figcaption>
- &lt;h4>Fig. 3: Drawing of reconstruction of the rectangular pool (Kahwagi-Janho, H.)&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/small_baths_rectangular_pool.jpg" alt="Drawing of reconstruction of the rectangular pool" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Drawing of reconstruction of the rectangular pool (Kahwagi-Janho, H.)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/venus_djemila.jpg"
- alt="Venus">&lt;figcaption>
- &lt;h4>Fig. 4: Venus (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/venus_djemila.jpg" alt="Venus" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: Venus (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Early 3rd century CE&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
@@ -288,45 +302,51 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;p>{&amp;lt; figure src=&amp;quot;../images/sirmio-2.jpg&amp;quot; alt=&amp;quot;Fig. 2: Plan of House of Grotto of Catullus.&amp;quot; title=&amp;quot;Fig. 2: Plan of House of Grotto of Catullus&amp;quot; &amp;gt;}}&lt;/p>
-&lt;figure>&lt;img src="../images/sirmio-3.jpg"
- alt="Fig. 3: Plan of the residential rooms.">&lt;figcaption>
- &lt;h4>Fig. 3: Plan of the residential rooms&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-3.jpg" alt="Fig. 3: Plan of the residential rooms." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Plan of the residential rooms&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-5.jpg"
- alt="Fig. 5: Aerial view of vast olive grove.">&lt;figcaption>
- &lt;h4>Fig. 5: Aerial view of vast olive grove&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-5.jpg" alt="Fig. 5: Aerial view of vast olive grove." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: Aerial view of vast olive grove&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-7.jpg"
- alt="Fig. 7:Aerial view of courtyard-viridarium.">&lt;figcaption>
- &lt;h4>Fig. 7: Aerial view of courtyard-viridarium&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-7.jpg" alt="Fig. 7:Aerial view of courtyard-viridarium." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 7: Aerial view of courtyard-viridarium&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-11.jpg"
- alt="Fig. 11: statue of a Dioscuros.">&lt;figcaption>
- &lt;h4>Fig. 11: statue of a Dioscuros&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-11.jpg" alt="Fig. 11: statue of a Dioscuros." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 11: statue of a Dioscuros&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-12.jpg"
- alt="Fig. 12: Figure of Plant fossils.">&lt;figcaption>
- &lt;h4>Fig. 12: Figure of Plant fossils&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-12.jpg" alt="Fig. 12: Figure of Plant fossils." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 12: Figure of Plant fossils&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -385,28 +405,31 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/region-i-insula-8.jpg"
- alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region-i-insula-8.jpg" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -463,29 +486,32 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
- alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/figcaption>
+&lt;/figure>-->
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1926 and 1927. Restoration 2017.&lt;/p>
@@ -569,59 +595,66 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
- alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_41_I.vii.11_12_11.32.59.jpg"
- alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_41_I.vii.11_12_11.32.59.jpg" alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_42_I.vii.12_14.3.68.jpg"
- alt="Fig. 4: I.vii. 14.3.68, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 4: I.vii. 14.3.68, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_42_I.vii.12_14.3.68.jpg" alt="Fig. 4: I.vii. 14.3.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: I.vii. 14.3.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_43_I.vii.11_33.27.61.jpg"
- alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 5: I.vii. 33.27.61, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_43_I.vii.11_33.27.61.jpg" alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: I.vii. 33.27.61, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_44_I.vii.11_12_11.33.59.jpg"
- alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_44_I.vii.11_12_11.33.59.jpg" alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1912 and 1925.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -684,58 +717,65 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
- alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_34_I.vii.3_54.8.64.jpg"
- alt="Fig. 3: I.vii. 54.8.64, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I.vii. 54.8.64, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_34_I.vii.3_54.8.64.jpg" alt="Fig. 3: I.vii. 54.8.64, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I.vii. 54.8.64, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_35_I.vii.3_54.7.54.jpg"
- alt="Fig. 4: I.vii. 54.7.54, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 4: I.vii. 54.7.54, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_35_I.vii.3_54.7.54.jpg" alt="Fig. 4: I.vii. 54.7.54, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: I.vii. 54.7.54, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_36_I.vii.3_53.38.64.jpg"
- alt="Fig. 5: I.vii. 53.38.64, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 5: I.vii. 53.38.64, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_36_I.vii.3_53.38.64.jpg" alt="Fig. 5: I.vii. 53.38.64, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: I.vii. 53.38.64, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_37_I.vii.2_12.36.72.jpg"
- alt="Fig. 6: I.vii. 12.36.72, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 6: I.vii. 12.36.72, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_37_I.vii.2_12.36.72.jpg" alt="Fig. 6: I.vii. 12.36.72, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6: I.vii. 12.36.72, S.A. Jashemski (Rights Statement).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1911 and 1923.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -793,28 +833,31 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 In the center of the building was a large open peristyle courtyard with a long pool (stippled on plan). The courtyard has been reconstructed as a garden (G on plan) in which students and scholars could stroll, and there were almost certainly statues in this area. One is reminded of Vitruvius’ recommendation to plant the open areas between the colonnades of buildings with greenery, which he believed improved the air and made walks in this environment healthy for body and mind &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-eng1:5.9.5">(Vitr. 5.9.5.)&lt;/a>. The building bears a strong resemblance typologically, and very likely thematically, to the late Hellenistic/early Roman gymnasium outside the city in the &lt;a href="#">Academy&lt;/a>. Pausanias, our literary source for Hadrian’s building projects in Athens, referred to the library as a splendid building with 100 columns, adorned with statues and paintings &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:1.18.9">(Paus. 1.18.9)&lt;/a>.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/library.jpg"
- alt="plan of the Library of Hadrian with courtyard garden and apsidal pool">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/library.jpg" alt="plan of the Library of Hadrian with courtyard garden and apsidal pool" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd century CE and later&lt;/p>
@@ -864,26 +907,29 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 Another only partially excavated house of the mid-4th century A.D., built into the northern slope of the Areopagus, had a small courtyard (3.20 x 3.90 m.) paved with blue and white marble slabs surrounded by a masonry flower bed 50 cm. wide (Fig. 2; f on plan). Around this ran a shallow marble-paved basin (c on plan) which was supplied with water by a fountain on the south eastern side of the courtyard. Water flowed from the basin through a lead pipe in the middle of each side of the courtyard into the planter beds.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/areopagus1.jpg"
- alt="plan of an early Roman house with pool and courtyard">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/areopagus1.jpg" alt="plan of an early Roman house with pool and courtyard" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/areopagus2.jpg"
- alt="courtyard with flowerbeds and surrounding water channel in a late Roman house">&lt;figcaption>
- &lt;h4>Fig. 2: Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/areopagus2.jpg" alt="courtyard with flowerbeds and surrounding water channel in a late Roman house" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>mid-4th century CE and earlier&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

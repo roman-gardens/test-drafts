@@ -34,20 +34,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/tolouse/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/domus_under_the_hotel_d_assezat.png"
- alt="Plan of Domus under the Hôtel d’Assézat">&lt;figcaption>
- &lt;h4>Plan of Domus under the Hôtel d’Assézat&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/tolouse/domus_under_the_hotel_d_assezat.png" alt="Plan of Domus under the Hôtel d’Assézat" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Domus under the Hôtel d’Assézat&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

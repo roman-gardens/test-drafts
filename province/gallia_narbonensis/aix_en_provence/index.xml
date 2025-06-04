@@ -25,20 +25,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/enclos_milhaud_house_of_the_sea_god.png"
- alt="Plan of House of the Sea god">&lt;figcaption>
- &lt;h4>Enclos Milhaud, House of the Sea god&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/enclos_milhaud_house_of_the_sea_god.png" alt="Plan of House of the Sea god" onclick="fullscreen(this)">
+ &lt;figcaption>Enclos Milhaud, House of the Sea god&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
 OLD WAY (DO NOT USE)
@@ -46,12 +48,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -92,20 +95,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/enclos_milhaud_house_with_the_large_peristyle.png"
- alt="Plan of the House with the Large Peristyle">&lt;figcaption>
- &lt;h4>Fig.1 Enclos Milhaud, House with the large peristyle&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/enclos_milhaud_house_with_the_large_peristyle.png" alt="Plan of the House with the Large Peristyle" onclick="fullscreen(this)">
+ &lt;figcaption>Fig.1 Enclos Milhaud, House with the large peristyle&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
 OLD WAY (DO NOT USE)
@@ -113,12 +118,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -172,20 +178,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/enclos_reynaud_house_of_the_pool_with_apses.png"
- alt="Plan of the House of the Pool with Apses">&lt;figcaption>
- &lt;h4>Enclos Reynaud,House of the pool with apses&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/enclos_reynaud_house_of_the_pool_with_apses.png" alt="Plan of the House of the Pool with Apses" onclick="fullscreen(this)">
+ &lt;figcaption>Enclos Reynaud,House of the pool with apses&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
 OLD WAY (DO NOT USE)
@@ -193,12 +201,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -261,26 +270,29 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_under_the_pasteur_parking_lot_phase1.png"
- alt="Fig.1 Plan of the House under the Pasteur parking lot, Phase 1">&lt;figcaption>
- &lt;h4>House under the Pasteur parking lot_phase1&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/house_under_the_pasteur_parking_lot_phase1.png" alt="Fig.1 Plan of the House under the Pasteur parking lot, Phase 1" onclick="fullscreen(this)">
+ &lt;figcaption>House under the Pasteur parking lot_phase1&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/house_under_the_pasteur_parking_lot_phase2.png"
- alt="Fig.2 Plan of the House under the Pasteur parking lot, Phase 2">&lt;figcaption>
- &lt;h4>House under the Pasteur parking lot_phase2&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/house_under_the_pasteur_parking_lot_phase2.png" alt="Fig.2 Plan of the House under the Pasteur parking lot, Phase 2" onclick="fullscreen(this)">
+ &lt;figcaption>House under the Pasteur parking lot_phase2&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
 OLD WAY (DO NOT USE)
@@ -288,12 +300,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -354,26 +367,29 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/aix_jardins_de_grassi_house_with_the_large_peristyle1.png"
- alt="Fig.1 plan of the House with the Large peristyle">&lt;figcaption>
- &lt;h4>Fig 1. House with the large peristyle&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/aix_jardins_de_grassi_house_with_the_large_peristyle1.png" alt="Fig.1 plan of the House with the Large peristyle" onclick="fullscreen(this)">
+ &lt;figcaption>Fig 1. House with the large peristyle&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/aix_jardins_de_grassi_house_with_the_large_peristyle2.png"
- alt="Fig.2 Plan of the House with the Large peristyle">&lt;figcaption>
- &lt;h4>Fig 2. House with the large peristyle&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/aix_jardins_de_grassi_house_with_the_large_peristyle2.png" alt="Fig.2 Plan of the House with the Large peristyle" onclick="fullscreen(this)">
+ &lt;figcaption>Fig 2. House with the large peristyle&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
 OLD WAY (DO NOT USE)
@@ -381,12 +397,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -440,32 +457,35 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;p>&lt;figure>&lt;img src="../images/enclos_reynaud_combination_of_house_with_the_large_opus_sectile_with_house_of_the_semicircular_bay.png"
- alt="Plan of the Combination of House with the Large Opus with House fo the Semicircular Bay">&lt;figcaption>
- &lt;h4>Combination of House with the large opus sectile with House of the semicircular bay&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-&lt;!--### Images-->&lt;/p>
+&lt;p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/enclos_reynaud_combination_of_house_with_the_large_opus_sectile_with_house_of_the_semicircular_bay.png" alt="Plan of the Combination of House with the Large Opus with House fo the Semicircular Bay" onclick="fullscreen(this)">
+ &lt;figcaption>Combination of House with the large opus sectile with House of the semicircular bay&lt;/figcaption>
+&lt;/figure>&lt;!--### Images-->&lt;/p>
 &lt;!--
 OLD WAY (DO NOT USE)
 ![alt_text](../../images/image_name.ext)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -526,20 +546,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/enclos_reynaud_house_with_the_large_opus_sectile_phase_I.png"
- alt="Plan of the House with the large opus sectile, phase I">&lt;figcaption>
- &lt;h4>House with the large opus sectile, phase I&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/enclos_reynaud_house_with_the_large_opus_sectile_phase_I.png" alt="Plan of the House with the large opus sectile, phase I" onclick="fullscreen(this)">
+ &lt;figcaption>House with the large opus sectile, phase I&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
 OLD WAY (DO NOT USE)
@@ -547,12 +569,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -608,20 +631,22 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/nar_6.4_enclos_reynaud_house_with_the_semicircular_bay_phase_I.png"
- alt="Plan of the House with the semicircular bay, phase I">&lt;figcaption>
- &lt;h4>House with the semicircular bay, phase I&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/nar_6.4_enclos_reynaud_house_with_the_semicircular_bay_phase_I.png" alt="Plan of the House with the semicircular bay, phase I" onclick="fullscreen(this)">
+ &lt;figcaption>House with the semicircular bay, phase I&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
 OLD WAY (DO NOT USE)
@@ -629,12 +654,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/aix_en_provence/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

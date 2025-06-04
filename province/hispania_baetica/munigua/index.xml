@@ -24,27 +24,32 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The sanctuary occupies various terraces and dominates the city below. The plan of the sanctuary follows a Hellenistic model, late-Republican in date. The structure is symmetrical in design with an apsidal space backed by the temple and its dependencies. The sanctuary was constructed in the second half of the first century AD and was dedicated perhaps to the Imperial cult. It was approached by means of two symmetrically placed ramps leading to a rectangular terrace on which animal sacrifices may have taken place. By way of stairs one reached two higher terraces on either side of the temple complex. These terraces were surrounded on two sides by porticoes. They were paved in &lt;em>opus signinum&lt;/em>. In the upper terrace there was a central pool, as well as small circular holes in the pavement for plants or trees. From this garden terrace there was access to the exedra and the forecourt of the temple at a still higher level.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/munigua/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans-->
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/munigua/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_BAE_Munigua_Sanctuary%20axon_CA.jpg"
- alt="Fig. 1: Perspective drawing of the Sanctuary at Munigua. Source: Hauschild, p.136. (Rights Statement)">
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/munigua/HIS_BAE_Munigua_Sanctuary%20axon_CA.jpg" alt="Fig. 1: Perspective drawing of the Sanctuary at Munigua. Source: Hauschild, p.136. (Rights Statement)" onclick="fullscreen(this)">
+ &lt;figcaption>&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

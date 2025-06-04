@@ -25,63 +25,71 @@
 &lt;p>The second terrace is largely unexplored but remains of a building have been noted at its southwest corner. The lowest terrace has been the focus of archaeological exploration and contains the well-known Lion Pavilion restored by Will (Figs. 2 and 3). It was once thought to be a temple and is oddly described by Josephus as a fortress. This terrace is retained by large stone dam, which may have held water from the abundant local springs forming an artificial lake (Fig. 4). The pavilion is set well above the level of the land around it, and Netzer proposes that the “moat” mentioned by Josephus was in fact a reflecting pool for the ornately carved building at its center (Fig. 5).&lt;/p>
 &lt;p>Below the dam, the land drops away dramatically in a series of agricultural terraces leading to a large valley and the Jordan Valley beyond. The complex was unfinished at the time of Hyrcanus’ death in 169-68 BCE, and the complex eventually came into the properties of &lt;a href="https://en.wikipedia.org/wiki/Herod_the_Great">Herod the Great&lt;/a>.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
-&lt;figure>&lt;img src="../images/1_arabia_petraea_map.jpg"
- alt="Map of Petra location">&lt;figcaption>
- &lt;p>Fig 1: Map showing the location of ancient Tyrus in Arabia Petraea. Map by L.-A. Bedal, based on &lt;a href="https://commons.wikimedia.org/w/index.php?curid=26047529">Andrein, with the assistance of EraNavigator&lt;/a>&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
 
-&lt;h3 id="plans">Plans&lt;/h3>
-&lt;!-- &lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/1_arabia_petraea_map.jpg" alt="Map of Petra location" onclick="fullscreen(this)">
+ &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
- -->
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;!-- 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure> -->
 &lt;!--
  Waiting for plan from K. Gleason
 -->
 &lt;h3 id="images">Images&lt;/h3>
-&lt;!-- &lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
- -->
+&lt;!-- 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure> -->
 &lt;!--
  Waiting for columbarium photo from K. Gleason
 -->
-&lt;figure>&lt;img src="../images/2_arabia_tyrus_pavilion_facade.jpg"
- alt="Facade of the Lion Pavilion">&lt;figcaption>
- &lt;h4>Fig. 2: The facade of the Lion Pavilion at Tyrus, ʻIraq al-Amir. Photograph by L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/2_arabia_tyrus_pavilion_facade.jpg" alt="Facade of the Lion Pavilion" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: The facade of the Lion Pavilion at Tyrus, ʻIraq al-Amir. Photograph by L.-A. Bedal.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/3_arabia_tyrus_palace.jpg"
- alt="The Lion Pavilion in Wadi Seer">&lt;figcaption>
- &lt;h4>Fig. 3: The Lion Pavilion at Tyrus, ʻIraq al-Amir. Photograph by L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/3_arabia_tyrus_palace.jpg" alt="The Lion Pavilion in Wadi Seer" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: The Lion Pavilion at Tyrus, ʻIraq al-Amir. Photograph by L.-A. Bedal.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/4_arabia_tyrus_dam.jpg"
- alt="View of the dam and Lion Pavilion">&lt;figcaption>
- &lt;h4>Fig. 4: View of the earthen dam constructed to create an artificial lake around Lion Pavilion. Josephus describes landscaped terrace gardens on the surrounding hillsides. Photograph by L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/4_arabia_tyrus_dam.jpg" alt="View of the dam and Lion Pavilion" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: View of the earthen dam constructed to create an artificial lake around Lion Pavilion. Josephus describes landscaped terrace gardens on the surrounding hillsides. Photograph by L.-A. Bedal.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/5_arabia_tyrus_reflecting_pool.jpg"
- alt="Model of pavilion and pool">&lt;figcaption>
- &lt;h4>Fig. 5: Model of the Lion Pavilion and reflecting pool. Permission of E. Netzer.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/5_arabia_tyrus_reflecting_pool.jpg" alt="Model of pavilion and pool" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: Model of the Lion Pavilion and reflecting pool. Permission of E. Netzer.&lt;/figcaption>
+&lt;/figure>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd century BCE - 1st century CE (Hellenistic-Early Roman period)&lt;/p>

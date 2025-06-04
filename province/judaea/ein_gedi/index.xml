@@ -32,31 +32,34 @@ A sublocation is any area larger than an individual garden, but located within a
 ### Maps
 
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/judaea/ein_gedi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 
 
 ### Plans
 
-&lt;figure>&lt;img src="../images/Latimer_fig_14_or_10.1a.jpg"
- alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.(Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/judaea/ein_gedi/Latimer_fig_14_or_10.1a.jpg" alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.(Rights statement)&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Latimer_fig_15_or_10.1b.jpg"
- alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan.">&lt;figcaption>
- &lt;h4>Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
- -->
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/judaea/ein_gedi/Latimer_fig_15_or_10.1b.jpg" alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan.&lt;/figcaption>
+&lt;/figure> -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>6-135 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

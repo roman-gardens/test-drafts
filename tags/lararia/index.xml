@@ -26,58 +26,65 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/region-i-insula-vi.png"
- alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region-i-insula-vi.png" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_20_I.vi.13_5.6.59.jpg"
- alt="Fig. 3: I.vi. 5.6.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I.vi. 5.6.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_20_I.vi.13_5.6.59.jpg" alt="Fig. 3: I.vi. 5.6.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I.vi. 5.6.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_21_I.vi.13_5.7.59.jpg"
- alt="Fig. 4: I.vi. 5.7.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 4: I.vi. 5.7.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_21_I.vi.13_5.7.59.jpg" alt="Fig. 4: I.vi. 5.7.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: I.vi. 5.7.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_22_I.vi.13_34.29.64.jpg"
- alt="Fig. 5: I.vi. 34.29.64, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 5: I.vi. 34.29.64, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_22_I.vi.13_34.29.64.jpg" alt="Fig. 5: I.vi. 34.29.64, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: I.vi. 34.29.64, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_23_I.vi.13_34.6.64.jpg"
- alt="Fig. 6: I.vi. 35.6.64, S.A.Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 6: I.vi. 35.6.64, S.A.Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_23_I.vi.13_34.6.64.jpg" alt="Fig. 6: I.vi. 35.6.64, S.A.Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6: I.vi. 35.6.64, S.A.Jashemski (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -128,19 +135,21 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The extremely long entranceway from the street led all the way to the back of the house into the garden (a) which was excavated in 1906. A portico bordered the garden on the east with four columns, white on top and black on the bottom, connected with a low wall with an entrance on the north end. (Fig.27, 9.31.66) A masonry triclinium (l. medius, 4.60 m.; l. imus 4.96; l. summus 3.75 m.) was located in the northwest side of the garden with a rectangular table (2.00 x 1.45 m.) that had a semicircular indentation in the east end. The couches had been painted red and were faced with opus signinum and the table top was inlaid with a round piece of marble in the center and square pieces of marble all around. Close by on the north wall a small table with an arched niche below also had a top inlaid with marble. The lower part was decorated with painted plants on a red background. A shallow basin on the south side of the triclinium collected rain run-off from the sloping couches and directed it towards the mouth of the cistern at the southwest corner of the basin. There was a bottom half of a large dolium at this corner also. The north wall contained an arched lararium niche with traces of a lararium painting next to it. The root cavity of a very large tree was found near the portico by Spano, as well as various small cavities which could have been posts for a pergola over the triclinium or of small trees. The cavities were not emptied or measured. Like Mau, Spano reported that the area between the south wall of this house and the city wall was filled with soil to a considerable height. He supposed that the furrowed soil indicated the location of a kitchen garden.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/fig.23.region_viii.insula_vii.1-15.png"
- alt="Fig.23, Plan of Region VIII, Insula VII">&lt;figcaption>
- &lt;h4>Fig.23, Plan of Region VIII, Insula VII&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_vii/fig.23.region_viii.insula_vii.1-15.png" alt="Fig.23, Plan of Region VIII, Insula VII" onclick="fullscreen(this)">
+ &lt;figcaption>Fig.23, Plan of Region VIII, Insula VII&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/fig.27,viii.vii.6_9.31.66.jpg"
- alt="Fig. 27, 9.31.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 27, 9.31.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_vii/fig.27,viii.vii.6_9.31.66.jpg" alt="Fig. 27, 9.31.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 27, 9.31.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
+&lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -620,12 +629,13 @@ Viola, L. 1879. &lt;em>Gli scavi di Pompei dal 1873 al 1878&lt;/em>, p. 11&lt;/l
 &lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
 &lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig1.jpg"
- alt="General Plan of Ostia Antica">&lt;figcaption>
- &lt;h4>Ostia Antica, General Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House of the Thunderbolt (Domus Fulminata) &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1554484">House of the Thunderbolt (Pleiades)&lt;/a>&lt;/p>
@@ -650,30 +660,34 @@ Viola, L. 1879. &lt;em>Gli scavi di Pompei dal 1873 al 1878&lt;/em>, p. 11&lt;/l
 &lt;p>The residential rooms of the &lt;a href="http://vocab.getty.edu/page/aat/300005506">&lt;em>domus&lt;/em>&lt;/a> were placed on its upper floor. Some experts think that the main reception rooms should be identified in the wing facing onto the northwest side of the garden. However, not everyone agrees that the House of the Thunderbolt was a private residential building. It could also have been the site of a college or corporation, which some archaeologists connect with the nearby sanctuary of the &lt;a href="https://en.wikipedia.org/wiki/Bona_Dea">Bona Dea&lt;/a>. The rooms aligned along the eastern side, all intercommunicating, would have been, in this case, the ceremonial rooms of the college, whereas the residential sector of the building would be identifiable in the rooms on the western side.&lt;/p>
 &lt;p>The house is one of the most interesting examples of the transition from the atrium peristyle house of &lt;a href="http://vocab.getty.edu/page/aat/300020537">Republican&lt;/a> tradition to the house with a colonnaded courtyard typical of Ostian residential architecture in the 2&lt;sup>nd&lt;/sup> century CE.&lt;/p>
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig8_better_colored.jpg"
- alt="Plan of Domus Fulminata">&lt;figcaption>
- &lt;h4>Figure 1: Plan (after Calza 1953).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig8_better_colored.jpg" alt="Plan of Domus Fulminata" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 1: Plan (after Calza 1953).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig9.jpg"
- alt="Photo of the garden of the Domus Fulminata in 1941">&lt;figcaption>
- &lt;h4>Figure 2: Garden, 1941 (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig9.jpg" alt="Photo of the garden of the Domus Fulminata in 1941" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 2: Garden, 1941 (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images_b/ostia_fig12b.jpg"
- alt="Basin shaped as a well head in the garden of the Domus Fulminata">&lt;figcaption>
- &lt;h4>Figure 3: Basin shaped as a well-head (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig12b.jpg" alt="Basin shaped as a well head in the garden of the Domus Fulminata" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 3: Basin shaped as a well-head (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images_b/ostia_fig13b_threshold.jpg"
- alt="Section of the basin in th">&lt;figcaption>
- &lt;h4>Figure 4: Section of the basin (from Ricciardi, Scrinari 1996).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig13b_threshold.jpg" alt="Section of the basin in th" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 4: Section of the basin (from Ricciardi, Scrinari 1996).&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>&lt;a href="https://en.wikipedia.org/wiki/Flavian_dynasty">Flavian period&lt;/a> &lt;br>
 150-200 CE&lt;/p>
@@ -726,12 +740,13 @@ Viola, L. 1879. &lt;em>Gli scavi di Pompei dal 1873 al 1878&lt;/em>, p. 11&lt;/l
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Customers at this thermopolium were served at a counter looking onto the street and at the masonry &lt;a href="http://vocab.getty.edu/page/aat/300004359">triclinium&lt;/a> (l. medius, 3.60 m.; l. imus 2.85; l. summus 2.30 m.) in the rear garden. This was located against the north wall to the front of this long, narrow garden and had a round table (0.50 m. in dia.) between the couches and a rectangular table (0.65 x 0.89 m.) at the end of the &lt;em>lectus summus&lt;/em>. A niche &lt;a href="http://vocab.getty.edu/page/aat/300400600">lararium&lt;/a> was next to it with a tufa altar below decorated with a large carved club. A bench for cooking (&lt;a href="http://vocab.getty.edu/page/aat/300003990">hearth&lt;/a>) was built against the south wall at the west end with two arched openings for fuel storage underneath.&lt;/p>
 &lt;!--### Plans
-&lt;figure>&lt;img src="../../../images/fig._62,_plan_of_region_ii,_insula_viii.png"
- alt="Fig. 62, Plan of Region II, insula viii">&lt;figcaption>
- &lt;h4>Fig. 62, Plan of Region II, insula viii&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 62, Plan of Region II, insula viii&lt;/figcaption>
+&lt;/figure>-->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/456321707">456321707&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -771,88 +786,101 @@ Viola, L. 1879. &lt;em>Gli scavi di Pompei dal 1873 al 1878&lt;/em>, p. 11&lt;/l
 Excavation by Jashemski in 1971-1972 revealed what appears to be a large commercial &lt;a href="http://vocab.getty.edu/page/aat/300008135">flower garden&lt;/a>. Where the lapilli remained until the 1970s, the undamaged soil contours and root and stake cavities were well preserved. Circular watering depressions remained in one bed that held a small plant. Balloon photographs showed complicated bed arrangements and a path coming from the outside area to the middle of the garden where a left turn led to the &lt;a href="http://vocab.getty.edu/page/aat/300142552">triclinium&lt;/a> and altar in front of the &lt;a href="http://vocab.getty.edu/page/aat/300400600">lararium&lt;/a>. Fig.63, 17.7.73, Fig. 64, 8.33.73, Fig. 65, 21A.13.73 An extensive system of rain water collection and distribution had been built. Roof run off was collected in a large &lt;a href="http://vocab.getty.edu/page/aat/300400601">dolium&lt;/a> on each side of the door and in a nearby pool. Additional water could be brought from outside sources and poured through an &lt;a href="http://vocab.getty.edu/page/aat/300148696">amphora&lt;/a> tip in the east end of the north wall to fill a dolium](&lt;a href="http://vocab.getty.edu/page/aat/300400601">http://vocab.getty.edu/page/aat/300400601&lt;/a>) imbedded in the northeast corner of the garden. The natural slope of the land was from north to south and the irrigation layout took advantage of this fact. When the dolium](&lt;a href="http://vocab.getty.edu/page/aat/300400601">http://vocab.getty.edu/page/aat/300400601&lt;/a>) in the northeast corner overflowed the water ran down a channel along the east wall watering young trees planted in the channel until it fell into a second half dolium](&lt;a href="http://vocab.getty.edu/page/aat/300400601">http://vocab.getty.edu/page/aat/300400601&lt;/a>) buried in the soil. This process would be repeated the length of the east wall and continued along the south wall. There were channels along the north and west walls and dividing all the beds in the interior of the garden.
 Eleven large tree root cavities were counted with dimensions of 30 cm. or more at ground level. One grew near the southwest corner of the shrine, three along the walls and seven scattered about the garden. Another huge, partially destroyed cavity about 2 m. could have been an olive tree that grew to the west of the cistern. Many other smaller tree root cavities were found, and carbonized cherries (Prunus cerasus L.) that were found here would identify at least some of these. Along the walls with the tree root cavities were terra-cotta pots similar to those found in the House of the Ship Europa (I.XV.1-3). There were well preserved vine root cavities and post cavities for the pergola over the triclinium. Most of the garden cavities that remained were for the stakes that supported the frames for the shade structures for young bedding plants. Parallel to the west wall, 3.30m away from it, a row of posts formed either a shed or an arbor with roofing support holes in the wall above. Two ancient gardening tools, a &lt;em>sarculum&lt;/em> and a &lt;em>dolabella&lt;/em> were found in the garden along with bones, teeth, perfume bottle fragments, and fragments of terra-cotta unguent containers. The house to this garden contained a large number of glass perfume bottles. The assessment of pollen and spores found here are shown in Jashemski (1979).&lt;/p>
 &lt;!--### Plans
-&lt;figure>&lt;img src="../../../images/fig._62,_plan_of_region_ii,_insula_viii.png"
- alt="Fig. 62, Plan of Region II, insula viii">&lt;figcaption>
- &lt;h4>Fig. 62, Plan of Region II, insula viii&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 62, Plan of Region II, insula viii&lt;/figcaption>
+&lt;/figure>
 
 ### Images
-&lt;figure>&lt;img src="../../../images/fig._63,_ii.viii.6_17.7.73.jpg"
- alt="Fig.63, 17.7.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig.63, 17.7.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._64,_ii.viii.6_8.33.73.jpg"
- alt="Fig. 64, 8.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 64, 8.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._65,_ii.viii.6_21a.13.73.jpg"
- alt="Fig. 65, 21A.13.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 65, 21A.13.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._63,_ii.viii.6_17.7.73.jpg" alt="Fig.63, 17.7.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig.63, 17.7.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../../images/fig._66,_ii.viii.6_23.23.74.jpg"
- alt="Fig. 66, 23.23.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 66, 23.23.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._67,_ii.viii.6_21.31.73.jpg"
- alt="Fig. 67, 21.31.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 67, 21.31.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;figure>&lt;img src="../../../images/fig._68,_ii.viii.6_18.10.73.jpg"
- alt="Fig. 68, 18.10.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 68, 18.10.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._64,_ii.viii.6_8.33.73.jpg" alt="Fig. 64, 8.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 64, 8.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../../images/fig._69,_ii.viii.6_21.15.73.jpg"
- alt="Fig. 69, 21.15.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 69, 21.15.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._65,_ii.viii.6_21a.13.73.jpg" alt="Fig. 65, 21A.13.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 65, 21A.13.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._70,_ii.viii.6_7.33.73.jpg"
- alt="Fig. 70, 7.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 70, 7.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._66,_ii.viii.6_23.23.74.jpg" alt="Fig. 66, 23.23.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 66, 23.23.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._71,_ii.viii.6_11.8.73.jpg"
- alt="Fig. 71, 11.8.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 71, 11.8.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._67,_ii.viii.6_21.31.73.jpg" alt="Fig. 67, 21.31.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 67, 21.31.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._72,_ii.viii.6_11.31.71.jpg"
- alt="Fig. 72, 11.31.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 72, 11.31.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._68,_ii.viii.6_18.10.73.jpg" alt="Fig. 68, 18.10.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 68, 18.10.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._73,_ii.viii.6_21.30.72.jpg"
- alt="Fig. 73, 21.30.72 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 73, 21.30.72 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._69,_ii.viii.6_21.15.73.jpg" alt="Fig. 69, 21.15.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 69, 21.15.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._74,_ii.viii.6_11.20.74.jpg"
- alt="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._70,_ii.viii.6_7.33.73.jpg" alt="Fig. 70, 7.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 70, 7.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
 &lt;/figure>
--->
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._71,_ii.viii.6_11.8.73.jpg" alt="Fig. 71, 11.8.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 71, 11.8.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
+&lt;/figure>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._72,_ii.viii.6_11.31.71.jpg" alt="Fig. 72, 11.31.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 72, 11.31.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
+&lt;/figure>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._73,_ii.viii.6_21.30.72.jpg" alt="Fig. 73, 21.30.72 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 73, 21.30.72 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
+&lt;/figure>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._74,_ii.viii.6_11.20.74.jpg" alt="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
+&lt;/figure>-->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/456321707">456321707&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -869,12 +897,12 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>II.3.4-6</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/house4_6/ii.iii.4-6/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/house4_6/ii.iii.4-6/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>21 Apr 2021&lt;/p></description></item><item><title>II.3.4-6</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/house_4-6/ii.iii.4-6/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/house_4-6/ii.iii.4-6/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/house4_6/">Region II&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iii/house_4-6/">Region II&lt;/a>&lt;/p>
 &lt;h2 id="insula">Insula&lt;/h2>
 &lt;p>&lt;a href="">Insula II&lt;/a>&lt;/p>
 &lt;h2 id="house">House&lt;/h2>
@@ -940,12 +968,13 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This house was excavated in 1900 and a small garden (a) was found to the east of the &lt;em>atrium&lt;/em>. A masonry planting bed on the north, east and south walls (0.32 m. high, 0.25 m. wide) was shortened on the south to leave room for the cistern &lt;em>puteal&lt;/em> that stood in the southwestern corner. A podium (0.60 x 0.90 m.;) 0.55 m. high against the middle of the east wall with a niche in the wall above it was thought by Boyce to be an altar. Above the planting bed, traces of garden paintings could be seen. The only records of these paintings are reports from those present at the time of excavation. Mau relates that the paintings consisted of a lattice fence with plants above. There were two openings depicted in the fence on the on the east wall, the one on the left 0.95 m and the one on the right 1.15 m. Each opening had plants and a vessel, the one on the left was bottle-shaped and silver colored and the one on the right was goblet-shaped and gold colored. Jashemski notes that these vessels probably represented fountains. Sogliano commented that the garden had representations of xenia.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/Euro_GaAq_Montreal_Villa%20de%20S%C3%A9viac.png"
- alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south.">&lt;figcaption>
- &lt;h4>Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
+&lt;!--
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_v/Euro_GaAq_Montreal_Villa%20de%20S%C3%A9viac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN.&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1003,12 +1032,13 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This house with an unusual design had a garden (a) in the rear southwest corner that was separated from a courtyard to the north by a low masonry wall. Between the garden wall and the wall of the house a gutter was formed which directed the roof run off into a cistern. A marble garden herm was found on the low wall with the head of a satyr sporting goat’s ears and ram’s horns (0.20 high). In the center of the garden stood a masonry triclinium (&lt;em>l. medius&lt;/em>, 4.00 m.; &lt;em>l. imus&lt;/em> and. &lt;em>summus&lt;/em> 3.75 m.) decorated with plants painted on a yellow background, a masonry table with a colored marble top (090 x 1.50 m.) sat between the couches. Excavators reported the post holes for the &lt;em>pergola&lt;/em> were reinforced with potsherds to bolster the posts. The south and west walls were lined with cavities (the dimensions were not recorded) that were centered in soil depressions to hold water. In the northwest corner of the garden a masonry altar sat in front of an arched niche.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/Euro_GaAq_Montreal_Villa%20de%20S%C3%A9viac.png"
- alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south.">&lt;figcaption>
- &lt;h4>Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
+&lt;!--
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_v/Euro_GaAq_Montreal_Villa%20de%20S%C3%A9viac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN.&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1067,12 +1097,13 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>B. At the rear of this house a &lt;em>peristyle&lt;/em> garden (b) was bordered on the south by a &lt;em>portico&lt;/em>. Three columns and an engaged column, stuccoed and fluted on the top, red at the bottom, supported the &lt;em>portico&lt;/em>. A large animal painting occupied three walls of the &lt;em>peristyle&lt;/em> garden with a bold checkerboard above and a black dado at the base painted with stylized plants and flowers. The west wall featured a garden representation on the &lt;em>predella&lt;/em>. The garden is entered through a tall portal with a round &lt;em>oscillum&lt;/em> suspended beneath a crater-shaped vase on the top of the entry. The front fence forms an &lt;em>excedra&lt;/em> on either side of the entrance and shrubbery painted in green is shown along the front. Garden representations cover the entire dado (0.55 x 3.50 m.) of both the north and south walls of the &lt;em>tablinium&lt;/em>. On a black background a garden is enclosed by an elaborate fence that suggests marble with a curvilinear and rectilinear design. The garden on the north wall a large semicircle in the center has a footed circular fountain with a water jet in the center, the water falling in two streams. The south wall has a crater-shaped fountain in an angular niche. Flowers bloom in lavender and white while birds sit on the fence in both paintings. A white flower garland graces the base of the paintings and traces of a &lt;em>schola&lt;/em> are visible on the north wall.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/Euro_GaAq_Montreal_Villa%20de%20S%C3%A9viac.png"
- alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south.">&lt;figcaption>
- &lt;h4>Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
+&lt;!--
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_v/Euro_GaAq_Montreal_Villa%20de%20S%C3%A9viac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN.&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1136,12 +1167,13 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Wooden steps at the rear of this house excavated in 1902 led up to a &lt;em>viridarium&lt;/em> (a) confined by a low masonry wall. A cistern had been walled up and the garden was built over the cistern mouth and a paved courtyard. Water from the neighbor’s roof (no.13) supplied the cistern. The east and south walls once had garden paintings, and from the entrance the garden could be viewed through a window in the &lt;em>tablinium&lt;/em>. The painting on the east wall was visible from the entrance and continued not only on the south wall but additionally on the pillar to the northeast. According to the excavator’s reports the painting had a lattice fence at the base with a variety of tall, bushy plants and birds throughout. There was a marble basin with a bearded sphinx above, reposing with the profile turned to the left. At the extreme left of the east wall was a niche that most likely had been a &lt;em>lararium&lt;/em> (Fig.25, 48.1.61).&lt;/p>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/fig_25_v_iv_48_1_61.jpg"
- alt="At the extreme left of the east wall was a niche that most likely had been a lararium.">&lt;figcaption>
- &lt;h4>Fig.25, 48.1.61: Picture of the east wall of the viridarium.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_v/fig_25_v_iv_48_1_61.jpg" alt="At the extreme left of the east wall was a niche that most likely had been a lararium." onclick="fullscreen(this)">
+ &lt;figcaption>Fig.25, 48.1.61: Picture of the east wall of the viridarium.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>79 CE&lt;/p>
@@ -1201,12 +1233,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>Two lararia (32 B, XXXV) open off of porticos XI and XIII respectively.&lt;/p>
 &lt;!--### Maps-->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/AFR_Thy_Hd_Wjashemski.jpg"
- alt="Fig. 1: House of the Dolphins.">&lt;figcaption>
- &lt;h4>Fig. 1: House of the Dolphins (CMT, plans 5-6)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thysdrus/AFR_Thy_Hd_Wjashemski.jpg" alt="Fig. 1: House of the Dolphins." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: House of the Dolphins (CMT, plans 5-6)&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Early 3rd century CE&lt;/p>
@@ -1257,12 +1290,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>A small courtyard garden (XX, 5.60 x 3 m) enclosed on its two sides by a colonnade (XXI) brought light and freshness to five rooms (XXII-XXVI). Three trees grow in it today.&lt;/p>
 &lt;!--### Maps-->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/AFR_Thy_Sd_Wjashemski1.jpg"
- alt="Fig. 1: Plan of the Sollertianna Domus.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Sollertianna Domus. (CMT, plans 1-2)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thysdrus/AFR_Thy_Sd_Wjashemski1.jpg" alt="Fig. 1: Plan of the Sollertianna Domus." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Sollertianna Domus. (CMT, plans 1-2)&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Early 3rd century CE&lt;/p>
@@ -1316,52 +1350,58 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
- alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_38_I.vii.7_13.18.59.jpg"
- alt="Fig. 3: I.vii. 13.18.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I.vii. 13.18.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_38_I.vii.7_13.18.59.jpg" alt="Fig. 3: I.vii. 13.18.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I.vii. 13.18.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_39_I.vii.7_22.12.68.jpg"
- alt="Fig. 4: I.vii. 22.12.68, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 4: I.vii. 22.12.68, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_39_I.vii.7_22.12.68.jpg" alt="Fig. 4: I.vii. 22.12.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: I.vii. 22.12.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_40_I.vii.7_22.22.68.jpg"
- alt="Fig. 5: I.vii. 22.22.68, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 5: I.vii. 22.22.68, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_40_I.vii.7_22.22.68.jpg" alt="Fig. 5: I.vii. 22.22.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: I.vii. 22.22.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1912 and 1924.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -1426,12 +1466,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1873-1874.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

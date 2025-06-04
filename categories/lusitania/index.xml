@@ -24,30 +24,33 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The remains of a large villa were discovered in 1900 under an abandoned Benedictine monastery. Among the structures identified are several basins that are usually found in gardens. The villa dates to the late empire.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/lavra/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/lavra/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/lavra/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Dates-->
 &lt;!--### Bibliography
@@ -97,36 +100,44 @@ The large dimensions of this house required further open spaces for light and ai
 &lt;p>The other garden area was slightly farther south and against the east wall of the house. A portico ran around three sides but required only three columns, all on the west side. The rectangular pool (6.5 x2.5 m) had three basically square flower beds aligned in it. The two end squares, however, had semicircular niches cut out of the center of each side, while the center square had a circle cut out of its center and connected to the surrounding water. As in the House of the Fountains, flower beds in the pool appeared like islands in a lake (Fig. 4). One can imagine that this secluded spot was a favorite of the most noble Cantaber.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS%20LUS_Conim_Cantaber_Plan_CA%20fig1.jpg"
- alt="Plan of House of the Cantaber at Conimbriga, Lusitania Province, Spain">&lt;figcaption>
- &lt;h4>Fig. 1: House of Cantaber. Adapted from Hipólito Correia.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/HIS%20LUS_Conim_Cantaber_Plan_CA%20fig1.jpg" alt="Plan of House of the Cantaber at Conimbriga, Lusitania Province, Spain" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: House of Cantaber. Adapted from Hipólito Correia.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;p>&lt;figure>&lt;img src="../images/HIS%20LUS_Conim_Cantaber_Photo_CA%20fig2.jpg">&lt;figcaption>
- &lt;h4>Fig. 2: Main peristyle.&lt;/h4>
- &lt;/figcaption>
+&lt;p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/HIS%20LUS_Conim_Cantaber_Photo_CA%20fig2.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Main peristyle.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/HIS%20LUS_Conim_%20Cantaber_Planters_CAfig3.jpg">&lt;figcaption>
- &lt;h4>Fig. 3: Pool with pink planters.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/HIS%20LUS_Conim_%20Cantaber_Planters_CAfig3.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Pool with pink planters.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/HIS%20LUS_Conim_Cantaber_photo_SJ%20fig4.jpg">&lt;figcaption>
- &lt;h4>Fig. 4: Secluded, three-column portico. Photo S.A.J. 1969.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-&lt;/p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/HIS%20LUS_Conim_Cantaber_photo_SJ%20fig4.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: Secluded, three-column portico. Photo S.A.J. 1969.&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;!--### Dates-->
 &lt;!--### Bibliography
 - Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). [(worldcat)](http://www.worldcat.org/oclc/255066311) -->
@@ -170,35 +181,39 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The house has recently been the subject of a monograph by Isabelle Morand in which she undertakes to recover the geometrical and numerical principles used by the architect and to identify astronomical and astrological allusions in the house.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS%20LUS_Conimbriga_Fountains_Plan_CA%20fig1.jpg"
- alt="Plan of the fountains at Conimbriga, Lusitania Province">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of the Fountains. Adapted from I. Morand.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/HIS%20LUS_Conimbriga_Fountains_Plan_CA%20fig1.jpg" alt="Plan of the fountains at Conimbriga, Lusitania Province" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of the Fountains. Adapted from I. Morand.&lt;/figcaption>
+&lt;/figure>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS%20LUS_Conim_%20Fountains_Ph_CA%20fig2.jpg"
- alt="Photo of the fountains at Conimbriga, Lusitania Province">&lt;figcaption>
- &lt;h4>Fig. 2: Photo of the House of the Fountain in 2007 with the new roof.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/HIS%20LUS_Conim_%20Fountains_Ph_CA%20fig2.jpg" alt="Photo of the fountains at Conimbriga, Lusitania Province" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Photo of the House of the Fountain in 2007 with the new roof.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Dates-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
@@ -246,31 +261,37 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The houses were excavated around 1940, at a time when there was no thought of recovering micro-remains from the soil of the flower-beds, which could have allowed the identification of the vegetal species present in these gardens. There is therefore no evidence as to what was planted. There is also no mention of sculptural elements, which may or may not have been present.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS%20LUS_Conim_skeletons_plan_CA%20fig1.jpg"
- alt="Plan of the House of the Skeletons at Conimbriga, Lusitania Province, Spain.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of the Skeletons.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/HIS%20LUS_Conim_skeletons_plan_CA%20fig1.jpg" alt="Plan of the House of the Skeletons at Conimbriga, Lusitania Province, Spain." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of the Skeletons.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS%20LUS_Conim_skeletons_photo2_CA%20fig3.jpg">&lt;figcaption>
- &lt;h4>Fig. 2: Photo of peristyle at the House of the Skeleton.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/HIS%20LUS_Conim_skeletons_photo2_CA%20fig3.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Photo of peristyle at the House of the Skeleton.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/HIS%20LUS_Conim_skeletons_photo_CA%20fig2.jpg">&lt;figcaption>
- &lt;h4>Fig. 3: Photo showing the relation of the garden to other rooms of house.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/HIS%20LUS_Conim_skeletons_photo_CA%20fig2.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Photo showing the relation of the garden to other rooms of house.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Dates-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
@@ -315,26 +336,30 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>Far more modest than the House of Cantaber but following the same general ideas of garden design, this house was left outside the new city wall built during the late empire. The mosaics, now in excellent condition after modern restoration, can be dated to the mid third century A.D., but the house is the result of several successive transformations. Presumably that history explains why the main room with the mosaic with many swastikas is not aligned with the axis of the garden, though two of its three doorways offered views of it.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS%20LUS_Conim_Swastika_Plan_CA%20fig1.jpg"
- alt="Plan view of House of the Swastika Mosaic at Conimbriga, Lusitania Province, Spain.">&lt;figcaption>
- &lt;h4>Fig. 1: House of Swastika Mosaic.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/HIS%20LUS_Conim_Swastika_Plan_CA%20fig1.jpg" alt="Plan view of House of the Swastika Mosaic at Conimbriga, Lusitania Province, Spain." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: House of Swastika Mosaic.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS%20LUS_Conim_Swastika_Photo_CA%20fig2.jpg">&lt;figcaption>
- &lt;h4>Fig. 2: Looking west over swastika mosaic to garden.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/conimbriga/HIS%20LUS_Conim_Swastika_Photo_CA%20fig2.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Looking west over swastika mosaic to garden.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Dates-->
 &lt;!--### Bibliography
 - Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). [(worldcat)](http://www.worldcat.org/oclc/255066311) -->
@@ -375,30 +400,33 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>An inscription found immured in the corner of a house near Lisbon around 1735 records the epitaph of a standard bearer (aquilifer) of the second legion, [.] Flavius M. f. Quadratus, of the Galeria tribe, who made for himself a tomb monument with, it seems, a ‘circumvallation’ and a pavilion (cum munitioni[bus], tric[le]a[e]). Although no tomb garden is mentioned explicitly, the reference to a pavilion points to the presence of one; by ‘circumvallation’ (munitiones) Quadratus evidently means the perimeter wall that regularly enclosed tomb gardens.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/olisipo/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/olisipo/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/olisipo/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Dates-->
 &lt;!--### Bibliography
@@ -446,28 +474,31 @@ Inside the garden area there were also some low walls, presumably the edges of p
 &lt;p>The house appears to have been built at the end of the third or beginning of the fourth century A.D. However, there were bits of ceramic from the first, second and third centuries used as filler in the foundation beds below the mosaics. Abandonment seems to have come at the end of the fourth or early in the fifth century. The house thus presents a number of unusual features, including a ‘peristyle’ without columns, two baths in a relatively small house, a grand room with a view of the garden but blocked by a wall, and first century ceramic filler in a house that otherwise appears to date from around 300 AD. The excavation is still incomplete and the definitive report yet to be written.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/las_tiendas/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS%20LUS_Villa%20Hinojal.jpg"
- alt="Plan view of Villa de Hinojal at Las Tiendas province, Spain">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa El Hinojal. Adapted from J. M. Alvarez Martinez, 1976.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/las_tiendas/HIS%20LUS_Villa%20Hinojal.jpg" alt="Plan view of Villa de Hinojal at Las Tiendas province, Spain" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa El Hinojal. Adapted from J. M. Alvarez Martinez, 1976.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/las_tiendas/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Dates-->
 &lt;!--### Bibliography
@@ -516,26 +547,30 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>Besides the central peristyle, there are several other areas that were possibly gardened. In the center of the west wing, area (Fig. 2, 12) was an unpaved, elongated courtyard that might well have had informal plantings such as fruit trees, figs, pomegranates, or oleanders. Between the rooms along the west side of the peristyle and the baths (69 – 87) at the eastern edge of the excavated area there was a large open area. It was probably a palaestra and not gardened. But south of it was an open area bounded on the east by the aqueduct (83 and 103) where a grave (105) was later dug. It could well have been a garden for vegetables or for the potted plants which were brought into peristyle in their season. Still further south, the area (88) to the southeast of the peristyle was open, but was probably more a farmyard than a garden. Even further south there was yet another courtyard (95) which could have been a garden, especially since a drain (97) led away from it. Little remains of the surrounding spaces; possibly they were storerooms. What seem to have been presses for oil or wine and a grain mill complete the picture of an agricultural establishment.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/la_cocosa/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_LUS_LaCocosa_plan%20fig1.jpg"
- alt="plan of Villa de La Cocosa at La Cocosa Province, Spain.">&lt;figcaption>
- &lt;h4>Fig. 1: La Cocosa section. Structure around perimeter of peristyle. Adapted from Serra Ráfols, figure 4.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/la_cocosa/HIS_LUS_LaCocosa_plan%20fig1.jpg" alt="plan of Villa de La Cocosa at La Cocosa Province, Spain." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: La Cocosa section. Structure around perimeter of peristyle. Adapted from Serra Ráfols, figure 4.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_LUS_LaCocosa_section%20fig2.jpg">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of the Villa of La Cocosa. Adapted from Serra Rafols.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/la_cocosa/HIS_LUS_LaCocosa_section%20fig2.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of the Villa of La Cocosa. Adapted from Serra Rafols.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Dates-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
@@ -584,31 +619,37 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The archaeologists working on the site have not produced a detailed sequence of phases. Settlement on the site, however, seems to go back to the Bronze Age, while the first Roman structures date from the first century A.D. The second and third centuries A.D. saw the villa assume approximately its present form. The fine marine mosaics, found not only around the peristyle but in several of the numerous pools, date from the mid-fourth century AD. The temple was contemporaneous and appears to have been originally pagan, though before the end of the century it had been converted to a Christian church.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/estoi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_LUS_Milreu_planfig1.jpg"
- alt="Plan of Villa de Milreu at Estoi Province, Spain.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Villa de Milreu adapted from Hauschild and Teichner.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/estoi/HIS_LUS_Milreu_planfig1.jpg" alt="Plan of Villa de Milreu at Estoi Province, Spain." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Villa de Milreu adapted from Hauschild and Teichner.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_LUS_Milreu_ph%20fig2.jpg">&lt;figcaption>
- &lt;h4>Fig. 2: Photo of the Villa de Milreu central peristyle.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/estoi/HIS_LUS_Milreu_ph%20fig2.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Photo of the Villa de Milreu central peristyle.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/HIS_LUS_Milreu_pool%20mosaic%20fig3.jpg">&lt;figcaption>
- &lt;h4>Fig. 3: Photo of the fish mosaic&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/estoi/HIS_LUS_Milreu_pool%20mosaic%20fig3.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Photo of the fish mosaic&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Dates-->
 &lt;!--### Bibliography
 - T. Hauschild and F. Teichner, Milreu Ruins, Roteiros de Arqueologia Portugese 9, Ministerio da Cultura, Lisboa, 2002. [(worldcat)](http://www.worldcat.org/oclc/927151602)-->
@@ -655,41 +696,51 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The third phase distinguished by Maloney and Hale covered several building campaigns and extended through the second half of the 3rd and perhaps into the very beginning of the 4th century AD. The northeast corner of the house was largely demolished and rebuilt with a central peristyle courtyard. A rather deep tank was in the center, and between it and the peristyle was an unpaved area that was almost certainly a garden, quite possibly formal. The granaries that had previously occupied part of the buildings around the east court were surpressed, indicating an “urbanization” or up-scaling of the area. The entrance remained on the south; the visitor would still have crossed the east court to get to the main house. The villa’s triclinium had a full, central view of the garden and pool. The tablinum or master's office on the east side of the peristyle also had a fine view of the garden.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/monforte/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS%20LUS_Torre%20de%20Palma_plan%20fig1.jpg"
- alt="Plan of Villa de Torre de Palma at Monforte Province, Spain">&lt;figcaption>
- &lt;h4>Fig. 1: Torre de Palma, Plan of all exposed walls. From Maloney and Hale, p. 277.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/monforte/HIS%20LUS_Torre%20de%20Palma_plan%20fig1.jpg" alt="Plan of Villa de Torre de Palma at Monforte Province, Spain" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Torre de Palma, Plan of all exposed walls. From Maloney and Hale, p. 277.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/HIS%20LUS_Torre%20de%20Palma%20ph2%20fig2.jpg">&lt;figcaption>
- &lt;h4>Fig. 2: Phase 2 constructions. Adapted from Maloney and Hale.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/monforte/HIS%20LUS_Torre%20de%20Palma%20ph2%20fig2.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Phase 2 constructions. Adapted from Maloney and Hale.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/HIS%20LUS_Torre%20de%20Palma_ph3%20fig3.jpg">&lt;figcaption>
- &lt;h4>Fig. 3: Phase 3 constructions. Adapted from Maloney and Hale.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/monforte/HIS%20LUS_Torre%20de%20Palma_ph3%20fig3.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Phase 3 constructions. Adapted from Maloney and Hale.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/HIS%20LUS_Torre%20de%20Palma_ph4%20fig4.jpg">&lt;figcaption>
- &lt;h4>Fig. 4: Phase 4 construction. Adapted from Maloney and Hale.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/monforte/HIS%20LUS_Torre%20de%20Palma_ph4%20fig4.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: Phase 4 construction. Adapted from Maloney and Hale.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS%20LUS_Torre%20de%20Palma_photo_CA%20fig5.jpg">&lt;figcaption>
- &lt;h4>Fig. 5: Photo of the peristyle seen from northwest corner.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/monforte/HIS%20LUS_Torre%20de%20Palma_photo_CA%20fig5.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: Photo of the peristyle seen from northwest corner.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Dates-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
@@ -738,40 +789,45 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The upper floor did not have a garden but offered splendid views of gardens, both in front and behind the house. Between the two end towers stretched, on the southwest (front) side, a roofed veranda over 40 meters long with a sturdy wooden rail. This emphasis on the vista leaves little doubt that the well-watered area in foreground, through which the guests arrived, would have been beautifully developed as a garden.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/vila_de_frades/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_lus_villa_sao_cucufate_ph1_fig1.jpg"
- alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of São Cucufate, Phase 1. From Alarcão, Roteiros.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/vila_de_frades/his_lus_villa_sao_cucufate_ph1_fig1.jpg" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of São Cucufate, Phase 1. From Alarcão, Roteiros.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/his_lus_villa_sao_cucufate_ph2_fig2.jpg"
- alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Phase 2.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/vila_de_frades/his_lus_villa_sao_cucufate_ph2_fig2.jpg" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Phase 2.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/his_lus_villa_sao_cucufate_ph3_fig3.jpg"
- alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain.">&lt;figcaption>
- &lt;h4>Fig. 3: Plan of Phase 3.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/vila_de_frades/his_lus_villa_sao_cucufate_ph3_fig3.jpg" alt="Plan of the Villa Sao Cucufate at Vila de Frades, Spain." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Plan of Phase 3.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/vila_de_frades/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Dates-->
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -825,20 +881,22 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This late-imperial domus was discovered by J. Ramón Mélida while excavating the backstage of the Theater. The existence of two rooms with apses at the east end led to the interpretation of the building as an early Christian basilica. Few of the structures in this residence of the 2nd and 4th centuries are visible today. These include a colonnaded courtyard with columns on small white marble bases, three each on the north and south sides and two each on the east and west sides, not counting those on the corners. In the northeast corner of the courtyard was a shallow pool resembling an impluvium. It was shifted off-center in the garden to be almost on the axis of the larger of the two apses. A rill, coated in opus signinum, ran along its north, south and west sides. In the center was a cistern capped by a wellhead made of marble slabs and lined with several layers of opus signinum.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_lus_col_aug_basilica_fig1.jpg"
- alt="Fig. 1: Plan of the Basilica - House of the Theater.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Basilica - House of the Theater. Adapted from Cassilla Moreno, p.315.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_col_aug_basilica_fig1.jpg" alt="Fig. 1: Plan of the Basilica - House of the Theater." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Basilica - House of the Theater. Adapted from Cassilla Moreno, p.315.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd and 4th centuries CE&lt;/p>
 &lt;h3 id="bibliography-1">Bibliography&lt;/h3>
@@ -892,20 +950,22 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Within the enclosure of the Islamic Alcazaba, west of the city, are the remains of this great late-Imperial domus, excavated in the 1970's by D. José Álvarez Sáenz de Buruaga. It remains unpublished. The principal element of its peristyle is a deep rectangular pool with a semicircular extension from the middle of one long side. The room opposite this pool, the largest of the house, was paved in opus sectile; several other rooms surrounding the peristyle had mosaic floors. The presence of a peristyle and pool strongly suggests a garden.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_lus_col_augusta_alcazbar_domus_fig1.jpg"
- alt="Fig. 1: Plan of the House of Alcazaba.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Alcazaba. Adapted from Palma Garcia, p. 350.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_col_augusta_alcazbar_domus_fig1.jpg" alt="Fig. 1: Plan of the House of Alcazaba." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Alcazaba. Adapted from Palma Garcia, p. 350.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>4th century CE&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
@@ -971,33 +1031,37 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The house, of sizeable proportions, boasted important painted and mosaic decoration. Of the three chambers situated along the southeast gallery, the center chamber had opus signinum pavement and has been interpreted as a triclinium, from which one could enjoy magnificent views of the garden. The pavement of the contiguous chamber to the northeast has a beautiful mosaic with representations of Venus and Cupid surrounded with floral designsand &amp;quot;The Mosaic of the Grape Harvest&amp;quot; (Mosaico de la Vendimia). They were repaired in antiquity.&lt;/p>
 &lt;p>An equally important second nucleus of this house consisted of a complex of rooms at its east end. This area had handsome mosaic pavements and communicated with the aforementioned peristyle through an L-shaped passageway. Its largest chamber, which had the character of a show room, if not a triclinium, is known as the &amp;quot;Hall of the Fish Mosaic&amp;quot; (Habitación del Mosaico de los Peces) and is dated to the 3rd century AD. Although this second group of rooms was probably organized around courtyards or gardens, none have been documented because this part of the residence remains unexcavated. The peristyle of the House of the Amphitheater, as well as the plan of the entire residence, has close parallels in the eastern Mediterranean which have been thoroughly studied by A. Balil.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_lus_col_augusta_ha_fig1.jpg"
- alt="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left. Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century.">&lt;figcaption>
- &lt;h4>Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left. Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century. Adapted from the tourist guide issued by the Mérida Consorzio.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_col_augusta_ha_fig1.jpg" alt="Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left. Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Relation of House of the Amphitheater (area 5 on the right) and House of the Water Tower (area 4 on the left. Also shown are: (1) a section of the city wall, (2) aqueduct of St. Lazarus, (3) the water tower, and (6) a mausoleum from the second half of the 3rd century. Adapted from the tourist guide issued by the Mérida Consorzio.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/his_lus_col_augusta_ha_plan_fig3_alternate.jpg"
- alt="Fig. 2: Plan of the House of the Amphitheater.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of the House of the Amphitheater. Adapted from Casillas Moreno, where it was taken from De Alvarado Barrena.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_col_augusta_ha_plan_fig3_alternate.jpg" alt="Fig. 2: Plan of the House of the Amphitheater." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of the House of the Amphitheater. Adapted from Casillas Moreno, where it was taken from De Alvarado Barrena.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/his_lus_col_augusta_ha_photo_fig2.jpg"
- alt="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater.">&lt;figcaption>
- &lt;h4>Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_col_augusta_ha_photo_fig2.jpg" alt="Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Photo looking northeast over the peristyle garden of the House of the Amphitheater.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd century CE and 3rd CE&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
@@ -1115,33 +1179,37 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>West-southwest of the peristyle, a group of interesting chambers were arrayed around a delightful garden of ample proportions. The latter consisted of a rectangular space surrounded by stucco-clad granite columns on all four sides as well as a channel running around the perimeter just in front of the columns, except on the west side where the channel curves inward to form a semi-circle. The interior of this space was clearly gardened, although the excavators found no clue as to its original appearance. On the extreme south side, attached to one of the columns, are the partial remains of a peculiar brick structure which had a hole in its lower part for the passage of water. Its function is unclear. The pictorial decoration of this viridarium resembles that of the peristyle’s dado.&lt;/p>
 &lt;p>The passage formed by the north colonnade gave access to three chambers, the middle one a triclinium, with mosaic pavements and wall dados painted with birds and vegetal themes. On the west side, facing the garden's exedra, was a chamber with Bacchic murals (now in the Museo Nacional de Arte Romano) and below its floor, a great barrel-vaulted cistern. On the south side, several rooms formed what may have been a cubiculum (bedroom) with mosaics whose themes included Eros with a dove. Two subterranean rooms in the southeast corner of this same group probably provided cool refuge from the summer heat.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_lus_col_augusta_house_of_mithraeum_fig1.jpg"
- alt="Fig. 1: House of the Mithraeum.">&lt;figcaption>
- &lt;h4>Fig. 1: House of the Mithraeum. Adapted from Casilla Moreno.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_col_augusta_house_of_mithraeum_fig1.jpg" alt="Fig. 1: House of the Mithraeum." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: House of the Mithraeum. Adapted from Casilla Moreno.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/his_lus_col_augusta_house_of_mithraeum_fig2.jpg"
- alt="Fig. 2: Central peristyle.">&lt;figcaption>
- &lt;h4>Fig. 2: Central peristyle.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_col_augusta_house_of_mithraeum_fig2.jpg" alt="Fig. 2: Central peristyle." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Central peristyle.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/his_lus_col_augusta_house_of_mithraeum_fig3.jpg"
- alt="Fig. 3: Southwest peristyle.">&lt;figcaption>
- &lt;h4>Fig. 3: Southwest peristyle.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_col_augusta_house_of_mithraeum_fig3.jpg" alt="Fig. 3: Southwest peristyle." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Southwest peristyle.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>The end of the 1st to the 4th century AD&lt;/p>
 &lt;h3 id="bibliography-1">Bibliography&lt;/h3>
@@ -1199,20 +1267,22 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>Another had a peristyle with an exedra. This was a small rectangular peristyle (near the stairs leading down to the crypt) with stucco-clad brick columns except in the corners where square pilasters were substituted. In the porticoes formed by these, the walls were painted. Wrapping around the courtyard proper were segments of a brick canal revetted with painted stucco. On its interiors, the canal was revetted with opus signinum and its floor had quarter-circle reinforcement. On the courtyard’s east side, off center, a semi-circular exedra led to what was probably the most impressive chamber in the house.
 The remains of another colonnaded court (in the southeast corner of the crypt) consisted of two rubblework walls forming a corner and supporting marble columns of the Tuscan order; the corridor formed by this colonnade was paved with opus signinum.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_lus_house_under_museum_fig1.jpg"
- alt="Fig. 1: Plan of the houses under the Museum.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the houses under the Museum.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_house_under_museum_fig1.jpg" alt="Fig. 1: Plan of the houses under the Museum." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the houses under the Museum.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>The 4th century A.D&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
@@ -1274,45 +1344,51 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>While the theater belongs to multiple phases of construction, the aula sacra belongs to a Tiberian phase. The peristyle's important program of sculptures and paintings, together with the green spaces, must have given the edifice a magnificent appearance. Unfortunately, many of its decorative elements, wall paintings, bronzes, and marble paving slabs do not survive, and there are few remaining works of statuary, although these are marble and well made.&lt;/p>
 &lt;p>Water, indispensable for irrigation and the fountains, was in ample supply, probably owing to the theate's proximity to the San Lázaro water canal. The present appearance of the peristyle is the result of restorations carried out in 1964 by J. Menéndez-Pidal in which the south wing of the peristyle was resurrected and covered with a pergola and the fountain restored to working order.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_lus_peristyle_theatre_fig1.jpg"
- alt="Fig. 1: Plan of the theater and peristyle.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the theater and peristyle.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_peristyle_theatre_fig1.jpg" alt="Fig. 1: Plan of the theater and peristyle." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the theater and peristyle.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/his_lus_peristyle_theatre_fig2.jpg"
- alt="Fig. 2: Photo of the theater peristyle garden.">&lt;figcaption>
- &lt;h4>Fig. 2: Photo of the theater peristyle garden.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_peristyle_theatre_fig2.jpg" alt="Fig. 2: Photo of the theater peristyle garden." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Photo of the theater peristyle garden.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/his_lus_peristyle_theatre_fig3.jpg"
- alt="Fig. 3: Photo of the theater peristyle garden.">&lt;figcaption>
- &lt;h4>Fig. 3: Photo of the theater peristyle garden.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_peristyle_theatre_fig3.jpg" alt="Fig. 3: Photo of the theater peristyle garden." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Photo of the theater peristyle garden.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/his_lus_peristyle_theatre_fig4.jpg"
- alt="Fig. 4: Photo of the theater peristyle garden.">&lt;figcaption>
- &lt;h4>Fig. 4: Photo of the theater peristyle garden.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_peristyle_theatre_fig4.jpg" alt="Fig. 4: Photo of the theater peristyle garden." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: Photo of the theater peristyle garden.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/his_lus_peristyle_theatre_fig5.jpg"
- alt="Fig. 5: Photo of the theater peristyle garden from the north side.">&lt;figcaption>
- &lt;h4>Fig. 5: Photo of the theater peristyle garden from the north side.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_peristyle_theatre_fig5.jpg" alt="Fig. 5: Photo of the theater peristyle garden from the north side." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: Photo of the theater peristyle garden from the north side.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>16-15 BC&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
@@ -1374,20 +1450,22 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The Temple of Diana is the only surviving religious building from the Augusta Emerita Forum. Despite its name, it was actually dedicated to the imperial cult and dates to the end of the Augustan period. Excavations conducted in 1972 by J. Mª. Álvarez Martínez produced some evidence for a garden in conjunction with the temple. The space surrounding the temple was interpreted as a garden area, enclosed by a portico, which contained two rectangular pools on the east and west sides of the temple.
 Of the sculptural pieces found outside the temple, some have been situated in the western pool: a bronze leg (forming part of an idealized figure and probably fixed on the base of the pool) and two marble fragments of tragic masks which could have served as fountain spouts.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_lus_col_augusta_temple_of_diana_fig1.jpg"
- alt="Fig. 1: Temple of Diana.">&lt;figcaption>
- &lt;h4>Fig. 1: Temple of Diana. Adapted from Casillas Morena, p. 309.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/emerita_augusta/his_lus_col_augusta_temple_of_diana_fig1.jpg" alt="Fig. 1: Temple of Diana." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Temple of Diana. Adapted from Casillas Morena, p. 309.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>The end of the Augustan period&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>

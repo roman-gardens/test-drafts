@@ -29,31 +29,37 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The archaeologists working on the site have not produced a detailed sequence of phases. Settlement on the site, however, seems to go back to the Bronze Age, while the first Roman structures date from the first century A.D. The second and third centuries A.D. saw the villa assume approximately its present form. The fine marine mosaics, found not only around the peristyle but in several of the numerous pools, date from the mid-fourth century AD. The temple was contemporaneous and appears to have been originally pagan, though before the end of the century it had been converted to a Christian church.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/estoi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_LUS_Milreu_planfig1.jpg"
- alt="Plan of Villa de Milreu at Estoi Province, Spain.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Villa de Milreu adapted from Hauschild and Teichner.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/estoi/HIS_LUS_Milreu_planfig1.jpg" alt="Plan of Villa de Milreu at Estoi Province, Spain." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Villa de Milreu adapted from Hauschild and Teichner.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_LUS_Milreu_ph%20fig2.jpg">&lt;figcaption>
- &lt;h4>Fig. 2: Photo of the Villa de Milreu central peristyle.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/estoi/HIS_LUS_Milreu_ph%20fig2.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Photo of the Villa de Milreu central peristyle.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/HIS_LUS_Milreu_pool%20mosaic%20fig3.jpg">&lt;figcaption>
- &lt;h4>Fig. 3: Photo of the fish mosaic&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/estoi/HIS_LUS_Milreu_pool%20mosaic%20fig3.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Photo of the fish mosaic&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Dates-->
 &lt;!--### Bibliography
 - T. Hauschild and F. Teichner, Milreu Ruins, Roteiros de Arqueologia Portugese 9, Ministerio da Cultura, Lisboa, 2002. [(worldcat)](http://www.worldcat.org/oclc/927151602)-->

@@ -50,20 +50,22 @@ A sublocation is any area larger than an individual garden, but located within a
 The villa is about 200 meters south of the center of the modern village of Santervas del Burgo and about 100 meters south of the left bank of the river Cejos. The ruins are reburied beneath the earth in a field, awaiting funds to present them properly.
 The villa was built in the first third of the 2nd century, destroyed by the Germanic invasions of the years immediately after 256, then rebuilt and enlarged under the restored empire, and finally abandoned in the 5th century. The large central peristyle courtyard (43.5 x 19 m) had porticoes on all four sides and a garden with a drainage system in the middle. On the south side, the room with the circular, quadrilobed interior had a mosaic of Ceres and a cornucopia. A series of agricultural buildings and other gardens joined it on the north side.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/villa_de_los_villares/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_san_villares_fig1.jpg"
- alt="Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria">&lt;figcaption>
- &lt;h4>Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria Source: Gorges, Planche XLV&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/villa_de_los_villares/his_tar_san_villares_fig1.jpg" alt="Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1 Plan of the Villa de Los Villares, Santervás del Burgo, Soria Source: Gorges, Planche XLV&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>The first third of the 2nd century&lt;/p>
 &lt;h3 id="bibliography-1">Bibliography&lt;/h3>

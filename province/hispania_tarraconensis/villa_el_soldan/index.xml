@@ -53,20 +53,22 @@ It was presumably the residence of the offical in charge of the gold extraction.
 Built under Tiberius, this site is a rare if not unique example of a first century Iberian villa for which we have a complete plan. Excavation began in the 1930's. Of modest dimensions and without mosaics, it followed an Italian plan with a central (slightly trapezoidal) peristyle with little adaptation to the much cooler climate at this elevation. It did, however, have several rooms heated by hypocausts and many rooms paved in opus signinum. There were found many fragments of wall painting (of deer, birds, and humans) and of ceramic and glass.
 In the center of the peristyle was a rectangular pool with protruding semi-circular niches at each corner; it was lined with painted stucco. The garden around the pool was open on the north side in front of the reception room [1]. In a later modification, the west portico was divided into four small rooms beside the garden.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/villa_el_soldan/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_san_soldan_sultan_fig1.jpg"
- alt="Fig. 1: Plan of Villa El Soldán.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa El Soldán. Source: Gorges, Planche XXXVI&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/villa_el_soldan/his_tar_san_soldan_sultan_fig1.jpg" alt="Fig. 1: Plan of Villa El Soldán." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa El Soldán. Source: Gorges, Planche XXXVI&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Tiberius times(A.D 14-37)&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>

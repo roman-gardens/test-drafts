@@ -26,30 +26,33 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>A slab unearthed near Resça (Romula), Romania, in 1954 records a verse epitaph set up by Valeria Gemellina for her husband Ael(ius) Iul(ius) Iulianus, a decurion of the colony of Romula, some time probably in the later second or third century. In it she describes in pastoral terms well suited to the hexameter the setting of the “eternal home” (i.e. the tomb) she built for him (&lt;em>hanc Iuliano domum flendo fabricavi perennem&lt;/em>): “See how Gemellina, along with her children, out of respect for her worthy husband built a resting place for him amidst the vines and shrubbery and the lush grass, where deep shade from an overhanging branch supplies the greenery” (&lt;em>ecce Gemellina pietate ducta marito&lt;/em> / &lt;em>struxindolens digno sedem cum liberis una&lt;/em> / &lt;em>inter pampinea virgulta et gramina laeta&lt;/em> / &lt;em>umbra super rami virides ubi densa ministrat&lt;/em>).&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/dacia_traiana/romula/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans-->
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/dacia_traiana/romula/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/dacia_traiana/romula/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Later second century/third century&lt;/p>

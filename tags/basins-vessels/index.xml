@@ -32,72 +32,81 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/region-i-insula-vi.png"
- alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region-i-insula-vi.png" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_24_I.vi.15_3.31.72.jpg"
- alt="Fig. 3: I. vi. 3.31.72, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I. vi. 3.31.72, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_24_I.vi.15_3.31.72.jpg" alt="Fig. 3: I. vi. 3.31.72, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I. vi. 3.31.72, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_25_I.vi.15_5.13.59.jpg"
- alt="Fig. 4: I. vi. 5.13.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 4: I. vi. 5.13.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_25_I.vi.15_5.13.59.jpg" alt="Fig. 4: I. vi. 5.13.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: I. vi. 5.13.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_26_I.vi.15_5.17.59.jpg"
- alt="Fig. 5: I. vi. 5.17.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 5: I. vi. 5.17.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_26_I.vi.15_5.17.59.jpg" alt="Fig. 5: I. vi. 5.17.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: I. vi. 5.17.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_27_I.vi.15_5.18.59.jpg"
- alt="Fig. 6: I. vi. 5.18.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 6: I. vi. 5.18.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_27_I.vi.15_5.18.59.jpg" alt="Fig. 6: I. vi. 5.18.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6: I. vi. 5.18.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_28_I.vi.15_16.24.68.jpg"
- alt="Fig. 7: I.vi. 16.24.68, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 7: I.vi. 16.24.68, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_28_I.vi.15_16.24.68.jpg" alt="Fig. 7: I.vi. 16.24.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 7: I.vi. 16.24.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_29_I.vi.15_45.18.64.jpg"
- alt="Fig. 8: I. vi. 45.18.64, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 8: I. vi. 45.18.64, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_29_I.vi.15_45.18.64.jpg" alt="Fig. 8: I. vi. 45.18.64, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 8: I. vi. 45.18.64, S.A. Jashemski (Rights Statement).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1913.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -142,12 +151,13 @@ NEW WAY ↓↓↓↓
 &lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
 &lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig1.jpg"
- alt="General Plan of Ostia Antica">&lt;figcaption>
- &lt;h4>Ostia Antica, General Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Garden beneath the House of the Fishes (Domus dei Pesci) &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/223974300">House of the Fishes (Pleiades)&lt;/a>&lt;/p>
@@ -161,12 +171,13 @@ NEW WAY ↓↓↓↓
 &lt;p>In the course of recent excavations in a room (a) of this house a probable garden area was uncovered (Fig. 1). Only its southern limits, represented by the perimeter wall of an otherwise unidentified building, could be traced. The archaeological sequence established by the &lt;a href="https://en.wikipedia.org/wiki/Stratigraphy">stratigraphy&lt;/a> of this garden area dates it between the early 2nd and early 3rd century CE. It is characterized by a series of superimposed levels of beaten earth, interrupted by small channels, &lt;a href="https://en.wikipedia.org/wiki/Posthole">postholes&lt;/a> and larger pits.&lt;/p>
 &lt;p>One significant level of these successive transformations of the area is represented by a layer which was cut to provide the support for a kind of rectangular &lt;a href="http://vocab.getty.edu/page/aat/300010669">terracotta&lt;/a> container. It rested directly on the earth, and was perhaps used as a watering basin. Probably connected with this object is a small channel running parallel to it, 10 cm deep and 30 cm wide, paved with pottery fragments. To the south of this channel a pit was located, its edge lined with pottery fragments. It is flanked by two smaller and shallower holes (respectively 12 and 16 cm in diameter), perhaps for small shrubs or poles. Probably slightly later is another layout of the garden, represented by a beaten earth level cut by a pit (&lt;em>c&lt;/em>.22 cm wide, 10 cm deep). Found embedded inside it was a large, upturned upper part of a &lt;a href="https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/details.cfm?id=83">Dressel 20&lt;/a> &lt;a href="https://en.wikipedia.org/wiki/Amphora#cite_note-12">amphora&lt;/a>, possibly used as a planting pot.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig16_better_colored.jpg"
- alt="Plan of the Garden beneath the House of the Fishes">&lt;figcaption>
- &lt;h4>Fig. 1: Plan (after Becatti, 1961).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig16_better_colored.jpg" alt="Plan of the Garden beneath the House of the Fishes" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan (after Becatti, 1961).&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>between the early 2nd and early 3rd century CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -213,12 +224,13 @@ NEW WAY ↓↓↓↓
 &lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
 &lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig1.jpg"
- alt="General Plan of Ostia Antica">&lt;figcaption>
- &lt;h4>Ostia Antica, General Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House of Amor and Psyche &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/868515126">House of Amor and Psyche (Pleiades)&lt;/a>&lt;/p>
@@ -240,30 +252,34 @@ NEW WAY ↓↓↓↓
 &lt;p>The entrance of this house (Fig. 1) (which takes its name from the statuary group found in room b) provides access to a large &lt;a href="http://vocab.getty.edu/page/aat/300004145">portico&lt;/a> (a) with four columns on marble bases, resting on a continuous marble-paneled &lt;a href="http://vocab.getty.edu/page/aat/300001989">balustrade&lt;/a> 50 cm high. To the right of the portico was an area believed to be a garden (&lt;a href="https://en.wiktionary.org/wiki/viridarium">&lt;em>viridarium&lt;/em>&lt;/a>) (c) terminating in a &lt;a href="http://vocab.getty.edu/page/aat/300006809">nymphaeum&lt;/a>. This consisted of a podium 1.10 m. high, paneled in white marble. Hewn into its front side are five deep circular niches. Four are paneled in white marble; only the central niche is panelled in green &lt;a href="https://en.wikipedia.org/wiki/Cipollino_marble">cipollino marble&lt;/a>. The architectural elevation of the nymphaeum rises from this podium (Fig. 2). Over four meters high, it consists of two rectangular alternating with three semicircular niches, framed by six marble columns with &lt;a href="https://en.wikipedia.org/wiki/Corinthian_order">Corinthian&lt;/a> capitals and rectangular travertine &lt;a href="http://vocab.getty.edu/page/aat/300001749">plinths&lt;/a>, from which little brick arches project. Five marble stepped gradients were placed between the bases of the columns. They formed miniature cascades: the water piped in by the lead conduit that ran along the bases of the niches flowed down over them. The water filled small rectangular basins and, flowing through &lt;a href="http://vocab.getty.edu/page/aat/300010669">terracotta&lt;/a> channels inside the podium, spouted from four outlets placed between the niches. The whole of the podium together with the stepped cascades was paneled in white marble and green &lt;em>cipollino&lt;/em>; the upper part, by contrast, was stuccoed and adorned with a &lt;a href="http://vocab.getty.edu/page/aat/300252261">polychrome&lt;/a> &lt;a href="http://vocab.getty.edu/page/aat/300015342">wall mosaic&lt;/a>. A tile-covered drain ran through the entire length of the podium.&lt;/p>
 &lt;p>The &lt;a href="https://en.wiktionary.org/wiki/viridarium">&lt;em>viridarium&lt;/em>&lt;/a> is the main source of light for all the rooms that face on it, including the large reception room (d) (Fig. 3). The house is a typical example of an Ostian patrician house of the early 4th century CE.&lt;/p>
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig3_colored.jpg"
- alt="Plan of the House of Amor and Psyche">&lt;figcaption>
- &lt;h4>Figure 1: Plan (after Becatti 1961).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig3_colored.jpg" alt="Plan of the House of Amor and Psyche" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 1: Plan (after Becatti 1961).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig4.jpg"
- alt="Photo of Nymphaeum">&lt;figcaption>
- &lt;h4>Figure 2: Nymphaeum (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig4.jpg" alt="Photo of Nymphaeum" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 2: Nymphaeum (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig5_better.jpg"
- alt="Axonometry">&lt;figcaption>
- &lt;h4>Figure 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig5_better.jpg" alt="Axonometry" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images_b/ostia_fig4b.jpg"
- alt="Section">&lt;figcaption>
- &lt;h4>Figure 4: Section (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig4b.jpg" alt="Section" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 4: Section (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives).&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -313,12 +329,13 @@ NEW WAY ↓↓↓↓
 &lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
 &lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig1.jpg"
- alt="General Plan of Ostia Antica">&lt;figcaption>
- &lt;h4>Ostia Antica, General Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House of the Fortuna Annonaria&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -349,30 +366,34 @@ NEW WAY ↓↓↓↓
 &lt;p>The large apsidal reception room (&lt;a href="http://vocab.getty.edu/page/aat/300080791">&lt;em>oecus&lt;/em>&lt;/a>) (Fig. 1, b), with two columns marking its entrance, was located in the western part of the house. The garden, with flowering plants, onto which it opens, formed its natural continuation. This, together with the &lt;a href="http://vocab.getty.edu/page/aat/300006809">&lt;em>nymphaeum&lt;/em>&lt;/a> that decorated the south side of the room, its rear wall articulated with alternating semicircular and rectangular &lt;a href="http://vocab.getty.edu/page/aat/300002704">niches&lt;/a> containing statues, provided a suitably splendid and prestige-enhancing setting for the public life of the owner, probably a wealthy trader.&lt;/p>
 &lt;p>The garden also forms the backdrop to the rooms in the east part of the house, a &lt;a href="http://vocab.getty.edu/page/aat/300004359">&lt;em>triclinium&lt;/em>&lt;/a> (Fig. 1, c) and a heated cubicle (Fig. 1, d), lit by a large window and decorated with a lavish black and white &lt;a href="http://vocab.getty.edu/page/aat/300015342">mosaic&lt;/a> floor with mythological scenes.&lt;/p>
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig20_better_colored.jpg"
- alt="Plan of the Fortuna Annonaria">&lt;figcaption>
- &lt;h4>Figure 1: Plan (after Boersma 1985).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig20_better_colored.jpg" alt="Plan of the Fortuna Annonaria" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 1: Plan (after Boersma 1985).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig21_better.jpg"
- alt="Axonometry of the Fortuna Annonaria">&lt;figcaption>
- &lt;h4>Figure 2: Axonometry (from Boersma 1985).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig21_better.jpg" alt="Axonometry of the Fortuna Annonaria" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 2: Axonometry (from Boersma 1985).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig22.jpg"
- alt="The garden seen from the oecus">&lt;figcaption>
- &lt;h4>Figure 3: The garden seen from the oecus (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig22.jpg" alt="The garden seen from the oecus" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 3: The garden seen from the oecus (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig23.jpg"
- alt="Well head with bucrania">&lt;figcaption>
- &lt;h4>Figure 4: Well head with bucrania (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig23.jpg" alt="Well head with bucrania" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 4: Well head with bucrania (PA-OAnt, Photo Archive).&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd century CE to 4th century CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -423,12 +444,13 @@ NEW WAY ↓↓↓↓
 &lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
 &lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig1.jpg"
- alt="General Plan of Ostia Antica">&lt;figcaption>
- &lt;h4>Ostia Antica, General Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House on Via del Tempio Rotondo&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -451,25 +473,28 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This house was only partially excavated between June 1972 and January 1973 (Fig. 1). In its &lt;a href="http://vocab.getty.edu/page/aat/300020543">Augustan&lt;/a> phase the peristyle garden (a) was adorned with a large central basin paved in &lt;a href="http://vocab.getty.edu/page/aat/300379969">opus signinum&lt;/a>. At the center of the basin was a brick support, interpreted as the base of a &lt;a href="http://vocab.getty.edu/page/aat/300006179">fountain&lt;/a>. The &lt;a href="http://vocab.getty.edu/page/aat/300001571">columns&lt;/a> of the &lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyle&lt;/a>, probably &lt;a href="http://vocab.getty.edu/page/aat/300067420">Tuscan&lt;/a>, rested on bases alternating with &lt;a href="http://vocab.getty.edu/page/aat/300011329">travertine&lt;/a> strips at pavement level (Fig. 2). Three perforated vases of the type of &lt;em>ollae perforatae&lt;/em> recorded by &lt;a href="https://en.wikipedia.org/wiki/Cato_the_Elder">Cato&lt;/a> (&lt;a href="https://www.thelatinlibrary.com/cato/cato.agri.html">RR 52, 133&lt;/a> | &lt;a href="https://bit.ly/RRCatoA">Trans.&lt;/a>) and &lt;a href="https://en.wikipedia.org/wiki/Pliny_the_Elder">Pliny&lt;/a> (&lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:12.16">NH 12. 16&lt;/a>; &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:17.64">17. 64&lt;/a>, &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:17.97">97&lt;/a>) were found between the basin and the columns of the peristyle, and exactly aligned with their bases. The &lt;em>ollae&lt;/em> were intact and must have contained plants, no doubt of the flowering and rambling variety, which would have found both a support and a chromatic backdrop in the columns to the rear.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig15_better_colored.jpg"
- alt="Plan of the House on Via del Tempio Rotundo">&lt;figcaption>
- &lt;h4>Fig. 1: Plan (after M. Supino; PA-OAnt, Archives).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig15_better_colored.jpg" alt="Plan of the House on Via del Tempio Rotundo" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan (after M. Supino; PA-OAnt, Archives).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig17_better.jpg"
- alt="Plan of the peristyle, with column bases and flower pots">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo 1984).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig17_better.jpg" alt="Plan of the peristyle, with column bases and flower pots" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo 1984).&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="photos">Photos&lt;/h3>
-&lt;figure>&lt;img src="../images_b/ostia_fig23b.jpg"
- alt="A flower pot during 1973 excavation">&lt;figcaption>
- &lt;h4>Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig23b.jpg" alt="A flower pot during 1973 excavation" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive).&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -516,12 +541,13 @@ NEW WAY ↓↓↓↓
 &lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
 &lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig1.jpg"
- alt="General Plan of Ostia Antica">&lt;figcaption>
- &lt;h4>Ostia Antica, General Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Piazzale della Corporazioni &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/489630692">The Forum of Corporations (Pleiades)&lt;/a>&lt;/p>
@@ -553,30 +579,34 @@ NEW WAY ↓↓↓↓
 &lt;p>During the excavations of &lt;a href="https://it.wikipedia.org/wiki/Dante_Vaglieri">Dante Vaglieri&lt;/a> (1910-1913), a system of conduits was identified. It was linked to a large &lt;a href="http://vocab.getty.edu/page/aat/300006122">sewer&lt;/a> that ran underground at the center of the garden area, sloping downwards from south to north in the direction of the Tiber (Fig. 3). Two conduits parallel to the central sewer ran in front of the &lt;a href="https://en.wiktionary.org/wiki/statio#Latin">&lt;em>stationes&lt;/em>&lt;/a>. At garden level there were two long gutters that collected rainwater from the roof of the portico. Two basins (respectively 3.10x2.90 and 3.45x3.35 m) at ground level were identified on the southern side of the garden; they were paved with &lt;a href="http://vocab.getty.edu/page/aat/300379969">&lt;em>opus signinum&lt;/em>&lt;/a> on the inside and probably panelled in marble.&lt;/p>
 &lt;p>In October 1912 Dante Vaglieri began the reconstruction of the garden at the center of the Piazzale delle Corporazioni (Fig. 4). He commissioned a famous landscape architect of the period to create a garden with rectangular &lt;a href="http://vocab.getty.edu/page/aat/300184573">parterres&lt;/a> of various size which retraced in part the layout of the allées and &lt;a href="http://vocab.getty.edu/page/aat/300239937">flower-beds&lt;/a> of the ancient garden: “This garden, reconstructed by one of our cleverest landscape artists, with its display of classic bushes and flowers, its colonnade lining the four sides of the square, and its array of statues of eminent men, bankers, merchants, magistrates, harbour-masters, &amp;amp;c., has become the chief attraction to the visitors of Ostia…” The leading experts in garden architecture of the period included Pier Andrea and Domenico Saccardi: perhaps one of them was the “cleverest landscape artist.”&lt;/p>
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images_b/ostia_piazzale_fig1.jpg"
- alt="Plan of the Piazzale della Corporazioni from Calza 1953">&lt;figcaption>
- &lt;h4>Figure 1: Plan of the Piazzale della Corporazioni (from Calza 1953).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_piazzale_fig1.jpg" alt="Plan of the Piazzale della Corporazioni from Calza 1953" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 1: Plan of the Piazzale della Corporazioni (from Calza 1953).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images_b/ostia_piazzale_fig2.jpg"
- alt="Plan of the Piazzale della Corporazioni from Lanciani 1881">&lt;figcaption>
- &lt;h4>Figure 2: Plan of the Piazzale della Corporazioni (from Lanciani 1881).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_piazzale_fig2.jpg" alt="Plan of the Piazzale della Corporazioni from Lanciani 1881" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 2: Plan of the Piazzale della Corporazioni (from Lanciani 1881).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images_b/ostia_piazzale_fig3.jpg"
- alt="Sketch of the drainage system found below the Piazzale">&lt;figcaption>
- &lt;h4>Figure 3: Sketch of the drainage system found below the Piazzale (from Giornale degli Scavi 1912).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_piazzale_fig3.jpg" alt="Sketch of the drainage system found below the Piazzale" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 3: Sketch of the drainage system found below the Piazzale (from Giornale degli Scavi 1912).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images_b/ostia_piazzale_fig4.jpg"
- alt="Photo of the garden in 1912">&lt;figcaption>
- &lt;h4>Figure 4: The modern garden, 1912 (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_piazzale_fig4.jpg" alt="Photo of the garden in 1912" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 4: The modern garden, 1912 (PA-OAnt, Photo Archive).&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Augustan period &lt;br>
 Claudian period &lt;br>
@@ -620,12 +650,13 @@ Domitianic period&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/cuicul/">Cuicul&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/305068">Cuicul (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/cuicul_house_of_asinus_nica.jpg"
- alt="Plan of Cuicul.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_asinus_nica.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
 &lt;!--## Sublocation-->
@@ -649,19 +680,21 @@ Domitianic period&lt;/p>
 &lt;p>The open area of this peristyle garden, about 9 by 8.5 meters in size, is enclosed by 1 meter-high walls and divided into compartments. Some these were pools, as we can still see hydraulic mortar inside. From the semi-circular pool, a rilled wall brought water to a lower pool, shaped as half a concave octagon. The eastern compartment was a pool that may have been decorated with a water spout, of which only bases remain. It contained a smaller pool, rectangular with two niches. In the western compartment, no mortar was found; it was certainly planted. Four quoining pillars, standing directly on the rock, and eight columns, sitting on low walls, supported the four porticoes that were paved with geometrical mosaics.&lt;/p>
 &lt;p>The house lacked wide-open views from exedra and from the galleries towards the pools and the gardens. This irregularity can be explained by the presence of a first floor opening directly onto the Cardo Maximus, the existence of which is shown by a staircase with seven steps. A reception room was located on the first floor, so that the enclosed garden and the pools could be seen through windows or galleries from the upper floor. From this elevation, the luxurious decoration and lavish use of water would have been seen to full effect.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_asinus_nica_plan1.jpg"
- alt="Plan of the House of Asinus Nica.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Asinus Nica (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_plan1.jpg" alt="Plan of the House of Asinus Nica." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Asinus Nica (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_asinus_nica_photo.jpg"
- alt="View of the garden.">&lt;figcaption>
- &lt;h4>Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_photo.jpg" alt="View of the garden." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd-5th century CE&lt;/p>
 &lt;!--#### Excavation Dates
@@ -688,12 +721,13 @@ Domitianic period&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/cuicul/">Cuicul&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/305068">Cuicul (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/cuicul_house_of_castorius.jpg"
- alt="Plan of Cuicul.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_castorius.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
 &lt;!--## Sublocation-->
@@ -716,25 +750,28 @@ Domitianic period&lt;/p>
 &lt;p>We can see the complex building of Late Antiquity (1500 m2), centered around the peristyle, with a large central area (8.10 x 7.70 m) (Fig. 1). The bases of the columns (four on each side) are not visible; therefore, they seem to lay on a lower level, hidden by later phase of construction. During the first half of the fifth century, low walls were set against the columns, except on the west side, where the open area was entered from the gallery. On the north side, an apse, paved with a mosaic representing a shell, encroaches upon the inner space. On the east side, in front of the large exedra XVIII, a mass of masonry includes three small semi-circular pools. A large rectangular fish pool rests against the mass of masonry; there are little terracotta amphoras inside the edges. At the center of this pool, rose a tall hexagonal base engraved with an ivy scroll and unreadable inscriptions, standing on a hollow base. The peristyle galleries were paved with mosaics: there were geometric patterns and two inscriptions glorifying the owner Castorius and his family.&lt;/p>
 &lt;p>The L shaped space between the fish pool and the columns was probably planted.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_castorius_plan1.jpg"
- alt="Plan of the House of Castorius.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Castorius (Blanchard-Lemée, M., 1975, fig. 4)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_plan1.jpg" alt="Plan of the House of Castorius." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Castorius (Blanchard-Lemée, M., 1975, fig. 4)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_castorius_photo1.jpg"
- alt="Southwest corner of the peristyle XVI, the L shaped planted area.">&lt;figcaption>
- &lt;h4>Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_photo1.jpg" alt="Southwest corner of the peristyle XVI, the L shaped planted area." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/house_of_castorius_photo2.jpg"
- alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool.">&lt;figcaption>
- &lt;h4>Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_photo2.jpg" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>5th century&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
@@ -761,12 +798,13 @@ Domitianic period&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/cuicul/">Cuicul&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/305068">Cuicul (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/cuicul_house_of_europa.jpg"
- alt="Plan of Cuicul.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_europa.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
 &lt;!--## Sublocation-->
@@ -790,25 +828,28 @@ Domitianic period&lt;/p>
 &lt;p>Room 18 enjoyed a spectacular view toward the terraced fountains and plants. It was paved with mosaics from both the early and late Empire periods, remnants of which have been found. In the fifth century, room 13 was transformed into a triclinium opening towards the west and was paved with a mosaic of Europa.&lt;/p>
 &lt;p>Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century, a terrace overlooked the peristyle courtyard towards the south. It might have been used as a hanging garden, possibly decorated with potted plants.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_europa_plan1.jpg"
- alt="Plan of the House of Europa.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Europa (Blanchard-Lemée, M., 1975, fig.49)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plan1.jpg" alt="Plan of the House of Europa." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Europa (Blanchard-Lemée, M., 1975, fig.49)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_europa_plant1.jpg"
- alt="View of the peristyle of the house.">&lt;figcaption>
- &lt;h4>Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant1.jpg" alt="View of the peristyle of the house." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/house_of_europa_plant.jpg"
- alt="View of planter d.">&lt;figcaption>
- &lt;h4>Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant.jpg" alt="View of planter d." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd-5th century CE&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
@@ -836,12 +877,13 @@ Domitianic period&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/cuicul/">Cuicul&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/305068">Cuicul (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/cuicul_small_baths.jpg"
- alt="Plan of Cuicul.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_small_baths.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
 &lt;!--## Sublocation-->
@@ -861,31 +903,35 @@ Domitianic period&lt;/p>
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The garden A mentioned as an open area was excavated in 1930-1931 and in 1944 (Plan view, Fig. 1). It was enclosed on the N, by the Small Baths I (covered in a later period by the seven apse hall built in the fifth century); on the W, by the limit of a long boundary wall (44m long) of the property; on the S, by another wall and by the little building II with the well known dionysiac pavement. Along the rear wall of the garden on the W, there was a terrace III (9 m long) paved with black mosaic. It runs from the large reservoir at the SW corner to a pavilion IV near the NW corner. The pavilion (6.40 m x 3.60 m) commanded a large view over the garden; it may be interpreted as a summer dining room, a diaeta. It was decorated with stuccoed moldings and a colorful mosaic pavement, which could hardly be dated before the fourth century, but perhaps was not the original pavement. Parallel to the edge of the terrace, one meter below the reservoir, sixty centimeters below the terrace, there was a rectangular pool V (16. 50 m X 4.50 m, 1.63 m deep). Water entered at the south edge, under the pedestal (a) still in place. Along the W and the S sides of the pool, more or less than two meters away, there is a row of stone bases, each showing a hole for a wood post, that likely supported a pergola; a vine probably shaded the passage (similar holes are visible in the N and W edges of the pool) (fig. 2, fig. 3). Standing on the pedestal (a), we may imagine a garden statue, for the feet of a marble statuette of an Unraveling Venus (1 m high) were found precisely at the same time (fig. 4) ; the body had been carried, by the load of earth along the sharp slope, towards the large peristyle. Near the pool were also found a broken head of Aseculapius (30 cm high) and a set of surgical instruments. On the E side of the garden, there was a tank that stored water from the spring, the channel of which crosses the garden towards the large peristyle VI. The little building II with dionysiac pavement, perhaps widely opened towards the garden, and must be interpreted in connection to it: the vine in the mosaic may recall the vine in the pergola. This ornamental garden combines many uses (bathing, dining, curing, entertaining) and many religious significations, referring to Dionysus, Venus, Aesculapius.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/plan_of_small_baths.jpg"
- alt="Plan of the Small Baths">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Small Baths (Blanchard-Lemée, M., 1998, fig. 6)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/plan_of_small_baths.jpg" alt="Plan of the Small Baths" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Small Baths (Blanchard-Lemée, M., 1998, fig. 6)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_bacchus_plan_photo2.jpg"
- alt="Southern side of the rectangular pool">&lt;figcaption>
- &lt;h4>Fig. 2: Southern side of the rectangular pool (Février, P.-A. – CCJ 62881)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_photo2.jpg" alt="Southern side of the rectangular pool" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Southern side of the rectangular pool (Février, P.-A. – CCJ 62881)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/small_baths_rectangular_pool.jpg"
- alt="Drawing of reconstruction of the rectangular pool">&lt;figcaption>
- &lt;h4>Fig. 3: Drawing of reconstruction of the rectangular pool (Kahwagi-Janho, H.)&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/small_baths_rectangular_pool.jpg" alt="Drawing of reconstruction of the rectangular pool" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Drawing of reconstruction of the rectangular pool (Kahwagi-Janho, H.)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/venus_djemila.jpg"
- alt="Venus">&lt;figcaption>
- &lt;h4>Fig. 4: Venus (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/venus_djemila.jpg" alt="Venus" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: Venus (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Early 3rd century CE&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
@@ -959,45 +1005,51 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;p>{&amp;lt; figure src=&amp;quot;../images/sirmio-2.jpg&amp;quot; alt=&amp;quot;Fig. 2: Plan of House of Grotto of Catullus.&amp;quot; title=&amp;quot;Fig. 2: Plan of House of Grotto of Catullus&amp;quot; &amp;gt;}}&lt;/p>
-&lt;figure>&lt;img src="../images/sirmio-3.jpg"
- alt="Fig. 3: Plan of the residential rooms.">&lt;figcaption>
- &lt;h4>Fig. 3: Plan of the residential rooms&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-3.jpg" alt="Fig. 3: Plan of the residential rooms." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Plan of the residential rooms&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-5.jpg"
- alt="Fig. 5: Aerial view of vast olive grove.">&lt;figcaption>
- &lt;h4>Fig. 5: Aerial view of vast olive grove&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-5.jpg" alt="Fig. 5: Aerial view of vast olive grove." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: Aerial view of vast olive grove&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-7.jpg"
- alt="Fig. 7:Aerial view of courtyard-viridarium.">&lt;figcaption>
- &lt;h4>Fig. 7: Aerial view of courtyard-viridarium&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-7.jpg" alt="Fig. 7:Aerial view of courtyard-viridarium." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 7: Aerial view of courtyard-viridarium&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-11.jpg"
- alt="Fig. 11: statue of a Dioscuros.">&lt;figcaption>
- &lt;h4>Fig. 11: statue of a Dioscuros&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-11.jpg" alt="Fig. 11: statue of a Dioscuros." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 11: statue of a Dioscuros&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-12.jpg"
- alt="Fig. 12: Figure of Plant fossils.">&lt;figcaption>
- &lt;h4>Fig. 12: Figure of Plant fossils&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-12.jpg" alt="Fig. 12: Figure of Plant fossils." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 12: Figure of Plant fossils&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -1058,12 +1110,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_ix/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1111,26 +1164,29 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>A few decades after a Nabataean shrine (Fig. 2) at Hauarra had been severely damaged during the Roman conquest of Arabia Petraea, the site’s inhabitants built another shrine at the same location. The Roman-period shrine occupied the southeast corner of a multi-unit &lt;em>insula&lt;/em> (E125), but could only be accessed from outside the complex. This shrine consisted of a square &lt;em>naos&lt;/em> (containing a central Nabataean &lt;em>baetyl&lt;/em> and legionary altar, bins, shelves, and votive offerings) enclosed in a rectangular open-air temenos (Fig. 3). Upon entering the temenos, worshippers walked to the &lt;em>naos&lt;/em> along a 12.7 m long paved processional way that was flanked by two long raised planters. An aqueduct-fed basin next to the door of the &lt;em>naos&lt;/em> appears to have supplied the shrine with so much fresh water that it must have been intended not just for ritual cleansing, but for supplying the planters as well. Given the relatively shallow depth of the planters, and that no root balls or pots were found within, they probably contained shrubs and/or flowers rather than trees. Although the architect clearly tried to make the planters symmetrical in size, shape, and location, their design (and that of the whole Roman shrine) was constrained by the reuse of some Nabataean walls as foundations.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
-&lt;figure>&lt;img src="../images/1_arabia_petraea_map.jpg"
- alt="Map of Petra location">&lt;figcaption>
- &lt;p>Fig 1: Map showing the location of ancient Hawara (Hauarra) in Arabia Petraea. Map by L.-A. Bedal, based on &lt;a href="https://commons.wikimedia.org/w/index.php?curid=26047529">Andrein, with the assistance of EraNavigator&lt;/a>&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/hauarra/1_arabia_petraea_map.jpg" alt="Map of Petra location" onclick="fullscreen(this)">
+ &lt;figcaption>&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/2_hauarra_plan.jpg"
- alt="Plan of shrine in Insula E125">&lt;figcaption>
- &lt;h4>Fig 2: Plan of Shrine Complex in the southeast corner of Insula E125 (Plan by S. Fraser and D. Skinner)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/hauarra/2_hauarra_plan.jpg" alt="Plan of shrine in Insula E125" onclick="fullscreen(this)">
+ &lt;figcaption>Fig 2: Plan of Shrine Complex in the southeast corner of Insula E125 (Plan by S. Fraser and D. Skinner)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/3_hauarra_model.jpg"
- alt="View down a paved path towards a small building">&lt;figcaption>
- &lt;h4>Fig. 3: Shrine Complex in Insula E125 (Reconstruction by C. Kanellopoulos and P. Konstandopoulos)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/hauarra/3_hauarra_model.jpg" alt="View down a paved path towards a small building" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Shrine Complex in Insula E125 (Reconstruction by C. Kanellopoulos and P. Konstandopoulos)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st century CE, mid-2nd to 3rd century CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -1178,12 +1234,13 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>At the rear of this house excavated in 1899 was a courtyard garden (a) with a &lt;em>portico&lt;/em> on the south. This was supported by one column that was reinforced by a large pillar. The garden was enclosed by a low wall with an opening on the south. A gutter that encircled the edges had a settling basin (0.35 x 0.45 m.; 0.55 m. deep) in the southwest corner. There was no cistern, but a &lt;em>puteal&lt;/em> stood in the southeast corner.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/Euro_GaAq_Montreal_Villa%20de%20S%C3%A9viac.png"
- alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south.">&lt;figcaption>
- &lt;h4>Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
+&lt;!--
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_v/Euro_GaAq_Montreal_Villa%20de%20S%C3%A9viac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN.&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1245,12 +1302,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>This richly decorated house is considered as one of the most remarkable &lt;em>domus&lt;/em> of Africa (Plan view, Fig.1). Twenty-four Corinthian columns that may have reached 3m high, supported a portico on four sides. On the North, the South and the West, the peristyle is surrounded by rooms and apartments, some with their own colonnaded courtyards paved with mosaics (pseudo-atria). The Eastern portico, because of the declivity of the land was constructed on vaults. It probably opened on the exterior by a colonnade that allowed the visitor to admire the sea, the mountains and the valley of Oued Zaghouan. A small wooden fence enclosed the garden except in front of the vestibule and the &lt;em>oecus&lt;/em>, from the vestibule one could traverse the garden and enter the &lt;em>oecus&lt;/em>, without having to use the porticoes. At a later phase these entries were closed by a basin and cistern. The garden had in its center a rectangular basin, of which only the foundation was found.&lt;/p>
 &lt;!--### Maps-->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/House_of_Icarios_Uthina2.jpg"
- alt="Fig.1: Plan of the House of icarios">&lt;figcaption>
- &lt;h4>Fig.1: Plan of the House of Icarios (Gauckler, P., 1896, fig.1)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/uthina/House_of_Icarios_Uthina2.jpg" alt="Fig.1: Plan of the House of icarios" onclick="fullscreen(this)">
+ &lt;figcaption>Fig.1: Plan of the House of Icarios (Gauckler, P., 1896, fig.1)&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd-3rd century CE&lt;/p>
@@ -1305,12 +1363,13 @@ A sublocation is any area larger than an individual garden, but located within a
 The house is dated to the II century.&lt;/p>
 &lt;!--### Maps-->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/AFR_Uti_Hw_Wjashemski1.jpg"
- alt="Fig.1: Plan of the House of the West.">&lt;figcaption>
- &lt;h4>Fig.1: Plan of the House of the West (CMT, plan 4)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hw_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the West." onclick="fullscreen(this)">
+ &lt;figcaption>Fig.1: Plan of the House of the West (CMT, plan 4)&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd century CE&lt;/p>
@@ -1390,59 +1449,66 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
- alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_41_I.vii.11_12_11.32.59.jpg"
- alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_41_I.vii.11_12_11.32.59.jpg" alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_42_I.vii.12_14.3.68.jpg"
- alt="Fig. 4: I.vii. 14.3.68, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 4: I.vii. 14.3.68, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_42_I.vii.12_14.3.68.jpg" alt="Fig. 4: I.vii. 14.3.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: I.vii. 14.3.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_43_I.vii.11_33.27.61.jpg"
- alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 5: I.vii. 33.27.61, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_43_I.vii.11_33.27.61.jpg" alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: I.vii. 33.27.61, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_44_I.vii.11_12_11.33.59.jpg"
- alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_44_I.vii.11_12_11.33.59.jpg" alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1912 and 1925.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -1499,12 +1565,13 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;p>Several houses with peristyle courtyards were built north of the Areopagus in the second half of the 4th century A.D. These have been interpreted as schools of the Neoplatonic philosophers in which the school directors lived and students were instructed.&lt;/p>
 &lt;p>One of these buildings, the so-called House C or Omega House, had two peristyle courtyards, of which the eastern and smallest was paved (Fig. 1). The house was assured of a constant supply of water, as it tapped into a spring higher up on the hill. The nymphaeum and semi-circular collecting basin on the southeast corner of the house were fed by this, the overflow being directed through a pipe to a well on the west side of the central, rectangular peristyle courtyard. The water taken from this well may have been used to water a garden, possibly one in the unpaved courtyard in which the well was situated (G on plan). A collection of marble statues, portrait busts, and reliefs from the 4th century B.C. to the 3rd century A.D. was discarded in this and other wells of the house in the first half of the 6th century, possibly at the same time Justinian ordered that pagan schools should be closed down. The house was destroyed in 582/3 after a period of Christian use.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/omegahouse.jpg"
- alt="plan of a house with a possible garden peristyle">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/omegahouse.jpg" alt="plan of a house with a possible garden peristyle" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>second half of the 4th century CE to the late 6th century CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -1550,26 +1617,29 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 Another only partially excavated house of the mid-4th century A.D., built into the northern slope of the Areopagus, had a small courtyard (3.20 x 3.90 m.) paved with blue and white marble slabs surrounded by a masonry flower bed 50 cm. wide (Fig. 2; f on plan). Around this ran a shallow marble-paved basin (c on plan) which was supplied with water by a fountain on the south eastern side of the courtyard. Water flowed from the basin through a lead pipe in the middle of each side of the courtyard into the planter beds.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/areopagus1.jpg"
- alt="plan of an early Roman house with pool and courtyard">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/areopagus1.jpg" alt="plan of an early Roman house with pool and courtyard" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/areopagus2.jpg"
- alt="courtyard with flowerbeds and surrounding water channel in a late Roman house">&lt;figcaption>
- &lt;h4>Fig. 2: Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/areopagus2.jpg" alt="courtyard with flowerbeds and surrounding water channel in a late Roman house" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>mid-4th century CE and earlier&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -1596,12 +1666,13 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thuburbo_maius/">THUBURBO MAIUS (Henchir Kasbat), Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315220">THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/thuburbo_house_of_bacchus_and_ariadne.jpg"
- alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus">&lt;figcaption>
- &lt;h4>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_bacchus_and_ariadne.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a &lt;em>municipium&lt;/em> by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -1632,31 +1703,35 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 &lt;p>We next consider the identity of the many smaller roots. Since this garden was viewed from the large formal dining room, an effort would have been made to make it beautiful all year round. Fruit trees would have been beautiful in flower or fruit but they are deciduous. Only the olive tree is evergreen. Ornamental plant material in ancient Roman gardens was extremely limited, but the majority of the plants were evergreen and produced beautiful gardens in every season, welcome in winter and refreshingly cool in summer. The plant material in Tunisia was limited for the most part to the laurel, myrtle, rosemary, laurustinus, oleander, acanthus and ivy. There does not seem to be a place in this garden for ivy, but any of the other plants could have been used. Roman gardens had few flowers, especially with color. Roses are pictured in Tunisian mosaics and they may have been used in this garden. The oleander (Nerium oleander L.) with its striking pink flowers is the only colorful garden shrub. It is widespread in all Tunisia and tolerant of variable growing conditions. It seems probable that oleanders, so prominent in modern Tunisian gardens, as well as in the wild, also added color to this garden.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/AFR_Thub_Hba_malek%20fig1.jpg"
- alt="Fig. 1: Plan of the House of Bacchus and Ariadne">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Bacchus and Ariadne. (CMT, V. II, fasc.4, Pl. XXIV. Jashemski, W. F., 1995, p. 561, fig. 2)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hba_malek%20fig1.jpg" alt="Fig. 1: Plan of the House of Bacchus and Ariadne" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Bacchus and Ariadne. (CMT, V. II, fasc.4, Pl. XXIV. Jashemski, W. F., 1995, p. 561, fig. 2)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/photography_of_the_decayed_tree_root.jpg"
- alt="Decayed tree root 23 cm in diameter (Photo J. Foss)">&lt;figcaption>
- &lt;h4>Fig. 2: Decayed tree root 23 cm in diameter. (Photo J. Foss, Jashemski, W. F., 1995, fig. 5)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/photography_of_the_decayed_tree_root.jpg" alt="Decayed tree root 23 cm in diameter (Photo J. Foss)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Decayed tree root 23 cm in diameter. (Photo J. Foss, Jashemski, W. F., 1995, fig. 5)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/House_of_Bacchus_and_Ariadne_Detail_Plan.jpg"
- alt="Detail, Plan of courtyard garden, House of Bacchus and Ariadne">&lt;figcaption>
- &lt;h4>Fig. 3: Detail, Plan of courtyard garden, House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 7)&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/House_of_Bacchus_and_Ariadne_Detail_Plan.jpg" alt="Detail, Plan of courtyard garden, House of Bacchus and Ariadne" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Detail, Plan of courtyard garden, House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 7)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/House_of_Bacchus_and_Ariadne_Drawing.jpg"
- alt="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne">&lt;figcaption>
- &lt;h4>Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 11)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/House_of_Bacchus_and_Ariadne_Drawing.jpg" alt="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 11)&lt;/figcaption>
+&lt;/figure>
 &lt;!--convert photos to jpeg-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>5th century CE&lt;/p>

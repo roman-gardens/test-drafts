@@ -31,28 +31,31 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The house had a peristyle courtyard of rectangular shape which was surrounded on three sides by a low wall supporting stone columns. The courtyard was unpaved and almost certainly planted (G in Fig. 1). Entering the house from the east, one passed through a vestibule before arriving in the peristyle corridor around the courtyard. The courtyard wall, enclosing an area 14 x 23.50 meters in size, was fronted by a water channel. There was a well in the north. From the triclinium to the west of the courtyard, one had a view directly into the courtyard.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/ausgusta_raurica/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/EUR_GS_AugRau_Hi30_carroll.jpg"
- alt="Fig. 1: Plan of a house in Insula 30 with a garden courtyard (G). Plan adapted from Laur-Belart 1988, fig. 126.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of a house in Insula 30 with a garden courtyard (G). Plan adapted from Laur-Belart 1988, fig. 126. (Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/ausgusta_raurica/EUR_GS_AugRau_Hi30_carroll.jpg" alt="Fig. 1: Plan of a house in Insula 30 with a garden courtyard (G). Plan adapted from Laur-Belart 1988, fig. 126." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of a house in Insula 30 with a garden courtyard (G). Plan adapted from Laur-Belart 1988, fig. 126. (Rights statement)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/ausgusta_raurica/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Insula: 200 A.D.&lt;/p>
@@ -104,28 +107,31 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The northern part of the house facing the street included an open terrace which may have been built up on demolished walls of the earlier house. Humus-rich soil in the terrace area may indicate that it was planted (G in Fig. 1). Immediately south of the terrace was a portico that offered a splendid view of the valley.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/ausgusta_raurica/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/EUR_GS_AUG%20RAU_Hi1&amp;#43;2_carroll.jpg"
- alt="Fig. 1: Augusta Raurica., House in insula 1 and 2. Adapted from Hufschidt.">&lt;figcaption>
- &lt;h4>Fig. 1: Augusta Raurica., House in insula 1 and 2. Adapted from Hufschidt.(Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/ausgusta_raurica/EUR_GS_AUG%20RAU_Hi1&amp;#43;2_carroll.jpg" alt="Fig. 1: Augusta Raurica., House in insula 1 and 2. Adapted from Hufschidt." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Augusta Raurica., House in insula 1 and 2. Adapted from Hufschidt.(Rights statement)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/ausgusta_raurica/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>House: AD 150 - ca. 170&lt;/p>

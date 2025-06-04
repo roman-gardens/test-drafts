@@ -31,12 +31,13 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 NEEDED - search bibliography for plans.
 
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
- -->
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure> -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>late 1st century CE (mentioned)&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

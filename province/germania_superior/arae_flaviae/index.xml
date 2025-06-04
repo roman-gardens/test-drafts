@@ -28,28 +28,31 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>This building ca. 95 meters in width consisted of several units built at different times. These may represent more than one house, or they may be parts of one large house. The southern part of the complex, entered from the colonnaded street on the west, had a vestibule or corridor leading into a peristyle courtyard. This may have been planted, although the excavators could find no clear evidence of this. Beyond the peristyle to the east was a series of rooms, including one large room presumably with representative character, and an open area interpreted as a courtyard or garden (G in Fig. 1). The complex was built at the earliest during the reign of Trajan, but additions and alterations followed throughout the 2nd and perhaps the 3rd century.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/arae_flaviae/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/EUR_GS_AraFla_Bnf_carroll.jpg"
- alt="Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2. (Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/arae_flaviae/EUR_GS_AraFla_Bnf_carroll.jpg" alt="Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of a house north of the forum with a peristyle courtyard and open areas to the east, possibly both planted as gardens (G). Adapted from Sommer 1992, Beilage 1.2. (Rights statement)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/arae_flaviae/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Complex built at the earliest during the reign of Trajan.&lt;/p>

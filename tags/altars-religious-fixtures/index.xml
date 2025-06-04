@@ -143,26 +143,29 @@
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/divorum_fig1.jpg"
- alt="Photograph of the Severan Forma Urbis depicting the Divorum">&lt;figcaption>
- &lt;h4>Fig. 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/divorum_fig2_edited.jpg"
- alt="Reconstructed plan of the Divorum">&lt;figcaption>
- &lt;h4>Fig. 2. Reconstructed plan of the Divorum. © Valerie Aymer.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. Reconstructed plan of the Divorum. © Valerie Aymer.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/divorum_fig3_placeholder.jpg"
- alt="Perspective view looking north along the central axis of the Divorum">&lt;figcaption>
- &lt;h4>Fig. 3. Perspective view looking north along the central axis. © Valerie Aymer.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3. Perspective view looking north along the central axis. © Valerie Aymer.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>80 CE&lt;/p>
@@ -271,12 +274,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -307,12 +311,13 @@ NEW WAY ↓↓↓↓
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thugga/">THUGGA (Dougga) Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315223">THUGGA (Dougga) Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/dougga_the_sanctuary_of_caelestis.jpg"
- alt="Plan of Thugga">&lt;figcaption>
- &lt;h4>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_sanctuary_of_caelestis.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>Annexed in 46 B.C., the Romanization of the city of Thugga that was probably a residence of the Numidian kings, was gradual but profound. It became Municipium Thuggense in 205, and was raised to the rank of a Colonia Licinia Septima Aurelia Alexandriana Thuggensesin in 261 under Gallien. Numerous buildings of this city overlooking the valley of the Ouadi Khaled, have been uncovered among them the Capitol dedicated to the Capitoline Triad in 166-67, the theater on the top of the plateau constructed under Antonius Pius, the Temple of Mercury, Fortune, Augustan Piety, Liber Pater, Concordia, Frugifer, Pluto, Saturn and the Temple of Caelestis which stands in the middle of a an olive grove. In the residential areas stands the Licinian Baths with their Palestrae and the Cyclops Baths and the Triumphal Arch of Septimus Severus set astride a street leading down the hill. Two building inscriptions (CIL VIII, 26606 and CIL VIII, 26607), dated to AD 166-169 mention a theater with a basilica, porticoes, and xystis.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -328,12 +333,13 @@ NEW WAY ↓↓↓↓
 &lt;p>The sanctuary of &lt;em>Caelestis&lt;/em>, installed on the north-western outskirts of the city, was built on a sizeable plot of land allocated to it by its commissioner during the reign of Severus Alexander (222-235). This sanctuary is distinguished by its semi-circular shape. Its Corinthian temple, peripteral and hexastyle, rises in the center of the courtyard on a podium reached by a staircase of eleven steps. A wide paved esplanade which spreads out in front of the temple. The complex is united by a central axis, which runs through the esplanade, to the staircase, through the entrances to the temple, whose altar was probably installed on this alignment. The remaining space of the unpaved courtyard was probably planted. This peripteral temple is reminiscent of the temple of &lt;em>Hephaestus&lt;/em> on the Agora in Athens.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/the_sanctuary_of_caelestis.jpg"
- alt="The sanctuary of Caelestis">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the sanctuary of Caelestis (From Golvin, J.-C., Khanoussi, M. (dir.) 2005, p. 181, fig. 171])&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_sanctuary_of_caelestis.jpg" alt="The sanctuary of Caelestis" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the sanctuary of Caelestis (From Golvin, J.-C., Khanoussi, M. (dir.) 2005, p. 181, fig. 171])&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>222-235 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -357,12 +363,13 @@ NEW WAY ↓↓↓↓
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thugga/">THUGGA (Dougga) Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315223">THUGGA (Dougga) Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/dougga_the_sanctuary_of_minerva.jpg"
- alt="Plan of Thugga">&lt;figcaption>
- &lt;h4>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_sanctuary_of_minerva.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>Annexed in 46 B.C., the Romanization of the city of Thugga that was probably a residence of the Numidian kings, was gradual but profound. It became Municipium Thuggense in 205, and was raised to the rank of a Colonia Licinia Septima Aurelia Alexandriana Thuggensesin in 261 under Gallien. Numerous buildings of this city overlooking the valley of the Ouadi Khaled, have been uncovered among them the Capitol dedicated to the Capitoline Triad in 166-67, the theater on the top of the plateau constructed under Antonius Pius, the Temple of Mercury, Fortune, Augustan Piety, Liber Pater, Concordia, Frugifer, Pluto, Saturn and the Temple of Caelestis which stands in the middle of a an olive grove. In the residential areas stands the Licinian Baths with their Palestrae and the Cyclops Baths and the Triumphal Arch of Septimus Severus set astride a street leading down the hill. Two building inscriptions (CIL VIII, 26606 and CIL VIII, 26607), dated to AD 166-169 mention a theater with a basilica, porticoes, and xystis.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -381,12 +388,13 @@ NEW WAY ↓↓↓↓
 &lt;p>The sanctuary of Minerva 2, (138-161 CE), built later than the &lt;em>templa Concordiae&lt;/em>, presents a very different configuration. The &lt;em>cella&lt;/em>, projecting outwards from the courtyard lined with porticoes, is built on a very high podium whose summit corresponded to the level of the &lt;em>peribolus&lt;/em> roof and to which access was gained by a monumental staircase. The temple, by its insertion in the topography of the site, seems to emerge from the cliff into which it was embedded. The approach was a long allée bordered on both sides by planting beds that emphasized the perspective centered on the &lt;em>cella&lt;/em>. An open-air &lt;em>ambulatio&lt;/em>, bordered by a balustrade, ran alongside the porticoes and the staircase, restricting access into the planted areas. Located on the outskirts of the city, one can imagine that the temple nestled in the cliff, perhaps surrounded by trees. The vegetation thus embraced the sanctuary as a whole and framed the altar located on the axial path leading to the temple.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/the_sanctuary_of_minerva_2.jpg"
- alt="Plan of the sanctuary of Minerva 2">&lt;figcaption>
- &lt;h4>Fig.1 Plan of the sanctuary of Minerva 2 (From Saint-Amans, S., 2004, p. 216, fig. 2a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_sanctuary_of_minerva_2.jpg" alt="Plan of the sanctuary of Minerva 2" onclick="fullscreen(this)">
+ &lt;figcaption>Fig.1 Plan of the sanctuary of Minerva 2 (From Saint-Amans, S., 2004, p. 216, fig. 2a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>138-161 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -436,12 +444,13 @@ Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. &
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This house with an unusual design had a garden (a) in the rear southwest corner that was separated from a courtyard to the north by a low masonry wall. Between the garden wall and the wall of the house a gutter was formed which directed the roof run off into a cistern. A marble garden herm was found on the low wall with the head of a satyr sporting goat’s ears and ram’s horns (0.20 high). In the center of the garden stood a masonry triclinium (&lt;em>l. medius&lt;/em>, 4.00 m.; &lt;em>l. imus&lt;/em> and. &lt;em>summus&lt;/em> 3.75 m.) decorated with plants painted on a yellow background, a masonry table with a colored marble top (090 x 1.50 m.) sat between the couches. Excavators reported the post holes for the &lt;em>pergola&lt;/em> were reinforced with potsherds to bolster the posts. The south and west walls were lined with cavities (the dimensions were not recorded) that were centered in soil depressions to hold water. In the northwest corner of the garden a masonry altar sat in front of an arched niche.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/Euro_GaAq_Montreal_Villa%20de%20S%C3%A9viac.png"
- alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south.">&lt;figcaption>
- &lt;h4>Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
+&lt;!--
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_v/Euro_GaAq_Montreal_Villa%20de%20S%C3%A9viac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN.&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>

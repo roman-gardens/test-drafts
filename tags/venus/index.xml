@@ -6,12 +6,13 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/cuicul/">Cuicul&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/305068">Cuicul (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/cuicul_house_of_bacchus.jpg"
- alt="Plan of Cuicul.">&lt;figcaption>
- &lt;h4>Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_bacchus.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
 &lt;!--## Sublocation-->
@@ -36,31 +37,35 @@
 &lt;p>2-The main building (Plan view Fig. 1) is composed of two peristyle dwellings, formerly separate, linked up during the Late Empire; the central space of the large one was paved, first with slabs, afterwards with mosaic. The little peristyle (7 m x 10 m) was a garden (B) enclosed by three porticoes, supported by six columns (rough and probably stuccoed) and bordered by a low wall. On the south side, there was a semi-circular pool, the front of which was closed by two stone plates, engraved with lozenges and joined by a cut column. The exedra and the rooms having view into the garden seem to have been devoted to private life, unlike the large one.&lt;/p>
 &lt;p>3-The rear garden (C) of the &amp;quot;House of Bacchus&amp;quot; seems to have originally belonged to the little baths and then the house with the large peristyle VI (see Plan view in red Fig. 1). It was greatly transformed in Late Antiquity. The great seven apses hall, built in the middle of the fifth century, took the place of the small baths and overwhelmed this space with its impressive volume. The large &lt;em>oecus&lt;/em> may be assigned to the Constantinian period: perhaps it had a view over the rear garden at that time. Afterwards, this room was extended with an absidial pool (11 m long); through a wide door, people accessed a little terrace, from where they overlooked the new pool, paved with marble, one meter below. Water arrived from two little pools on each side and went into the drain of the seven apses room. Two little columns bore a small pediment. In the inside edges, we see terracotta amphoras used to raise fish. The inside borders are complete, but the outside masonry is unfinished, so that we may think that the rear wall may have stood high enough to form a nymphaeum. The masonry is similar in the fish pool and in the seven apses (brick tiles joined by brick layers forming crosses) : from that, we infer they were built at the same time, in the middle of the fifth century. The foundation of the fish pool was laid on the bottom of the rectangular one, which perhaps was filled up.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_bacchus_plan_new1.jpg"
- alt="Plan of the House of Bacchus.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Bacchus (Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_new1.jpg" alt="Plan of the House of Bacchus." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Bacchus (Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_bacchus_plan_photo1.jpg"
- alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc">&lt;figcaption>
- &lt;h4>Fig. 2: The small peristyle garden B and its semi circular basin (Février, P.-A. – CCJ 62889))&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_photo1.jpg" alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: The small peristyle garden B and its semi circular basin (Février, P.-A. – CCJ 62889))&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/pool_and_fish_pool.jpg"
- alt="The pool and fish pool.">&lt;figcaption>
- &lt;h4>Fig. 3: The pool and fish pool (Février, P.-A.– CCJ 62945)&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/pool_and_fish_pool.jpg" alt="The pool and fish pool." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: The pool and fish pool (Février, P.-A.– CCJ 62945)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/fish_pool.jpg"
- alt="The fish pool.">&lt;figcaption>
- &lt;h4>Fig. 4: The fish pool (Février, P.-A.– CCJ 62886)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/fish_pool.jpg" alt="The fish pool." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: The fish pool (Février, P.-A.– CCJ 62886)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>3nd-5th century CE&lt;/p>
 &lt;!--#### Excavation Dates
@@ -92,12 +97,13 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/cuicul/">Cuicul&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/305068">Cuicul (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/cuicul_small_baths.jpg"
- alt="Plan of Cuicul.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_small_baths.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
 &lt;!--## Sublocation-->
@@ -117,31 +123,35 @@
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The garden A mentioned as an open area was excavated in 1930-1931 and in 1944 (Plan view, Fig. 1). It was enclosed on the N, by the Small Baths I (covered in a later period by the seven apse hall built in the fifth century); on the W, by the limit of a long boundary wall (44m long) of the property; on the S, by another wall and by the little building II with the well known dionysiac pavement. Along the rear wall of the garden on the W, there was a terrace III (9 m long) paved with black mosaic. It runs from the large reservoir at the SW corner to a pavilion IV near the NW corner. The pavilion (6.40 m x 3.60 m) commanded a large view over the garden; it may be interpreted as a summer dining room, a diaeta. It was decorated with stuccoed moldings and a colorful mosaic pavement, which could hardly be dated before the fourth century, but perhaps was not the original pavement. Parallel to the edge of the terrace, one meter below the reservoir, sixty centimeters below the terrace, there was a rectangular pool V (16. 50 m X 4.50 m, 1.63 m deep). Water entered at the south edge, under the pedestal (a) still in place. Along the W and the S sides of the pool, more or less than two meters away, there is a row of stone bases, each showing a hole for a wood post, that likely supported a pergola; a vine probably shaded the passage (similar holes are visible in the N and W edges of the pool) (fig. 2, fig. 3). Standing on the pedestal (a), we may imagine a garden statue, for the feet of a marble statuette of an Unraveling Venus (1 m high) were found precisely at the same time (fig. 4) ; the body had been carried, by the load of earth along the sharp slope, towards the large peristyle. Near the pool were also found a broken head of Aseculapius (30 cm high) and a set of surgical instruments. On the E side of the garden, there was a tank that stored water from the spring, the channel of which crosses the garden towards the large peristyle VI. The little building II with dionysiac pavement, perhaps widely opened towards the garden, and must be interpreted in connection to it: the vine in the mosaic may recall the vine in the pergola. This ornamental garden combines many uses (bathing, dining, curing, entertaining) and many religious significations, referring to Dionysus, Venus, Aesculapius.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/plan_of_small_baths.jpg"
- alt="Plan of the Small Baths">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Small Baths (Blanchard-Lemée, M., 1998, fig. 6)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/plan_of_small_baths.jpg" alt="Plan of the Small Baths" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Small Baths (Blanchard-Lemée, M., 1998, fig. 6)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_bacchus_plan_photo2.jpg"
- alt="Southern side of the rectangular pool">&lt;figcaption>
- &lt;h4>Fig. 2: Southern side of the rectangular pool (Février, P.-A. – CCJ 62881)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_photo2.jpg" alt="Southern side of the rectangular pool" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Southern side of the rectangular pool (Février, P.-A. – CCJ 62881)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/small_baths_rectangular_pool.jpg"
- alt="Drawing of reconstruction of the rectangular pool">&lt;figcaption>
- &lt;h4>Fig. 3: Drawing of reconstruction of the rectangular pool (Kahwagi-Janho, H.)&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/small_baths_rectangular_pool.jpg" alt="Drawing of reconstruction of the rectangular pool" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Drawing of reconstruction of the rectangular pool (Kahwagi-Janho, H.)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/venus_djemila.jpg"
- alt="Venus">&lt;figcaption>
- &lt;h4>Fig. 4: Venus (Blanchard-Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/venus_djemila.jpg" alt="Venus" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: Venus (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Early 3rd century CE&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>

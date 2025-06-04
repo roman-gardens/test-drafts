@@ -32,72 +32,81 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/region-i-insula-vi.png"
- alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region-i-insula-vi.png" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_24_I.vi.15_3.31.72.jpg"
- alt="Fig. 3: I. vi. 3.31.72, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I. vi. 3.31.72, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_24_I.vi.15_3.31.72.jpg" alt="Fig. 3: I. vi. 3.31.72, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I. vi. 3.31.72, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_25_I.vi.15_5.13.59.jpg"
- alt="Fig. 4: I. vi. 5.13.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 4: I. vi. 5.13.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_25_I.vi.15_5.13.59.jpg" alt="Fig. 4: I. vi. 5.13.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: I. vi. 5.13.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_26_I.vi.15_5.17.59.jpg"
- alt="Fig. 5: I. vi. 5.17.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 5: I. vi. 5.17.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_26_I.vi.15_5.17.59.jpg" alt="Fig. 5: I. vi. 5.17.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: I. vi. 5.17.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_27_I.vi.15_5.18.59.jpg"
- alt="Fig. 6: I. vi. 5.18.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 6: I. vi. 5.18.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_27_I.vi.15_5.18.59.jpg" alt="Fig. 6: I. vi. 5.18.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6: I. vi. 5.18.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_28_I.vi.15_16.24.68.jpg"
- alt="Fig. 7: I.vi. 16.24.68, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 7: I.vi. 16.24.68, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_28_I.vi.15_16.24.68.jpg" alt="Fig. 7: I.vi. 16.24.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 7: I.vi. 16.24.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_29_I.vi.15_45.18.64.jpg"
- alt="Fig. 8: I. vi. 45.18.64, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 8: I. vi. 45.18.64, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_29_I.vi.15_45.18.64.jpg" alt="Fig. 8: I. vi. 45.18.64, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 8: I. vi. 45.18.64, S.A. Jashemski (Rights Statement).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1913.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

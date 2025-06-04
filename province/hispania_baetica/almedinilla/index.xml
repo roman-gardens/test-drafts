@@ -34,35 +34,46 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The chronology of the house is quite tentative. A first phase, probably to be placed in Flavian times, was an agricultural establishment with a central courtyard. The second phase added a peristyle to this courtyard and paved its center with mosaics. There may have been a pool in the peristyle. This phase probably lasted through most of the 2nd and perhaps well into the 3rd century. The elaborate nymphaeum and &lt;em>stibadium&lt;/em> described above were then created either in the late 3rd or more probably early 4th century. It met a violent end with intentional destruction of the statues early in the 5th century. Later in that century, some industrial structures, including a kiln for structural ceramics, were built on the site.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/almedinilla/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans-->
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/almedinilla/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/HIS_BAE_Almedinilla_El%20Ruedo_Fig.%201_CA.jpg"
- alt="Fig. 1 Site Plan showing the planting pits and water features. (Rights Statement)">
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/almedinilla/HIS_BAE_Almedinilla_El%20Ruedo_Fig.%201_CA.jpg" alt="Fig. 1 Site Plan showing the planting pits and water features. (Rights Statement)" onclick="fullscreen(this)">
+ &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/HIS_BAE_Almedinilla_El%20Ruedo_Fig.%202_CA.jpg"
- alt="Fig. 2 Plan detail of stibadium and pools. (Rights Statement)">
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/almedinilla/HIS_BAE_Almedinilla_El%20Ruedo_Fig.%202_CA.jpg" alt="Fig. 2 Plan detail of stibadium and pools. (Rights Statement)" onclick="fullscreen(this)">
+ &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/HIS_BAE_Almedinilla_El%20Ruedo_Fig.%203_CA.jpg"
- alt="Fig. 3 Photograph looking south over stibadium and pools (Clopper Almon). (Rights Statement)">
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/almedinilla/HIS_BAE_Almedinilla_El%20Ruedo_Fig.%203_CA.jpg" alt="Fig. 3 Photograph looking south over stibadium and pools (Clopper Almon). (Rights Statement)" onclick="fullscreen(this)">
+ &lt;figcaption>&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

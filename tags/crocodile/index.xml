@@ -19,18 +19,20 @@
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>A colonnaded portico stood at the edge of the terrace (a) on the street level of this house. Below it was another terrace enclosed by a low wall. Sogliano and Mau disagree as to whether the wall contained a space for plants as only a part on the east remained. This was plastered and painted with a Nile scene, the surviving sections showing a crocodile pursued by a pigmy with a shield and lance and a pigmy woman with a basket and a hippopotamus nearby.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;p>&lt;figure>&lt;img src="../images/fig._4_region_viii_insula_ii.jpg"
- alt="Plan of the Pompeii Region VIII, Insula II">&lt;figcaption>
- &lt;h4>Plan of the Pompeii Region VIII, Insula II&lt;/h4>
- &lt;/figcaption>
+&lt;p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_ii/fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the Pompeii Region VIII, Insula II&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/fig._4_region_viii_insula_ii_34.jpg"
- alt="Plan of the Pompeii Region VIII, Insula II, 29-39">&lt;figcaption>
- &lt;h4>Plan of the Pompeii Region VIII, Insula II, 29-39&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-&lt;/p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_ii/fig._4_region_viii_insula_ii_34.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 29-39" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the Pompeii Region VIII, Insula II, 29-39&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>

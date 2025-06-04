@@ -32,30 +32,33 @@ At the center of the plan was a large garden defined on three sides (north, sout
 After the death of Herodes the villa probably became imperial property. A phase dating to the Tetrarchy is attested, and during the time of Constantine a mosaic, depicting the Circus Maximus, was added. The villa was destroyed by an earthquake in A.D. 400 A.D. and by the invasions of the Goths.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans-->
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>From the 2nd century CE until 400 CE&lt;/p>

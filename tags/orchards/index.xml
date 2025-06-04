@@ -51,45 +51,51 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;p>{&amp;lt; figure src=&amp;quot;../images/sirmio-2.jpg&amp;quot; alt=&amp;quot;Fig. 2: Plan of House of Grotto of Catullus.&amp;quot; title=&amp;quot;Fig. 2: Plan of House of Grotto of Catullus&amp;quot; &amp;gt;}}&lt;/p>
-&lt;figure>&lt;img src="../images/sirmio-3.jpg"
- alt="Fig. 3: Plan of the residential rooms.">&lt;figcaption>
- &lt;h4>Fig. 3: Plan of the residential rooms&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-3.jpg" alt="Fig. 3: Plan of the residential rooms." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Plan of the residential rooms&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-5.jpg"
- alt="Fig. 5: Aerial view of vast olive grove.">&lt;figcaption>
- &lt;h4>Fig. 5: Aerial view of vast olive grove&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-5.jpg" alt="Fig. 5: Aerial view of vast olive grove." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: Aerial view of vast olive grove&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-7.jpg"
- alt="Fig. 7:Aerial view of courtyard-viridarium.">&lt;figcaption>
- &lt;h4>Fig. 7: Aerial view of courtyard-viridarium&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-7.jpg" alt="Fig. 7:Aerial view of courtyard-viridarium." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 7: Aerial view of courtyard-viridarium&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-11.jpg"
- alt="Fig. 11: statue of a Dioscuros.">&lt;figcaption>
- &lt;h4>Fig. 11: statue of a Dioscuros&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-11.jpg" alt="Fig. 11: statue of a Dioscuros." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 11: statue of a Dioscuros&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-12.jpg"
- alt="Fig. 12: Figure of Plant fossils.">&lt;figcaption>
- &lt;h4>Fig. 12: Figure of Plant fossils&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-12.jpg" alt="Fig. 12: Figure of Plant fossils." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 12: Figure of Plant fossils&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -134,26 +140,29 @@ NEW WAY ↓↓↓↓
 &lt;p>One scroll in the Babatha Archive, &lt;a href="https://www.deadseascrolls.org.il/explore-the-archive/manuscript/5_6Hev8-1">(P. Yadin 3)&lt;/a>, records in Nabataean Aramaic the purchase of a date-palm orchard by the Judean, Shim'on ben Menahem, in December 99 CE. The property is described as located in the village of Maḥoz 'Eglatain (Maoza) with &amp;quot;its boundaries to the east, the road; and to the west, the houses of Ḥunainu, son of Tayim-'Illahi, and the houses of Taha, the daughter of 'Abad Ḥaretat; and to the south, the orchard of our Lord, &lt;a href="https://en.wikipedia.org/wiki/Rabbel_II_Soter">Rabb'el. the King, King of the Nabataeans&lt;/a>,..., and to the north, the swamp,&amp;quot; the latter seemingly referring to the murky Dead Sea coastline (Fig. 2). The purchase included the date-palm orchard along with its irrigation ditches and its assigned watering periods, &amp;quot;half of one hour on the first day of the week.&amp;quot; (translations from Esler 2017:247). The perenial stream that flows through Wadi Hasa is the likely source of irrigation water for Babatha's date-palm orchard and other crops in the village of Maḥoz 'Eglatain (Maoza).&lt;/p>
 &lt;p>Some years later, Shim'on ben Menahem transferred ownership of the property to his daughter, Babatha. When she registered the land with the Roman census in Deceber 127 CE &lt;a href="https://papyri.info/ddbdp/p.babatha;;16">(P. Yadin 16)&lt;/a>, it is described as divided into two adjacent orchards and given the name &amp;quot;Algiphiamma&amp;quot; (Aramaic for &amp;quot;by the seashore&amp;quot;).&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
-&lt;figure>&lt;img src="../images/1_arabia_petraea_map.jpg"
- alt="Map of Petra location">&lt;figcaption>
- &lt;p>Fig 1: Map showing the approximate location of Babatha's orchard in Maoza in Arabia Petraea. Map by L.-A. Bedal, based on &lt;a href="https://commons.wikimedia.org/w/index.php?curid=26047529">Andrein, with the assistance of EraNavigator&lt;/a>&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/babatha/1_arabia_petraea_map.jpg" alt="Map of Petra location" onclick="fullscreen(this)">
+ &lt;figcaption>&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/2_babatha_orchard_plan.jpg"
- alt="Proposed plan of Babatha&amp;#39;s orchard">&lt;figcaption>
- &lt;p>Fig 2: A proposed plan of the date-palm orchard described in Babatha's Archive. Plan by L.-A. Bedal (based on Esler 2017:Fig. 7.2)&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
 
-&lt;h3 id="images">Images&lt;/h3>
-&lt;!-- &lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;p>CAPTION&lt;/p>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/babatha/2_babatha_orchard_plan.jpg" alt="Proposed plan of Babatha&amp;#39;s orchard" onclick="fullscreen(this)">
+ &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
- -->
+&lt;h3 id="images">Images&lt;/h3>
+&lt;!-- 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/babatha/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>&lt;/figcaption>
+&lt;/figure> -->
 &lt;!--
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -261,31 +270,34 @@ A sublocation is any area larger than an individual garden, but located within a
 ### Maps
 
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/judaea/ein_gedi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 
 
 ### Plans
 
-&lt;figure>&lt;img src="../images/Latimer_fig_14_or_10.1a.jpg"
- alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.(Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/judaea/ein_gedi/Latimer_fig_14_or_10.1a.jpg" alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.(Rights statement)&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Latimer_fig_15_or_10.1b.jpg"
- alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan.">&lt;figcaption>
- &lt;h4>Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
- -->
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/judaea/ein_gedi/Latimer_fig_15_or_10.1b.jpg" alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan.&lt;/figcaption>
+&lt;/figure> -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>6-135 CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

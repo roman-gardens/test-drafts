@@ -29,30 +29,33 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>A famous inscription from the territory of the Lingonian Gauls (Langres) known only from a manuscript of the tenth century records the will of a local hunting enthusiast who built for himself a lavish mausoleum (&lt;em>cella memoriae&lt;/em>) and equipped it with orchards (&lt;em>pomaria&lt;/em>) and a reservoir (&lt;em>lacus&lt;/em>) put in the care of two freedmen who are instructed to devote the revenues from them to upkeep of the tomb complex, and three landscape gardeners (&lt;em>topiarii&lt;/em>) and their apprentices, each to be supported annually by the testator’s grandson, Sex. Iulius Aquila, and his heirs. The will goes on to provide for annual banquets at the tomb site, to be funded by Aquila and his heirs (not explicitly from proceeds of the orchards), and to ensure that any deviations from the testator’s prescriptions be undertaken only in order that the complex be better adorned, better planted, and better perfected (&lt;em>nisi..ut melius colantur et conserantur perficianturque&lt;/em>).&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/andematunnum/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans-->
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/andematunnum/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/andematunnum/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>

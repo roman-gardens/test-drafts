@@ -31,12 +31,13 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 
 NEEDED - search bibliography for plans.
 
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
- -->
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure> -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>late 1st century CE (mentioned)&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -77,12 +78,13 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;p>Several houses with peristyle courtyards were built north of the Areopagus in the second half of the 4th century A.D. These have been interpreted as schools of the Neoplatonic philosophers in which the school directors lived and students were instructed.&lt;/p>
 &lt;p>One of these buildings, the so-called House C or Omega House, had two peristyle courtyards, of which the eastern and smallest was paved (Fig. 1). The house was assured of a constant supply of water, as it tapped into a spring higher up on the hill. The nymphaeum and semi-circular collecting basin on the southeast corner of the house were fed by this, the overflow being directed through a pipe to a well on the west side of the central, rectangular peristyle courtyard. The water taken from this well may have been used to water a garden, possibly one in the unpaved courtyard in which the well was situated (G on plan). A collection of marble statues, portrait busts, and reliefs from the 4th century B.C. to the 3rd century A.D. was discarded in this and other wells of the house in the first half of the 6th century, possibly at the same time Justinian ordered that pagan schools should be closed down. The house was destroyed in 582/3 after a period of Christian use.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/omegahouse.jpg"
- alt="plan of a house with a possible garden peristyle">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/omegahouse.jpg" alt="plan of a house with a possible garden peristyle" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>second half of the 4th century CE to the late 6th century CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -180,28 +182,31 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;p>On the western edge of the Athenian Agora on Kolonos hill was the &lt;a href="https://en.wikipedia.org/wiki/Temple_of_Hephaestus">Temple of Hephaistos&lt;/a>, built in the second half of the 5th century B.C. Excavations in 1937 around the temple revealed numerous square planting pits cut into the living rock in the 3rd century B.C. and again in the 1st century B.C. (Fig. 1). Rock-cut planting pits were preserved in four rows on the south, with isolated examples of such pits on the north and west sides (G on plan). The excavator cogently argued for rows of plantings to the north, south and west of the temple. The lack of planting pits on the north and west sides can be explained by the fact that the rocky hill upon which the temple was built fell away sharply on the north and west, requiring leveling layers above the natural rock. Into these deposits trees or shrubs were planted, leaving no trace of planting pits in the rock below. On the steeper southern side, however, the rock slope had to be shaved off, necessitating the cutting of planting pits into the rock. Possibly more than 60 such pits were arranged in rows parallel to the temple in the 3rd century; two rows on the north and south sides, and one row on the west side. After the Roman destruction of many Athenian buildings by Sulla in 86 B.C., at least the south side was replanted and two more rows of pits dug, resulting in four rows of trees or shrubs on this side. In many of the pits was a terracotta planting pot in ashy soil at a depth of ca. 50 cm. These planting pots, possibly containing laurel and pomegranate shrubs, had drainage and root holes in the bottom. The lack of maintenance of the irrigation pipes leading to the garden caused the plantings to wither and die by the second half of the 1st century A.D. The garden has been replanted with myrtle bushes and pomegranate trees.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/hephaistos.jpg"
- alt="plan of the temple with surviving rows of planting pits marked as open squares">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Temple of Hephaistos and its temple grove (G) with surviving rows of planting pits (open squares). Adapted from Thompson 1937, fig. 1.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/hephaistos.jpg" alt="plan of the temple with surviving rows of planting pits marked as open squares" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Temple of Hephaistos and its temple grove (G) with surviving rows of planting pits (open squares). Adapted from Thompson 1937, fig. 1.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>3rd century BCE to the 3rd century CE&lt;/p>
@@ -252,28 +257,31 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 In the center of the building was a large open peristyle courtyard with a long pool (stippled on plan). The courtyard has been reconstructed as a garden (G on plan) in which students and scholars could stroll, and there were almost certainly statues in this area. One is reminded of Vitruvius’ recommendation to plant the open areas between the colonnades of buildings with greenery, which he believed improved the air and made walks in this environment healthy for body and mind &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-eng1:5.9.5">(Vitr. 5.9.5.)&lt;/a>. The building bears a strong resemblance typologically, and very likely thematically, to the late Hellenistic/early Roman gymnasium outside the city in the &lt;a href="#">Academy&lt;/a>. Pausanias, our literary source for Hadrian’s building projects in Athens, referred to the library as a splendid building with 100 columns, adorned with statues and paintings &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:1.18.9">(Paus. 1.18.9)&lt;/a>.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/library.jpg"
- alt="plan of the Library of Hadrian with courtyard garden and apsidal pool">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/library.jpg" alt="plan of the Library of Hadrian with courtyard garden and apsidal pool" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd century CE and later&lt;/p>
@@ -331,28 +339,31 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>Ancient literary references to the plane, elm, poplar, and olive trees in the Academy are numerous. Excavations in the suburb of Academy have shown that a new gymnasium was built there in the late Hellenistic/early Roman period. This gymnasium consisted of a central courtyard enclosed by porticoes on all four sides (Fig. 1). The northern wing of the building complex contained rooms which were probably used as libraries and for lectures, while the south, west and east wings appear to have had a row of desks, of which only the stone bases remain, running down the middle of each corridors. The courtyard itself may have been used as a palaestra for training, although by this period Greek education focused less on physical training than on lectures, debates, and literary study. The courtyard had a pool in the center (P on plan) and a podium for statues (S on plan), possibly of the Muses, at the northern end, both of which certainly would have restricted any space for athletics. No paving in the courtyard could be found, and it possible that it was planted in some way, perhaps with shade trees (G on plan).&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/gymnasium.jpg"
- alt="Plan of the late Hellenistic/early Roman gymnasium in the suburb of Academy at Athens">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/gymnasium.jpg" alt="Plan of the late Hellenistic/early Roman gymnasium in the suburb of Academy at Athens" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>4th century BCE and later&lt;/p>
@@ -404,26 +415,29 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 Another only partially excavated house of the mid-4th century A.D., built into the northern slope of the Areopagus, had a small courtyard (3.20 x 3.90 m.) paved with blue and white marble slabs surrounded by a masonry flower bed 50 cm. wide (Fig. 2; f on plan). Around this ran a shallow marble-paved basin (c on plan) which was supplied with water by a fountain on the south eastern side of the courtyard. Water flowed from the basin through a lead pipe in the middle of each side of the courtyard into the planter beds.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/areopagus1.jpg"
- alt="plan of an early Roman house with pool and courtyard">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/areopagus1.jpg" alt="plan of an early Roman house with pool and courtyard" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/areopagus2.jpg"
- alt="courtyard with flowerbeds and surrounding water channel in a late Roman house">&lt;figcaption>
- &lt;h4>Fig. 2: Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/areopagus2.jpg" alt="courtyard with flowerbeds and surrounding water channel in a late Roman house" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>mid-4th century CE and earlier&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -465,28 +479,31 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;p>It is possible that a garden might have been present in one of the inner courtyards of the building, especially since the complex was directly supplied by sufficient water from a late Roman aqueduct. The smallest of the courtyards (7 x 7 m.), the southeast court, was paved with terracotta tiles and cannot, therefore, have been planted, but the central courtyard seems not to have been paved (G on plan). The building stood on a plot of land of irregular shape that was enclosed within a boundary wall. This has been reconstructed as an informal garden area (G on plan), although no traces of plantings have survived. The complex was abandoned by ca. 530 A.D.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/giants.jpg"
- alt="building plan with possible gardens marked, dotted lines for the outlines of earlier buildings.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the so-called “Palace of the Giants” (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the “Palace.” Adapted from Camp 1986, p. 200, fig. 166.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/giants.jpg" alt="building plan with possible gardens marked, dotted lines for the outlines of earlier buildings." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the so-called “Palace of the Giants” (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the “Palace.” Adapted from Camp 1986, p. 200, fig. 166.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>early 5th century CE to ca. 530 CE&lt;/p>

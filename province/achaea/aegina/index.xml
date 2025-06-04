@@ -18,30 +18,33 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;p>Evidence for a temple grove on Aegina exists only in a literary reference. Pausanias &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.29.6">(2.29.6)&lt;/a> wrote that the shrine of Aiakos was surrounded by a grove of olive trees. Pausanias says that it had been there since ancient times, and a reference in 464 B.C. to the grove in Pindar’s &lt;em>Olympian Odes&lt;/em> &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0033.tlg001.perseus-eng1:13">(13.109)&lt;/a> confirms that it was much older. This sanctuary was located in a prominent spot in the harbor town and was enclosed within a wall built of white stone. At the time of Pausanias’ travels in Greece in the 2nd century A.D., the temple grove was still to be seen.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans-->
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aegina/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>pre-464 BCE to 2nd century CE&lt;/p>

@@ -35,28 +35,31 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>At the northeast of the villa was a garden (G in Fig. 1) with a lararium. On the southwest there was a garden (G in Fig. 1) with a fountain. The northern facade had a cryptoporticus below and a porticoed corridor on the story above. The service area of the villa rustica lay in front of the villa to the north.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/bad_kreuznach/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/EUR_GS_BadKre_Rv_carroll.jpg"
- alt="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204.(Rights statement)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/bad_kreuznach/EUR_GS_BadKre_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204.(Rights statement)&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/bad_kreuznach/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Second half of 2nd century - around 275&lt;/p>

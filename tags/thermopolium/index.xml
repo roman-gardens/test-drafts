@@ -20,12 +20,13 @@
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Customers at this thermopolium were served at a counter looking onto the street and at the masonry &lt;a href="http://vocab.getty.edu/page/aat/300004359">triclinium&lt;/a> (l. medius, 3.60 m.; l. imus 2.85; l. summus 2.30 m.) in the rear garden. This was located against the north wall to the front of this long, narrow garden and had a round table (0.50 m. in dia.) between the couches and a rectangular table (0.65 x 0.89 m.) at the end of the &lt;em>lectus summus&lt;/em>. A niche &lt;a href="http://vocab.getty.edu/page/aat/300400600">lararium&lt;/a> was next to it with a tufa altar below decorated with a large carved club. A bench for cooking (&lt;a href="http://vocab.getty.edu/page/aat/300003990">hearth&lt;/a>) was built against the south wall at the west end with two arched openings for fuel storage underneath.&lt;/p>
 &lt;!--### Plans
-&lt;figure>&lt;img src="../../../images/fig._62,_plan_of_region_ii,_insula_viii.png"
- alt="Fig. 62, Plan of Region II, insula viii">&lt;figcaption>
- &lt;h4>Fig. 62, Plan of Region II, insula viii&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/fig._62,_plan_of_region_ii,_insula_viii.png" alt="Fig. 62, Plan of Region II, insula viii" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 62, Plan of Region II, insula viii&lt;/figcaption>
+&lt;/figure>-->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/456321707">456321707&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>

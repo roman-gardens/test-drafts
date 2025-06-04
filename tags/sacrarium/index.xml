@@ -18,18 +18,20 @@
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle garden had fourteen columns and was more rectangular. There was a terrace to the rear and a small room off the northwest corner of the peristyle which Mazois and Fiorello have labeled a sacrarium.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;p>&lt;figure>&lt;img src="../images/fig._4_region_viii_insula_ii.jpg"
- alt="Plan of the Pompeii Region VIII, Insula II">&lt;figcaption>
- &lt;h4>Plan of the Pompeii Region VIII, Insula II&lt;/h4>
- &lt;/figcaption>
+&lt;p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_ii/fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the Pompeii Region VIII, Insula II&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/fig._4_region_viii_insula_ii_3.jpg"
- alt="Plan of the Pompeii Region VIII, Insula II, 1-20">&lt;figcaption>
- &lt;h4>Plan of the Pompeii Region VIII, Insula II, 1-20&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-&lt;/p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_ii/fig._4_region_viii_insula_ii_3.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the Pompeii Region VIII, Insula II, 1-20&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>

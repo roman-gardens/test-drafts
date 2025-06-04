@@ -32,28 +32,31 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The courtyard was divided into two zones by a terrace(?) wall, and in both zones a garden has been reconstructed (G in Fig. 1). Entering the house from the south, one passed through a large reception room to an apsed triclinium with hypocaust heating. A bath complex lay to the southwest, entered by the portico next to the garden.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/hummetroth/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/EUR_GS_Hum_Rv_carroll.jpg"
- alt="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south. Plan adapted from Baatz and Herrmann 1989, fig. 303a.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south. Plan adapted from Baatz and Herrmann 1989, fig. 303a.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/hummetroth/EUR_GS_Hum_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south. Plan adapted from Baatz and Herrmann 1989, fig. 303a." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the rural villa with a large terraced courtyard garden (G) to the south. Plan adapted from Baatz and Herrmann 1989, fig. 303a.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/hummetroth/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd century&lt;/p>

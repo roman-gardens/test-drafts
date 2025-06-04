@@ -40,19 +40,21 @@
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/vigna_barberini_fig1.jpg"
- alt="Aerial photograph of the Vigna Barberini">&lt;figcaption>
- &lt;h4>Fig. 1. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/vigna_barberini_fig2.jpg"
- alt="Plan of the Vigna Barberini">&lt;figcaption>
- &lt;h4>Fig. 2. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st century BCE- 2nd century CE&lt;/p>
@@ -117,12 +119,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1912, 1926-27. Bombed in 1943.&lt;/p>
@@ -174,44 +177,49 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/region-i-insula-vi.png"
- alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region-i-insula-vi.png" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_15_I.%20vi.7_6.29.59.jpg"
- alt="Fig. 3: I.iv. 6.29.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I.iv. 6.29.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_15_I.%20vi.7_6.29.59.jpg" alt="Fig. 3: I.iv. 6.29.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I.iv. 6.29.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_16_I.vi.7_6.36.59.jpg"
- alt="Fig. 4: I.iv. 6.36.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 4: I.iv. 6.36.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_16_I.vi.7_6.36.59.jpg" alt="Fig. 4: I.iv. 6.36.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: I.iv. 6.36.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1912.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -253,12 +261,13 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>These two shops, excavated in 1861, shared a house and a garden (a) to the back. A portico enclosed the garden on all four sides. In the southwest corner of the garden there was a masonry pool with a small water jet column in the center. A bronze basin 0.40 m. dia. with a miniature bronze lion fitted with a water jet was found on the right side of the peristyle, with the feet of the basin welded in the form of a ring. This was also the area where a fragment of the head of a statuette was found, and a marble monopodium was discovered nearby. Along the edge of the eastern half of the garden seven enormous dolia were embedded in the soil.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/fig.20.region_viii._insula_iv.png"
- alt="Plan of Region VIII Insula IV">&lt;figcaption>
- &lt;h4>Plan of Region VIII Insula IV&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_iv/fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Region VIII Insula IV&lt;/figcaption>
+&lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -305,19 +314,21 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Eighteen partially fluted columns supported the large portico (a) surrounding this spacious peristyle garden. Excavated in 1861, the garden was located at the rear of the tablinum and could be viewed from the large triclinium on the east or the exedra on the west. A wooden fence had enclosed the garden as evidenced by the vertical slots in the columns where the fence had been secured. The portico held two puteals, one marble and the other travertine. A gutter circled the garden and at the south end a pool 0.90 x 1.05 m.; 0.18 m. deep contained a fountain. There was also a fountain located in the atrium, which became a common house feature after the completion of the aquaduct. At the edge of the marble impluvium two ornate trapezophori flanked a round opening containing the bronze water key that controlled the water jet in the center of the impluvium.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/fig.20.region_viii._insula_iv.png"
- alt="Plan of Region VIII Insula IV">&lt;figcaption>
- &lt;h4>Plan of Region VIII Insula IV&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_iv/fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Region VIII Insula IV&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/fig.13.viii.iv.15_11.10.59.jpg"
- alt="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_iv/fig.13.viii.iv.15_11.10.59.jpg" alt="Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 13, 11.10.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
+&lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -358,12 +369,13 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>At the time of the eruption this peristyle garden (a) was in the process of renovation. Located behind the tablinium, the white fluted columns on the east and north were still standing, however, all of the columns on the west and two of the south columns had been demolished. There was a rectangular pool 1.06 x 2.56 m. with a semi-circular extension in the back located in the south end of the garden. A low tufa puteal sat over a cistern opening between the first and second columns on the east end of the north side and a gutter encircled the outside edge. According to Jacono, Spano successfully recovered the planting pattern even though it had been excavated many years prior. The design was drawn out in Maiuri’s plan but no accounting was given of how the plan was recovered or what evidence was observed. Jashemski observed that a fence had been mounted on the columns. Holes were bored at 0.96 and 0.44 m. above the ground, some still containing parts of the metal fasteners.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/fig.16_region_viii.insula_v.png"
- alt="Fig. 16, Plan of Region VIII, Insula V">&lt;figcaption>
- &lt;h4>Plan of Region VIII, Insula V&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_v/fig.16_region_viii.insula_v.png" alt="Fig. 16, Plan of Region VIII, Insula V" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Region VIII, Insula V&lt;/figcaption>
+&lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -403,12 +415,13 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Three wide doorways led from the atrium of this house, which did not have a tablinium, to the peristyle of this large garden (a). Nine fluted columns supported the portico which bordered the garden on the east, north and part of the west with a gutter on these same sides. Holes in the columns 0.97 and 0.52 m. from the floor remained where a fence had once been attached.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/fig.16_region_viii.insula_v.png"
- alt="Fig. 16, Plan of Region VIII, Insula V">&lt;figcaption>
- &lt;h4>Plan of Region VIII, Insula V&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_v/fig.16_region_viii.insula_v.png" alt="Fig. 16, Plan of Region VIII, Insula V" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Region VIII, Insula V&lt;/figcaption>
+&lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -447,18 +460,20 @@ NEW WAY ↓↓↓↓
 &lt;p>A. The volcanic ledge that this peristyle garden (a) was built on dictated an irregular shape to the portico that enclosed it. The portico had fourteen columns and a rectangular pool in the south-east corner. The west wall of the pool had fourteen small amphoras (30 cm. long; mouth 9.5 cm. wide) arranged in a row of nine on the bottom with a row of eight above. The east wall of the pool had a single row of eight. These provided shelter and spawning places for fish. A possible garden ornament, a tondo (Mus. Naz. inv. no. 121 612), was found in the house. The traces of a garden painting were reported in room II on the lower level by Noack-Hartleben, consisting of a black dado with a yellow fence and foliage painted behind this.
 B. Built on the volcanic ledge, only a triangular segment of this terrace garden (a) with a portico on the east and north survived. From here the view of the mountains and the Bay could be enjoyed looking over a planted area that was slightly lower than the portico. There was a large light filled room (c) between the two peristyles of this house and terraces on the two lower levels that well could have had potted plants.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;p>&lt;figure>&lt;img src="../images/fig._4_region_viii_insula_ii.jpg"
- alt="Plan of the Pompeii Region VIII, Insula II">&lt;figcaption>
- &lt;h4>Plan of the Pompeii Region VIII, Insula II&lt;/h4>
- &lt;/figcaption>
+&lt;p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_ii/fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the Pompeii Region VIII, Insula II&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/fig._4_region_viii_insula_ii_14_16_a.jpg"
- alt="Plan of the Pompeii Region VIII, Insula II, 1-20">&lt;figcaption>
- &lt;h4>Plan of the Pompeii Region VIII, Insula II, 1-20&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-&lt;/p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_ii/fig._4_region_viii_insula_ii_14_16_a.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the Pompeii Region VIII, Insula II, 1-20&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -503,18 +518,20 @@ B. Built on the volcanic ledge, only a triangular segment of this terrace garden
 &lt;p>A. The Sarno Bath is included in this block of irregular shaped houses, reached by entrance 17 on the Via della Scuole that goes to the lower levels. On the street level there was a small peristyle garden (a) located in the center of the house. Two pillars supported a portico on three sides of the garden and the large triclinium (b) offered a view of the garden. A beautifully rendered painting of grape vines with clusters of fruit, birds, lizards and a little mouse graced the black walls of the peristyle.&lt;br>
 B. The irregular shapes of the buildings created this triangular light well. Two large windows allowed light into the passageway from the street at entrance 20, which also received light from a third window before the passageway ended at the peristyle. The light well had a tufa gutter that drained to the east into a cistern that was accessed in the kitchen. There were likely some plantings in the light well, as well as on the four porticoed terraces to the rear, including the upper level terrace that did not survive.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;p>&lt;figure>&lt;img src="../images/fig._4_region_viii_insula_ii.jpg"
- alt="Plan of the Pompeii Region VIII, Insula II">&lt;figcaption>
- &lt;h4>Plan of the Pompeii Region VIII, Insula II&lt;/h4>
- &lt;/figcaption>
+&lt;p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_ii/fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the Pompeii Region VIII, Insula II&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/fig._4_region_viii_insula_ii_18_20_a.jpg"
- alt="Plan of the Pompeii Region VIII, Insula II, 1-20">&lt;figcaption>
- &lt;h4>Plan of the Pompeii Region VIII, Insula II, 1-20&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-&lt;/p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_ii/fig._4_region_viii_insula_ii_18_20_a.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the Pompeii Region VIII, Insula II, 1-20&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -558,18 +575,20 @@ B. The irregular shapes of the buildings created this triangular light well. Two
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This house, very similar to VII.ii.1, was also excavated in 1799. This peristyle garden had fourteen columns and was more rectangular. There was a terrace to the rear and a small room off the northwest corner of the peristyle which Mazois and Fiorello have labeled a sacrarium.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;p>&lt;figure>&lt;img src="../images/fig._4_region_viii_insula_ii.jpg"
- alt="Plan of the Pompeii Region VIII, Insula II">&lt;figcaption>
- &lt;h4>Plan of the Pompeii Region VIII, Insula II&lt;/h4>
- &lt;/figcaption>
+&lt;p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_ii/fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the Pompeii Region VIII, Insula II&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/fig._4_region_viii_insula_ii_3.jpg"
- alt="Plan of the Pompeii Region VIII, Insula II, 1-20">&lt;figcaption>
- &lt;h4>Plan of the Pompeii Region VIII, Insula II, 1-20&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-&lt;/p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_ii/fig._4_region_viii_insula_ii_3.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 1-20" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the Pompeii Region VIII, Insula II, 1-20&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -611,18 +630,20 @@ B. The irregular shapes of the buildings created this triangular light well. Two
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This house was excavated in 1885. The entrance at 37 went into the atrium and beyond that, up two steps, was the peristyle with a portico on three sides supported by stuccoed columns, only three of which have remained to date. The first intercolumniation on the north-east was filled with a wall. A gutter surrounded this area, which was paved, with a narrow masonry pool at the south end. All that remained of the pool was a depression in the pavement. Potted plants would have been placed around the pool and the area would have served as a garden. Terraces overlooking the bay and mountains were located on the street level and one level lower at the back of the houses, and a portico was built just before the lower terrace at the back of house 36.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;p>&lt;figure>&lt;img src="../images/fig._4_region_viii_insula_ii.jpg"
- alt="Plan of the Pompeii Region VIII, Insula II">&lt;figcaption>
- &lt;h4>Plan of the Pompeii Region VIII, Insula II&lt;/h4>
- &lt;/figcaption>
+&lt;p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_ii/fig._4_region_viii_insula_ii.jpg" alt="Plan of the Pompeii Region VIII, Insula II" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the Pompeii Region VIII, Insula II&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/fig._4_region_viii_insula_ii_36_37.jpg"
- alt="Plan of the Pompeii Region VIII, Insula II, 29-39">&lt;figcaption>
- &lt;h4>Plan of the Pompeii Region VIII, Insula II, 29-39&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-&lt;/p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_ii/fig._4_region_viii_insula_ii_36_37.jpg" alt="Plan of the Pompeii Region VIII, Insula II, 29-39" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the Pompeii Region VIII, Insula II, 29-39&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/538911200">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -1022,24 +1043,27 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;p>The &lt;a href="https://en.wikipedia.org/wiki/Domus_Tiberiana">&lt;em>Domus Tiberiana&lt;/em>&lt;/a> on the Palatine was incorporated into the &lt;em>Domus Aurea&lt;/em>. Resting on &lt;a href="http://vocab.getty.edu/page/aat/300004295">cryptoporticoes&lt;/a> and vaulted substructures, the palace was surrounded by &lt;a href="http://vocab.getty.edu/page/aat/300002613">colonnades&lt;/a> which opened onto a &lt;a href="http://vocab.getty.edu/page/aat/300008100">hanging garden&lt;/a> (&lt;em>nemora pensile&lt;/em>), accessible from the Forum by a grand staircase on the north and another to the east.&lt;/p>
 &lt;p>The unfinished Temple to the Divine Claudius became a monumental &lt;a href="http://vocab.getty.edu/page/aat/300006809">&lt;em>nymphaeum&lt;/em>&lt;/a>. The eastern wall of the temple platform was transformed into ornamental &lt;a href="http://vocab.getty.edu/page/aat/300002704">niched&lt;/a> &lt;a href="http://vocab.getty.edu/page/aat/300002526">facades&lt;/a> with abundant &lt;a href="http://vocab.getty.edu/page/aat/300006179">fountain&lt;/a> jets fed by a new branch of the &lt;a href="https://pleiades.stoa.org/places/423563">&lt;em>Aqua Claudia&lt;/em>&lt;/a>. The &lt;a href="http://vocab.getty.edu/page/aat/300010463">brick&lt;/a> remains of this &lt;em>nymphaeum&lt;/em> are visible today along the &lt;a href="https://pleiades.stoa.org/places/688514720">&lt;em>Via Claudia&lt;/em>&lt;/a>&lt;!--(Fig. 3)-->. The water features drained into the &lt;em>stagnum&lt;/em>.&lt;/p>
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/domus_aurea_fig1.jpg"
- alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana">&lt;figcaption>
- &lt;h4>Figure 1. Plan of the Domus Aurea and surrounding areas (LTUR, Vol. 2, p. 397).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
-&lt;!--&lt;figure>&lt;img src="../images/.jpg"
- alt="Gardens of the Oppian palace">&lt;figcaption>
- &lt;h4>Figure 2. Gardens of the Oppian palace (image source).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 1. Plan of the Domus Aurea and surrounding areas (LTUR, Vol. 2, p. 397).&lt;/figcaption>
 &lt;/figure>
--->
-&lt;!--&lt;figure>&lt;img src="../images/.jpg"
- alt="Photograph of Neronian nymphaeum on the Caelian">&lt;figcaption>
- &lt;h4>Figure 3. Photograph of Neronian nymphaeum on the Caelian (image source).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;!--
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Gardens of the Oppian palace" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 2. Gardens of the Oppian palace (image source).&lt;/figcaption>
+&lt;/figure>-->
+&lt;!--
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Photograph of Neronian nymphaeum on the Caelian" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 3. Photograph of Neronian nymphaeum on the Caelian (image source).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>post-64 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -1219,19 +1243,19 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;h3 id="publication-date">Publication date&lt;/h3>
 &lt;p>21 Apr 2021&lt;/p>
 &lt;!-- Format: dd MONTH_NAME yyyy -->
-&lt;!-- DATE --></description></item><item><title>II.4 Estate of Julia Felix; Praedia di Giulia Felice</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iv/house/ii.iv/</link><pubDate>Sat, 06 Mar 2021 14:54:53 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iv/house/ii.iv/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a>&lt;/p>
+&lt;!-- DATE --></description></item><item><title>II.4 Estate of Julia Felix; Praedia di Giulia Felice</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iv/ii.iv/</link><pubDate>Sat, 06 Mar 2021 14:54:53 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iv/ii.iv/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/">Italia&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
 &lt;!--### Location Description-->
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/">Region II&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/">Region II&lt;/a>&lt;/p>
 &lt;h2 id="insula">Insula&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/insula_iv/">Insula IV&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_ii/">Insula IV&lt;/a>&lt;/p>
 &lt;!-- pleiades link is invalid
 ## House
 [House of Julia Felix (Pleiades)](https://pleiades.stoa.org/places/955554415)-->
@@ -1254,24 +1278,27 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;p>B. An outdoor swimming &lt;a href="http://vocab.getty.edu/page/aat/300008692">pool&lt;/a> (8.50 x 4.50 m; 1.50 m deep) was located in the garden area in the northeast part of the &lt;em>insula&lt;/em>. There were steps into the pool on the north and south sides, and an entrance (8) into the area from the side street.&lt;/p>
 &lt;p>C. A walled rustic garden close to entrance 8 had been planted and at the time of the excavation; rectangular planting bed contours were evident here. This included tree root cavities were noted around the perimeter of each bed and four rectangular water basins (one of which was double), and a &lt;a href="http://vocab.getty.edu/page/aat/300052558">cistern&lt;/a> opening.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/Fig.%2018,%20II.iv.2%20%20%205.29.59.jpg"
- alt="Fig. 18, II.iv.2 5.29.59 - view form the portico .">&lt;figcaption>
- &lt;h4>view form the portico&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_ii/insula_iv/Fig.%2018,%20II.iv.2%20%20%205.29.59.jpg" alt="Fig. 18, II.iv.2 5.29.59 - view form the portico ." onclick="fullscreen(this)">
+ &lt;figcaption>view form the portico&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/Fig.%2019,%20II.iv.%20%20%20%205.32.59.jpg"
- alt="ig. 19, II.iv.5.32.59.- detail of the jet.">&lt;figcaption>
- &lt;h4>detail of the jet.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
-&lt;!--&lt;figure>&lt;img src="../images/Fig.%2020,%20II.iv.%20%20%205.25.59.jpg"
- alt=" Fig. 20, II.iv. 5.25.59.- portico and garden.">&lt;figcaption>
- &lt;h4>portico and garden&lt;/h4>
- &lt;/figcaption>
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_ii/insula_iv/Fig.%2019,%20II.iv.%20%20%20%205.32.59.jpg" alt="ig. 19, II.iv.5.32.59.- detail of the jet." onclick="fullscreen(this)">
+ &lt;figcaption>detail of the jet.&lt;/figcaption>
 &lt;/figure>
--->
+&lt;!--
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_ii/insula_iv/Fig.%2020,%20II.iv.%20%20%205.25.59.jpg" alt=" Fig. 20, II.iv. 5.25.59.- portico and garden." onclick="fullscreen(this)">
+ &lt;figcaption>portico and garden&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Partially excavated 1754 to 1757, 1933 to 1935, fully re-excavated 1951.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -1445,12 +1472,13 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
 &lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig1.jpg"
- alt="General Plan of Ostia Antica">&lt;figcaption>
- &lt;h4>Ostia Antica, General Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House of the Thunderbolt (Domus Fulminata) &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1554484">House of the Thunderbolt (Pleiades)&lt;/a>&lt;/p>
@@ -1475,30 +1503,34 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>The residential rooms of the &lt;a href="http://vocab.getty.edu/page/aat/300005506">&lt;em>domus&lt;/em>&lt;/a> were placed on its upper floor. Some experts think that the main reception rooms should be identified in the wing facing onto the northwest side of the garden. However, not everyone agrees that the House of the Thunderbolt was a private residential building. It could also have been the site of a college or corporation, which some archaeologists connect with the nearby sanctuary of the &lt;a href="https://en.wikipedia.org/wiki/Bona_Dea">Bona Dea&lt;/a>. The rooms aligned along the eastern side, all intercommunicating, would have been, in this case, the ceremonial rooms of the college, whereas the residential sector of the building would be identifiable in the rooms on the western side.&lt;/p>
 &lt;p>The house is one of the most interesting examples of the transition from the atrium peristyle house of &lt;a href="http://vocab.getty.edu/page/aat/300020537">Republican&lt;/a> tradition to the house with a colonnaded courtyard typical of Ostian residential architecture in the 2&lt;sup>nd&lt;/sup> century CE.&lt;/p>
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig8_better_colored.jpg"
- alt="Plan of Domus Fulminata">&lt;figcaption>
- &lt;h4>Figure 1: Plan (after Calza 1953).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig8_better_colored.jpg" alt="Plan of Domus Fulminata" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 1: Plan (after Calza 1953).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig9.jpg"
- alt="Photo of the garden of the Domus Fulminata in 1941">&lt;figcaption>
- &lt;h4>Figure 2: Garden, 1941 (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig9.jpg" alt="Photo of the garden of the Domus Fulminata in 1941" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 2: Garden, 1941 (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images_b/ostia_fig12b.jpg"
- alt="Basin shaped as a well head in the garden of the Domus Fulminata">&lt;figcaption>
- &lt;h4>Figure 3: Basin shaped as a well-head (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig12b.jpg" alt="Basin shaped as a well head in the garden of the Domus Fulminata" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 3: Basin shaped as a well-head (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images_b/ostia_fig13b_threshold.jpg"
- alt="Section of the basin in th">&lt;figcaption>
- &lt;h4>Figure 4: Section of the basin (from Ricciardi, Scrinari 1996).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig13b_threshold.jpg" alt="Section of the basin in th" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 4: Section of the basin (from Ricciardi, Scrinari 1996).&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>&lt;a href="https://en.wikipedia.org/wiki/Flavian_dynasty">Flavian period&lt;/a> &lt;br>
 150-200 CE&lt;/p>
@@ -1547,12 +1579,13 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
 &lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
 &lt;h3 id="location-plan">Location Plan&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig1.jpg"
- alt="General Plan of Ostia Antica">&lt;figcaption>
- &lt;h4>Ostia Antica, General Plan.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House on Via del Tempio Rotondo&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -1575,25 +1608,28 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This house was only partially excavated between June 1972 and January 1973 (Fig. 1). In its &lt;a href="http://vocab.getty.edu/page/aat/300020543">Augustan&lt;/a> phase the peristyle garden (a) was adorned with a large central basin paved in &lt;a href="http://vocab.getty.edu/page/aat/300379969">opus signinum&lt;/a>. At the center of the basin was a brick support, interpreted as the base of a &lt;a href="http://vocab.getty.edu/page/aat/300006179">fountain&lt;/a>. The &lt;a href="http://vocab.getty.edu/page/aat/300001571">columns&lt;/a> of the &lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyle&lt;/a>, probably &lt;a href="http://vocab.getty.edu/page/aat/300067420">Tuscan&lt;/a>, rested on bases alternating with &lt;a href="http://vocab.getty.edu/page/aat/300011329">travertine&lt;/a> strips at pavement level (Fig. 2). Three perforated vases of the type of &lt;em>ollae perforatae&lt;/em> recorded by &lt;a href="https://en.wikipedia.org/wiki/Cato_the_Elder">Cato&lt;/a> (&lt;a href="https://www.thelatinlibrary.com/cato/cato.agri.html">RR 52, 133&lt;/a> | &lt;a href="https://bit.ly/RRCatoA">Trans.&lt;/a>) and &lt;a href="https://en.wikipedia.org/wiki/Pliny_the_Elder">Pliny&lt;/a> (&lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:12.16">NH 12. 16&lt;/a>; &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:17.64">17. 64&lt;/a>, &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi0978.phi001.perseus-lat1:17.97">97&lt;/a>) were found between the basin and the columns of the peristyle, and exactly aligned with their bases. The &lt;em>ollae&lt;/em> were intact and must have contained plants, no doubt of the flowering and rambling variety, which would have found both a support and a chromatic backdrop in the columns to the rear.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/ostia_fig15_better_colored.jpg"
- alt="Plan of the House on Via del Tempio Rotundo">&lt;figcaption>
- &lt;h4>Fig. 1: Plan (after M. Supino; PA-OAnt, Archives).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig15_better_colored.jpg" alt="Plan of the House on Via del Tempio Rotundo" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan (after M. Supino; PA-OAnt, Archives).&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/ostia_fig17_better.jpg"
- alt="Plan of the peristyle, with column bases and flower pots">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo 1984).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig17_better.jpg" alt="Plan of the peristyle, with column bases and flower pots" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo 1984).&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="photos">Photos&lt;/h3>
-&lt;figure>&lt;img src="../images_b/ostia_fig23b.jpg"
- alt="A flower pot during 1973 excavation">&lt;figcaption>
- &lt;h4>Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig23b.jpg" alt="A flower pot during 1973 excavation" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive).&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -1646,31 +1682,35 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This garden was set in the middle of a luxurious peristyle (SALZA PRINA RICOTTI 2000, pp. 335-337, fig. 116). Unluckily only its western part has been preserved. From what we find now on this side of the area, and from the ancient surveys showing the entire garden still existing in the XVIII cent., we can imagine how it must have looked. It was the kind which we call “&lt;em>hortus conclusus&lt;/em>”, and it was enclosed by high walls decorated by a series of niches with semicircular ones alternating with square ones (Figg. 51; 52 and 53). Columns stood between them, and were set in the walls in such a way that only half of them emerged, looking as a sequence of half columns. Today only the groove left by them in the masonry, and the remains of the fine &lt;em>opus sectile&lt;/em> which, once, covered the portico's soil, allow us to imagine how it was decorated. At the two extremities of the western wall two very small &lt;em>nymphaea&lt;/em> set in two narrow niches refreshed the air with their fountains (Fig. 51, a and b ). Apart from this today we can only see three large rooms, opening on the garden, which occupied the northern side of the peristyle. All the rest has been devastated by the agricultural exploitation of the land. Savage plowing and the destruction of both the portico and the enclosure to create ampler space for planting more olive trees and other crops, has caused landslides which have engulfed all the eastern part of this garden. Unluckily here there was no tufa platform to save the garden structure, and this is a pity, because this garden, connected with the Palace, must have been very interesting and the quantity of lead present in its soil shows that it was much cared for (SALZA PRINA RICOTTI 1994-95, fig. 7).&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/1_gardens_general_plan.jpg"
- alt="Plan of the gardens at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/51_hortus_conclusus.jpg"
- alt="Plan of the hortus conclusus on the eastern side of the Republican villa at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 51: Plan of the hortus conclusus, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/51_hortus_conclusus.jpg" alt="Plan of the hortus conclusus on the eastern side of the Republican villa at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 51: Plan of the hortus conclusus, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/52_peristilio_a_est_di_palazzo.jpg"
- alt="Photograph of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 52: A view of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/52_peristilio_a_est_di_palazzo.jpg" alt="Photograph of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 52: A view of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/53_peristilio_ad_est_di_palazzo_2.jpg"
- alt="Second photograph of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 53: A second view of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/53_peristilio_ad_est_di_palazzo_2.jpg" alt="Second photograph of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 53: A second view of the high wall, decorated by a series of alternating semicircular and square niches, which once enclosed the peristyle-garden on the eastern side of the Republican villa, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 118 and 138 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -1737,31 +1777,35 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>It has already been cited in the precedent Jashemski-Ricotti article but only very sketchily (JASHEMSKI, SALZA PRINA RICOTTI 1987-88, pp. 149-150, fig. 3). Today the finding of the enormous amount of lead in its soil (1234 mg/kg) (Fig. 17) has created a new interest in it (FOSS 1989-90; FOSS 1992; FOSS, SALZA PRINA RICOTTI 1996; SALZA PRINA RICOTTI 1998, pp. 368-370, fig. 3; SALZA PRINA RICOTTI 2000, pp. 331-334, figs. 114-115). It proves that this plot of land was exploited for a very long time starting from the earlier republican era. Probably at those times a huge reservoir existed there and the land was kept as an orchard. Later on, just before the end of the I cent. B.C., it must have been transformed in a garden (SALZA PRINA RICOTTI 1994-95, p. 78, fig. 5) and the front of this cistern was decorated by an elegant nymphaeum (Figg. 18 and 19). In Hadrianic times the baths displaced the water reserve, but the nymphaeum was preserved. It must have been a particularly fine and elegant monument if Hadrian decided to save it and made it an important part of his new garden arrangement. The Augustan water-theater consisted of a 19.50 m long façade, adorned by two low basins, which stretched out from semielliptical niches (PENNA 1831, p. 59, fig. 59). We still see in them two low pedestals, evidently built to sustain some fountain statues. Other statues must have occupied the three square niches framed by small columns, which, set at a level of 1.84 m from the soil, flanked the basins' ones. The big piscina limaria, that supplied the two thermae, replaced the ancient reservoir and furnished large quantities of water. It soaked the ground and allowed the cultivation of plants that had to be frequently and abundantly watered. It is evident that only an uninterrupted irrigation delivered for at least eight centuries through leaden pipes could deposit in the soil such a high concentration of this metal.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/1_gardens_general_plan.jpg"
- alt="Plan of the gardens at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/17_piombo_colorato.jpg"
- alt="Plan of the Stadium-garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 17: Plan of Villa Adriana indicating the Concentration of Lead in the Soil throughout, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/17_piombo_colorato.jpg" alt="Plan of the Stadium-garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 17: Plan of Villa Adriana indicating the Concentration of Lead in the Soil throughout, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/18_augustan_nymphaeum.jpg"
- alt="Plan of the Augustan nymphaeum in the garden between the Small Baths and the Three Exedras Hall at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 18: Plan of the Augustan nymphaeum, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/18_augustan_nymphaeum.jpg" alt="Plan of the Augustan nymphaeum in the garden between the Small Baths and the Three Exedras Hall at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 18: Plan of the Augustan nymphaeum, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/19_augusteum.jpg"
- alt="Photograph of the Augustan nymphaeum in the garden between the Small Baths and the Three Exedras Hall at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 19: The Augustan nymphaeum, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/19_augusteum.jpg" alt="Photograph of the Augustan nymphaeum in the garden between the Small Baths and the Three Exedras Hall at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 19: The Augustan nymphaeum, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 118 and 138 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -1831,73 +1875,84 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>Then when it was closed and all the water furnished by the pavilion fountains went to the eastern canal.&lt;/p>
 &lt;p>Here there was a different way to water the plants. Due to their inclination the canals were too deep for the capillarity, but all the same were still continued for letting them to reach the drainage canal. Thus in the eastern part of the garden a very old system was used, one that we find in Pasagarde, the splendid Cyrus park. Here marble lined canals joined a series of cubic basins. In the Piazza d’Oro the eastern canal, that in ancient times was completely covered by a vault, but that now for a spell lays in the open, had many little pits excavated in its bottom (Fig. 63). Over each one of them was placed a pump. Probably bronze ones that were pillaged in the middle age at the time of the “metals hunger”. The breaks in the canal’s vault (Fig. 56, p) seems to confirm this hypothesis.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/1_gardens_general_plan.jpg"
- alt="Plan of the gardens at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/54_plan_of_the_piazza_d%27oro.jpg"
- alt="Plan of the Piazza d&amp;#39;Oro at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 54: Plan of the Piazza d&amp;#39;Oro, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/54_plan_of_the_piazza_d%27oro.jpg" alt="Plan of the Piazza d&amp;#39;Oro at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 54: Plan of the Piazza d&amp;#39;Oro, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/55_piazza_d%27oro_isometric.jpg"
- alt="Isometric plan of the Piazza d&amp;#39;Oro at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 55: Isometry of the Piazza d&amp;#39;Oro, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/55_piazza_d%27oro_isometric.jpg" alt="Isometric plan of the Piazza d&amp;#39;Oro at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 55: Isometry of the Piazza d&amp;#39;Oro, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/56_piazza_d%27oro_irrigation.jpg"
- alt="Plan of the cuts in the tufa platform and the irrigation in the Piazza d’Oro at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 56: Cuts in the tufa platform and the irrigation in the Piazza d’Oro, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/56_piazza_d%27oro_irrigation.jpg" alt="Plan of the cuts in the tufa platform and the irrigation in the Piazza d’Oro at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 56: Cuts in the tufa platform and the irrigation in the Piazza d’Oro, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/59_sections_piazza_d%27oro.jpg"
- alt="Cross-sections of the Piazza d&amp;#39;Oro garden at Hadrian&amp;#39;s Villa, illustrating the irrigation by capillarity">&lt;figcaption>
- &lt;h4>Fig. 59: Irrigation by capillarity in the Piazza d’Oro garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/59_sections_piazza_d%27oro.jpg" alt="Cross-sections of the Piazza d&amp;#39;Oro garden at Hadrian&amp;#39;s Villa, illustrating the irrigation by capillarity" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 59: Irrigation by capillarity in the Piazza d’Oro garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/57_the_garden.jpg"
- alt="Photograph of the Garden of the Piazza d&amp;#39;Oro at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 57: The Garden of the Piazza d&amp;#39;Oro, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/57_the_garden.jpg" alt="Photograph of the Garden of the Piazza d&amp;#39;Oro at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 57: The Garden of the Piazza d&amp;#39;Oro, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/58_the_garden.jpg"
- alt="Photograph of the Piazza d&amp;#39;Oro at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 58: The Piazza d&amp;#39;Oro, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/58_the_garden.jpg" alt="Photograph of the Piazza d&amp;#39;Oro at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 58: The Piazza d&amp;#39;Oro, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/60_excavations_toward_west.jpg"
- alt="Western view of the excavations of the Piazza d&amp;#39;Oro garden at Hadrian&amp;#39;s Villa, showing the low rectangular cuts in the tufa through which irrigation seeped into the garden canals">&lt;figcaption>
- &lt;h4>Fig. 60: Western view of the excavations of the Piazza d&amp;#39;Oro garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/60_excavations_toward_west.jpg" alt="Western view of the excavations of the Piazza d&amp;#39;Oro garden at Hadrian&amp;#39;s Villa, showing the low rectangular cuts in the tufa through which irrigation seeped into the garden canals" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 60: Western view of the excavations of the Piazza d&amp;#39;Oro garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/61_the_excavations_toward_east.jpg"
- alt="Eastern view of the excavations of the Piazza d&amp;#39;Oro garden at Hadrian&amp;#39;s Villa, showing the low rectangular cuts in the tufa through which irrigation seeped into the garden canals">&lt;figcaption>
- &lt;h4>Fig. 61: Eastern view of the excavations of the Piazza d&amp;#39;Oro garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/61_the_excavations_toward_east.jpg" alt="Eastern view of the excavations of the Piazza d&amp;#39;Oro garden at Hadrian&amp;#39;s Villa, showing the low rectangular cuts in the tufa through which irrigation seeped into the garden canals" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 61: Eastern view of the excavations of the Piazza d&amp;#39;Oro garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/62_cut_for_the_sluice.jpg"
- alt="Photograph of the cut for the sluice at the Piazza d&amp;#39;Oro garden Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 62: The cut for the sluice of the Piazza d&amp;#39;Oro garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/62_cut_for_the_sluice.jpg" alt="Photograph of the cut for the sluice at the Piazza d&amp;#39;Oro garden Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 62: The cut for the sluice of the Piazza d&amp;#39;Oro garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/63_pozzetti_irrigazione.jpg"
- alt="Photograph of eastern irrigation canal of the Piazza d&amp;#39;Oro garden Hadrian&amp;#39;s Villa, showing the many little pits excavated in its bottom">&lt;figcaption>
- &lt;h4>Fig. 63: The eastern canal of the Piazza d&amp;#39;Oro garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/63_pozzetti_irrigazione.jpg" alt="Photograph of eastern irrigation canal of the Piazza d&amp;#39;Oro garden Hadrian&amp;#39;s Villa, showing the many little pits excavated in its bottom" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 63: The eastern canal of the Piazza d&amp;#39;Oro garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 118 and 138 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -1971,31 +2026,35 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>b –The other garden (Figs. 9, G, and 10-11), set at the eastern side of the entrance hall, occupies a smaller peristyle with a curved side toward East (REICHARDT 1933). It was crossed in the middle by a path which had a round-shaped space in the center (SALZA PRINA RICOTTI 1987, pp. 175-178, figs. 13-20; JASHEMSKI, SALZA PRINA RICOTTI 1987-88, p. 147, figs. 1-2; SALZA PRINA RICOTTI 1998, pp. 364-366, fig. 1; MARI, REGGIANI, RIGHI 2000; SALZA PRINA RICOTTI 2000, pp. 323-324, fig. 110). Here some decorative element - a marble vase or a statue - was probably displayed. Two flowerbeds cut in the tufa flanked it (Figs. 10, G, and 11). We are still pretty sure that they were bordered by well-groomed box hedges, a kind of decoration which was afterwards inherited by the “all'italiana” system of landscaping. This fashion, widely employed in many outstanding examples of Renaissance gardens, is still in use nowadays. The presence of well cut green hedges bordering those ancient flowerbeds was a must and it is a sure fact that they existed here, but we know very little about the rest. For instance, what, if anything, could have been set in their central part? Prof. Jashemski found pollen, seeds, roots of flowering bushes and of some trees in her Pompeian gardens, but here at Villa Adriana nothing was left in the ground. We are bound to follow our imagination. Of course there could have been grass in the center of the flowerbeds as well as masses of blossoms. If the latter was the case - but, looking to “all'italiana” gardens, which are basically green gardens, I highly doubt it - the flowers should have been the kinds which were in fashion in ancient Roman times. In his Natural History (&lt;em>nat.&lt;/em> 21.10), Pliny the Older explained that Romans didn't use many of them. In their gardens they mainly planted roses and violets. However we must keep in mind that, for Pliny, the word violets meant every kind of small herbaceous species that could produce colored blossoms. He catalogued many kinds of them as the yellow, the purple, and the white kind, and it is highly probable that they must have been pimpernels as well as hyacinths and, of course real violets too. It is, however, evident that any of these plants could create gay clusters of blossoms in the center of a flowerbed and that they could make a very appealing garden.&lt;/p>
 &lt;p>c – The third garden of the Great Entrance Hall occupies its extreme western part (REICHARDT 1933, pp. 129-130). Here an unpaved courtyard circled a small temple, probably dedicated to the Imperial Lares (Fig. 9, L). The flowerbeds have still to be excavated, but, as in all the Great Entrance Hall's area the tufa is practically surfacing, this must happen also here. Therefore it is highly probable that an excavation will bring to light the flowerbeds cut in the rock for the plants.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/1_gardens_general_plan.jpg"
- alt="Plan of the gardens at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/9_great_hall_plan.jpg"
- alt="Plan of the Great Hall at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 9: Plan of the Great Hall, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/9_great_hall_plan.jpg" alt="Plan of the Great Hall at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 9: Plan of the Great Hall, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/10_isometric_east_garden.jpg"
- alt="Isometric plan of the Garden in the East sector of the Great Hall at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 10: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/10_isometric_east_garden.jpg" alt="Isometric plan of the Garden in the East sector of the Great Hall at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 10: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/11_east_garden.jpg"
- alt="Photograph of the Garden in the East sector of the Great Hall at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 11: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/11_east_garden.jpg" alt="Photograph of the Garden in the East sector of the Great Hall at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 11: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 118 and 138 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -2061,18 +2120,20 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This garden belongs to the republican period and it is one of the most ancient of Villa Adriana. It is enclosed in a large peristyle 48 m wide, 72 m long. The place seems to have been watered from the Republican time up to the end of the Roman Empire, and the content of lead in its soil is among the highest in the area (SALZA PRINA RICOTTI 1994-95, fig. 7). At the center of the portico's northern side, there still is a republican &lt;em>nymphaeum&lt;/em> with a rectangular plan and very thick walls: a vaulted hall decorated with a series of niches, but quite heavy and gloomy (Fig. 35, E). There must have been flowerbeds in the peristyle, but the garden has still to be excavated. Now an olive grove occupies the place, and I doubt that anybody would dare to cut it down. However, if this would ever happen, we must hope to ascertain the presence of tufa surfacing in this area and, thus, find the hole cut in the rock to create the flowerbeds. It would be the only way to discover how the place had been planned.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/1_gardens_general_plan.jpg"
- alt="Plan of the gardens at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/35_library_courtyard.jpg"
- alt="Plan of the Libraries&amp;#39; Courtyard at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 35: Plan of the Libraries&amp;#39; Courtyard, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/35_library_courtyard.jpg" alt="Plan of the Libraries&amp;#39; Courtyard at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 35: Plan of the Libraries&amp;#39; Courtyard, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 118 and 138 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -2134,31 +2195,35 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The Pecile (Fig. 20) was never excavated as a garden. Thus, today, we have only the large pond, 30 m wide x 116 m long (Fig. 21) which hosts a flock of white geese (Fig. 20, A). A garden must have been spread all around it, but its flowerbeds need still to be investigated (SALZA PRINA RICOTTI 2000, pp. 139-141, fig. 45). If, as in Villa Adriana often happens, they have been dug in the tufa platform, sooner or later we will be able to see their shapes and reconstruct the garden's appearance. For the moment we have to be content with the dark green bushes which, cut in the shape of columns, mark the spots once occupied by the ones of the monumental peristyle 100 m wide and 248 m long. On the northern side of the Pecile, we can still admire the long wall around which, once, ran the double portico used by the Emperor for his daily strolls (Fig. 20, B): three spins around the central wall corresponded to a mile as written on a marble slate (HÜLSEN 1896; MANCINI 1952; COARELLI 1997, pp. 207-209). He could circle around it as many times as his doctor had prescribed him to do (Fig. 22). According to ancient Romans' belief, long walks offered an opportunity to exercise and were necessary to preserve both health and fitness. At the western end of the Pecile, a pillared Belvedere offered to Villa Adriana's inhabitants the possibility to rest from time to time admiring the underlying plain and the city of Rome far away on the horizon.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/1_gardens_general_plan.jpg"
- alt="Plan of the gardens at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/20_pecile_isometry.jpg"
- alt="Isometric plan of the Pecile Garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 20: Isometry of the Pecile, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/20_pecile_isometry.jpg" alt="Isometric plan of the Pecile Garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 20: Isometry of the Pecile, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/21_pecile_pond.jpg"
- alt="Photograph of the pond of the Pecile Garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 21: The pond of the Pecile Garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/21_pecile_pond.jpg" alt="Photograph of the pond of the Pecile Garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 21: The pond of the Pecile Garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/22_pecile_wall.jpg"
- alt="Photograph of the wall at the northern side of the Pecile Garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 22: The wall of the Pecile Garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/22_pecile_wall.jpg" alt="Photograph of the wall at the northern side of the Pecile Garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 22: The wall of the Pecile Garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 118 and 138 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -2222,43 +2287,49 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>However the presence of the podium and the fragments of the red marble suggests that all this arrangement was created to expose some particularly beautiful piece of sculpture. As a matter of fact, chunks of a red marble statue (a Faun's tail, and a piece of a goat's skin) have been found here. This suggests the presence of a third statue of Faun with a goat, similar to the two that have already been found at Villa Adriana. Unfortunately, the way in which the remains have been broken, and the vicinity of some kilns where many pieces of sculpture were reduced to chalk, makes us think that nothing more will be found. It is a pity, because this statue, probably brought back by the emperor's in 125 A.D., must have been an outstanding piece of sculpture.&lt;/p>
 &lt;p>It is evident that this peristyle-garden was clearly designed to give a scenographic view of the masterwork (Fig. 50) to people staying in the Doric Pilasters' Hall.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/1_gardens_general_plan.jpg"
- alt="Plan of the gardens at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/46_plan_of_the_throne_garden.jpg"
- alt="Plan of the Throne Hall garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 46: Plan of the Throne Hall garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/46_plan_of_the_throne_garden.jpg" alt="Plan of the Throne Hall garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 46: Plan of the Throne Hall garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/50_reconstruction.jpg"
- alt="Reconstruction of the Throne Hall garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 50: Reconstruction of the Throne Hall garden.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/50_reconstruction.jpg" alt="Reconstruction of the Throne Hall garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 50: Reconstruction of the Throne Hall garden.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/47_finding_a_flower_pot.jpg"
- alt="Photograph of the unearthing of a flower pot in the Throne Hall garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 47: Finding a flower pot, courtesy of Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/47_finding_a_flower_pot.jpg" alt="Photograph of the unearthing of a flower pot in the Throne Hall garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 47: Finding a flower pot, courtesy of Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/48_flower_pot.jpg"
- alt="Photograph of the flower pot found in the Throne Hall garden at Hadrian&amp;#39;s Villa, in its modern state">&lt;figcaption>
- &lt;h4>Fig. 48: The flower pot found in the Throne Hall garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/48_flower_pot.jpg" alt="Photograph of the flower pot found in the Throne Hall garden at Hadrian&amp;#39;s Villa, in its modern state" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 48: The flower pot found in the Throne Hall garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/49_the_throne_garden.jpg"
- alt="Photograph of the concrete basement remaining from the ruined Podium in the Throne Hall garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 49: The concrete basement remaining from the ruined Podium in the Throne Hall garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/49_the_throne_garden.jpg" alt="Photograph of the concrete basement remaining from the ruined Podium in the Throne Hall garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 49: The concrete basement remaining from the ruined Podium in the Throne Hall garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 118 and 138 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -2332,43 +2403,49 @@ PompeiiinPictures, 2018, &lt;em>Pompeii. Complesso dei Riti magici or Magic Rite
 &lt;p>Meanwhile on the northern end of the Stadium the area between three luxurious rooms (Fig.12, n) and the tricliniar pavilion was occupied by a small, elegant garden (Figg. 12, m; 14). Porticoes (Fig. 12, s) ran on both its sides and, in the middle, two square and long flowerbeds flanked a marble lined &lt;em>euripus&lt;/em>. We can very well imagine the reflection of the architecture on its calm blue water.&lt;/p>
 &lt;p>On the opposite side (Figg. 12, H; 16), another garden - an emicycle - imitated the part which, in a real Stadium, was occupied by the public. Only this one was a magnificent &lt;em>nymphaeum&lt;/em> (HOFFMAN 1980, pp. 000-000). A canalization, coasting the palace building, circled the top of the emicycle, and water slided from it on the white marble steps of eight small waterfalls. Amid them, hedges of box trees, neatly cut, well groomed, and set in big mortar containers, took the place of the spectators' seats. At the bottom, in a small grotto, a fountain collected the falling water, and emptied it in the nearby semicircular basin, concluding with it this splendid water-theater. A spectacular garden indeed.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/1_gardens_general_plan.jpg"
- alt="Plan of the gardens at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/12_so_called_stadium.jpg"
- alt="Plan of the Stadium-garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 12: Plan of the Stadium-garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/12_so_called_stadium.jpg" alt="Plan of the Stadium-garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 12: Plan of the Stadium-garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/13_stadium_coenatio.jpg"
- alt="Isometric plan of the Stadium-garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 13: Isometry of the Stadium-garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/13_stadium_coenatio.jpg" alt="Isometric plan of the Stadium-garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 13: Isometry of the Stadium-garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/16_great_nymphaeum.jpg"
- alt="Plan of the Great Nymphaeum in the Stadium-garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 16: Plan of the Great Nymphaeum in the Stadium-garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/16_great_nymphaeum.jpg" alt="Plan of the Great Nymphaeum in the Stadium-garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 16: Plan of the Great Nymphaeum in the Stadium-garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/14_northern_garden.jpg"
- alt="Photograph of the Northern Garden in the Stadium-garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 14: Northern Garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/14_northern_garden.jpg" alt="Photograph of the Northern Garden in the Stadium-garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 14: Northern Garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/15_southern_garden.jpg"
- alt="Photograph of the Southern Garden in the Stadium-garden at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 15: Southern Garden, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/15_southern_garden.jpg" alt="Photograph of the Southern Garden in the Stadium-garden at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 15: Southern Garden, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 118 and 138 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -2462,45 +2539,51 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;p>{&amp;lt; figure src=&amp;quot;../images/sirmio-2.jpg&amp;quot; alt=&amp;quot;Fig. 2: Plan of House of Grotto of Catullus.&amp;quot; title=&amp;quot;Fig. 2: Plan of House of Grotto of Catullus&amp;quot; &amp;gt;}}&lt;/p>
-&lt;figure>&lt;img src="../images/sirmio-3.jpg"
- alt="Fig. 3: Plan of the residential rooms.">&lt;figcaption>
- &lt;h4>Fig. 3: Plan of the residential rooms&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-3.jpg" alt="Fig. 3: Plan of the residential rooms." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Plan of the residential rooms&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-5.jpg"
- alt="Fig. 5: Aerial view of vast olive grove.">&lt;figcaption>
- &lt;h4>Fig. 5: Aerial view of vast olive grove&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-5.jpg" alt="Fig. 5: Aerial view of vast olive grove." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: Aerial view of vast olive grove&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-7.jpg"
- alt="Fig. 7:Aerial view of courtyard-viridarium.">&lt;figcaption>
- &lt;h4>Fig. 7: Aerial view of courtyard-viridarium&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-7.jpg" alt="Fig. 7:Aerial view of courtyard-viridarium." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 7: Aerial view of courtyard-viridarium&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-11.jpg"
- alt="Fig. 11: statue of a Dioscuros.">&lt;figcaption>
- &lt;h4>Fig. 11: statue of a Dioscuros&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-11.jpg" alt="Fig. 11: statue of a Dioscuros." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 11: statue of a Dioscuros&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/sirmio-12.jpg"
- alt="Fig. 12: Figure of Plant fossils.">&lt;figcaption>
- &lt;h4>Fig. 12: Figure of Plant fossils&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-12.jpg" alt="Fig. 12: Figure of Plant fossils." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 12: Figure of Plant fossils&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -2563,12 +2646,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -2630,12 +2714,13 @@ NEW WAY ↓↓↓↓
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thugga/">THUGGA (Dougga) Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315223">THUGGA (Dougga) Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/dougga_house_of_the_trifolium.jpg"
- alt="Plan of Thugga">&lt;figcaption>
- &lt;h4>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_house_of_the_trifolium.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>Annexed in 46 B.C., the Romanization of the city of Thugga that was probably a residence of the Numidian kings, was gradual but profound. It became Municipium Thuggense in 205, and was raised to the rank of a Colonia Licinia Septima Aurelia Alexandriana Thuggensesin in 261 under Gallien. Numerous buildings of this city overlooking the valley of the Ouadi Khaled, have been uncovered among them the Capitol dedicated to the Capitoline Triad in 166-67, the theater on the top of the plateau constructed under Antonius Pius, the Temple of Mercury, Fortune, Augustan Piety, Liber Pater, Concordia, Frugifer, Pluto, Saturn and the Temple of Caelestis which stands in the middle of a an olive grove. In the residential areas stands the Licinian Baths with their Palestrae and the Cyclops Baths and the Triumphal Arch of Septimus Severus set astride a street leading down the hill. Two building inscriptions (CIL VIII, 26606 and CIL VIII, 26607), dated to AD 166-169 mention a theater with a basilica, porticoes, and xystis.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -2651,12 +2736,13 @@ NEW WAY ↓↓↓↓
 &lt;p>This house is the largest excavated to-date at Thugga. It appears to date from the first half of the 3rd century. The rooms on the ground floor were arranged around a large court, which was more than 5 m (Plan view, Fig. 1) lower than the street. A garden occupied the center of the court which is enclosed by a portico on its four sides, the columns of which, carved with plaster and connected by a balustrade ought to have supported a wooden frame. The porticos were paved with mosaics. The 3 doors of the &lt;em>oecus&lt;/em> open onto the W portico, in front of which between two pilasters was a semi-circular pool projecting into the garden. This basin was decorated with a mosaic representing fish today destroyed. The &lt;em>oecus&lt;/em> opens on the N onto a large room in the form of a &lt;em>trifolium&lt;/em>.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/House_of_the_trillium_Dougga_color.jpg"
- alt="Plan of Trifolium">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of House of the Trifolium (Portail internet de Dougga, Ministère de la culture et de la sauvegarde du patrimoine, http://www.dougga.rnrt.tn/file/plan_maison_trifolium.pdf)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/House_of_the_trillium_Dougga_color.jpg" alt="Plan of Trifolium" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of House of the Trifolium (Portail internet de Dougga, Ministère de la culture et de la sauvegarde du patrimoine, http://www.dougga.rnrt.tn/file/plan_maison_trifolium.pdf)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Early 3rd century CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -2704,39 +2790,44 @@ NEW WAY ↓↓↓↓
 &lt;p>Finally, numerous Greek, Latin, and bilingual inscriptions attest that the Agora of the Italians was never referred to as an agora, but probably as a &lt;em>pastas italike&lt;/em> (as restored in Roussel and Launey, &lt;em>Inscriptions de Délos&lt;/em>, no. 2612). The Latin translation of this could have been &lt;em>porticus Italica&lt;/em> or &lt;em>porticus Italicorum&lt;/em> which would have more appropriate for a luxurious garden-portico, rather than the agora or forum.&lt;/p>
 &lt;!--
 ### Maps
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/truemper1.png"
- alt="Plan of the agora">&lt;figcaption>
- &lt;h4>Fig. 1: Agora of the Italians, reconstructed plan of the original building (first phase). Drawing by M. Trümper.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper1.png" alt="Plan of the agora" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Agora of the Italians, reconstructed plan of the original building (first phase). Drawing by M. Trümper.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/truemper2.png"
- alt="Plan of the agora with surrounding buildings">&lt;figcaption>
- &lt;h4>Fig. 2: Agora of the Italians, reconstructed plan. Drawing by M. Trümper after Ét. Lapalus 1939, Fig. 2.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper2.png" alt="Plan of the agora with surrounding buildings" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Agora of the Italians, reconstructed plan. Drawing by M. Trümper after Ét. Lapalus 1939, Fig. 2.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/truemper3.jpg"
- alt="Photo of Agora of the Italians from the southwest">&lt;figcaption>
- &lt;h4>Fig. 3: Agora of the Italians, overview from southwest. Photo courtesy of M. Trümper.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper3.jpg" alt="Photo of Agora of the Italians from the southwest" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Agora of the Italians, overview from southwest. Photo courtesy of M. Trümper.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/truemper4.jpg"
- alt="Photo of Agora of the Italians from the southeast">&lt;figcaption>
- &lt;h4>Fig. 4: Agora of the Italians, overview from southeast. Photo courtesy of M. Trümper.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/truemper4.jpg" alt="Photo of Agora of the Italians from the southeast" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: Agora of the Italians, overview from southeast. Photo courtesy of M. Trümper.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd-1st c. BCE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -2787,41 +2878,46 @@ NEW WAY ↓↓↓↓
 &lt;p>The core building of the &lt;strong>House of Fourni&lt;/strong> is arranged along a main axis with rooms on at least three different levels (Fig. 1). The main rooms were not oriented towards the south, as is usual in Delos, but towards the west, thus providing a view of the nearby bay of Fourni and the sea. A kind of nymphaeum (k), carved out of the natural rock and placed exactly on the main axis of the building, was added subsequently to the eastern façade of the building. A broad staircase led from the &lt;em>impluvium&lt;/em> of the courtyard (q) to a large raised room in the east (j), a remarkably open &lt;em>oecus maior&lt;/em> with doors on three sides and an opening to the nymphaeum on the fourth side. Therefore, the &lt;em>impluvium&lt;/em> of 75.80 square meters will have been frequently used and would certainly have been paved, had it not been conceived for a special purpose like planting. Today, the courtyard is (again?) covered with small shrubs. The overall design and some other features like &lt;em>opus signinum&lt;/em> pavements (rooms i, h and o) and ‘liturgical’ paintings for the cult of the &lt;em>lares compitales&lt;/em>, a cult usually performed by slaves and liberti of Italians or Romans, point to a Roman or Italian association, which might have introduced some new fashionable traits into Delian private architecture.&lt;/p>
 &lt;!--
 ### Maps
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/delos_fig5_maison_de_fourni.jpg"
- alt="Archaeological plan of the Maison de Fourni">&lt;figcaption>
- &lt;h4>Fig. 1: Maison de Fourni, sketch, 1:250. Drawing by M. Trümper after Bruneau and Ducat 2005, Dépliant VIII; Bruneau 1972 : 305-316, nos. 325-339, figs. 271-294 ; Le Roy 1984 : 167-173, plate 1.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig5_maison_de_fourni.jpg" alt="Archaeological plan of the Maison de Fourni" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Maison de Fourni, sketch, 1:250. Drawing by M. Trümper after Bruneau and Ducat 2005, Dépliant VIII; Bruneau 1972 : 305-316, nos. 325-339, figs. 271-294 ; Le Roy 1984 : 167-173, plate 1.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- ### Images
-&lt;figure>&lt;img src="../images/delos_fig8_perfumery.jpg"
- alt="Photo of the building identified as a perfumery, showing foundations and remaining walls.">&lt;figcaption>
- &lt;h4>Fig. 4: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast. Photo courtesy of M. Trümper.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast. Photo courtesy of M. Trümper.&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/delos_fig9_theat_quart_ii_house_e.jpg"
- alt="Photo of courtyard inside house E">&lt;figcaption>
- &lt;h4>Fig. 5: Quarter of the Theater, insula II, house E, overview of the courtyard from southwest. Photo courtesy of M. Trümper.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig9_theat_quart_ii_house_e.jpg" alt="Photo of courtyard inside house E" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: Quarter of the Theater, insula II, house E, overview of the courtyard from southwest. Photo courtesy of M. Trümper.&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/delos_fig10_theat_quart_house_f.jpg"
- alt="Photo of courtyard inside house F">&lt;figcaption>
- &lt;h4>Fig. 6: Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest. Photo courtesy of M. Trümper.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
- -->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6: Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest. Photo courtesy of M. Trümper.&lt;/figcaption>
+&lt;/figure> -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st c. BCE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -2865,27 +2961,30 @@ NEW WAY ↓↓↓↓
 &lt;p>The so-called &lt;strong>perfumery&lt;/strong> was equipped with a Rhodian peristyle (e), an open &lt;em>oecus maior&lt;/em> with colonnades and doors on all four sides (m-n), and with a kind of nymphaeum-reservoir (p) (Figs. 1, 2). The latter opened off the &lt;em>oecus maior&lt;/em> and was placed on the visual axis of the main entrance. Perfume was produced in a large exedra (f), which was connected with the peristyle to its north by an Ionic colonnade. The overall design is as unique as in the House of Fourni and could well have comprised a peristyle with a stylish garden of 51.20 square meters. A Roman or Italian association might have owned this clubhouse because Romans and Italians showed particular interest in the perfume trade. Slaves and liberti of several gentes that are attested in Delos distinguished themselves as &lt;em>thurarii&lt;/em> (dealers of incense) in the Mediterranean world.&lt;/p>
 &lt;!--
 ### Maps
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/delos_fig6_perfumery_plan.jpg"
- alt="Archaeological plan of the ‘Perfumery&amp;#39;">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, 1:250. Drawing by M. Trümper after Plassart 1916, pl. V-VII.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig6_perfumery_plan.jpg" alt="Archaeological plan of the ‘Perfumery&amp;#39;" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, 1:250. Drawing by M. Trümper after Plassart 1916, pl. V-VII.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/delos_fig8_perfumery.jpg"
- alt="Photo of the building identified as a perfumery, showing foundations and remaining walls.">&lt;figcaption>
- &lt;h4>Fig. 2: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast. Photo courtesy of M. Trümper.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig8_perfumery.jpg" alt="Photo of the building identified as a perfumery, showing foundations and remaining walls." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: ‘Perfumery,’ Quarter of the Stadium, Insula I, building B, overview from southeast. Photo courtesy of M. Trümper.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st c. BCE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -2931,33 +3030,37 @@ NEW WAY ↓↓↓↓
 &lt;p>Whether the &lt;em>impluvium&lt;/em> of 30.20 square meters (a) of &lt;strong>House F&lt;/strong> in insula II of the Quarter of the Theater was left unfinished or planned or even realized as a garden, cannot be decided (Figs. 1, 3). Following the latest fashion, the initiators of the last major transformation of this house might well have conceived of a planted &lt;em>impluvium&lt;/em>. This house, however, was not (yet?) equipped with any water supply.&lt;/p>
 &lt;!--
 ### Maps
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/delos_fig7_theat_quart_houses_e_f.jpg"
- alt="Archaeological plan of houses E and F">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Quarter of the Theater, Insula II, houses E and F, 1:250. Drawing by M. Trümper after J. Chamonard 1922/24, pl. III-IV.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig7_theat_quart_houses_e_f.jpg" alt="Archaeological plan of houses E and F" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Quarter of the Theater, Insula II, houses E and F, 1:250. Drawing by M. Trümper after J. Chamonard 1922/24, pl. III-IV.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/delos_fig9_theat_quart_ii_house_e.jpg"
- alt="Photo of courtyard inside house E">&lt;figcaption>
- &lt;h4>Fig. 2: Quarter of the Theater, insula II, house E, overview of the courtyard from southwest. Photo courtesy of M. Trümper.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig9_theat_quart_ii_house_e.jpg" alt="Photo of courtyard inside house E" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Quarter of the Theater, insula II, house E, overview of the courtyard from southwest. Photo courtesy of M. Trümper.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/delos_fig10_theat_quart_house_f.jpg"
- alt="Photo of courtyard inside house F">&lt;figcaption>
- &lt;h4>Fig. 3: Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest. Photo courtesy of M. Trümper.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/delos/delos_fig10_theat_quart_house_f.jpg" alt="Photo of courtyard inside house F" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Quarter of the Theater, Insula II, house F, overview of the courtyard from southwest. Photo courtesy of M. Trümper.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st c. BCE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -3001,25 +3104,28 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>B. From the atrium the peristyle on the lower level was reached by way of a steeply sloping corridor. Stuccoed brick columns and a low wall 0.50 m. high enclosed the central area (b) and a large gutter collected water from the edges and conducted it to the cistern. A rectangular pool ca. 2.60 x 5.00 m. with the inside painted blue was located in the center of this area. At the rear of the pool an area paved with bipedales (tiles two feet long) covered the cellars below with an opening 1.70 x 2.20 to provide light. Jashemski noted that the paved and planted areas were reconstructed with a lattice fence between them, although she did not know of any evidence to support this interpretation.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/herculaneum_or.i_b.jpg"
- alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)">&lt;figcaption>
- &lt;h4>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_or_i/house_2-3/herculaneum_or.i_b.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/h_orientalis_1_1-3-b.jpg"
- alt="Herculaneum - insula orientalis I. 1-3-b">&lt;figcaption>
- &lt;h4>Herculaneum - insula orientalis I. 1-3-b&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_or_i/house_2-3/h_orientalis_1_1-3-b.jpg" alt="Herculaneum - insula orientalis I. 1-3-b" onclick="fullscreen(this)">
+ &lt;figcaption>Herculaneum - insula orientalis I. 1-3-b&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/herc.i.2,3_42.19.64.jpg"
- alt="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_or_i/house_2-3/herc.i.2,3_42.19.64.jpg" alt="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;figcaption>Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
+&lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -3056,18 +3162,20 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>C. There are five rooms south of the peristyle and on a lower level beyond them is another garden (c).&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/herculaneum_or.i_c.jpg"
- alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)">&lt;figcaption>
- &lt;h4>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_or_i/house_2-3/herculaneum_or.i_c.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/h_orientalis_1_1-3-c.jpg"
- alt="Herculaneum - insula orientalis I. 1-3-c">&lt;figcaption>
- &lt;h4>Herculaneum - insula orientalis I. 1-3-c&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_or_i/house_2-3/h_orientalis_1_1-3-c.jpg" alt="Herculaneum - insula orientalis I. 1-3-c" onclick="fullscreen(this)">
+ &lt;figcaption>Herculaneum - insula orientalis I. 1-3-c&lt;/figcaption>
+&lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -3103,18 +3211,20 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Directly south of the Great Palaestra there is a peristyle garden (a) enclosed by a portico. A pool with a low wall surrounding it is located in the center of this garden.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;p>&lt;figure>&lt;img src="../images/herculaneum_ii_a.jpg"
- alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)">&lt;figcaption>
- &lt;h4>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/h4>
- &lt;/figcaption>
+&lt;p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_or_ii/herculaneum_ii_a.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/i_or._ii-a.jpg"
- alt="Herculaneum - Garden (a) south of the Great Palaestra">&lt;figcaption>
- &lt;h4>Herculaneum - Garden (a) south of the Great Palaestra&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-&lt;/p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_or_ii/i_or._ii-a.jpg" alt="Herculaneum - Garden (a) south of the Great Palaestra" onclick="fullscreen(this)">
+ &lt;figcaption>Herculaneum - Garden (a) south of the Great Palaestra&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
@@ -3159,12 +3269,13 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>B. At the rear of this house a &lt;em>peristyle&lt;/em> garden (b) was bordered on the south by a &lt;em>portico&lt;/em>. Three columns and an engaged column, stuccoed and fluted on the top, red at the bottom, supported the &lt;em>portico&lt;/em>. A large animal painting occupied three walls of the &lt;em>peristyle&lt;/em> garden with a bold checkerboard above and a black dado at the base painted with stylized plants and flowers. The west wall featured a garden representation on the &lt;em>predella&lt;/em>. The garden is entered through a tall portal with a round &lt;em>oscillum&lt;/em> suspended beneath a crater-shaped vase on the top of the entry. The front fence forms an &lt;em>excedra&lt;/em> on either side of the entrance and shrubbery painted in green is shown along the front. Garden representations cover the entire dado (0.55 x 3.50 m.) of both the north and south walls of the &lt;em>tablinium&lt;/em>. On a black background a garden is enclosed by an elaborate fence that suggests marble with a curvilinear and rectilinear design. The garden on the north wall a large semicircle in the center has a footed circular fountain with a water jet in the center, the water falling in two streams. The south wall has a crater-shaped fountain in an angular niche. Flowers bloom in lavender and white while birds sit on the fence in both paintings. A white flower garland graces the base of the paintings and traces of a &lt;em>schola&lt;/em> are visible on the north wall.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;!--&lt;figure>&lt;img src="../images/Euro_GaAq_Montreal_Villa%20de%20S%C3%A9viac.png"
- alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south.">&lt;figcaption>
- &lt;h4>Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
+&lt;!--
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_v/Euro_GaAq_Montreal_Villa%20de%20S%C3%A9viac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN.&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -3230,28 +3341,31 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/region-i-insula-8.jpg"
- alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region-i-insula-8.jpg" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 &lt;!--### Images-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -3341,59 +3455,66 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
- alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_41_I.vii.11_12_11.32.59.jpg"
- alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_41_I.vii.11_12_11.32.59.jpg" alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_42_I.vii.12_14.3.68.jpg"
- alt="Fig. 4: I.vii. 14.3.68, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 4: I.vii. 14.3.68, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_42_I.vii.12_14.3.68.jpg" alt="Fig. 4: I.vii. 14.3.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: I.vii. 14.3.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_43_I.vii.11_33.27.61.jpg"
- alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 5: I.vii. 33.27.61, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_43_I.vii.11_33.27.61.jpg" alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: I.vii. 33.27.61, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_44_I.vii.11_12_11.33.59.jpg"
- alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_44_I.vii.11_12_11.33.59.jpg" alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1912 and 1925.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -3462,52 +3583,58 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
- alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
- alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/figcaption>
+&lt;/figure>
 
 ### Images
 
-&lt;figure>&lt;img src="../images/Fig_38_I.vii.7_13.18.59.jpg"
- alt="Fig. 3: I.vii. 13.18.59, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 3: I.vii. 13.18.59, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_38_I.vii.7_13.18.59.jpg" alt="Fig. 3: I.vii. 13.18.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: I.vii. 13.18.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_39_I.vii.7_22.12.68.jpg"
- alt="Fig. 4: I.vii. 22.12.68, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 4: I.vii. 22.12.68, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_39_I.vii.7_22.12.68.jpg" alt="Fig. 4: I.vii. 22.12.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: I.vii. 22.12.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../images/Fig_40_I.vii.7_22.22.68.jpg"
- alt="Fig. 5: I.vii. 22.22.68, S.A. Jashemski.">&lt;figcaption>
- &lt;h4>Fig. 5: I.vii. 22.22.68, S.A. Jashemski (Rights Statement).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_40_I.vii.7_22.22.68.jpg" alt="Fig. 5: I.vii. 22.22.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: I.vii. 22.22.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1912 and 1924.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -3572,12 +3699,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Excavated 1873-1874.&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -3630,12 +3758,13 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;p>Several houses with peristyle courtyards were built north of the Areopagus in the second half of the 4th century A.D. These have been interpreted as schools of the Neoplatonic philosophers in which the school directors lived and students were instructed.&lt;/p>
 &lt;p>One of these buildings, the so-called House C or Omega House, had two peristyle courtyards, of which the eastern and smallest was paved (Fig. 1). The house was assured of a constant supply of water, as it tapped into a spring higher up on the hill. The nymphaeum and semi-circular collecting basin on the southeast corner of the house were fed by this, the overflow being directed through a pipe to a well on the west side of the central, rectangular peristyle courtyard. The water taken from this well may have been used to water a garden, possibly one in the unpaved courtyard in which the well was situated (G on plan). A collection of marble statues, portrait busts, and reliefs from the 4th century B.C. to the 3rd century A.D. was discarded in this and other wells of the house in the first half of the 6th century, possibly at the same time Justinian ordered that pagan schools should be closed down. The house was destroyed in 582/3 after a period of Christian use.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/omegahouse.jpg"
- alt="plan of a house with a possible garden peristyle">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/omegahouse.jpg" alt="plan of a house with a possible garden peristyle" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the so-called Omega House with a possible garden peristyle (G) on the Areopagus. Adapted from Camp 1986, fig. 170.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>second half of the 4th century CE to the late 6th century CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -3681,28 +3810,31 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 In the center of the building was a large open peristyle courtyard with a long pool (stippled on plan). The courtyard has been reconstructed as a garden (G on plan) in which students and scholars could stroll, and there were almost certainly statues in this area. One is reminded of Vitruvius’ recommendation to plant the open areas between the colonnades of buildings with greenery, which he believed improved the air and made walks in this environment healthy for body and mind &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-eng1:5.9.5">(Vitr. 5.9.5.)&lt;/a>. The building bears a strong resemblance typologically, and very likely thematically, to the late Hellenistic/early Roman gymnasium outside the city in the &lt;a href="#">Academy&lt;/a>. Pausanias, our literary source for Hadrian’s building projects in Athens, referred to the library as a splendid building with 100 columns, adorned with statues and paintings &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:1.18.9">(Paus. 1.18.9)&lt;/a>.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/library.jpg"
- alt="plan of the Library of Hadrian with courtyard garden and apsidal pool">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/library.jpg" alt="plan of the Library of Hadrian with courtyard garden and apsidal pool" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd century CE and later&lt;/p>
@@ -3760,28 +3892,31 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>Ancient literary references to the plane, elm, poplar, and olive trees in the Academy are numerous. Excavations in the suburb of Academy have shown that a new gymnasium was built there in the late Hellenistic/early Roman period. This gymnasium consisted of a central courtyard enclosed by porticoes on all four sides (Fig. 1). The northern wing of the building complex contained rooms which were probably used as libraries and for lectures, while the south, west and east wings appear to have had a row of desks, of which only the stone bases remain, running down the middle of each corridors. The courtyard itself may have been used as a palaestra for training, although by this period Greek education focused less on physical training than on lectures, debates, and literary study. The courtyard had a pool in the center (P on plan) and a podium for statues (S on plan), possibly of the Muses, at the northern end, both of which certainly would have restricted any space for athletics. No paving in the courtyard could be found, and it possible that it was planted in some way, perhaps with shade trees (G on plan).&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/gymnasium.jpg"
- alt="Plan of the late Hellenistic/early Roman gymnasium in the suburb of Academy at Athens">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/gymnasium.jpg" alt="Plan of the late Hellenistic/early Roman gymnasium in the suburb of Academy at Athens" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the late Hellenistic/early Roman gymnasium with a possible garden (G), a pool (P) and a podium for statues (S) in the suburb of Academy at Athens. Adapted from Travlos 1971, fig. 59.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>4th century BCE and later&lt;/p>
@@ -3833,26 +3968,29 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 Another only partially excavated house of the mid-4th century A.D., built into the northern slope of the Areopagus, had a small courtyard (3.20 x 3.90 m.) paved with blue and white marble slabs surrounded by a masonry flower bed 50 cm. wide (Fig. 2; f on plan). Around this ran a shallow marble-paved basin (c on plan) which was supplied with water by a fountain on the south eastern side of the courtyard. Water flowed from the basin through a lead pipe in the middle of each side of the courtyard into the planter beds.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/areopagus1.jpg"
- alt="plan of an early Roman house with pool and courtyard">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/areopagus1.jpg" alt="plan of an early Roman house with pool and courtyard" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/areopagus2.jpg"
- alt="courtyard with flowerbeds and surrounding water channel in a late Roman house">&lt;figcaption>
- &lt;h4>Fig. 2: Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/areopagus2.jpg" alt="courtyard with flowerbeds and surrounding water channel in a late Roman house" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>mid-4th century CE and earlier&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -3894,28 +4032,31 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;p>It is possible that a garden might have been present in one of the inner courtyards of the building, especially since the complex was directly supplied by sufficient water from a late Roman aqueduct. The smallest of the courtyards (7 x 7 m.), the southeast court, was paved with terracotta tiles and cannot, therefore, have been planted, but the central courtyard seems not to have been paved (G on plan). The building stood on a plot of land of irregular shape that was enclosed within a boundary wall. This has been reconstructed as an informal garden area (G on plan), although no traces of plantings have survived. The complex was abandoned by ca. 530 A.D.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/giants.jpg"
- alt="building plan with possible gardens marked, dotted lines for the outlines of earlier buildings.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the so-called “Palace of the Giants” (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the “Palace.” Adapted from Camp 1986, p. 200, fig. 166.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/giants.jpg" alt="building plan with possible gardens marked, dotted lines for the outlines of earlier buildings." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the so-called “Palace of the Giants” (shown cross-hatched in grey) in the Agora, with possible gardens (G). The dotted lines indicate the outlines of the earlier Odeon of Agrippa and other older buildings beneath the “Palace.” Adapted from Camp 1986, p. 200, fig. 166.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>early 5th century CE to ca. 530 CE&lt;/p>
@@ -3960,31 +4101,35 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;p>b –The other garden (Figs. 9, G, and 10-11), set at the eastern side of the entrance hall, occupies a smaller peristyle with a curved side toward East (REICHARDT 1933). It was crossed in the middle by a path which had a round-shaped space in the center (SALZA PRINA RICOTTI 1987, pp. 175-178, figs. 13-20; JASHEMSKI, SALZA PRINA RICOTTI 1987-88, p. 147, figs. 1-2; SALZA PRINA RICOTTI 1998, pp. 364-366, fig. 1; MARI, REGGIANI, RIGHI 2000; SALZA PRINA RICOTTI 2000, pp. 323-324, fig. 110). Here some decorative element - a marble vase or a statue - was probably displayed. Two flowerbeds cut in the tufa flanked it (Figs. 10, G, and 11). We are still pretty sure that they were bordered by well-groomed box hedges, a kind of decoration which was afterwards inherited by the “all'italiana” system of landscaping. This fashion, widely employed in many outstanding examples of Renaissance gardens, is still in use nowadays. The presence of well cut green hedges bordering those ancient flowerbeds was a must and it is a sure fact that they existed here, but we know very little about the rest. For instance, what, if anything, could have been set in their central part? Prof. Jashemski found pollen, seeds, roots of flowering bushes and of some trees in her Pompeian gardens, but here at Villa Adriana nothing was left in the ground. We are bound to follow our imagination. Of course there could have been grass in the center of the flowerbeds as well as masses of blossoms. If the latter was the case - but, looking to “all'italiana” gardens, which are basically green gardens, I highly doubt it - the flowers should have been the kinds which were in fashion in ancient Roman times. In his Natural History (&lt;em>nat.&lt;/em> 21.10), Pliny the Older explained that Romans didn't use many of them. In their gardens they mainly planted roses and violets. However we must keep in mind that, for Pliny, the word violets meant every kind of small herbaceous species that could produce colored blossoms. He catalogued many kinds of them as the yellow, the purple, and the white kind, and it is highly probable that they must have been pimpernels as well as hyacinths and, of course real violets too. It is, however, evident that any of these plants could create gay clusters of blossoms in the center of a flowerbed and that they could make a very appealing garden.&lt;/p>
 &lt;p>c – The third garden of the Great Entrance Hall occupies its extreme western part (REICHARDT 1933, pp. 129-130). Here an unpaved courtyard circled a small temple, probably dedicated to the Imperial Lares (Fig. 9, L). The flowerbeds have still to be excavated, but, as in all the Great Entrance Hall's area the tufa is practically surfacing, this must happen also here. Therefore it is highly probable that an excavation will bring to light the flowerbeds cut in the rock for the plants.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/1_gardens_general_plan.jpg"
- alt="Plan of the gardens at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/9_great_hall_plan.jpg"
- alt="Plan of the Great Hall at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 9: Plan of the Great Hall, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/9_great_hall_plan.jpg" alt="Plan of the Great Hall at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 9: Plan of the Great Hall, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/10_isometric_east_garden.jpg"
- alt="Isometric plan of the Garden in the East sector of the Great Hall at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 10: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/10_isometric_east_garden.jpg" alt="Isometric plan of the Garden in the East sector of the Great Hall at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 10: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/11_east_garden.jpg"
- alt="Photograph of the Garden in the East sector of the Great Hall at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 11: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/11_east_garden.jpg" alt="Photograph of the Garden in the East sector of the Great Hall at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 11: Garden in the East sector of the Great Hall, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 118 and 138 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -4048,12 +4193,13 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;p>The market located to the SW of the forum had a peristyle that enclosed an open space that may have been planted. With no evidence, Merlin suggested that the courtyard was paved with white mosaics but scholars do not agree. A large shade tree grows there today.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/AFR_Thub_Pm_Wjashemski.jpg"
- alt="Plan of the Market">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Market(CMT, V. II, fasc.1, pp. 9-11, plan 3-4)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Pm_Wjashemski.jpg" alt="Plan of the Market" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Market(CMT, V. II, fasc.1, pp. 9-11, plan 3-4)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
@@ -4088,19 +4234,21 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>The courtyard of this large peristyle to the NE of the Summer Baths, dedicated by Petronius and his sons, may have been planted with avenues of trees as recommended by Vitruvius, and as in the &lt;em>Palaetra&lt;/em> at Pompeii (Pan view, Fig. 1).&lt;/p>
 &lt;h3 id="plan">Plan&lt;/h3>
-&lt;figure>&lt;img src="../images/peristyle_des_petronii_plan.jpg"
- alt="Plan of the Peristyle of the Petronii ">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Peristyle of the Petronii &lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/peristyle_des_petronii_plan.jpg" alt="Plan of the Peristyle of the Petronii " onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Peristyle of the Petronii &lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/peristyle_des_petronii_detail.jpg"
- alt="Detail Plan of the Peristyle of the Petronii ">&lt;figcaption>
- &lt;h4>Fig. 2: Detail Plan of the Peristyle of the Petronii &lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/peristyle_des_petronii_detail.jpg" alt="Detail Plan of the Peristyle of the Petronii " onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Detail Plan of the Peristyle of the Petronii &lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>

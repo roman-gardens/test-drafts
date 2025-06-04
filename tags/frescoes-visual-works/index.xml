@@ -49,26 +49,29 @@ Esquiline Hill &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilinu
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/porticusliviae_fig1.jpg"
- alt="Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder">&lt;figcaption>
- &lt;h4>Fig. 1. Reconstruction of the plan of the Porticus Liviae. © Carandini and Carafa, 2012, tab. 109.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
-&lt;!-- -->
-&lt;figure>&lt;img src="../images/porticusliviae_fig2.jpg"
- alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae">&lt;figcaption>
- &lt;h4>Fig. 2. Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae. © Rhiannon Paré after Holly Spoth-Torres.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
-&lt;!-- -->
-&lt;!--&lt;figure>&lt;img src="../images/.jpg"
- alt="Entrance to the Porticus Liviae">&lt;figcaption>
- &lt;h4>Fig. 3. Entrance to the Porticus Liviae. © Holly Spoth-Torres.&lt;/h4>
- &lt;/figcaption>
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/porticusliviae_fig1.jpg" alt="Base Plan, based on the Marble Plan and reconstructed with the vines mentioned in Pliny the Elder" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Reconstruction of the plan of the Porticus Liviae. © Carandini and Carafa, 2012, tab. 109.&lt;/figcaption>
 &lt;/figure>
--->
+&lt;!-- -->
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/porticusliviae_fig2.jpg" alt="Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. Reconstruction section of the trellised walkway and two-story colonnade of the Porticus Liviae. © Rhiannon Paré after Holly Spoth-Torres.&lt;/figcaption>
+&lt;/figure>
+&lt;!-- -->
+&lt;!--
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Entrance to the Porticus Liviae" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3. Entrance to the Porticus Liviae. © Holly Spoth-Torres.&lt;/figcaption>
+&lt;/figure>-->
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>7 CE&lt;/p>

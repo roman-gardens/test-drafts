@@ -17,12 +17,13 @@
 &lt;p>A funerary plaque (evidently complete) discovered in 1861 beside the Via Praenestina near Tor Sapienza records the dimensions of a tomb plot “with a garden enclosed by a wall” eighty-one and a half feet in frontage, forty-three and a half feet in depth (c. 320 square meters).&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/tomb_garden_near_rome/via_praenestina/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;h3 id="images">Images&lt;/h3>
@@ -61,12 +62,13 @@
 &lt;p>A marble slab found in 1745 near a circular tomb monument beside the Via Praenestina at the first mile from the Porta Maggiore records “a building with tomb garden (cepotaphium) and monument (memoria)” built up from the ground by M. Aurelius Syntomus and his wife Aurelia Marciane for themselves, their son and daughter, and their freedmen and descendants, probably some time in the late second or third century.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/tomb_garden_near_rome/via_praenestina/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;h3 id="images">Images&lt;/h3>

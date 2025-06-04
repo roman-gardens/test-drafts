@@ -21,18 +21,20 @@
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>Excavation of this garden (a) to the rear of this elegant house took place in the spring of 1939. The garden was completely surround by a portico which had eight columns and two pillars on the north side with engaged columns placed strategically so as to provide an unimpeded view from the tablinum. The southwest corner of the garden was the location of a small pool (0.82 x 0.63).&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;p>&lt;figure>&lt;img src="../images/herculaneum_vi_13.jpg"
- alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)">&lt;figcaption>
- &lt;h4>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/h4>
- &lt;/figcaption>
+&lt;p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_vi/house_13/herculaneum_vi_13.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/h_6_11-19_25-26-a.jpg"
- alt="Herculaneum VI.11-19,25-26-Casa del Salone Nero">&lt;figcaption>
- &lt;h4>Herculaneum VI.11-19,25-26-Casa del Salone Nero&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-&lt;/p>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/herculaneum/insula_vi/house_13/h_6_11-19_25-26-a.jpg" alt="Herculaneum VI.11-19,25-26-Casa del Salone Nero" onclick="fullscreen(this)">
+ &lt;figcaption>Herculaneum VI.11-19,25-26-Casa del Salone Nero&lt;/figcaption>
+&lt;/figure>&lt;/p>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
 &lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>

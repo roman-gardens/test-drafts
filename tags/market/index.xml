@@ -20,12 +20,13 @@
 &lt;p>The market located to the SW of the forum had a peristyle that enclosed an open space that may have been planted. With no evidence, Merlin suggested that the courtyard was paved with white mosaics but scholars do not agree. A large shade tree grows there today.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/AFR_Thub_Pm_Wjashemski.jpg"
- alt="Plan of the Market">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Market(CMT, V. II, fasc.1, pp. 9-11, plan 3-4)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Pm_Wjashemski.jpg" alt="Plan of the Market" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Market(CMT, V. II, fasc.1, pp. 9-11, plan 3-4)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>

@@ -162,24 +162,27 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;p>The &lt;a href="https://en.wikipedia.org/wiki/Domus_Tiberiana">&lt;em>Domus Tiberiana&lt;/em>&lt;/a> on the Palatine was incorporated into the &lt;em>Domus Aurea&lt;/em>. Resting on &lt;a href="http://vocab.getty.edu/page/aat/300004295">cryptoporticoes&lt;/a> and vaulted substructures, the palace was surrounded by &lt;a href="http://vocab.getty.edu/page/aat/300002613">colonnades&lt;/a> which opened onto a &lt;a href="http://vocab.getty.edu/page/aat/300008100">hanging garden&lt;/a> (&lt;em>nemora pensile&lt;/em>), accessible from the Forum by a grand staircase on the north and another to the east.&lt;/p>
 &lt;p>The unfinished Temple to the Divine Claudius became a monumental &lt;a href="http://vocab.getty.edu/page/aat/300006809">&lt;em>nymphaeum&lt;/em>&lt;/a>. The eastern wall of the temple platform was transformed into ornamental &lt;a href="http://vocab.getty.edu/page/aat/300002704">niched&lt;/a> &lt;a href="http://vocab.getty.edu/page/aat/300002526">facades&lt;/a> with abundant &lt;a href="http://vocab.getty.edu/page/aat/300006179">fountain&lt;/a> jets fed by a new branch of the &lt;a href="https://pleiades.stoa.org/places/423563">&lt;em>Aqua Claudia&lt;/em>&lt;/a>. The &lt;a href="http://vocab.getty.edu/page/aat/300010463">brick&lt;/a> remains of this &lt;em>nymphaeum&lt;/em> are visible today along the &lt;a href="https://pleiades.stoa.org/places/688514720">&lt;em>Via Claudia&lt;/em>&lt;/a>&lt;!--(Fig. 3)-->. The water features drained into the &lt;em>stagnum&lt;/em>.&lt;/p>
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/domus_aurea_fig1.jpg"
- alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana">&lt;figcaption>
- &lt;h4>Figure 1. Plan of the Domus Aurea and surrounding areas (LTUR, Vol. 2, p. 397).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
-&lt;!--&lt;figure>&lt;img src="../images/.jpg"
- alt="Gardens of the Oppian palace">&lt;figcaption>
- &lt;h4>Figure 2. Gardens of the Oppian palace (image source).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 1. Plan of the Domus Aurea and surrounding areas (LTUR, Vol. 2, p. 397).&lt;/figcaption>
 &lt;/figure>
--->
-&lt;!--&lt;figure>&lt;img src="../images/.jpg"
- alt="Photograph of Neronian nymphaeum on the Caelian">&lt;figcaption>
- &lt;h4>Figure 3. Photograph of Neronian nymphaeum on the Caelian (image source).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;!--
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Gardens of the Oppian palace" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 2. Gardens of the Oppian palace (image source).&lt;/figcaption>
+&lt;/figure>-->
+&lt;!--
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Photograph of Neronian nymphaeum on the Caelian" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 3. Photograph of Neronian nymphaeum on the Caelian (image source).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>post-64 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>

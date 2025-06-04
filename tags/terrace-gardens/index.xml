@@ -57,24 +57,27 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;p>The &lt;a href="https://en.wikipedia.org/wiki/Domus_Tiberiana">&lt;em>Domus Tiberiana&lt;/em>&lt;/a> on the Palatine was incorporated into the &lt;em>Domus Aurea&lt;/em>. Resting on &lt;a href="http://vocab.getty.edu/page/aat/300004295">cryptoporticoes&lt;/a> and vaulted substructures, the palace was surrounded by &lt;a href="http://vocab.getty.edu/page/aat/300002613">colonnades&lt;/a> which opened onto a &lt;a href="http://vocab.getty.edu/page/aat/300008100">hanging garden&lt;/a> (&lt;em>nemora pensile&lt;/em>), accessible from the Forum by a grand staircase on the north and another to the east.&lt;/p>
 &lt;p>The unfinished Temple to the Divine Claudius became a monumental &lt;a href="http://vocab.getty.edu/page/aat/300006809">&lt;em>nymphaeum&lt;/em>&lt;/a>. The eastern wall of the temple platform was transformed into ornamental &lt;a href="http://vocab.getty.edu/page/aat/300002704">niched&lt;/a> &lt;a href="http://vocab.getty.edu/page/aat/300002526">facades&lt;/a> with abundant &lt;a href="http://vocab.getty.edu/page/aat/300006179">fountain&lt;/a> jets fed by a new branch of the &lt;a href="https://pleiades.stoa.org/places/423563">&lt;em>Aqua Claudia&lt;/em>&lt;/a>. The &lt;a href="http://vocab.getty.edu/page/aat/300010463">brick&lt;/a> remains of this &lt;em>nymphaeum&lt;/em> are visible today along the &lt;a href="https://pleiades.stoa.org/places/688514720">&lt;em>Via Claudia&lt;/em>&lt;/a>&lt;!--(Fig. 3)-->. The water features drained into the &lt;em>stagnum&lt;/em>.&lt;/p>
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/domus_aurea_fig1.jpg"
- alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana">&lt;figcaption>
- &lt;h4>Figure 1. Plan of the Domus Aurea and surrounding areas (LTUR, Vol. 2, p. 397).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
-&lt;!--&lt;figure>&lt;img src="../images/.jpg"
- alt="Gardens of the Oppian palace">&lt;figcaption>
- &lt;h4>Figure 2. Gardens of the Oppian palace (image source).&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/domus_aurea_fig1.jpg" alt="Plan of the Domus Aurea, including the stagnum and hanging gardens of the Domus Tiberiana" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 1. Plan of the Domus Aurea and surrounding areas (LTUR, Vol. 2, p. 397).&lt;/figcaption>
 &lt;/figure>
--->
-&lt;!--&lt;figure>&lt;img src="../images/.jpg"
- alt="Photograph of Neronian nymphaeum on the Caelian">&lt;figcaption>
- &lt;h4>Figure 3. Photograph of Neronian nymphaeum on the Caelian (image source).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;!--
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Gardens of the Oppian palace" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 2. Gardens of the Oppian palace (image source).&lt;/figcaption>
+&lt;/figure>-->
+&lt;!--
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_iii_isis_et_serapis/.jpg" alt="Photograph of Neronian nymphaeum on the Caelian" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 3. Photograph of Neronian nymphaeum on the Caelian (image source).&lt;/figcaption>
+&lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>post-64 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -121,25 +124,28 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;p>The principal element of this garden (Fig. 28) is the sustaining wall of the overhanging terrace, a kind of theater scenery decorated by a series of 23 alternatively semicircular and square niches (Fig. 29).&lt;/p>
 &lt;p>However the garden did not occupy the entire plateau. A substantial concentration of lead is found only in the area set in front of the sustaining wall where a garden with its flowerbeds must have been set, while the most northern part of the plateau, where lead is scantily present, must have been occupied by trees and bushes which did not need much watering (SALZA PRINA RICOTTI 1994-95, fig. 7).&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/1_gardens_general_plan.jpg"
- alt="Plan of the gardens at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/28_under_libraries.jpg"
- alt="Plan of the Garden under the Libraries at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 28: Plan of the Garden under the Libraries, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/28_under_libraries.jpg" alt="Plan of the Garden under the Libraries at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 28: Plan of the Garden under the Libraries, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/29_nymphaeum.jpg"
- alt="Photograph of the Nymphaeum of the Terraced garden under the Libraries at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 29: Nymphaeum, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/29_nymphaeum.jpg" alt="Photograph of the Nymphaeum of the Terraced garden under the Libraries at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 29: Nymphaeum, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 118 and 138 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -196,18 +202,20 @@ Esquiline Hill, &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilin
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This terrace offers a splendid view of Tivoli and its mountains (Fig. 30). The concentration of lead in its soil shows that it was kept as a cultivated area (SALZA PRINA RICOTTI 1994-95, fig. 7). Today we don't have enough elements to understand its landscaping, but we must consider that the terrace is set between two very important garden features of Villa Adriana. On the northern side it is flanked by the enchanting, open air pavilion now called the “Belvedere of the Venus of Cnidus” (Fig. 1, 11) while, on the opposite side of the plateau, another imposing &lt;em>nymphaeum&lt;/em>, the so-called “Stallone”, concludes the esplanade overlooking the Valley of Tempe. At the back of this terrace a big sustaining wall reinforced by impressive arches ran along the West side, and this embankment was concluded by another more modest &lt;em>nymphaeum&lt;/em>, set in front of the Venus of Cnidus' Belvedere. It was decorated by a series of niches which, before the ruin of Villa Adriana, might have contained some decorative elements, giving this garden its final touch. Today the niches have been disfigured opening , in each of them, windows of different shapes the ones from the others.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/1_gardens_general_plan.jpg"
- alt="Plan of the gardens at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/30_tempe%27s_terrace.jpg"
- alt="Plan of the Terrace on the valley of Tempe at Hadrian&amp;#39;s Villa">&lt;figcaption>
- &lt;h4>Fig. 30: Plan of the Terrace on the valey of Tempe, Eugenia Salza Prina Ricotti.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/30_tempe%27s_terrace.jpg" alt="Plan of the Terrace on the valley of Tempe at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 30: Plan of the Terrace on the valey of Tempe, Eugenia Salza Prina Ricotti.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Built between 118 and 138 CE&lt;/p>
 &lt;h4 id="excavation-date">Excavation Date&lt;/h4>
@@ -298,62 +306,71 @@ story of Roman Arabia begins with the death of the Nabataean king, &lt;a href="h
 &lt;p>The Petra garden continued in use after the Roman annexation of Petra in 106 CE, at which time the Great Temple was converted into an &lt;em>odeion&lt;/em> or &lt;em>bouleutereion&lt;/em>. It is likely that, within this context, the garden functioned as a public park much like the urban parks in contemporary Rome. Several examples of evidence for renovations have been identified with this phase of the site. For example, the addition of a bridge allowed easy access to the island-pavilion that was originally only accessible by swimming or possibly boating. In addition, a reorganization of the hydraulic system may represent a new approach to water consumption influenced by the Romans, whose rules about the use of natural resources differed from those of local inhabitants.&lt;/p>
 &lt;p>A deep deposit of sediment above the pool floor indicates that the pool went out of use or was not well-maintained for a period of time before the collapse of the pavilion walls into the pool as a result of the earthquake of 363 CE that caused much destruction in Petra. The remnants of later walls, evidence for the reuse of the hydraulic installations, and a raised field that occupies part of the earthen terrace, testify to the continued use of the site for agricultural purposes through the post-Roman occupation of Petra and into the modern era.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
-&lt;figure>&lt;img src="../images/1_arabia_petraea_map.jpg"
- alt="Map of Petra location">&lt;figcaption>
- &lt;p>Fig. 1: Map showing the location of ancient Petra in Arabia Petraea. Map by L.-A. Bedal, based on &lt;a href="https://commons.wikimedia.org/w/index.php?curid=26047529">Andrein with the assistance of EraNavigator&lt;/a>&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/1_arabia_petraea_map.jpg" alt="Map of Petra location" onclick="fullscreen(this)">
+ &lt;figcaption>&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/2_arabia_petra_city_center.jpg"
- alt="Plan of Petra&amp;#39;s city center">&lt;figcaption>
- &lt;h4>Fig. 2: Plan of Petra&amp;#39;s city center showing the location of the garden and pool complex on the Southern Terrace. Plan by L.-A. Bedal&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/2_arabia_petra_city_center.jpg" alt="Plan of Petra&amp;#39;s city center" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Plan of Petra&amp;#39;s city center showing the location of the garden and pool complex on the Southern Terrace. Plan by L.-A. Bedal&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/3_arabia_petra_garden_plan.jpg"
- alt="Archaeological plan showing garden and pool complex">&lt;figcaption>
- &lt;h4>Fig. 3: Plan of the garden and pool complex, 2018. Permission of L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/3_arabia_petra_garden_plan.jpg" alt="Archaeological plan showing garden and pool complex" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Plan of the garden and pool complex, 2018. Permission of L.-A. Bedal.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/4_arabia_petra_gpr.jpg"
- alt="plan of ground-penetrating radar results">&lt;figcaption>
- &lt;h4>Fig. 4: Horizontal slice of the ground-penetrating radar data showing the location of built features (yellow-orange) on the garden terrace. Permission of L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/4_arabia_petra_gpr.jpg" alt="plan of ground-penetrating radar results" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: Horizontal slice of the ground-penetrating radar data showing the location of built features (yellow-orange) on the garden terrace. Permission of L.-A. Bedal.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/5_arabia_petra_southernterrace.jpg"
- alt="View of the Southern Terrace and its structures">&lt;figcaption>
- &lt;h4>Fig. 5: Aerial view of the structures on the Southern Terrace in Petra&amp;#39;s City Center. Photograph by L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/5_arabia_petra_southernterrace.jpg" alt="View of the Southern Terrace and its structures" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5: Aerial view of the structures on the Southern Terrace in Petra&amp;#39;s City Center. Photograph by L.-A. Bedal.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/6_arabia_petra_pathway.jpg"
- alt="Overhead view of Trench 17">&lt;figcaption>
- &lt;h4>Fig. 6: Excavations in Trench 17 where a gravel pathway with stone border and excavated root cavities were uncovered. Photograph by L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/6_arabia_petra_pathway.jpg" alt="Overhead view of Trench 17" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6: Excavations in Trench 17 where a gravel pathway with stone border and excavated root cavities were uncovered. Photograph by L.-A. Bedal.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/7_arabia_petra_trellis.jpg"
- alt="Imagined reconstruction of the trellised pathway">&lt;figcaption>
- &lt;h4>Fig. 7: Imagined reconstruction of the trellised pathway. Drawing by K. Gleason.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/7_arabia_petra_trellis.jpg" alt="Imagined reconstruction of the trellised pathway" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 7: Imagined reconstruction of the trellised pathway. Drawing by K. Gleason.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/8_arabia_petra_flowerpot.jpg"
- alt="Photo and illustrations of an unglazed ceramic pot with small round hole">&lt;figcaption>
- &lt;h4>Fig. 8: Fragment of a perforated planting pot with reconstruction drawing. Photo and drawing by L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/8_arabia_petra_flowerpot.jpg" alt="Photo and illustrations of an unglazed ceramic pot with small round hole" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 8: Fragment of a perforated planting pot with reconstruction drawing. Photo and drawing by L.-A. Bedal.&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/9_arabia_petra_garden_fresco.jpg"
- alt="Painted ceiling in a vaulted room.">&lt;figcaption>
- &lt;h4>Fig. 9: Garden trellis painting at Little Petra. Photograph by L.-A. Bedal.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/petra/9_arabia_petra_garden_fresco.jpg" alt="Painted ceiling in a vaulted room." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 9: Garden trellis painting at Little Petra. Photograph by L.-A. Bedal.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="tables">Tables&lt;/h3>
 &lt;p>Table 1: Taxa identified from the Petra Garden and Pool Complex. (from Ramsey and Bedal 2015)&lt;/p>
 &lt;style>

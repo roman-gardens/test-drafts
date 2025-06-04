@@ -51,27 +51,30 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>N 39 53' 10” W 2° 48' 45”
 Monumental baths about 88 meters long and 40 meters wide were built in Flavian times in the north end of the city. Immediately after the entry came a large peristyle courtyard. Perhaps it was a garden but could also have been primarily a palestra. At the end away from the entrance and towards the baths proper was found the base of a statue.&lt;/p>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/segobriga/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_seg_bath_fig1.jpg"
- alt="Fig. 1: Segobriga: Plan of the Flavian baths.">&lt;figcaption>
- &lt;h4>Fig. 1: Segobriga: Plan of the Flavian baths. From Spanisharts website.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/segobriga/his_tar_seg_bath_fig1.jpg" alt="Fig. 1: Segobriga: Plan of the Flavian baths." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Segobriga: Plan of the Flavian baths. From Spanisharts website.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_seg_bath_fig2.jpg"
- alt="Fig 2. Segobriga. looking north over, from left to right, the edifice for the imperial cult, the peristyle of the baths, the beginning of the baths proper, and the hermitage built above the caldarium of the baths.">&lt;figcaption>
- &lt;h4>Fig 2. Segobriga. looking north over, from left to right, the edifice for the imperial cult, the peristyle of the baths, the beginning of the baths proper, and the hermitage built above the caldarium of the baths. Photo Juan Manuel Abascal or Rosario Cebrián. From Cervantesvirtual website.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/segobriga/his_tar_seg_bath_fig2.jpg" alt="Fig 2. Segobriga. looking north over, from left to right, the edifice for the imperial cult, the peristyle of the baths, the beginning of the baths proper, and the hermitage built above the caldarium of the baths." onclick="fullscreen(this)">
+ &lt;figcaption>Fig 2. Segobriga. looking north over, from left to right, the edifice for the imperial cult, the peristyle of the baths, the beginning of the baths proper, and the hermitage built above the caldarium of the baths. Photo Juan Manuel Abascal or Rosario Cebrián. From Cervantesvirtual website.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Flavian times（A.D 69–96）&lt;/p>
 &lt;h3 id="bibliography-1">Bibliography&lt;/h3>

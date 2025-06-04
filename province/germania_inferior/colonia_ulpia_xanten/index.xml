@@ -21,27 +21,30 @@
 &lt;p>Between the buildings were open areas, some paved and equipped with ovens and pottery kilns, wells and latrines, others unpaved. Some of the small courtyards have been reconstructed by the excavators as kitchen gardens and shrine gardens (Image 1). Organic material from a well in this &lt;em>insula&lt;/em> included the remains of peas, beans, lentils, apples, pears and herbs. These fruits and vegetables may have grown in kitchen gardens in the &lt;em>insula&lt;/em>, but they may, on the other hand, have been brought into the city from nearby farms.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_inferior/colonia_ulpia_xanten/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/xanten_insula7_plan1_EUR_GI_ColUlpTra_Hi7_carroll.jpg"
- alt="Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. Right statement.">&lt;figcaption>
- &lt;h4>Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. The black dots are wells. Adapted from Precht and Rüger 1991. Rights statement.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_inferior/colonia_ulpia_xanten/xanten_insula7_plan1_EUR_GI_ColUlpTra_Hi7_carroll.jpg" alt="Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. Right statement." onclick="fullscreen(this)">
+ &lt;figcaption>Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. The black dots are wells. Adapted from Precht and Rüger 1991. Rights statement.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/xanten_insula7_image1_GER_INF_ColUlpTra_Fig%202.jpg"
- alt="Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll.">&lt;figcaption>
- &lt;h4>Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_inferior/colonia_ulpia_xanten/xanten_insula7_image1_GER_INF_ColUlpTra_Fig%202.jpg" alt="Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll." onclick="fullscreen(this)">
+ &lt;figcaption>Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll.&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Unspecified&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>

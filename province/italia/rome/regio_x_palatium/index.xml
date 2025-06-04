@@ -43,12 +43,13 @@
 &lt;!-- -->
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/severan_complex_fig1.jpg"
- alt="Plan of the Palatine">&lt;figcaption>
- &lt;h4>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/severan_complex_fig1.jpg" alt="Plan of the Palatine" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;p>###Dates&lt;/p>
 &lt;p>1st century CE to 4th century CE&lt;/p>
@@ -130,33 +131,37 @@ fed by a series of large &lt;a href="http://vocab.getty.edu/page/aat/300052558">
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/palatine_stadium_fig1.jpg"
- alt="Plan of the Palatine">&lt;figcaption>
- &lt;h4>Fig. 1.	Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/palatine_stadium_fig1.jpg" alt="Plan of the Palatine" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1.	Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/palatine_stadium_fig2.jpg"
- alt="Photograph of the stadium">&lt;figcaption>
- &lt;h4>Fig. 2.	The “Stadium.” (Photo SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/palatine_stadium_fig2.jpg" alt="Photograph of the stadium" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2.	The “Stadium.” (Photo SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/palatine_stadium_fig3.jpg"
- alt="Photograph of the stadium">&lt;figcaption>
- &lt;h4>Fig. 3.	The so-called Hera Borghese. (Photo SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/palatine_stadium_fig3.jpg" alt="Photograph of the stadium" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3.	The so-called Hera Borghese. (Photo SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/palatine_stadium_fig4.jpg"
- alt="Reconstruction of the stadium">&lt;figcaption>
- &lt;h4>Fig. 4.	Hypothetical reconstruction of the “Stadium” (after C. Huelsen, Forum und Palatin, Munch 1926, plate 58).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/palatine_stadium_fig4.jpg" alt="Reconstruction of the stadium" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4.	Hypothetical reconstruction of the “Stadium” (after C. Huelsen, Forum und Palatin, Munch 1926, plate 58).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>81-92 CE&lt;/p>
@@ -239,40 +244,45 @@ etc.) in precious &lt;a href="http://vocab.getty.edu/page/aat/300011443">marbles
  &lt;!-- -->
  &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/domus_augustana_fig1.jpg"
- alt="Plan of the Palatine">&lt;figcaption>
- &lt;h4>Fig. 1. Plan of the Palatine with the indication of the garden area of the Lower Peristyle (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/domus_augustana_fig1.jpg" alt="Plan of the Palatine" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Plan of the Palatine with the indication of the garden area of the Lower Peristyle (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/domus_augustana_fig2.jpg"
- alt="Plan of the Palatine">&lt;figcaption>
- &lt;h4>Fig. 2. Plan of the Palatine with the indication of the garden area of the Upper Peristyle (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/domus_augustana_fig2.jpg" alt="Plan of the Palatine" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. Plan of the Palatine with the indication of the garden area of the Upper Peristyle (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/domus_augustana_fig3.jpg"
- alt="View of the Domus Augustana lower peristyle">&lt;figcaption>
- &lt;h4>Fig. 9	Domus Augustana. Lower peristyle. (Photo SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/domus_augustana_fig3.jpg" alt="View of the Domus Augustana lower peristyle" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 9	Domus Augustana. Lower peristyle. (Photo SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/domus_augustana_fig4.jpg"
- alt="View of the Domus Augustana upper peristyle">&lt;figcaption>
- &lt;h4>Fig. 10	Domus Augustana. Upper peristyle. (Photo SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/domus_augustana_fig4.jpg" alt="View of the Domus Augustana upper peristyle" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 10	Domus Augustana. Upper peristyle. (Photo SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/domus_augustana_fig5.jpg"
- alt="Reconstruction of the upper peristyle of the Domus Augustana">&lt;figcaption>
- &lt;h4>Fig. 11 Upper peristyle of the Domus Augustana: Hypothetical reconstruction. (G. de Angelis D’Ossat, 1932).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/domus_augustana_fig5.jpg" alt="Reconstruction of the upper peristyle of the Domus Augustana" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 11 Upper peristyle of the Domus Augustana: Hypothetical reconstruction. (G. de Angelis D’Ossat, 1932).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>92 CE&lt;/p>
@@ -359,26 +369,29 @@ etc.) in precious &lt;a href="http://vocab.getty.edu/page/aat/300011443">marbles
 &lt;!-- -->
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/domus_flavia_fig1.jpg"
- alt="Plan of the Palatine">&lt;figcaption>
- &lt;h4>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/domus_flavia_fig1.jpg" alt="Plan of the Palatine" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/domus_flavia_fig2.jpg"
- alt="View of the Domus Flavia peristyle">&lt;figcaption>
- &lt;h4>Fig. 2. View of the Domus Flavia peristyle. Photograph of the Soprintendenza Archeologica di Roma.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/domus_flavia_fig2.jpg" alt="View of the Domus Flavia peristyle" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. View of the Domus Flavia peristyle. Photograph of the Soprintendenza Archeologica di Roma.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/domus_flavia_fig3.jpg"
- alt="Nymphaeum of the Domus Flavia">&lt;figcaption>
- &lt;h4>Fig. 3. Western nymphaeum after restoration (Photo SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/domus_flavia_fig3.jpg" alt="Nymphaeum of the Domus Flavia" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3. Western nymphaeum after restoration (Photo SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st c- 5th c CE&lt;/p>
@@ -453,19 +466,21 @@ Esquiline Hill &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilinu
 &lt;!-- -->
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/domus_transitoria_fig1.jpg"
- alt="Plan of the Palatine">&lt;figcaption>
- &lt;h4>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/domus_transitoria_fig1.jpg" alt="Plan of the Palatine" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/domus_transitoria_fig2.jpg"
- alt="Reconstruction of the Domus Transitoria Nymphaeum">&lt;figcaption>
- &lt;h4>Fig. 2. Nymphaeum of the Domus Transitoria. Hypothetical reconstruction by C. Evans (1936).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/domus_transitoria_fig2.jpg" alt="Reconstruction of the Domus Transitoria Nymphaeum" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. Nymphaeum of the Domus Transitoria. Hypothetical reconstruction by C. Evans (1936).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st century CE&lt;/p>
@@ -559,33 +574,37 @@ Esquiline Hill &lt;a href="https://pleiades.stoa.org/places/679976755">Esquilinu
 &lt;!-- -->
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/domus_tiberiana_fig1.jpg"
- alt="Plan of the Palatine">&lt;figcaption>
- &lt;h4>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/domus_tiberiana_fig1.jpg" alt="Plan of the Palatine" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/domus_tiberiana_fig2.jpg"
- alt="Aerial view of the Palatine">&lt;figcaption>
- &lt;h4>Fig. 2. Aerial views of the Domus Tiberiana on the Palatine. Palatine Museum (Photo SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/domus_tiberiana_fig2.jpg" alt="Aerial view of the Palatine" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. Aerial views of the Domus Tiberiana on the Palatine. Palatine Museum (Photo SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/domus_tiberiana_fig3.jpg"
- alt="Herms of the Palatine">&lt;figcaption>
- &lt;h4>Fig. 3. Herms from the Palatine. Palatine Museum (Photo SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/domus_tiberiana_fig3.jpg" alt="Herms of the Palatine" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3. Herms from the Palatine. Palatine Museum (Photo SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/domus_tiberiana_fig4.jpg"
- alt="Basin of the Domus Tiberiana">&lt;figcaption>
- &lt;h4>Fig. 4. Oval pool in the southeast corner of the gardens (Photo Moscioni 246A).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/domus_tiberiana_fig4.jpg" alt="Basin of the Domus Tiberiana" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4. Oval pool in the southeast corner of the gardens (Photo Moscioni 246A).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st century- 3rd century CE&lt;/p>
@@ -724,54 +743,61 @@ E.R. Macaulay&lt;/p>
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/flavianpalace_fig1.jpg"
- alt="Reconstruction of the Vigna Barberini">&lt;figcaption>
- &lt;h4>Fig. 1. Reconstruction of the Flavian Palace with, in the forefront, the main body of the complex excavated at the Vigna Barberini. (© N. André, AMU-CNRS, IRAA).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/flavianpalace_fig1.jpg" alt="Reconstruction of the Vigna Barberini" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Reconstruction of the Flavian Palace with, in the forefront, the main body of the complex excavated at the Vigna Barberini. (© N. André, AMU-CNRS, IRAA).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/flavianpalace_fig2.jpg"
- alt="Reconstruction of the Vigna Barberini">&lt;figcaption>
- &lt;h4>Fig. 2. Map and hypothetical reconstruction of the structures and garden excavated on the site of the Vigna Barberini (© N. André, AMU-CNRS, IRAA).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/flavianpalace_fig2.jpg" alt="Reconstruction of the Vigna Barberini" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. Map and hypothetical reconstruction of the structures and garden excavated on the site of the Vigna Barberini (© N. André, AMU-CNRS, IRAA).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/flavianpalace_fig3.jpg"
- alt="Reconstruction of the Flavian Palace">&lt;figcaption>
- &lt;h4>Fig. 3.	Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend &amp;amp; N. André, AMU-CNRS, IRAA).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/flavianpalace_fig3.jpg" alt="Reconstruction of the Flavian Palace" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3.	Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend &amp;amp; N. André, AMU-CNRS, IRAA).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/flavianpalace_fig4.jpg"
- alt="Southern Facing Reconstruction of the Flavian Palace">&lt;figcaption>
- &lt;h4>Fig. 4. Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend &amp;amp; N. André, AMU-CNRS, IRAA).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/flavianpalace_fig4.jpg" alt="Southern Facing Reconstruction of the Flavian Palace" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4. Hypothetical reconstruction of the Flavian garden (© J.-M. Gassend &amp;amp; N. André, AMU-CNRS, IRAA).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/flavianpalace_fig5.jpg"
- alt="Marble Fountain Base">&lt;figcaption>
- &lt;h4>Fig. 5. Marble base of a fountain with circular imprint of basin.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/flavianpalace_fig5.jpg" alt="Marble Fountain Base" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5. Marble base of a fountain with circular imprint of basin.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/flavianpalace_fig6.jpg"
- alt="Flowerpots of the Flavian Palace">&lt;figcaption>
- &lt;h4>Fig. 6. 	Flowerpots found in the gardens of the first and second century (© Ch. Durand, AMU-CNRS, CCJ).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/flavianpalace_fig6.jpg" alt="Flowerpots of the Flavian Palace" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6. 	Flowerpots found in the gardens of the first and second century (© Ch. Durand, AMU-CNRS, CCJ).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/flavianpalace_fig7.jpg"
- alt="Detail Marble Canal of the Flavian Palace">&lt;figcaption>
- &lt;h4> Fig. 7. Detail of the marble canal along the outer edge of the portico.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/flavianpalace_fig7.jpg" alt="Detail Marble Canal of the Flavian Palace" onclick="fullscreen(this)">
+ &lt;figcaption> Fig. 7. Detail of the marble canal along the outer edge of the portico.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;!-- -->
@@ -856,19 +882,21 @@ Françoise Villedieu&lt;/p>
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/jc_domus_fig1.jpg"
- alt="Column base of Julio-Claudian domus">&lt;figcaption>
- &lt;h4> Figure 1. Peristyle column marble base of the Julio-Claudian domus. Photograph from Villedieu et al, 2001, Figure 14.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/jc_domus_fig1.jpg" alt="Column base of Julio-Claudian domus" onclick="fullscreen(this)">
+ &lt;figcaption> Figure 1. Peristyle column marble base of the Julio-Claudian domus. Photograph from Villedieu et al, 2001, Figure 14.&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/jc_domus_fig2.jpg"
- alt="Reconstruction of the Julio-Claudian domus">&lt;figcaption>
- &lt;h4>Figure 2. Axonometric reconstruction of the domus peristyle (© J.-M. Gassend, AMU-CNRS, IRAA).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/jc_domus_fig2.jpg" alt="Reconstruction of the Julio-Claudian domus" onclick="fullscreen(this)">
+ &lt;figcaption>Figure 2. Axonometric reconstruction of the domus peristyle (© J.-M. Gassend, AMU-CNRS, IRAA).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st century BCE- 1st century CE&lt;/p>
@@ -931,19 +959,21 @@ Françoise Villedieu&lt;/p>
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/vigna_barberini_fig1.jpg"
- alt="Aerial photograph of the Vigna Barberini">&lt;figcaption>
- &lt;h4>Fig. 1. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/vigna_barberini_fig1.jpg" alt="Aerial photograph of the Vigna Barberini" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/vigna_barberini_fig2.jpg"
- alt="Plan of the Vigna Barberini">&lt;figcaption>
- &lt;h4>Fig. 2. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/vigna_barberini_fig2.jpg" alt="Plan of the Vigna Barberini" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. Aerial photograph of the Vigna Barberini taken early 1999 (© Soprintendenza Archeologica di Roma).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st century BCE- 2nd century CE&lt;/p>
@@ -1042,26 +1072,29 @@ Françoise Villedieu&lt;/p>
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/house_augustus_fig1.jpg"
- alt="Plan of the Palatine">&lt;figcaption>
- &lt;h4>Fig. 1.	Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/house_augustus_fig1.jpg" alt="Plan of the Palatine" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1.	Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/house_augustus_fig2.jpg"
- alt="Nymphaeum inside the House of Augustus">&lt;figcaption>
- &lt;h4>Fig. 2. Nymphaeum inside the House of Augustus (Photo SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/house_augustus_fig2.jpg" alt="Nymphaeum inside the House of Augustus" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. Nymphaeum inside the House of Augustus (Photo SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/house_augustus_fig3.jpg"
- alt="Yellow frieze of the House of Livia">&lt;figcaption>
- &lt;h4>Fig. 3. House of Livia. Right ala with detail of the “yellow frieze”. (Photo SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/house_augustus_fig3.jpg" alt="Yellow frieze of the House of Livia" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3. House of Livia. Right ala with detail of the “yellow frieze”. (Photo SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st century BCE&lt;/p>
@@ -1204,54 +1237,61 @@ Françoise Villedieu&lt;/p>
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/elagabalium_fig1.jpg"
- alt="Reconstruction of the Vigna Barberini complex">&lt;figcaption>
- &lt;h4>Fig. 1. Reconstruction of the late monumental complex (©. P. Veltri, EFR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/elagabalium_fig1.jpg" alt="Reconstruction of the Vigna Barberini complex" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Reconstruction of the late monumental complex (©. P. Veltri, EFR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/elagabalium_fig2.jpg"
- alt="Reconstruction of the Vigna Barberini complex">&lt;figcaption>
- &lt;h4>Fig. 2. Reconstruction of the late monumental complex (©. P. Veltri, EFR)..&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/elagabalium_fig2.jpg" alt="Reconstruction of the Vigna Barberini complex" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2. Reconstruction of the late monumental complex (©. P. Veltri, EFR)..&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/elagabalium_fig3.jpg"
- alt="Southern Wall of Heliogabalium">&lt;figcaption>
- &lt;h4>Fig. 3.	View of the southern wall, which separated the Heliogabalium from the Domus Augustana (© Ch. Durand, AMU-CNRS, CCJ).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/elagabalium_fig3.jpg" alt="Southern Wall of Heliogabalium" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3.	View of the southern wall, which separated the Heliogabalium from the Domus Augustana (© Ch. Durand, AMU-CNRS, CCJ).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/elagabalium_fig4.jpg"
- alt="Reconstruction of the Temple Garden">&lt;figcaption>
- &lt;h4>Fig. 4. Reconstruction of the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA &amp;amp; P. Veltri, EFR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/elagabalium_fig4.jpg" alt="Reconstruction of the Temple Garden" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4. Reconstruction of the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA &amp;amp; P. Veltri, EFR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/elagabalium_fig5.jpg"
- alt="Amphora Severan Gardens">&lt;figcaption>
- &lt;h4>Fig. 5. Halved amphorae used as flowerpots in the Severan gardens (© Ch. Durand, AMU-CNRS, CCJ).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/elagabalium_fig5.jpg" alt="Amphora Severan Gardens" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 5. Halved amphorae used as flowerpots in the Severan gardens (© Ch. Durand, AMU-CNRS, CCJ).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/elagabalium_fig6.jpg"
- alt="Reconstruction of the Elagabalium Garden">&lt;figcaption>
- &lt;h4>Fig. 6. Reconstruction of part of the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA &amp;amp; P. Veltri, EFR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/elagabalium_fig6.jpg" alt="Reconstruction of the Elagabalium Garden" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 6. Reconstruction of part of the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA &amp;amp; P. Veltri, EFR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
-&lt;figure>&lt;img src="../images/elagabalium_fig7.jpg"
- alt="Reconstruction of a tree bed">&lt;figcaption>
- &lt;h4>Fig. 7. Reconstruction of a tree and planting bed in the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/elagabalium_fig7.jpg" alt="Reconstruction of a tree bed" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 7. Reconstruction of a tree and planting bed in the temple garden (© J.-M. Gassend, AMU-CNRS, IRAA).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>c. 190- 240 CE&lt;/p>

@@ -45,19 +45,21 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="garden-description">Garden Description&lt;/h3>
 &lt;p>This fourth-century villa was discovered in 1973. An apse and a figured mosaic with two panthers mark the room on the north corner as probably the triclinium. It did not, however, have a view of the garden but looked along the northeast gallery of the peristyle. That there was a garden is indicated by the presence of a pipe which crossed the northeast portico presumably to supply water for plants or a nymphaeum in the center of the peristyle.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/his_tar_albadalejo_olmilla_fig1.jpg"
- alt="Plan drawing of the Villa en Puente de la Olmilla">&lt;figcaption>
- &lt;h4>Plan drawing of the Villa en Puente de la Olmilla. &lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/albaladejo/his_tar_albadalejo_olmilla_fig1.jpg" alt="Plan drawing of the Villa en Puente de la Olmilla" onclick="fullscreen(this)">
+ &lt;figcaption>Plan drawing of the Villa en Puente de la Olmilla. &lt;/figcaption>
+&lt;/figure>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/albaladejo/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>4C&lt;/p>

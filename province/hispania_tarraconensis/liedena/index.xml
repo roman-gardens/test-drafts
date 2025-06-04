@@ -62,12 +62,13 @@ Blas Taracena Aguirre, 1949, p.16&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/lei_v_romana_fig1.jpg"
- alt="Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls. In some cases these walls were used in the second villa.">&lt;figcaption>
- &lt;h4>Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls. In some cases these walls were used in the second villa.(Clopper Almon, adapted from Taracena.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/liedena/lei_v_romana_fig1.jpg" alt="Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls. In some cases these walls were used in the second villa." onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Villa Romana. Black lines are from the second villa only, grey lines indicate first villa walls. In some cases these walls were used in the second villa.(Clopper Almon, adapted from Taracena.)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1C CE&lt;/p>
 &lt;!---doesn't have ## Bibliography-->

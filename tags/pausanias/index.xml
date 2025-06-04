@@ -35,12 +35,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/isthmia/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 
 ### Plans
 
@@ -49,12 +50,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/isthmia/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;!--
@@ -63,12 +65,13 @@ OLD WAY (DO NOT USE)
 *CAPTION*
 
 NEW WAY ↓↓↓↓
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/isthmia/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
@@ -163,30 +166,33 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 &lt;p>The Greeks in Homer’s &lt;em>Iliad&lt;/em> sacrificed to Artemis at Aulis in Boeotia in the hopes of favorable winds to carry them from Greek shores to Troy (&lt;em>Il.&lt;/em> &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-eng1:2.301-2.335">2.305-310)&lt;/a>. The late 5th century Athenian playwright, Euripides, made reference to the grove of Artemis in his &lt;em>Iphigenia in Aulis&lt;/em> (&lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0006.tlg018.perseus-eng1:185-205">185-186&lt;/a>, &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0006.tlg018.perseus-eng1:1532-1577">1543-1549&lt;/a>). The shrine of Artemis at Aulis was visited by Pausanias in the 2nd century A.D., and he noted white stone statues (presumably marble) of Artemis and palm trees growing in the sanctuary &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:9.19">(9.19.6-8)&lt;/a>. According to him, the fruit was not all edible, as it was in Palestine, but he remarked that the fruit ripened better than the dates in Ionia.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aulis/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans-->
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aulis/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/aulis/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>unspecified&lt;/p>
@@ -236,28 +242,31 @@ The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epiru
 In the center of the building was a large open peristyle courtyard with a long pool (stippled on plan). The courtyard has been reconstructed as a garden (G on plan) in which students and scholars could stroll, and there were almost certainly statues in this area. One is reminded of Vitruvius’ recommendation to plant the open areas between the colonnades of buildings with greenery, which he believed improved the air and made walks in this environment healthy for body and mind &lt;a href="http://data.perseus.org/citations/urn:cts:latinLit:phi1056.phi001.perseus-eng1:5.9.5">(Vitr. 5.9.5.)&lt;/a>. The building bears a strong resemblance typologically, and very likely thematically, to the late Hellenistic/early Roman gymnasium outside the city in the &lt;a href="#">Academy&lt;/a>. Pausanias, our literary source for Hadrian’s building projects in Athens, referred to the library as a splendid building with 100 columns, adorned with statues and paintings &lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:1.18.9">(Paus. 1.18.9)&lt;/a>.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/library.jpg"
- alt="plan of the Library of Hadrian with courtyard garden and apsidal pool">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316.&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/library.jpg" alt="plan of the Library of Hadrian with courtyard garden and apsidal pool" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Library of Hadrian with its courtyard garden (G) and apsidal pool (stippled). Adapted from Travlos 1971, fig. 316.&lt;/figcaption>
+&lt;/figure>
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd century CE and later&lt;/p>

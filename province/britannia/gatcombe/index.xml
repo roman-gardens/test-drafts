@@ -25,12 +25,13 @@ A sublocation is any area larger than an individual garden, but located within a
 ### Maps
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/Gatcombe_fig_12_or_8.1.jpg"
- alt="Fig. 1: Plan of the farm with villa buildings (A).">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the farm with villa buildings (A).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/gatcombe/Gatcombe_fig_12_or_8.1.jpg" alt="Fig. 1: Plan of the farm with villa buildings (A)." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the farm with villa buildings (A).&lt;/figcaption>
+&lt;/figure>
 &lt;!--
 ### Images
 -->

@@ -38,12 +38,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>A fragment of a little ornamental stone &lt;em>krater&lt;/em> was found in the material that filled the east peristyle after its abandonment. From late antiquity is the foundation of a pool or cistern of about 3.5 by 2.5 meters. Its stones have been removed, and only the &lt;em>opus signinum&lt;/em> mortar bearing the imprint of the stones has been found. This structure pierced through all the archaeological levels and into the natural earth.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/vesontio/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;p>&lt;span style="color:red"> Images not available (?) &lt;/span>&lt;/p>
@@ -52,12 +53,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;/ul>
 &lt;!--### Images-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/vesontio/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Gardens: Beginning and last third of second century&lt;/p>
@@ -121,21 +123,23 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>At the beginning of the third century, the two &lt;em>domus&lt;/em> were transformed. In particular, polychrome mosaics were installed in the east house and rooms with hypocausts in the north house. The little shrine or monument at the western end of the garden was eliminated, but the pool was reconstructed without alteration. The paving stones that had been in a pool were in part removed and used to build a 3.8 x 2.9 meter platform which served as the base, presumably, of a quadrangular fountain in the north house in an open space which replaced the peristyle, which was then destroyed.&lt;/p>
 &lt;!--### Maps-->
 &lt;!--
-&lt;figure>&lt;img src="../images/image_name.ext"
- alt="alt_text">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/vesontio/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;!--### Plans-->
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/vesontio/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="images">Images&lt;/h3>
 &lt;p>&lt;span style="color:red"> Images not available (?) &lt;/span>&lt;/p>

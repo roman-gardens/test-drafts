@@ -43,12 +43,13 @@
 &lt;!-- -->
 &lt;!-- -->
 &lt;h3 id="figures">Figures&lt;/h3>
-&lt;figure>&lt;img src="../images/severan_complex_fig1.jpg"
- alt="Plan of the Palatine">&lt;figcaption>
- &lt;h4>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_x_palatium/severan_complex_fig1.jpg" alt="Plan of the Palatine" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1. Plan of the Palatine with the indication of the garden areas (Drawing Coop. Modus. Reworking E. Boschi. Soprintendenza Archeologica di Roma, henceforth abbreviated as SAR).&lt;/figcaption>
+&lt;/figure>
 &lt;!-- -->
 &lt;p>###Dates&lt;/p>
 &lt;p>1st century CE to 4th century CE&lt;/p>
@@ -77,12 +78,13 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/cuicul/">Cuicul&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/305068">Cuicul (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/cuicul_house_of_europa.jpg"
- alt="Plan of Cuicul.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_europa.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city of Cuicul, modern Djemila in Algeria, was a Roman colony founded by Trajan at the beginning of the second century. It was located near the western frontier of Numidia, at a crossroads near the High Plain of Setif and quite south of the actual “Little Kabylie” region. The original city center was constructed on a spur set between two merging wadi, the Gergour and the Betame, at an altitude of about eight hundred meters above sea level, surrounded by mountains more than a thousand meters above sea level. There are snow falls and freezing cold in winter and plenty of water. For the most part, the climate exc1udes plants which cannot stand the frost; however, we can infer the presence of olive plantations due to the number of olive presses found throughout the town.&lt;/p>
 &lt;!--## Sublocation-->
@@ -106,25 +108,28 @@
 &lt;p>Room 18 enjoyed a spectacular view toward the terraced fountains and plants. It was paved with mosaics from both the early and late Empire periods, remnants of which have been found. In the fifth century, room 13 was transformed into a triclinium opening towards the west and was paved with a mosaic of Europa.&lt;/p>
 &lt;p>Above a vaulted cellar (Fig. 1, label IX), probably dating to the second century, a terrace overlooked the peristyle courtyard towards the south. It might have been used as a hanging garden, possibly decorated with potted plants.&lt;/p>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_europa_plan1.jpg"
- alt="Plan of the House of Europa.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Europa (Blanchard-Lemée, M., 1975, fig.49)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plan1.jpg" alt="Plan of the House of Europa." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Europa (Blanchard-Lemée, M., 1975, fig.49)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_europa_plant1.jpg"
- alt="View of the peristyle of the house.">&lt;figcaption>
- &lt;h4>Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant1.jpg" alt="View of the peristyle of the house." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/house_of_europa_plant.jpg"
- alt="View of planter d.">&lt;figcaption>
- &lt;h4>Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant.jpg" alt="View of planter d." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd-5th century CE&lt;/p>
 &lt;h4 id="excavation-dates">Excavation Dates&lt;/h4>
@@ -152,12 +157,13 @@
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/thamugadi/">Thamugadi&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/334636">Thamugadi (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/timgad_city_plan_hermaphrodite_house.jpg"
- alt="Plan of Thamugadi.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_hermaphrodite_house.jpg" alt="Plan of Thamugadi." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p>
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
@@ -181,36 +187,40 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The large house was laid out around a large peristyle of 22 columns. In the axis of the &lt;em>triclinium&lt;/em> was a rectangular pool. The courtyard may have been planted (Plan view, Fig. 1).&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/hermaphrodite_house.jpg"
- alt="Plan of the Hermaphrodite House at Thamugadi; Les mosaïques de Timgad, p. 65, fig. 7.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Hermaphrodite House (Germain, S., 1969, fig. 7)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/hermaphrodite_house.jpg" alt="Plan of the Hermaphrodite House at Thamugadi; Les mosaïques de Timgad, p. 65, fig. 7." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Hermaphrodite House (Germain, S., 1969, fig. 7)&lt;/figcaption>
+&lt;/figure>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>3rd century CE?&lt;/p>
@@ -239,12 +249,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/thamugadi/">Thamugadi&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/334636">Thamugadi (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/timgad_city_plan_house_of_the_sertius.jpg"
- alt="Plan of Thamugadi.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_house_of_the_sertius.jpg" alt="Plan of Thamugadi." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p>
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
@@ -269,36 +280,40 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>This large &lt;em>domus&lt;/em> the result of the combining of two houses, is located at the periphery of the center of the city. The &lt;em>domus&lt;/em> is laid out around two peristyles. The first, near the vestibule had a long rectangular basin placed in the axis of the &lt;em>triclinium&lt;/em>, the two strips that bordered the pool may have been planted. The second peristyle with 8 columns had a semi-circular basin (Plan view Fi.1).&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of%20_sertius.jpg"
- alt="Plan of the House of Sertius at Thamugadi; rights statement">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Sertius (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/house_of%20_sertius.jpg" alt="Plan of the House of Sertius at Thamugadi; rights statement" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Sertius (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)&lt;/figcaption>
+&lt;/figure>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>3rd-5th century CE?&lt;/p>
@@ -328,12 +343,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/thamugadi/">Thamugadi&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/334636">Thamugadi (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/timgad_city_plan_house_of_the_warehouse.jpg"
- alt="Plan of Thamugadi.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_house_of_the_warehouse.jpg" alt="Plan of Thamugadi." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p>
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
@@ -358,36 +374,40 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The S part of the &lt;em>domus&lt;/em> was probably added in a latter period. It presents a peristyle (B) on which a reception room (C) projected and a series of galleries terminating with an apsidal form. The N peristyle (A) had four porticoes, the S gallery was a continuous colonnade that crossed the W and E porticoes. On the N and W, a vestibule and reception rooms opened towards the peristyle (A). A large rectangular basin oriented NS was placed on the axis of the vestibule, which projected into the courtyard. It seems that the S reception room (C) opened also toward the N peristyle (A). Along the NS axis a semi-circular basin projecting into the peristyle (B) and facing a reception room was placed in between the fourth and the fifth columns. The courtyards of the peristyles may have been planted.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_the_warehouse.jpg"
- alt="Plan of the House of the Warehouse at Thamugadi; Les mosaïques de Timgad, p. 88, fig. 12">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of the Warehouse (Germain, S., 1969, fig. 12)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/house_of_the_warehouse.jpg" alt="Plan of the House of the Warehouse at Thamugadi; Les mosaïques de Timgad, p. 88, fig. 12" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of the Warehouse (Germain, S., 1969, fig. 12)&lt;/figcaption>
+&lt;/figure>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>Unspecified&lt;/p>
@@ -416,12 +436,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/numidia/thamugadi/">Thamugadi&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/334636">Thamugadi (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/timgad_city_plan_water_sanctuary.jpg"
- alt="Plan of Thamugadi.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_water_sanctuary.jpg" alt="Plan of Thamugadi." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>Timgad, ancient Thamugadi was founded as a colony under Trajan. The city had a checker board plan, that measured 11ha. In the center was the forum with its Curia, an imperial temple and the basilica. Between the IInd and the IVth century the city expanded out of its original layout. Temples, baths and a market were built and the center of the city was renovated with the construction of the library, the market and luxurious houses. At the end of the IVth century the bishop Optatus of Timgad a prominent member of the donatist church constructed the great west basilica. During the Byzantine conquest a fortress was erected on the water sanctuary dating to the IIIrd and IVth century.&lt;/p>
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
@@ -447,36 +468,40 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of the city. An inscription that was discovered during the Byzantine fort excavations enumerates the embellishments that were undertaken in 213 by the city of Timgad for the sanctuary, Aqua Septimiana Felix: one of which, a bronze balustrade surrounding the spring (a pool with marble slabs of 3,6 m x 13, 60 m) and a &lt;em>viridarium&lt;/em> surrounded by porticoes decorated with paintings (&lt;em>porticus virdiari (sic) picturis ornatas&lt;/em>).&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/water_sanctuary%20_aqua_eptimania_felix1.jpg"
- alt="Plan of the Water Sanctuary Aqua Septimiana Felix; rights statement">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix (Lassus, J., 1981, fig. 9)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/water_sanctuary%20_aqua_eptimania_felix1.jpg" alt="Plan of the Water Sanctuary Aqua Septimiana Felix; rights statement" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix (Lassus, J., 1981, fig. 9)&lt;/figcaption>
+&lt;/figure>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!--
-&lt;figure>&lt;img src="IMG_URL"
- alt="ALT_TEXT">&lt;figcaption>
- &lt;h4>CAPTION&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;figcaption>CAPTION&lt;/figcaption>
+&lt;/figure>
 -->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>2nd-3rd century CE&lt;/p>
@@ -507,12 +532,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thugga/">THUGGA (Dougga) Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315223">THUGGA (Dougga) Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/dougga_house_of_venus.jpg"
- alt="Plan of Thugga">&lt;figcaption>
- &lt;h4>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_house_of_venus.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>Annexed in 46 B.C., the Romanization of the city of Thugga that was probably a residence of the Numidian kings, was gradual but profound. It became Municipium Thuggense in 205, and was raised to the rank of a Colonia Licinia Septima Aurelia Alexandriana Thuggensesin in 261 under Gallien. Numerous buildings of this city overlooking the valley of the Ouadi Khaled, have been uncovered among them the Capitol dedicated to the Capitoline Triad in 166-67, the theater on the top of the plateau constructed under Antonius Pius, the Temple of Mercury, Fortune, Augustan Piety, Liber Pater, Concordia, Frugifer, Pluto, Saturn and the Temple of Caelestis which stands in the middle of a an olive grove. In the residential areas stands the Licinian Baths with their Palestrae and the Cyclops Baths and the Triumphal Arch of Septimus Severus set astride a street leading down the hill. Two building inscriptions (CIL VIII, 26606 and CIL VIII, 26607), dated to AD 166-169 mention a theater with a basilica, porticoes, and xystis.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -528,12 +554,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>The house of Venus is located at the S of the capitol and is adjacent to the temple of Caracalla’s victory. The house is laid out on two levels (Plan view, Fig. 1). The peristyle garden and the main reception rooms are located on the higher level. A large rectangular pool (V, 2.80x5.45m.) filled most of the space of the garden.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/AFR_Thu_Hv_Wjashemski_color.jpg"
- alt="Plan of the House of Venus">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Venus (CMGR, VII-1, PL. LXXXVIII)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/AFR_Thu_Hv_Wjashemski_color.jpg" alt="Plan of the House of Venus" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Venus (CMGR, VII-1, PL. LXXXVIII)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>3rd-5th century CE?&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -586,12 +613,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;!--### Plans-->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/AFR_Uti_Hc_Wjashemski1.jpg"
- alt="Fig. 1: Plan of the House of the Cascade.">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of the Cascade (CMT, plan 5,7)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hc_Wjashemski1.jpg" alt="Fig. 1: Plan of the House of the Cascade." onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of the Cascade (CMT, plan 5,7)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>1st-2nd century CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
@@ -616,12 +644,13 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thuburbo_maius/">THUBURBO MAIUS (Henchir Kasbat), Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315220">THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/thuburbo_house_of_bacchus_and_ariadne.jpg"
- alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus">&lt;figcaption>
- &lt;h4>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_bacchus_and_ariadne.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a &lt;em>municipium&lt;/em> by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -652,31 +681,35 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>We next consider the identity of the many smaller roots. Since this garden was viewed from the large formal dining room, an effort would have been made to make it beautiful all year round. Fruit trees would have been beautiful in flower or fruit but they are deciduous. Only the olive tree is evergreen. Ornamental plant material in ancient Roman gardens was extremely limited, but the majority of the plants were evergreen and produced beautiful gardens in every season, welcome in winter and refreshingly cool in summer. The plant material in Tunisia was limited for the most part to the laurel, myrtle, rosemary, laurustinus, oleander, acanthus and ivy. There does not seem to be a place in this garden for ivy, but any of the other plants could have been used. Roman gardens had few flowers, especially with color. Roses are pictured in Tunisian mosaics and they may have been used in this garden. The oleander (Nerium oleander L.) with its striking pink flowers is the only colorful garden shrub. It is widespread in all Tunisia and tolerant of variable growing conditions. It seems probable that oleanders, so prominent in modern Tunisian gardens, as well as in the wild, also added color to this garden.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/AFR_Thub_Hba_malek%20fig1.jpg"
- alt="Fig. 1: Plan of the House of Bacchus and Ariadne">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of Bacchus and Ariadne. (CMT, V. II, fasc.4, Pl. XXIV. Jashemski, W. F., 1995, p. 561, fig. 2)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hba_malek%20fig1.jpg" alt="Fig. 1: Plan of the House of Bacchus and Ariadne" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of Bacchus and Ariadne. (CMT, V. II, fasc.4, Pl. XXIV. Jashemski, W. F., 1995, p. 561, fig. 2)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/photography_of_the_decayed_tree_root.jpg"
- alt="Decayed tree root 23 cm in diameter (Photo J. Foss)">&lt;figcaption>
- &lt;h4>Fig. 2: Decayed tree root 23 cm in diameter. (Photo J. Foss, Jashemski, W. F., 1995, fig. 5)&lt;/h4>
- &lt;/figcaption>
+
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/photography_of_the_decayed_tree_root.jpg" alt="Decayed tree root 23 cm in diameter (Photo J. Foss)" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 2: Decayed tree root 23 cm in diameter. (Photo J. Foss, Jashemski, W. F., 1995, fig. 5)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/House_of_Bacchus_and_Ariadne_Detail_Plan.jpg"
- alt="Detail, Plan of courtyard garden, House of Bacchus and Ariadne">&lt;figcaption>
- &lt;h4>Fig. 3: Detail, Plan of courtyard garden, House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 7)&lt;/h4>
- &lt;/figcaption>
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/House_of_Bacchus_and_Ariadne_Detail_Plan.jpg" alt="Detail, Plan of courtyard garden, House of Bacchus and Ariadne" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 3: Detail, Plan of courtyard garden, House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 7)&lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/House_of_Bacchus_and_Ariadne_Drawing.jpg"
- alt="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne">&lt;figcaption>
- &lt;h4>Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 11)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/House_of_Bacchus_and_Ariadne_Drawing.jpg" alt="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 11)&lt;/figcaption>
+&lt;/figure>
 &lt;!--convert photos to jpeg-->
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>5th century CE&lt;/p>
@@ -708,12 +741,13 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 &lt;h2 id="location">Location&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/africa_proconsularis/thuburbo_maius/">THUBURBO MAIUS (Henchir Kasbat), Tunisia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/315220">THUBURBO MAIUS (Henchir Kasbat), Tunisia (Pleiades)&lt;/a>&lt;/p>
-&lt;figure>&lt;img src="../images/thuburbo_house_of_protomes.jpg"
- alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus">&lt;figcaption>
- &lt;h4>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_protomes.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="fullscreen(this)">
+ &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>The city occupies the slopes of a hill in a fertile grain producing area about 50 kilometers to the south of Tunis. Originally a settlement of mercenary soldiers after the fall of Carthage, it was raised to a &lt;em>municipium&lt;/em> by Hadrian (117-138), and to a colony during the rein of Commodus (177-192). The chief public buildings and the most beautiful homes date from this period. After the crisis of the Empire during the third century, Thuburbo saw a rebirth in the fourth century; but as imperial authority declined the city became a mere village.&lt;/p>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -733,12 +767,13 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 &lt;p>The &lt;em>Trifolium&lt;/em> sector, was laid out around a peristyle garden (I-V) enclosed on four sides by a portico of 12 columns. The garden, 35 cm lower than the level of the portico, had a deep rectangular pool (1) and a semicircular basin (2, 3) placed at each end of the garden on the axis of the &lt;em>oecus&lt;/em> (XI). Eight ceramic vases (8 cm in dia., 30 cm deep) embedded in the sides of the pool provided places for the fish to lay eggs and served as shady retreats for the fish. The pool and the basins were paved with mosaics. These have been mostly destroyed, but pieces of the bottom paving of the basin (3) show birds and a hare among cut branches of flowers.&lt;/p>
 &lt;h3 id="maps">Maps&lt;/h3>
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/AFR_Thub_Hp_Wjashemski1.jpg"
- alt="Plan of the House of the Protomes">&lt;figcaption>
- &lt;h4>Fig. 1: Plan of the House of the Protomes (CMT, V. II, fasc.3, plan 4-5)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
 
+
+
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hp_Wjashemski1.jpg" alt="Plan of the House of the Protomes" onclick="fullscreen(this)">
+ &lt;figcaption>Fig. 1: Plan of the House of the Protomes (CMT, V. II, fasc.3, plan 4-5)&lt;/figcaption>
+&lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
 &lt;p>4th century CE&lt;/p>
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
