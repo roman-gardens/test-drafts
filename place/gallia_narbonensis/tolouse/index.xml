@@ -37,8 +37,11 @@ NEW WAY ↓↓↓↓
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/tolouse/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/tolouse/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -46,8 +49,11 @@ NEW WAY ↓↓↓↓
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/tolouse/domus_under_the_hotel_d_assezat.png" alt="Plan of Domus under the Hôtel d’Assézat" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/tolouse/domus_under_the_hotel_d_assezat.png" alt="Plan of Domus under the Hôtel d’Assézat" onclick="fullscreen(this)">
  &lt;figcaption>Plan of Domus under the Hôtel d’Assézat&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

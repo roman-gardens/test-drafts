@@ -29,8 +29,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/carmona/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/carmona/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -39,8 +42,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/carmona/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/carmona/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -48,22 +54,31 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/carmona/7-carmona-plan.png" alt="Figure 7 – Plan of the Elephant tomb at the necropolis of Carmona near Seville. (Rights Statement)" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/carmona/7-carmona-plan.png" alt="Figure 7 – Plan of the Elephant tomb at the necropolis of Carmona near Seville. (Rights Statement)" onclick="fullscreen(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/carmona/8-reconstruction-of-the-tomb.jpg" alt="Figure 8 – Aerial view reconstruction of the tomb. (Rights Statement)" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/carmona/8-reconstruction-of-the-tomb.jpg" alt="Figure 8 – Aerial view reconstruction of the tomb. (Rights Statement)" onclick="fullscreen(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/carmona/9-photo-of-carmona.jpg" alt="Figure 9 – Photo of the Tomb of the Elefant at Carmona. (Rights Statement)" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/carmona/9-photo-of-carmona.jpg" alt="Figure 9 – Photo of the Tomb of the Elefant at Carmona. (Rights Statement)" onclick="fullscreen(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

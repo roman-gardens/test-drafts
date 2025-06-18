@@ -45,8 +45,11 @@ NEW WAY ↓↓↓↓
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/nicopolis/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/nicopolis/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -54,16 +57,22 @@ NEW WAY ↓↓↓↓
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/nicopolis/eur_ach_nicopolis_fig1_plan.jpg" alt="plan of the monument of Augustus" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/nicopolis/eur_ach_nicopolis_fig1_plan.jpg" alt="plan of the monument of Augustus" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: State plan of the monument. Courtesy of K. L. Zachos.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/nicopolis/eur_ach_nicopolis_fig2_pots.jpg" alt="clay planting pots" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/nicopolis/eur_ach_nicopolis_fig2_pots.jpg" alt="clay planting pots" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Clay planting pots. Photo courtesy of K. L. Zachos.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

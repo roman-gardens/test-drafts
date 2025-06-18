@@ -28,16 +28,22 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/arabia_petraea/tyrus/1_arabia_petraea_map.jpg" alt="Map of Petra location" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/1_arabia_petraea_map.jpg" alt="Map of Petra location" onclick="fullscreen(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="plans">Plans&lt;/h3>
 &lt;!-- 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/arabia_petraea/tyrus/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure> -->
 &lt;!--
@@ -47,8 +53,11 @@
 &lt;!-- 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/arabia_petraea/tyrus/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure> -->
 &lt;!--
@@ -57,37 +66,52 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/arabia_petraea/tyrus/2_arabia_tyrus_pavilion_facade.jpg" alt="Facade of the Lion Pavilion" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/2_arabia_tyrus_pavilion_facade.jpg" alt="Facade of the Lion Pavilion" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: The facade of the Lion Pavilion at Tyrus, ʻIraq al-Amir. Photograph by L.-A. Bedal.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/arabia_petraea/tyrus/3_arabia_tyrus_palace.jpg" alt="The Lion Pavilion in Wadi Seer" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/3_arabia_tyrus_palace.jpg" alt="The Lion Pavilion in Wadi Seer" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: The Lion Pavilion at Tyrus, ʻIraq al-Amir. Photograph by L.-A. Bedal.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/arabia_petraea/tyrus/4_arabia_tyrus_dam.jpg" alt="View of the dam and Lion Pavilion" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/4_arabia_tyrus_dam.jpg" alt="View of the dam and Lion Pavilion" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 4: View of the earthen dam constructed to create an artificial lake around Lion Pavilion. Josephus describes landscaped terrace gardens on the surrounding hillsides. Photograph by L.-A. Bedal.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/arabia_petraea/tyrus/5_arabia_tyrus_reflecting_pool.jpg" alt="Model of pavilion and pool" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/5_arabia_tyrus_reflecting_pool.jpg" alt="Model of pavilion and pool" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 5: Model of the Lion Pavilion and reflecting pool. Permission of E. Netzer.&lt;/figcaption>
 &lt;/figure>
 &lt;!--
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/arabia_petraea/tyrus/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/tyrus/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->

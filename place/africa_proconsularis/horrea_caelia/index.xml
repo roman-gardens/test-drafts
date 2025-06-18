@@ -35,8 +35,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/horrea_caelia/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/horrea_caelia/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -44,16 +47,22 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/horrea_caelia/AFR_Hor_Htp_Amalek1.jpg" alt="Plan of the House of Two Peristyles at Horrea Caelia" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/horrea_caelia/AFR_Hor_Htp_Amalek1.jpg" alt="Plan of the House of Two Peristyles at Horrea Caelia" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Two Peristyles. (Ennaïfer, M., Ouertani, N., 2001, fig.2)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/horrea_caelia/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/horrea_caelia/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -62,8 +71,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/horrea_caelia/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/horrea_caelia/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->

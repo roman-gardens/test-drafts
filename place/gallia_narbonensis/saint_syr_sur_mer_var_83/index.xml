@@ -38,8 +38,11 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/saint_syr_sur_mer_var_83/villa_des_baumelles.jpg" alt="Plan of Villa des Baumelles" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/saint_syr_sur_mer_var_83/villa_des_baumelles.jpg" alt="Plan of Villa des Baumelles" onclick="fullscreen(this)">
  &lt;figcaption>Plan of Villa des Baumelles&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

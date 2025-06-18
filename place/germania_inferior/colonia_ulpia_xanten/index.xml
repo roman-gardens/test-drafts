@@ -24,8 +24,11 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/germania_inferior/colonia_ulpia_xanten/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_inferior/colonia_ulpia_xanten/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -33,16 +36,22 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/germania_inferior/colonia_ulpia_xanten/xanten_insula7_plan1_EUR_GI_ColUlpTra_Hi7_carroll.jpg" alt="Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. Right statement." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_inferior/colonia_ulpia_xanten/xanten_insula7_plan1_EUR_GI_ColUlpTra_Hi7_carroll.jpg" alt="Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. Right statement." onclick="fullscreen(this)">
  &lt;figcaption>Plan 1. Plan of the houses in *Insula* 7 with paved (stippled) and unpaved courtyards. The black dots are wells. Adapted from Precht and Rüger 1991. Rights statement.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/germania_inferior/colonia_ulpia_xanten/xanten_insula7_image1_GER_INF_ColUlpTra_Fig%202.jpg" alt="Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_inferior/colonia_ulpia_xanten/xanten_insula7_image1_GER_INF_ColUlpTra_Fig%202.jpg" alt="Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll." onclick="fullscreen(this)">
  &lt;figcaption>Image 1. Model of the houses in *Insula* 7 with courtyard garden. Photo courtesy of M. Carroll.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

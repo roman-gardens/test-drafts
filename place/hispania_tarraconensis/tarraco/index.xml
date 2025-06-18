@@ -53,8 +53,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_tarraconensis/tarraco/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/tarraco/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -132,8 +135,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_tarraconensis/tarraco/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/tarraco/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -141,8 +147,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_tarraconensis/tarraco/his_tar_tar_theater_fig1.jpg" alt="Fig. 1: Plan of the Tarraco Theater." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/tarraco/his_tar_tar_theater_fig1.jpg" alt="Fig. 1: Plan of the Tarraco Theater." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the Tarraco Theater. (No scale or north arrow available.)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

@@ -31,8 +31,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/germania_inferior/voerendaal/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_inferior/voerendaal/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -40,8 +43,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/germania_inferior/voerendaal/voerendaal_plan1_EUR_GI_Voe_Rv_carroll.jpg" alt="Plan 1. Plan of the rural villa with a possible walled garden (G) and its pool (P) south of the house (A). Hedges (rows of dots) enclosed the farmyard. Adapted from Willems 1992, Fig. 307. (Rights statement)." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_inferior/voerendaal/voerendaal_plan1_EUR_GI_Voe_Rv_carroll.jpg" alt="Plan 1. Plan of the rural villa with a possible walled garden (G) and its pool (P) south of the house (A). Hedges (rows of dots) enclosed the farmyard. Adapted from Willems 1992, Fig. 307. (Rights statement)." onclick="fullscreen(this)">
  &lt;figcaption>Plan 1. Plan of the rural villa with a possible walled garden (G) and its pool (P) south of the house (A). Hedges (rows of dots) enclosed the farmyard. Adapted from Willems 1992, Fig. 307. (Rights statement).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>

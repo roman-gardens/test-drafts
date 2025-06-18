@@ -49,16 +49,22 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_tarraconensis/altafulla/his_tar_alt_vr_munts_fig1.jpg" alt="Plan of Villa Romana de Els Munts" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/altafulla/his_tar_alt_vr_munts_fig1.jpg" alt="Plan of Villa Romana de Els Munts" onclick="fullscreen(this)">
  &lt;figcaption>Villa Romana de Els Munts, Altafulla. (Source: Gorges, Planche LVI.)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_tarraconensis/altafulla/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/altafulla/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->

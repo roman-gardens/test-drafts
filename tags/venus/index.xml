@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Venus on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/venus/</link><description>Recent content in Venus on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 22:12:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/venus/index.xml" rel="self" type="application/rss+xml"/><item><title>House of Bacchus, building south of the Great Baths (Maison de Bacchus, édifice au sud des Grands Thermes)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/cuicul/house_of_bacchus/</link><pubDate>Sun, 20 Dec 2020 10:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/cuicul/house_of_bacchus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Venus on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/venus/</link><description>Recent content in Venus on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 23:04:32 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/venus/index.xml" rel="self" type="application/rss+xml"/><item><title>House of Bacchus, building south of the Great Baths (Maison de Bacchus, édifice au sud des Grands Thermes)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/cuicul/house_of_bacchus/</link><pubDate>Sun, 20 Dec 2020 10:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/cuicul/house_of_bacchus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/numidia/">Numidia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/981539">Numidia (Roman province)(Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="province-description">Province Description&lt;/h2>
@@ -9,8 +9,11 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/cuicul_house_of_bacchus.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_bacchus.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
  &lt;figcaption>Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -40,30 +43,42 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_bacchus_plan_new1.jpg" alt="Plan of the House of Bacchus." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_new1.jpg" alt="Plan of the House of Bacchus." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Bacchus (Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_bacchus_plan_photo1.jpg" alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_photo1.jpg" alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: The small peristyle garden B and its semi circular basin (Février, P.-A. – CCJ 62889))&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/pool_and_fish_pool.jpg" alt="The pool and fish pool." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/pool_and_fish_pool.jpg" alt="The pool and fish pool." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: The pool and fish pool (Février, P.-A.– CCJ 62945)&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/fish_pool.jpg" alt="The fish pool." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/fish_pool.jpg" alt="The fish pool." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 4: The fish pool (Février, P.-A.– CCJ 62886)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -100,8 +115,11 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/cuicul_small_baths.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_small_baths.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -126,30 +144,42 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/plan_of_small_baths.jpg" alt="Plan of the Small Baths" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/plan_of_small_baths.jpg" alt="Plan of the Small Baths" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the Small Baths (Blanchard-Lemée, M., 1998, fig. 6)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_bacchus_plan_photo2.jpg" alt="Southern side of the rectangular pool" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_photo2.jpg" alt="Southern side of the rectangular pool" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Southern side of the rectangular pool (Février, P.-A. – CCJ 62881)&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/small_baths_rectangular_pool.jpg" alt="Drawing of reconstruction of the rectangular pool" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/small_baths_rectangular_pool.jpg" alt="Drawing of reconstruction of the rectangular pool" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: Drawing of reconstruction of the rectangular pool (Kahwagi-Janho, H.)&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/venus_djemila.jpg" alt="Venus" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/venus_djemila.jpg" alt="Venus" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 4: Venus (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

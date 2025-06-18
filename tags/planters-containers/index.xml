@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Planters (Containers) on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/planters-containers/</link><description>Recent content in Planters (Containers) on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 22:12:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/planters-containers/index.xml" rel="self" type="application/rss+xml"/><item><title>House of Europa, Central District (Maison d'Europe, Quartier Central)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/cuicul/house_of_europa/</link><pubDate>Sun, 20 Dec 2020 10:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/cuicul/house_of_europa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Planters (Containers) on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/planters-containers/</link><description>Recent content in Planters (Containers) on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 23:04:32 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/planters-containers/index.xml" rel="self" type="application/rss+xml"/><item><title>House of Europa, Central District (Maison d'Europe, Quartier Central)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/cuicul/house_of_europa/</link><pubDate>Sun, 20 Dec 2020 10:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/cuicul/house_of_europa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/numidia/">Numidia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/981539">Numidia (Roman province)(Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="province-description">Province Description&lt;/h2>
@@ -9,8 +9,11 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/cuicul_house_of_europa.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_europa.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -39,23 +42,32 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_europa_plan1.jpg" alt="Plan of the House of Europa." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plan1.jpg" alt="Plan of the House of Europa." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Europa (Blanchard-Lemée, M., 1975, fig.49)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_europa_plant1.jpg" alt="View of the peristyle of the house." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant1.jpg" alt="View of the peristyle of the house." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_europa_plant.jpg" alt="View of planter d." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant.jpg" alt="View of planter d." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -88,8 +100,11 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/timgad_city_plan_house_of_the_planters.jpg" alt="Plan of Thamugadi." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/timgad_city_plan_house_of_the_planters.jpg" alt="Plan of Thamugadi." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Thamugadi (Courtois, C., 1951)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -119,8 +134,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -128,16 +146,22 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/house_of_the_planters1.jpg" alt="Plan of the House of the Planters at Thamugadi; Timgad : une cité africaine sous l&amp;#39;Empire romain, p. 88-92, Plan fig.40" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/house_of_the_planters1.jpg" alt="Plan of the House of the Planters at Thamugadi; Timgad : une cité africaine sous l&amp;#39;Empire romain, p. 88-92, Plan fig.40" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Planters (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 40)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -145,15 +169,21 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/house_of_the_planters_drawing.jpg" alt="Drawing of the courtyard of the House of the Planter; rights statement" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/house_of_the_planters_drawing.jpg" alt="Drawing of the courtyard of the House of the Planter; rights statement" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Drawing of the courtyard of the House of the Planter (Ballu, A., 1897,fig. 36)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/%23" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi; rights statement" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/%23" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi; rights statement" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ). (Rights statement)&lt;/figcaption>
 &lt;/figure>
 -->
@@ -161,8 +191,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/thamugadi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -197,8 +230,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thugga/%23.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/%23.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
  &lt;figcaption>Plan of Thugga (L. Maurin, d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -218,8 +254,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thugga/omni_tibia_felicia_dougga.jpg" alt="Plan of the House Omnia Tibi Felicia" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/omni_tibia_felicia_dougga.jpg" alt="Plan of the House Omnia Tibi Felicia" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House Omnia Tibi Felicia (Les ruines de Dougga, Tunis, 1958, p 45.)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -266,24 +305,33 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/arabia_petraea/hauarra/1_arabia_petraea_map.jpg" alt="Map of Petra location" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/hauarra/1_arabia_petraea_map.jpg" alt="Map of Petra location" onclick="fullscreen(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="plans">Plans&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/arabia_petraea/hauarra/2_hauarra_plan.jpg" alt="Plan of shrine in Insula E125" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/hauarra/2_hauarra_plan.jpg" alt="Plan of shrine in Insula E125" onclick="fullscreen(this)">
  &lt;figcaption>Fig 2: Plan of Shrine Complex in the southeast corner of Insula E125 (Plan by S. Fraser and D. Skinner)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/arabia_petraea/hauarra/3_hauarra_model.jpg" alt="View down a paved path towards a small building" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/hauarra/3_hauarra_model.jpg" alt="View down a paved path towards a small building" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: Shrine Complex in Insula E125 (Reconstruction by C. Kanellopoulos and P. Konstandopoulos)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -336,8 +384,11 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -345,15 +396,21 @@ Another only partially excavated house of the mid-4th century A.D., built into t
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/athens/areopagus1.jpg" alt="plan of an early Roman house with pool and courtyard" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/areopagus1.jpg" alt="plan of an early Roman house with pool and courtyard" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of an early Roman house with its possible garden courtyard and apsidal pool near the Areopagus. Adapted from Thompson and Wycherley 1972, p. 185, fig. 46.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/athens/areopagus2.jpg" alt="courtyard with flowerbeds and surrounding water channel in a late Roman house" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/athens/areopagus2.jpg" alt="courtyard with flowerbeds and surrounding water channel in a late Roman house" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Paved courtyard with its flowerbeds (f) and surrounding water channel (c) in a late Roman house near the Areopagus. Adapted from Frantz 1988, pl.25a.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

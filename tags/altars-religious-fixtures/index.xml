@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Altars (Religious Fixtures) on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/altars-religious-fixtures/</link><description>Recent content in Altars (Religious Fixtures) on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 22:12:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/altars-religious-fixtures/index.xml" rel="self" type="application/rss+xml"/><item><title>Mausoleum Augusti</title><link>https://roman-gardens.github.io/test-drafts/place/italia/rome/regio_ix_circus_flaminius/mausoleum_augusti/</link><pubDate>Mon, 05 Apr 2021 15:00:00 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/rome/regio_ix_circus_flaminius/mausoleum_augusti/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Altars (Religious Fixtures) on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/altars-religious-fixtures/</link><description>Recent content in Altars (Religious Fixtures) on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 23:04:32 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/altars-religious-fixtures/index.xml" rel="self" type="application/rss+xml"/><item><title>Mausoleum Augusti</title><link>https://roman-gardens.github.io/test-drafts/place/italia/rome/regio_ix_circus_flaminius/mausoleum_augusti/</link><pubDate>Mon, 05 Apr 2021 15:00:00 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/rome/regio_ix_circus_flaminius/mausoleum_augusti/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/441075550">Italia, Regio I (Pleiades)&lt;/a>&lt;/p>
@@ -146,24 +146,33 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/rome/regio_ix_circus_flaminius/divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig1.jpg" alt="Photograph of the Severan Forma Urbis depicting the Divorum" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1. Photograph of the Severan Forma Urbis depicting the Divorum. © Stanford Project.&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/rome/regio_ix_circus_flaminius/divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig2_edited.jpg" alt="Reconstructed plan of the Divorum" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2. Reconstructed plan of the Divorum. © Valerie Aymer.&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/rome/regio_ix_circus_flaminius/divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/rome/regio_ix_circus_flaminius/divorum_fig3_placeholder.jpg" alt="Perspective view looking north along the central axis of the Divorum" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3. Perspective view looking north along the central axis. © Valerie Aymer.&lt;/figcaption>
 &lt;/figure>
 &lt;!-- -->
@@ -277,8 +286,11 @@ NEW WAY ↓↓↓↓
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -314,8 +326,11 @@ NEW WAY ↓↓↓↓
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thugga/dougga_the_sanctuary_of_caelestis.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_sanctuary_of_caelestis.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
  &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -336,8 +351,11 @@ NEW WAY ↓↓↓↓
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thugga/the_sanctuary_of_caelestis.jpg" alt="The sanctuary of Caelestis" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_sanctuary_of_caelestis.jpg" alt="The sanctuary of Caelestis" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the sanctuary of Caelestis (From Golvin, J.-C., Khanoussi, M. (dir.) 2005, p. 181, fig. 171])&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -366,8 +384,11 @@ NEW WAY ↓↓↓↓
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thugga/dougga_the_sanctuary_of_minerva.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_the_sanctuary_of_minerva.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
  &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -391,8 +412,11 @@ NEW WAY ↓↓↓↓
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thugga/the_sanctuary_of_minerva_2.jpg" alt="Plan of the sanctuary of Minerva 2" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/the_sanctuary_of_minerva_2.jpg" alt="Plan of the sanctuary of Minerva 2" onclick="fullscreen(this)">
  &lt;figcaption>Fig.1 Plan of the sanctuary of Minerva 2 (From Saint-Amans, S., 2004, p. 216, fig. 2a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -447,8 +471,11 @@ Antiqua, 9), Bordeaux : Ausonius Éditions 2004, pp. 340-341, p. 216, fig. 2a. &
 &lt;!--
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_v/Euro_GaAq_Montreal_Villa%20de%20S%C3%A9viac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_v/Euro_GaAq_Montreal_Villa%20de%20S%C3%A9viac.png" alt="Topographic plan of the Villa de Séviac, a grand villa with a main structure around a vast peristyle, with exterior façade galleries and baths adjacent to a second courtyard to the south." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Topographic Plan of the Villa de Séviac, drawing by M. -P. R., based on the the 1/25000e map of the IGN.&lt;/figcaption>
 &lt;/figure>
 -->

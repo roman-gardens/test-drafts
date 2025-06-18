@@ -32,8 +32,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/egabrum/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/egabrum/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -42,8 +45,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/egabrum/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/egabrum/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -51,22 +57,31 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/egabrum/HIS_BAE_Ega_Hm_plan_CA%20fig1.jpg" alt="Fig. 1: Plan of the House of the Mithra. Source: Gorges, Planche XXXIII. (Rights Statement)" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/egabrum/HIS_BAE_Ega_Hm_plan_CA%20fig1.jpg" alt="Fig. 1: Plan of the House of the Mithra. Source: Gorges, Planche XXXIII. (Rights Statement)" onclick="fullscreen(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/egabrum/HIS_BAE_Ega_Hm_photo_CA%20fig2.jpg" alt="Fig. 2: Photo of the peristyle looking northwest. (Rights Statement)" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/egabrum/HIS_BAE_Ega_Hm_photo_CA%20fig2.jpg" alt="Fig. 2: Photo of the peristyle looking northwest. (Rights Statement)" onclick="fullscreen(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/egabrum/HIS_BAE_Ega_Hm_Mosaic_CA%20fig3.jpg" alt="Fig. 3: Photo of one of the mosaics from the House of Mithra on display at the municipal museum. (Rights Statement)" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/egabrum/HIS_BAE_Ega_Hm_Mosaic_CA%20fig3.jpg" alt="Fig. 3: Photo of one of the mosaics from the House of Mithra on display at the municipal museum. (Rights Statement)" onclick="fullscreen(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

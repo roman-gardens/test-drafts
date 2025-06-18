@@ -33,8 +33,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/lusitania/la_cocosa/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/la_cocosa/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -42,16 +45,22 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/lusitania/la_cocosa/HIS_LUS_LaCocosa_plan%20fig1.jpg" alt="plan of Villa de La Cocosa at La Cocosa Province, Spain." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/la_cocosa/HIS_LUS_LaCocosa_plan%20fig1.jpg" alt="plan of Villa de La Cocosa at La Cocosa Province, Spain." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: La Cocosa section. Structure around perimeter of peristyle. Adapted from Serra Ráfols, figure 4.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/lusitania/la_cocosa/HIS_LUS_LaCocosa_section%20fig2.jpg" alt="" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/la_cocosa/HIS_LUS_LaCocosa_section%20fig2.jpg" alt="" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Plan of the Villa of La Cocosa. Adapted from Serra Rafols.&lt;/figcaption>
 &lt;/figure>
 &lt;!--### Dates-->

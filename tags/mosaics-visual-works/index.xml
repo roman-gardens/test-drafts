@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mosaics (Visual Works) on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/mosaics-visual-works/</link><description>Recent content in Mosaics (Visual Works) on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 22:12:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/mosaics-visual-works/index.xml" rel="self" type="application/rss+xml"/><item><title>Garden Houses (Case a Giardino)</title><link>https://roman-gardens.github.io/test-drafts/place/italia/ostia/case_a_giardino/</link><pubDate>Mon, 08 Feb 2021 19:00:00 -0800</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/ostia/case_a_giardino/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mosaics (Visual Works) on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/mosaics-visual-works/</link><description>Recent content in Mosaics (Visual Works) on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 23:04:32 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/mosaics-visual-works/index.xml" rel="self" type="application/rss+xml"/><item><title>Garden Houses (Case a Giardino)</title><link>https://roman-gardens.github.io/test-drafts/place/italia/ostia/case_a_giardino/</link><pubDate>Mon, 08 Feb 2021 19:00:00 -0800</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/ostia/case_a_giardino/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
@@ -19,8 +19,11 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
  &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -41,36 +44,51 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig10_better_colored.jpg" alt="Plan of the Garden Houses" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig10_better_colored.jpg" alt="Plan of the Garden Houses" onclick="fullscreen(this)">
  &lt;figcaption>Figure 1: Plan (after Ricciardi, Scrinari 1996).&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig11.jpg" alt="Plan of the Garden Houses" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig11.jpg" alt="Plan of the Garden Houses" onclick="fullscreen(this)">
  &lt;figcaption>Figure 2: Fountain (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig12_better.jpg" alt="Plan of the Garden Houses" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig12_better.jpg" alt="Plan of the Garden Houses" onclick="fullscreen(this)">
  &lt;figcaption>Figure 3: Section and reconstruction of fountain (from Civiltà dell&amp;#39; acqua).&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig13.jpg" alt="Photo of mosaic with nilotic scene from Fountain b" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig13.jpg" alt="Photo of mosaic with nilotic scene from Fountain b" onclick="fullscreen(this)">
  &lt;figcaption>Figure 4: Fountain b: mosaic with nilotic scene (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig14.jpg" alt="Photo of the sculpture of a Fisherman on a rock" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig14.jpg" alt="Photo of the sculpture of a Fisherman on a rock" onclick="fullscreen(this)">
  &lt;figcaption>Figure 5: Fisherman on a rock, sculpture from Garden Houses (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -124,8 +142,11 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
  &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -152,29 +173,41 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig3_colored.jpg" alt="Plan of the House of Amor and Psyche" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig3_colored.jpg" alt="Plan of the House of Amor and Psyche" onclick="fullscreen(this)">
  &lt;figcaption>Figure 1: Plan (after Becatti 1961).&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig4.jpg" alt="Photo of Nymphaeum" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig4.jpg" alt="Photo of Nymphaeum" onclick="fullscreen(this)">
  &lt;figcaption>Figure 2: Nymphaeum (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig5_better.jpg" alt="Axonometry" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig5_better.jpg" alt="Axonometry" onclick="fullscreen(this)">
  &lt;figcaption>Figure 3: Axonometry (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives).&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig4b.jpg" alt="Section" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig4b.jpg" alt="Section" onclick="fullscreen(this)">
  &lt;figcaption>Figure 4: Section (R. Jadrić, M. Kolarić, T. Marasović, A Pavlović, 1966, PA-OAnt, Archives).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -229,8 +262,11 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
  &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -266,29 +302,41 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig20_better_colored.jpg" alt="Plan of the Fortuna Annonaria" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig20_better_colored.jpg" alt="Plan of the Fortuna Annonaria" onclick="fullscreen(this)">
  &lt;figcaption>Figure 1: Plan (after Boersma 1985).&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig21_better.jpg" alt="Axonometry of the Fortuna Annonaria" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig21_better.jpg" alt="Axonometry of the Fortuna Annonaria" onclick="fullscreen(this)">
  &lt;figcaption>Figure 2: Axonometry (from Boersma 1985).&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig22.jpg" alt="The garden seen from the oecus" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig22.jpg" alt="The garden seen from the oecus" onclick="fullscreen(this)">
  &lt;figcaption>Figure 3: The garden seen from the oecus (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig23.jpg" alt="Well head with bucrania" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig23.jpg" alt="Well head with bucrania" onclick="fullscreen(this)">
  &lt;figcaption>Figure 4: Well head with bucrania (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -344,8 +392,11 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
  &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -368,8 +419,11 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig2_better_colored.jpg" alt="Plan of the Garden and Houses of the Insula dei Dipinti" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig2_better_colored.jpg" alt="Plan of the Garden and Houses of the Insula dei Dipinti" onclick="fullscreen(this)">
  &lt;figcaption>Figure 1: The Garden and Houses of the Insula dei Dipinti.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -416,8 +470,11 @@ recent excavations&lt;/p>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/cuicul_house_of_asinus_nica.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_asinus_nica.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -446,16 +503,22 @@ recent excavations&lt;/p>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_asinus_nica_plan1.jpg" alt="Plan of the House of Asinus Nica." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_plan1.jpg" alt="Plan of the House of Asinus Nica." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Asinus Nica (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_asinus_nica_photo.jpg" alt="View of the garden." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_asinus_nica_photo.jpg" alt="View of the garden." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -487,8 +550,11 @@ recent excavations&lt;/p>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/cuicul_house_of_bacchus.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_bacchus.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
  &lt;figcaption>Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -518,30 +584,42 @@ recent excavations&lt;/p>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_bacchus_plan_new1.jpg" alt="Plan of the House of Bacchus." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_new1.jpg" alt="Plan of the House of Bacchus." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Bacchus (Dans les jardins de Djemila, Blanchard-Lemée, M., 1998, p. 194, fig. 9)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_bacchus_plan_photo1.jpg" alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_photo1.jpg" alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: The small peristyle garden B and its semi circular basin (Février, P.-A. – CCJ 62889))&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/pool_and_fish_pool.jpg" alt="The pool and fish pool." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/pool_and_fish_pool.jpg" alt="The pool and fish pool." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: The pool and fish pool (Février, P.-A.– CCJ 62945)&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/fish_pool.jpg" alt="The fish pool." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/fish_pool.jpg" alt="The fish pool." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 4: The fish pool (Février, P.-A.– CCJ 62886)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -578,8 +656,11 @@ recent excavations&lt;/p>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/cuicul_house_of_castorius.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_castorius.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -607,23 +688,32 @@ recent excavations&lt;/p>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_castorius_plan1.jpg" alt="Plan of the House of Castorius." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_plan1.jpg" alt="Plan of the House of Castorius." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Castorius (Blanchard-Lemée, M., 1975, fig. 4)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_castorius_photo1.jpg" alt="Southwest corner of the peristyle XVI, the L shaped planted area." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_photo1.jpg" alt="Southwest corner of the peristyle XVI, the L shaped planted area." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_castorius_photo2.jpg" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_castorius_photo2.jpg" alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -655,8 +745,11 @@ recent excavations&lt;/p>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/cuicul_house_of_europa.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_europa.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -685,23 +778,32 @@ recent excavations&lt;/p>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_europa_plan1.jpg" alt="Plan of the House of Europa." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plan1.jpg" alt="Plan of the House of Europa." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Europa (Blanchard-Lemée, M., 1975, fig.49)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_europa_plant1.jpg" alt="View of the peristyle of the house." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant1.jpg" alt="View of the peristyle of the house." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_europa_plant.jpg" alt="View of planter d." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_europa_plant.jpg" alt="View of planter d." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -734,8 +836,11 @@ recent excavations&lt;/p>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/cuicul_house_of_hylas.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_house_of_hylas.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -758,16 +863,22 @@ recent excavations&lt;/p>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_hylas_plan1.jpg" alt="Plan of the House of Hylas. More details are included in the garden description section above." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_hylas_plan1.jpg" alt="Plan of the House of Hylas. More details are included in the garden description section above." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Hylas (Blanchard-Lemée, M., 1975, fig. 77)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_hylas_photo.jpg" alt="View of the corridor and the basin. On the background, the courtyard garden." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_hylas_photo.jpg" alt="View of the corridor and the basin. On the background, the courtyard garden." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: View of the corridor and the basin. On the background, the courtyard garden (Blanchard Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -800,8 +911,11 @@ recent excavations&lt;/p>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/cuicul_small_baths.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/cuicul_small_baths.jpg" alt="Plan of Cuicul." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Cuicul (AOROC, from Février, P.-A., Blanchard-Lemée, M., 2019, fig. 1a)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -826,30 +940,42 @@ recent excavations&lt;/p>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/plan_of_small_baths.jpg" alt="Plan of the Small Baths" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/plan_of_small_baths.jpg" alt="Plan of the Small Baths" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the Small Baths (Blanchard-Lemée, M., 1998, fig. 6)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/house_of_bacchus_plan_photo2.jpg" alt="Southern side of the rectangular pool" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/house_of_bacchus_plan_photo2.jpg" alt="Southern side of the rectangular pool" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Southern side of the rectangular pool (Février, P.-A. – CCJ 62881)&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/small_baths_rectangular_pool.jpg" alt="Drawing of reconstruction of the rectangular pool" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/small_baths_rectangular_pool.jpg" alt="Drawing of reconstruction of the rectangular pool" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: Drawing of reconstruction of the rectangular pool (Kahwagi-Janho, H.)&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/cuicul/venus_djemila.jpg" alt="Venus" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/numidia/cuicul/venus_djemila.jpg" alt="Venus" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 4: Venus (Blanchard-Lemée, M., AOrOc)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -905,58 +1031,82 @@ recent excavations&lt;/p>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/villa_adriana/2_the_canopus_plan.jpg" alt="Plan of the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/2_the_canopus_plan.jpg" alt="Plan of the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: The Canopus plan, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/villa_adriana/3_canopus_autocad.jpg" alt="Autocad rendering of the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/3_canopus_autocad.jpg" alt="Autocad rendering of the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: Autocad rendering of the Canopus, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/villa_adriana/5_canopus_isometric.jpg" alt="Isometric plan of the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/5_canopus_isometric.jpg" alt="Isometric plan of the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 5: Isometry of the Canopus, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/villa_adriana/4_the_canal.jpg" alt="Photograph of the canal at the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/4_the_canal.jpg" alt="Photograph of the canal at the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 4: The canal at the Canopus, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/villa_adriana/6_central_gallery.jpg" alt="Photograph of the central gallery at the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/6_central_gallery.jpg" alt="Photograph of the central gallery at the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 6: The central gallery at the Canopus, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/villa_adriana/7_lateral_pavilion.jpg" alt="Photograph of the lateral pavilion at the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/7_lateral_pavilion.jpg" alt="Photograph of the lateral pavilion at the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 7: The lateral pavilion at the Canopus, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/villa_adriana/8_the_excavation.jpg" alt="Photograph of the excavation at the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/villa_adriana/8_the_excavation.jpg" alt="Photograph of the excavation at the Canopus at Hadrian&amp;#39;s Villa" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 8: The excavation at the Canopus, Eugenia Salza Prina Ricotti.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1041,8 +1191,11 @@ NEW WAY ↓↓↓↓
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1077,8 +1230,11 @@ NEW WAY ↓↓↓↓
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thugga/dougga_house_of_venus.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/dougga_house_of_venus.jpg" alt="Plan of Thugga" onclick="fullscreen(this)">
  &lt;figcaption>Plan of Thugga (Maurin, L., d’après le relevé général de Cl. Poinssot, Les ruines de Dougga, 1959, pl. h. t.)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -1099,8 +1255,11 @@ NEW WAY ↓↓↓↓
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thugga/AFR_Thu_Hv_Wjashemski_color.jpg" alt="Plan of the House of Venus" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thugga/AFR_Thu_Hv_Wjashemski_color.jpg" alt="Plan of the House of Venus" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Venus (CMGR, VII-1, PL. LXXXVIII)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1154,8 +1313,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/utica/AFR_Uti_H_Wjashemski1.jpg" alt="Fig.1: Plan of the House H" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_H_Wjashemski1.jpg" alt="Fig.1: Plan of the House H" onclick="fullscreen(this)">
  &lt;figcaption>Fig.1: Plan of the House H (CMT, pp.121-128).&lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -1210,8 +1372,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/utica/AFR_Uti_Hgo_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the Grand Oecus." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hgo_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the Grand Oecus." onclick="fullscreen(this)">
  &lt;figcaption>Fig.1: Plan of the House of the Grand Oecus (CMT, plans 1, 2). &lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -1269,8 +1434,11 @@ The house is dated to the II century.&lt;/p>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/utica/AFR_Uti_Hw_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the West." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/utica/AFR_Uti_Hw_Wjashemski1.jpg" alt="Fig.1: Plan of the House of the West." onclick="fullscreen(this)">
  &lt;figcaption>Fig.1: Plan of the House of the West (CMT, plan 4)&lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -1326,8 +1494,11 @@ After the death of Herodes the villa probably became imperial property. A phase 
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/eua/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1336,8 +1507,11 @@ After the death of Herodes the villa probably became imperial property. A phase 
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/eua/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1346,8 +1520,11 @@ After the death of Herodes the villa probably became imperial property. A phase 
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/eua/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/eua/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1407,8 +1584,11 @@ Fragments of marble sculpture were found in the fill above the spina, including 
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/corinth/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/corinth/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -1416,23 +1596,32 @@ Fragments of marble sculpture were found in the fill above the spina, including 
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/corinth/corinth-plan.jpg" alt="plan of the Roman circus, with planting pits labeled" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/corinth/corinth-plan.jpg" alt="plan of the Roman circus, with planting pits labeled" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, “Roman Circus,” p. 589, fig. 3. Plan courtesy of the author.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/corinth/corinth-circus-restored.jpg" alt="reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/corinth/corinth-circus-restored.jpg" alt="reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta" onclick="fullscreen(this)">
  &lt;figcaption>Fig 2. Reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta. Drawing by David Pacifico for the Corinth Computer Project.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/corinth/amphora-in-planting-pit.jpg" alt="fragmentary amphora found in pit 2 in the spina of the Roman circus" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/corinth/amphora-in-planting-pit.jpg" alt="fragmentary amphora found in pit 2 in the spina of the Roman circus" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus. Photograph courtesy of James Wiseman.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1466,8 +1655,11 @@ Fragments of marble sculpture were found in the fill above the spina, including 
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thuburbo_maius/thuburbo_house_of_bacchus_and_ariadne.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_bacchus_and_ariadne.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="fullscreen(this)">
  &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -1503,30 +1695,42 @@ Fragments of marble sculpture were found in the fill above the spina, including 
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thuburbo_maius/AFR_Thub_Hba_malek%20fig1.jpg" alt="Fig. 1: Plan of the House of Bacchus and Ariadne" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hba_malek%20fig1.jpg" alt="Fig. 1: Plan of the House of Bacchus and Ariadne" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Bacchus and Ariadne. (CMT, V. II, fasc.4, Pl. XXIV. Jashemski, W. F., 1995, p. 561, fig. 2)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thuburbo_maius/photography_of_the_decayed_tree_root.jpg" alt="Decayed tree root 23 cm in diameter (Photo J. Foss)" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/photography_of_the_decayed_tree_root.jpg" alt="Decayed tree root 23 cm in diameter (Photo J. Foss)" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Decayed tree root 23 cm in diameter. (Photo J. Foss, Jashemski, W. F., 1995, fig. 5)&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thuburbo_maius/House_of_Bacchus_and_Ariadne_Detail_Plan.jpg" alt="Detail, Plan of courtyard garden, House of Bacchus and Ariadne" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/House_of_Bacchus_and_Ariadne_Detail_Plan.jpg" alt="Detail, Plan of courtyard garden, House of Bacchus and Ariadne" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: Detail, Plan of courtyard garden, House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 7)&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thuburbo_maius/House_of_Bacchus_and_Ariadne_Drawing.jpg" alt="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/House_of_Bacchus_and_Ariadne_Drawing.jpg" alt="Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 4: Reconstruction of plantings in courtyard garden of House of Bacchus and Ariadne. (Victoria I, Jashemski, W. F., 1995, fig. 11)&lt;/figcaption>
 &lt;/figure>
 &lt;!--convert photos to jpeg-->
@@ -1563,8 +1767,11 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thuburbo_maius/thuburbo_house_of_nicentus.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_nicentus.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="fullscreen(this)">
  &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -1587,8 +1794,11 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thuburbo_maius/AFR_Thub_Hn_Wjashemski1.jpg" alt="Plan of the House of Nicentus" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hn_Wjashemski1.jpg" alt="Plan of the House of Nicentus" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Nicentus ( CMT, V. II, fasc.1, plan 10-11)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1618,8 +1828,11 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thuburbo_maius/thuburbo_house_of_the_palms.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_the_palms.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="fullscreen(this)">
  &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -1640,8 +1853,11 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thuburbo_maius/house_of_palms.jpg" alt="Plan of the House of the Palms " onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/house_of_palms.jpg" alt="Plan of the House of the Palms " onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Palms (CMT, V. II, fasc.1, plan 25-26. )&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1672,8 +1888,11 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thuburbo_maius/thuburbo_house_of_protomes.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/thuburbo_house_of_protomes.jpg" alt="Plan of Thuburbo Maius; CMT, Thuburbo Majus" onclick="fullscreen(this)">
  &lt;figcaption>Plan of Thuburbo Maius (CMT, Thuburbo Majus)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="location-description">Location Description&lt;/h3>
@@ -1698,8 +1917,11 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thuburbo_maius/AFR_Thub_Hp_Wjashemski1.jpg" alt="Plan of the House of the Protomes" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Hp_Wjashemski1.jpg" alt="Plan of the House of the Protomes" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of the Protomes (CMT, V. II, fasc.3, plan 4-5)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -1742,8 +1964,11 @@ at Thuburbo Maius, Zaghouan, Tunisia&amp;quot; in &lt;em>Sourcebook for Garden A
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/thuburbo_maius/AFR_Thub_Pm_Wjashemski.jpg" alt="Plan of the Market" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/thuburbo_maius/AFR_Thub_Pm_Wjashemski.jpg" alt="Plan of the Market" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the Market(CMT, V. II, fasc.1, pp. 9-11, plan 3-4)&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

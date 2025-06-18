@@ -29,8 +29,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/arcos_de_la_frontera/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/arcos_de_la_frontera/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -39,8 +42,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/arcos_de_la_frontera/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/arcos_de_la_frontera/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -48,15 +54,21 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/arcos_de_la_frontera/HIS_BAE_Villa%20El%20Santiscal_plan_CA%20fig1.jpg" alt="Fig. 1: Plan of Villa el Santiscal, Gorges, Planche LXIII. (Rights Statement)" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/arcos_de_la_frontera/HIS_BAE_Villa%20El%20Santiscal_plan_CA%20fig1.jpg" alt="Fig. 1: Plan of Villa el Santiscal, Gorges, Planche LXIII. (Rights Statement)" onclick="fullscreen(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/arcos_de_la_frontera/HIS_BAE_Villa%20el%20Santiscal_photo_CA%20fig2.jpg" alt="Fig. 2: Photo of Villa el Santiscal seen from northwest. (Rights Statement)" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/arcos_de_la_frontera/HIS_BAE_Villa%20el%20Santiscal_photo_CA%20fig2.jpg" alt="Fig. 2: Photo of Villa el Santiscal seen from northwest. (Rights Statement)" onclick="fullscreen(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

@@ -32,8 +32,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/mactaris/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/mactaris/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -41,16 +44,22 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/mactaris/AFR_Mac_Hv_WJashemskifig4.jpg" alt="Plan of the House of Venus at Mactaris; Picard, G. Ch., Bourgeois, A., 1977, pp. 213-220" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/mactaris/AFR_Mac_Hv_WJashemskifig4.jpg" alt="Plan of the House of Venus at Mactaris; Picard, G. Ch., Bourgeois, A., 1977, pp. 213-220" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the House of Venus. (Picard, G. Ch., Bourgeois, A., 1977, Plan. I)&lt;/figcaption>
 &lt;/figure>
 &lt;!--
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/mactaris/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/africa_proconsularis/mactaris/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->

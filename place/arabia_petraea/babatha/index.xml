@@ -22,24 +22,33 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/arabia_petraea/babatha/1_arabia_petraea_map.jpg" alt="Map of Petra location" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/babatha/1_arabia_petraea_map.jpg" alt="Map of Petra location" onclick="fullscreen(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="plans">Plans&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/arabia_petraea/babatha/2_babatha_orchard_plan.jpg" alt="Proposed plan of Babatha&amp;#39;s orchard" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/babatha/2_babatha_orchard_plan.jpg" alt="Proposed plan of Babatha&amp;#39;s orchard" onclick="fullscreen(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 &lt;!-- 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/arabia_petraea/babatha/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/arabia_petraea/babatha/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>&lt;/figcaption>
 &lt;/figure> -->
 &lt;!--

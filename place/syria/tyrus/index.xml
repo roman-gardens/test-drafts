@@ -28,8 +28,11 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/syria/tyrus/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/syria/tyrus/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -37,16 +40,22 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/syria/tyrus/asia_syria_tyre_author_1.jpg" alt="Plan of tomb complex" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/syria/tyrus/asia_syria_tyre_author_1.jpg" alt="Plan of tomb complex" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Tomb Complex 15 showing garden beds, basins, water channels and post holes (Chéhab, Fig. 42).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/syria/tyrus/asia_syria_tyre_author_2.jpg" alt="Photograph of tomb complex after excavation showing garden, basins, and rooms" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/syria/tyrus/asia_syria_tyre_author_2.jpg" alt="Photograph of tomb complex after excavation showing garden, basins, and rooms" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Photograph of Tomb Complex 15 showing the garden, basins and adjacent rooms (Chéhab, Pl. XLVIII).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

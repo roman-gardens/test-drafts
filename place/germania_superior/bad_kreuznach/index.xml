@@ -38,8 +38,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/germania_superior/bad_kreuznach/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/bad_kreuznach/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -47,8 +50,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/germania_superior/bad_kreuznach/EUR_GS_BadKre_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/bad_kreuznach/EUR_GS_BadKre_Rv_carroll.jpg" alt="Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the rural villa with gardens (G) in the central courtyard and in the corners of the house. Plan adapted from Cüppers 1990, fig. 204.(Rights statement)&lt;/figcaption>
 &lt;/figure>
 &lt;!--### Images-->
@@ -56,8 +62,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/germania_superior/bad_kreuznach/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/germania_superior/bad_kreuznach/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->

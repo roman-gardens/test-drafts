@@ -56,8 +56,11 @@ In the center of the peristyle was a rectangular pool with protruding semi-circu
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_tarraconensis/villa_el_soldan/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/villa_el_soldan/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -65,8 +68,11 @@ In the center of the peristyle was a rectangular pool with protruding semi-circu
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_tarraconensis/villa_el_soldan/his_tar_san_soldan_sultan_fig1.jpg" alt="Fig. 1: Plan of Villa El Soldán." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/villa_el_soldan/his_tar_san_soldan_sultan_fig1.jpg" alt="Fig. 1: Plan of Villa El Soldán." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Villa El Soldán. Source: Gorges, Planche XXXVI&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

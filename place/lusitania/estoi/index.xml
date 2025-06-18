@@ -32,8 +32,11 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/lusitania/estoi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/estoi/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -41,23 +44,32 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/lusitania/estoi/HIS_LUS_Milreu_planfig1.jpg" alt="Plan of Villa de Milreu at Estoi Province, Spain." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/estoi/HIS_LUS_Milreu_planfig1.jpg" alt="Plan of Villa de Milreu at Estoi Province, Spain." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of the Villa de Milreu adapted from Hauschild and Teichner.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/lusitania/estoi/HIS_LUS_Milreu_ph%20fig2.jpg" alt="" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/estoi/HIS_LUS_Milreu_ph%20fig2.jpg" alt="" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Photo of the Villa de Milreu central peristyle.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/lusitania/estoi/HIS_LUS_Milreu_pool%20mosaic%20fig3.jpg" alt="" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/lusitania/estoi/HIS_LUS_Milreu_pool%20mosaic%20fig3.jpg" alt="" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: Photo of the fish mosaic&lt;/figcaption>
 &lt;/figure>
 &lt;!--### Dates-->

@@ -62,8 +62,11 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_tarraconensis/clunia/house_of_taracena/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/clunia/house_of_taracena/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -71,30 +74,42 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_tarraconensis/clunia/house_of_taracena/his_tar_clu_htaracena_fig1.jpg" alt="Plan of underground water chambers." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/clunia/house_of_taracena/his_tar_clu_htaracena_fig1.jpg" alt="Plan of underground water chambers." onclick="fullscreen(this)">
  &lt;figcaption>Plan of underground water chambers. Adapted from de Palol 1994, p. 100.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_tarraconensis/clunia/house_of_taracena/his_tar_clu_fig2.jpg" alt="Photograph looking east over the subterranean structures." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/clunia/house_of_taracena/his_tar_clu_fig2.jpg" alt="Photograph looking east over the subterranean structures." onclick="fullscreen(this)">
  &lt;figcaption>Photograph looking east over the subterranean structures.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_tarraconensis/clunia/house_of_taracena/his_tar_clu_fig3.jpg" alt="Photograph of a floral band from the south side of room 1." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/clunia/house_of_taracena/his_tar_clu_fig3.jpg" alt="Photograph of a floral band from the south side of room 1." onclick="fullscreen(this)">
  &lt;figcaption>Photograph of a floral band from the south side of room 1.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_tarraconensis/clunia/house_of_taracena/his_tar_clu_fig4.jpg" alt="Photograph of the peristyle on the north side of the house, probably a garden." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_tarraconensis/clunia/house_of_taracena/his_tar_clu_fig4.jpg" alt="Photograph of the peristyle on the north side of the house, probably a garden." onclick="fullscreen(this)">
  &lt;figcaption>Photograph of the peristyle on the north side of the house, probably a garden.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

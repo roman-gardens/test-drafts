@@ -30,8 +30,11 @@
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/cavalaire_sur_mer/villa_de_pardigon_3.png" alt="Plan of Villa de Pardigon 3" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/gallia_narbonensis/cavalaire_sur_mer/villa_de_pardigon_3.png" alt="Plan of Villa de Pardigon 3" onclick="fullscreen(this)">
  &lt;figcaption>Plan of Villa de Pardigon 3&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Circuses (Roman Arenas) on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/circuses-roman-arenas/</link><description>Recent content in Circuses (Roman Arenas) on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 22:12:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/circuses-roman-arenas/index.xml" rel="self" type="application/rss+xml"/><item><title>The Circus of Roman Corinth</title><link>https://roman-gardens.github.io/test-drafts/place/achaea/corinth/corinth_circus/</link><pubDate>Thu, 16 Jul 2020 09:50:29 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/achaea/corinth/corinth_circus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Circuses (Roman Arenas) on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/circuses-roman-arenas/</link><description>Recent content in Circuses (Roman Arenas) on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 23:04:32 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/circuses-roman-arenas/index.xml" rel="self" type="application/rss+xml"/><item><title>The Circus of Roman Corinth</title><link>https://roman-gardens.github.io/test-drafts/place/achaea/corinth/corinth_circus/</link><pubDate>Thu, 16 Jul 2020 09:50:29 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/achaea/corinth/corinth_circus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/achaea/">Achaea&lt;/a>&lt;/p>
 &lt;h3 id="province-description">Province Description&lt;/h3>
 &lt;p>Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.&lt;/p>
@@ -35,8 +35,11 @@ Fragments of marble sculpture were found in the fill above the spina, including 
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/corinth/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/corinth/image_name.ext" alt="alt_text" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -44,23 +47,32 @@ Fragments of marble sculpture were found in the fill above the spina, including 
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/corinth/corinth-plan.jpg" alt="plan of the Roman circus, with planting pits labeled" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/corinth/corinth-plan.jpg" alt="plan of the Roman circus, with planting pits labeled" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Actual State Plan of the Roman circus, with planting pits labeled. From D. G. Romano, “Roman Circus,” p. 589, fig. 3. Plan courtesy of the author.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/corinth/corinth-circus-restored.jpg" alt="reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/corinth/corinth-circus-restored.jpg" alt="reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta" onclick="fullscreen(this)">
  &lt;figcaption>Fig 2. Reconstruction drawing of the Roman circus with hypothetical cypress trees planted in the spina and meta. Drawing by David Pacifico for the Corinth Computer Project.&lt;/figcaption>
 &lt;/figure>
 
 
 
+
+
+
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/achaea/corinth/amphora-in-planting-pit.jpg" alt="fragmentary amphora found in pit 2 in the spina of the Roman circus" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/achaea/corinth/amphora-in-planting-pit.jpg" alt="fragmentary amphora found in pit 2 in the spina of the Roman circus" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: Fragmentary amphora found in pit 2 in the spina of the Roman circus. Photograph courtesy of James Wiseman.&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
