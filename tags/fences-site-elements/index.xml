@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fences (Site Elements) on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/fences-site-elements/</link><description>Recent content in Fences (Site Elements) on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 10:01:33 +0100</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/fences-site-elements/index.xml" rel="self" type="application/rss+xml"/><item><title>I.6.13 House of Stallus Eros</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/i.vi.13/</link><pubDate>Fri, 02 Apr 2021 10:01:33 +0100</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/i.vi.13/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a> &lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fences (Site Elements) on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/fences-site-elements/</link><description>Recent content in Fences (Site Elements) on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 22:12:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/fences-site-elements/index.xml" rel="self" type="application/rss+xml"/><item><title>I.6.13 House of Stallus Eros</title><link>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/i.vi.13/</link><pubDate>Fri, 02 Apr 2021 10:01:33 +0100</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/i.vi.13/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/">Region I&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/">Region I&lt;/a>&lt;/p>
 &lt;h2 id="insula">Insula&lt;/h2>
 &lt;p>&lt;a href="">Insula VI&lt;/a>&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -30,7 +30,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -40,7 +40,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -48,7 +48,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region-i-insula-vi.png" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region-i-insula-vi.png" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -58,7 +58,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_20_I.vi.13_5.6.59.jpg" alt="Fig. 3: I.vi. 5.6.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/Fig_20_I.vi.13_5.6.59.jpg" alt="Fig. 3: I.vi. 5.6.59, S.A. Jashemski." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: I.vi. 5.6.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -66,7 +66,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_21_I.vi.13_5.7.59.jpg" alt="Fig. 4: I.vi. 5.7.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/Fig_21_I.vi.13_5.7.59.jpg" alt="Fig. 4: I.vi. 5.7.59, S.A. Jashemski." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 4: I.vi. 5.7.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -74,7 +74,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_22_I.vi.13_34.29.64.jpg" alt="Fig. 5: I.vi. 34.29.64, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/Fig_22_I.vi.13_34.29.64.jpg" alt="Fig. 5: I.vi. 34.29.64, S.A. Jashemski." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 5: I.vi. 34.29.64, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -82,7 +82,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_23_I.vi.13_34.6.64.jpg" alt="Fig. 6: I.vi. 35.6.64, S.A.Jashemski." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/Fig_23_I.vi.13_34.6.64.jpg" alt="Fig. 6: I.vi. 35.6.64, S.A.Jashemski." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 6: I.vi. 35.6.64, S.A.Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -111,16 +111,16 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="publication-date">Publication date&lt;/h3>
 &lt;p>21 Apr 2021&lt;/p>
 &lt;!--### Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>I.6.11 Casa Dei Quadretti Teatralli; House of the Calavii; Casa di Casca Longus</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/i.vi.11/</link><pubDate>Fri, 02 Apr 2021 09:49:02 +0100</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/i.vi.11/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a> &lt;br>
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>I.6.11 Casa Dei Quadretti Teatralli; House of the Calavii; Casa di Casca Longus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/i.vi.11/</link><pubDate>Fri, 02 Apr 2021 09:49:02 +0100</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/i.vi.11/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/">Region I&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/">Region I&lt;/a>&lt;/p>
 &lt;h2 id="insula">Insula&lt;/h2>
 &lt;p>&lt;a href="">Insula VI&lt;/a>&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -145,7 +145,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -156,7 +156,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -164,7 +164,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region-i-insula-vi.png" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region-i-insula-vi.png" alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -174,7 +174,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_19_I.vi.11_13.9.59.jpg" alt="Fig. 3: I. vi. 13.9.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/Fig_19_I.vi.11_13.9.59.jpg" alt="Fig. 3: I. vi. 13.9.59, S.A. Jashemski." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: I. vi. 13.9.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 -->
@@ -194,17 +194,17 @@ Maiuri, A. 1929. &lt;em>NSc&lt;/em>, pp. 414-415 and fig. 26 on p. 401.&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
 &lt;p>21 Apr 2021&lt;/p>
 &lt;!--### Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>House of Grotto of Catullus</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/sirmio/grotto_of_catullus/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_x/sirmio/grotto_of_catullus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a>&lt;/p>
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>House of Grotto of Catullus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/region_x/sirmio/grotto_of_catullus/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/region_x/sirmio/grotto_of_catullus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a>&lt;/p>
 &lt;!--### Province Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/sirmio/">Sirmio&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/region_x/sirmio/">Sirmio&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/383781">Sirmio (Pleiades)&lt;/a>&lt;/p>
 &lt;!--### Location Description-->
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/">Region X&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/region_x/">Region X&lt;/a>&lt;/p>
 &lt;!--### Sublocation Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -251,7 +251,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -261,35 +261,35 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-3.jpg" alt="Fig. 3: Plan of the residential rooms." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/sirmio/sirmio-3.jpg" alt="Fig. 3: Plan of the residential rooms." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: Plan of the residential rooms&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-5.jpg" alt="Fig. 5: Aerial view of vast olive grove." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/sirmio/sirmio-5.jpg" alt="Fig. 5: Aerial view of vast olive grove." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 5: Aerial view of vast olive grove&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-7.jpg" alt="Fig. 7:Aerial view of courtyard-viridarium." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/sirmio/sirmio-7.jpg" alt="Fig. 7:Aerial view of courtyard-viridarium." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 7: Aerial view of courtyard-viridarium&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-11.jpg" alt="Fig. 11: statue of a Dioscuros." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/sirmio/sirmio-11.jpg" alt="Fig. 11: statue of a Dioscuros." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 11: statue of a Dioscuros&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-12.jpg" alt="Fig. 12: Figure of Plant fossils." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/sirmio/sirmio-12.jpg" alt="Fig. 12: Figure of Plant fossils." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 12: Figure of Plant fossils&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -315,16 +315,16 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="publication-date">Publication date&lt;/h3>
 &lt;p>21 Apr 2021&lt;/p>
 &lt;!--### Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>I.7.18 Shop-House</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/i.vii.18/</link><pubDate>Sat, 08 Aug 2020 18:54:04 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/i.vii.18/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a> &lt;br>
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>I.7.18 Shop-House</title><link>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/i.vii.18/</link><pubDate>Sat, 08 Aug 2020 18:54:04 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/i.vii.18/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/">Region I&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/">Region I&lt;/a>&lt;/p>
 &lt;h2 id="insula">Insula&lt;/h2>
 &lt;p>&lt;a href="">Insula VII&lt;/a>&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -349,7 +349,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 
@@ -360,7 +360,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -368,7 +368,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/figcaption>
 &lt;/figure>-->
 &lt;!--### Images-->
@@ -391,16 +391,16 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="publication-date">Publication date&lt;/h3>
 &lt;p>21 Apr 2021&lt;/p>
 &lt;!--### Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>I.7.10-12/19 House of the Ephebe; Casa Dell’Efebo; House of P. Cornelius Teges (or Tages)</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/i.vii.10_12_19/</link><pubDate>Sat, 08 Aug 2020 16:18:49 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/i.vii.10_12_19/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a> &lt;br>
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>I.7.10-12/19 House of the Ephebe; Casa Dell’Efebo; House of P. Cornelius Teges (or Tages)</title><link>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/i.vii.10_12_19/</link><pubDate>Sat, 08 Aug 2020 16:18:49 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/i.vii.10_12_19/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/">Region I&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/">Region I&lt;/a>&lt;/p>
 &lt;h2 id="insula">Insula&lt;/h2>
 &lt;p>&lt;a href="">Insula VII&lt;/a>&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -458,7 +458,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 
@@ -469,7 +469,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -477,7 +477,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -487,7 +487,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_41_I.vii.11_12_11.32.59.jpg" alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/Fig_41_I.vii.11_12_11.32.59.jpg" alt="Fig. 3: I.vii. 11.32.59, S.A. Jashemski." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: I.vii. 11.32.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -495,7 +495,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_42_I.vii.12_14.3.68.jpg" alt="Fig. 4: I.vii. 14.3.68, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/Fig_42_I.vii.12_14.3.68.jpg" alt="Fig. 4: I.vii. 14.3.68, S.A. Jashemski." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 4: I.vii. 14.3.68, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -503,7 +503,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_43_I.vii.11_33.27.61.jpg" alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/Fig_43_I.vii.11_33.27.61.jpg" alt="Fig. 5: I.vii. 33.27.61, S.A. Jashemski." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 5: I.vii. 33.27.61, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -511,7 +511,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_44_I.vii.11_12_11.33.59.jpg" alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/Fig_44_I.vii.11_12_11.33.59.jpg" alt="Fig. 6: I.vii. 11.33.59, S.A. Jashemski." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 6: I.vii. 11.33.59, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -547,16 +547,16 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="publication-date">Publication date&lt;/h3>
 &lt;p>21 Apr 2021&lt;/p>
 &lt;!--### Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>I.7.2-3 House of M. Fabius Amandio; House of P. Cornelius Cornthus</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/i.vii.2_3/</link><pubDate>Sat, 08 Aug 2020 10:28:51 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/i.vii.2_3/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a> &lt;br>
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>I.7.2-3 House of M. Fabius Amandio; House of P. Cornelius Cornthus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/i.vii.2_3/</link><pubDate>Sat, 08 Aug 2020 10:28:51 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/i.vii.2_3/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_i/">Region I&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/">Region I&lt;/a>&lt;/p>
 &lt;h2 id="insula">Insula&lt;/h2>
 &lt;p>&lt;a href="">Insula VII&lt;/a>&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
@@ -580,7 +580,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 
@@ -590,7 +590,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -598,7 +598,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/Region_I_insula_vii.jpg" alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -608,7 +608,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_34_I.vii.3_54.8.64.jpg" alt="Fig. 3: I.vii. 54.8.64, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/Fig_34_I.vii.3_54.8.64.jpg" alt="Fig. 3: I.vii. 54.8.64, S.A. Jashemski." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: I.vii. 54.8.64, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -616,7 +616,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_35_I.vii.3_54.7.54.jpg" alt="Fig. 4: I.vii. 54.7.54, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/Fig_35_I.vii.3_54.7.54.jpg" alt="Fig. 4: I.vii. 54.7.54, S.A. Jashemski." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 4: I.vii. 54.7.54, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -624,7 +624,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_36_I.vii.3_53.38.64.jpg" alt="Fig. 5: I.vii. 53.38.64, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/Fig_36_I.vii.3_53.38.64.jpg" alt="Fig. 5: I.vii. 53.38.64, S.A. Jashemski." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 5: I.vii. 53.38.64, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>
 
@@ -632,7 +632,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_i/Fig_37_I.vii.2_12.36.72.jpg" alt="Fig. 6: I.vii. 12.36.72, S.A. Jashemski." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/Fig_37_I.vii.2_12.36.72.jpg" alt="Fig. 6: I.vii. 12.36.72, S.A. Jashemski." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 6: I.vii. 12.36.72, S.A. Jashemski (Rights Statement).&lt;/figcaption>
 &lt;/figure>-->
 &lt;h3 id="dates">Dates&lt;/h3>

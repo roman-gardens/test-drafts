@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loam on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/loam/</link><description>Recent content in Loam on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 12:00:02 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/loam/index.xml" rel="self" type="application/rss+xml"/><item><title>House of Grotto of Catullus</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/sirmio/grotto_of_catullus/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_x/sirmio/grotto_of_catullus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loam on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/loam/</link><description>Recent content in Loam on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 22:12:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/loam/index.xml" rel="self" type="application/rss+xml"/><item><title>House of Grotto of Catullus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/region_x/sirmio/grotto_of_catullus/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/region_x/sirmio/grotto_of_catullus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a>&lt;/p>
 &lt;!--### Province Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/sirmio/">Sirmio&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/region_x/sirmio/">Sirmio&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/383781">Sirmio (Pleiades)&lt;/a>&lt;/p>
 &lt;!--### Location Description-->
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/">Region X&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/region_x/">Region X&lt;/a>&lt;/p>
 &lt;!--### Sublocation Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -55,7 +55,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -65,35 +65,35 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-3.jpg" alt="Fig. 3: Plan of the residential rooms." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/sirmio/sirmio-3.jpg" alt="Fig. 3: Plan of the residential rooms." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: Plan of the residential rooms&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-5.jpg" alt="Fig. 5: Aerial view of vast olive grove." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/sirmio/sirmio-5.jpg" alt="Fig. 5: Aerial view of vast olive grove." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 5: Aerial view of vast olive grove&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-7.jpg" alt="Fig. 7:Aerial view of courtyard-viridarium." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/sirmio/sirmio-7.jpg" alt="Fig. 7:Aerial view of courtyard-viridarium." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 7: Aerial view of courtyard-viridarium&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-11.jpg" alt="Fig. 11: statue of a Dioscuros." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/sirmio/sirmio-11.jpg" alt="Fig. 11: statue of a Dioscuros." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 11: statue of a Dioscuros&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/sirmio/sirmio-12.jpg" alt="Fig. 12: Figure of Plant fossils." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/sirmio/sirmio-12.jpg" alt="Fig. 12: Figure of Plant fossils." onclick="fullscreen(this)">
  &lt;figcaption>Fig. 12: Figure of Plant fossils&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

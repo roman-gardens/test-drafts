@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Macedonia on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/categories/macedonia/</link><description>Recent content in Macedonia on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 16 Jul 2020 09:34:20 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/categories/macedonia/index.xml" rel="self" type="application/rss+xml"/><item><title>Macedonia</title><link>https://roman-gardens.github.io/test-drafts/province/macedonia/macedonia/</link><pubDate>Thu, 16 Jul 2020 09:34:20 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/macedonia/macedonia/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Macedonia on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/categories/macedonia/</link><description>Recent content in Macedonia on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 22:12:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/categories/macedonia/index.xml" rel="self" type="application/rss+xml"/><item><title>Macedonia</title><link>https://roman-gardens.github.io/test-drafts/place/macedonia/macedonia/</link><pubDate>Thu, 16 Jul 2020 09:34:20 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/macedonia/macedonia/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;!--- Content of Province heading --->
 &lt;!--### Province Description-->
 &lt;!-- DESCRIPTION -->
@@ -26,7 +26,7 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;!--#### Periodo ID-->
 &lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/macedonia/">981531&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/macedonia/">981531&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/981531">981531&lt;/a>&lt;/p>
 &lt;h4 id="tgn-id">TGN ID&lt;/h4>
 &lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7001349">7001349&lt;/a>&lt;/p>
@@ -35,12 +35,12 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h4 id="orcid">ORCID&lt;/h4>
 &lt;!-- [ORCID](https://orcid.org/ORCID) -->
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 20210&lt;/p></description></item><item><title>Tomb Garden of Ti. Claudios Lykos</title><link>https://roman-gardens.github.io/test-drafts/province/macedonia/thessaloniki/thessaloniki_tomb_garden_of_tib_claudios_lykos/</link><pubDate>Thu, 16 Jul 2020 09:07:30 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/macedonia/thessaloniki/thessaloniki_tomb_garden_of_tib_claudios_lykos/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/macedonia/">Macedonia&lt;/a>&lt;/p>
+&lt;p>21 Apr 2021&lt;/p></description></item><item><title>Tomb Garden of Ti. Claudios Lykos</title><link>https://roman-gardens.github.io/test-drafts/place/macedonia/thessaloniki/thessaloniki_tomb_garden_of_tib_claudios_lykos/</link><pubDate>Thu, 16 Jul 2020 09:07:30 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/macedonia/thessaloniki/thessaloniki_tomb_garden_of_tib_claudios_lykos/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/macedonia/">Macedonia&lt;/a>&lt;/p>
 &lt;!--### Province Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/macedonia/thessaloniki/">Thessaloniki&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/macedonia/thessaloniki/">Thessaloniki&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/491741">Thessaloniki (Pleiades)&lt;/a>&lt;/p>
 &lt;!--### Location Description-->
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
@@ -67,7 +67,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/macedonia/thessaloniki/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/macedonia/thessaloniki/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -77,7 +77,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/macedonia/thessaloniki/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/macedonia/thessaloniki/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -87,7 +87,7 @@ A sublocation is any area larger than an individual garden, but located within a
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/macedonia/thessaloniki/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/macedonia/thessaloniki/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->

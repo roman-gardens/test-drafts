@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Podiums (Building Divisions) on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/podiums-building-divisions/</link><description>Recent content in Podiums (Building Divisions) on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 12:00:02 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/podiums-building-divisions/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa at Pola</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/barbariga/villa_at_pola/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_x/barbariga/villa_at_pola/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Podiums (Building Divisions) on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/podiums-building-divisions/</link><description>Recent content in Podiums (Building Divisions) on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 22:12:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/podiums-building-divisions/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa at Pola</title><link>https://roman-gardens.github.io/test-drafts/place/italia/region_x/barbariga/villa_at_pola/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/region_x/barbariga/villa_at_pola/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a>&lt;/p>
 &lt;!--### Province Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/barbariga/">Barbariga&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/region_x/barbariga/">Barbariga&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/383781">Barbariga (Pleiades)&lt;/a>&lt;/p>
 &lt;!--### Location Description-->
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/">Region X&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/region_x/">Region X&lt;/a>&lt;/p>
 &lt;!--### Sublocation Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -41,7 +41,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->

@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Opus Signinum on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/opus-signinum/</link><description>Recent content in Opus Signinum on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 26 Mar 2021 00:10:10 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/opus-signinum/index.xml" rel="self" type="application/rss+xml"/><item><title>VIII.6.9-10/1. House and Bakery</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_viii/insula_vi/viii.6.9-10_1/</link><pubDate>Fri, 26 Mar 2021 00:10:10 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_viii/insula_vi/viii.6.9-10_1/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a> &lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Opus Signinum on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/opus-signinum/</link><description>Recent content in Opus Signinum on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 22:12:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/opus-signinum/index.xml" rel="self" type="application/rss+xml"/><item><title>VIII.6.9-10/1. House and Bakery</title><link>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_viii/insula_vi/viii.6.9-10_1/</link><pubDate>Fri, 26 Mar 2021 00:10:10 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_viii/insula_vi/viii.6.9-10_1/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_viii/">Region VIII&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_viii/">Region VIII&lt;/a>&lt;/p>
 &lt;h2 id="insula">Insula&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_viii/insula_vi/">Insula VI&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_viii/insula_vi/">Insula VI&lt;/a>&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300000325">insula&lt;/a>&lt;/li>
@@ -23,7 +23,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_vi/fig.20.region_viii.insula_vi.png" alt="Fig. 20, Plan of Region VIII, Insula VI" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_viii/insula_vi/fig.20.region_viii.insula_vi.png" alt="Fig. 20, Plan of Region VIII, Insula VI" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 20, Plan of Region VIII, Insula VI&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -31,7 +31,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_vi/fig.22.viii.vi.9_12.29.59.jpg" alt="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_viii/insula_vi/fig.22.viii.vi.9_12.29.59.jpg" alt="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
  &lt;figcaption>Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
 &lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
@@ -49,18 +49,18 @@
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>VIII.7.10. Shop-House</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_viii/insula_vii/viii.7.10/</link><pubDate>Fri, 26 Mar 2021 00:10:10 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_viii/insula_vii/viii.7.10/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a> &lt;br>
+&lt;p>21 Apr 2021&lt;/p></description></item><item><title>VIII.7.10. Shop-House</title><link>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_viii/insula_vii/viii.7.10/</link><pubDate>Fri, 26 Mar 2021 00:10:10 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_viii/insula_vii/viii.7.10/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_viii/">Region VIII&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_viii/">Region VIII&lt;/a>&lt;/p>
 &lt;h2 id="insula">Insula&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_viii/insula_vii/">Insula VII&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_viii/insula_vii/">Insula VII&lt;/a>&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004359">triclinium&lt;/a>&lt;/li>
@@ -75,7 +75,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_vii/fig.23.region_viii.insula_vii.1-15.png" alt="Fig.23, Plan of Region VIII, Insula VII" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_viii/insula_vii/fig.23.region_viii.insula_vii.1-15.png" alt="Fig.23, Plan of Region VIII, Insula VII" onclick="fullscreen(this)">
  &lt;figcaption>Fig.23, Plan of Region VIII, Insula VII&lt;/figcaption>
 &lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
@@ -98,18 +98,18 @@
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>VIII.7.6.</title><link>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_viii/insula_vii/viii.7.6/</link><pubDate>Fri, 26 Mar 2021 00:10:10 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_viii/insula_vii/viii.7.6/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a> &lt;br>
+&lt;p>21 Apr 2021&lt;/p></description></item><item><title>VIII.7.6.</title><link>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_viii/insula_vii/viii.7.6/</link><pubDate>Fri, 26 Mar 2021 00:10:10 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_viii/insula_vii/viii.7.6/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/">Pompeii&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/">Pompeii&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/433032">Pompeii (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_viii/">Region VIII&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_viii/">Region VIII&lt;/a>&lt;/p>
 &lt;h2 id="insula">Insula&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/pompeii/region_viii/insula_vii/">Insula VII&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_viii/insula_vii/">Insula VII&lt;/a>&lt;/p>
 &lt;h3 id="keywords">Keywords&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a>&lt;/li>
@@ -126,7 +126,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_vii/fig.23.region_viii.insula_vii.1-15.png" alt="Fig.23, Plan of Region VIII, Insula VII" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_viii/insula_vii/fig.23.region_viii.insula_vii.1-15.png" alt="Fig.23, Plan of Region VIII, Insula VII" onclick="fullscreen(this)">
  &lt;figcaption>Fig.23, Plan of Region VIII, Insula VII&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="images">Images&lt;/h3>
@@ -134,7 +134,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/pompeii/region_viii/insula_vii/fig.27,viii.vii.6_9.31.66.jpg" alt="Fig. 27, 9.31.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_viii/insula_vii/fig.27,viii.vii.6_9.31.66.jpg" alt="Fig. 27, 9.31.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 27, 9.31.66 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/figcaption>
 &lt;/figure>
 &lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
@@ -159,20 +159,20 @@
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>House on Via del Tempio Rotondo</title><link>https://roman-gardens.github.io/test-drafts/province/italia/ostia/house_on_via_del_tempio_rotondo/</link><pubDate>Mon, 08 Feb 2021 19:00:00 -0800</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/ostia/house_on_via_del_tempio_rotondo/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a> &lt;br>
+&lt;p>21 Apr 2021&lt;/p></description></item><item><title>House on Via del Tempio Rotondo</title><link>https://roman-gardens.github.io/test-drafts/place/italia/ostia/house_on_via_del_tempio_rotondo/</link><pubDate>Mon, 08 Feb 2021 19:00:00 -0800</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/ostia/house_on_via_del_tempio_rotondo/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/">Ostia&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/">Ostia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/422995">Ostia (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>&lt;a href="https://en.wikipedia.org/wiki/Ostia_Antica">Ostia Antica&lt;/a>, the port-city of Rome, was situated at the mouth (&lt;a href="https://en.wiktionary.org/wiki/ostium#Latin">&lt;em>ostium&lt;/em>&lt;/a>) of the &lt;a href="https://en.wikipedia.org/wiki/Tiber">Tiber&lt;/a>, where it flowed into the &lt;a href="http://vocab.getty.edu/page/tgn/1112319">Tyrrhenian sea&lt;/a>. Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7&lt;sup>th&lt;/sup> century by &lt;a href="https://en.wikipedia.org/wiki/Ancus_Marcius">king Ancus Marcius&lt;/a>; archaeological evidence shows that the first settlement was founded as a &lt;em>colonia maritima&lt;/em> in the 4&lt;sup>th&lt;/sup> century BCE. and that it was already acting as the harbour of Rome in the 3&lt;sup>rd&lt;/sup> century BCE.&lt;/p>
 &lt;p>From the 2&lt;sup>nd&lt;/sup> century BCE Ostia (and later &lt;a href="https://en.wikipedia.org/wiki/Portus">Portus&lt;/a>) was the main port for the landing of wheat and other foodstuffs destined for the markets of Rome. It was a lively and cosmopolitan port city, where the great cargo ships unloaded produce from all over the Mediterranean and beyond. At Ostia the freight was transferred to riverboats to be sent upriver to Rome. This thriving commercial activity was accompanied by demographic and economic growth and by the presence of people coming from all over the known world.&lt;/p>
-&lt;p>Ostia is especially well known in archaeological and historical studies for its building history. The earliest Ostian houses are only known from sporadic traces, beginning from the 2nd century BCE. They were &lt;a href="http://vocab.getty.edu/page/aat/300005506">&lt;em>domus&lt;/em>&lt;/a> of traditional type, both in the simplest version, of direct Italic derivation, with rooms arranged round the atrium, and in the more complex Roman-Hellenistic form, in which the peristyle with the garden was added (e.g. the &lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/house_of_the_bucrania/">House of the Bucrania&lt;/a>). They were single-family houses, generally single storied, or with an upper story limited to the height of the atrium.&lt;/p>
-&lt;p>The transition to a different type of house was marked by the so-called peristyle house, such as the &lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/house_on_via_del_tempio_rotondo/">House on the Via del Tempio Rotondo&lt;/a>, which dates to the &lt;a href="https://en.wikipedia.org/wiki/Augustus">Augustan period&lt;/a>, the one found below the &lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/schola_of_trajan/">Schola of Trajan&lt;/a> (built 20-40 CE) and the &lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/house_of_the_thunderbolt/">House of the Thunderbolt&lt;/a>, datable to the &lt;a href="https://en.wikipedia.org/wiki/Vespasian">Vespasianic period&lt;/a> (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the &lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/house_of_the_fortuna_annonaria/">House of Fortuna Annonaria&lt;/a>, with its garden (140-190 CE).&lt;/p>
+&lt;p>Ostia is especially well known in archaeological and historical studies for its building history. The earliest Ostian houses are only known from sporadic traces, beginning from the 2nd century BCE. They were &lt;a href="http://vocab.getty.edu/page/aat/300005506">&lt;em>domus&lt;/em>&lt;/a> of traditional type, both in the simplest version, of direct Italic derivation, with rooms arranged round the atrium, and in the more complex Roman-Hellenistic form, in which the peristyle with the garden was added (e.g. the &lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/house_of_the_bucrania/">House of the Bucrania&lt;/a>). They were single-family houses, generally single storied, or with an upper story limited to the height of the atrium.&lt;/p>
+&lt;p>The transition to a different type of house was marked by the so-called peristyle house, such as the &lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/house_on_via_del_tempio_rotondo/">House on the Via del Tempio Rotondo&lt;/a>, which dates to the &lt;a href="https://en.wikipedia.org/wiki/Augustus">Augustan period&lt;/a>, the one found below the &lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/schola_of_trajan/">Schola of Trajan&lt;/a> (built 20-40 CE) and the &lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/house_of_the_thunderbolt/">House of the Thunderbolt&lt;/a>, datable to the &lt;a href="https://en.wikipedia.org/wiki/Vespasian">Vespasianic period&lt;/a> (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the &lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/house_of_the_fortuna_annonaria/">House of Fortuna Annonaria&lt;/a>, with its garden (140-190 CE).&lt;/p>
 &lt;p>Ostia was heavily reconstructed in the 2&lt;sup>nd&lt;/sup> century CE, under the pressure of the growth in population due to the completion of its ports. The new city followed new canons of utilitarian, high-density building, based on the multi-storied &lt;a href="https://en.wikipedia.org/wiki/Insula_(building)">&lt;em>insula&lt;/em>&lt;/a>, which aimed at the efficient use of the little space available. A room with windows on the façade became a kind of atrium-room. The plan became enriched with smaller rooms and internal staircases that ascended to the private apartments of the upper floor. Independent stairways entered from the street provided access to the apartments on the second and upper floors. The most accomplished examples of this type of building date to the &lt;a href="https://en.wikipedia.org/wiki/Hadrian">Hadrianic period&lt;/a>, for example in some &lt;em>insulae&lt;/em> that compose the so-called Garden Houses. In another type of insula the main source of light is not the street, but an inner arcaded courtyard.&lt;/p>
-&lt;p>The internal space was not always delimited by a portico; the &lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/insula_dei_dipinti/">Insula of the Paintings&lt;/a>, comprising the houses of Jove and Ganymede, of the Infant Bacchus and of the Paintings, arranged according to an L-shaped plan, had its façade facing onto two streets, forming a corner, while its inner sides faced onto a fairly extensive garden, without porticoes.&lt;/p>
-&lt;p>In the 3&lt;sup>rd&lt;/sup> and 4&lt;sup>th&lt;/sup> centuries, the tenement houses of the less well-to-do fell into ruin or were patched up. Private building seemed limited to the erection of new patrician domus (e.g. the &lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/house_of_amor_and_psyche/">House of Amor and Psyche&lt;/a>), built on the ground floor of already existing buildings and richly decorated with costly marbles. In these houses the gardens were chiefly an ornamental backdrop.&lt;/p>
+&lt;p>The internal space was not always delimited by a portico; the &lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/insula_dei_dipinti/">Insula of the Paintings&lt;/a>, comprising the houses of Jove and Ganymede, of the Infant Bacchus and of the Paintings, arranged according to an L-shaped plan, had its façade facing onto two streets, forming a corner, while its inner sides faced onto a fairly extensive garden, without porticoes.&lt;/p>
+&lt;p>In the 3&lt;sup>rd&lt;/sup> and 4&lt;sup>th&lt;/sup> centuries, the tenement houses of the less well-to-do fell into ruin or were patched up. Private building seemed limited to the erection of new patrician domus (e.g. the &lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/house_of_amor_and_psyche/">House of Amor and Psyche&lt;/a>), built on the ground floor of already existing buildings and richly decorated with costly marbles. In these houses the gardens were chiefly an ornamental backdrop.&lt;/p>
 &lt;p>The internal garden of the house at Ostia described by &lt;a href="https://en.wikipedia.org/wiki/Augustine_of_Hippo">St. Augustine&lt;/a> (&lt;a href="https://www.stoa.org/hippo/text9.html#TB9C10S23">&lt;em>Confessions&lt;/em> 9.10.23&lt;/a>), which forms the setting for the conversation with his mother &lt;a href="https://en.wikipedia.org/wiki/Saint_Monica">St. Monica&lt;/a> in CE 388, is precisely of this type: a decorative backdrop that enhanced the peace and quiet of the interior of the house, an antithesis to the frenetic but vain life of the city outside.&lt;/p>
 &lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
 &lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
@@ -181,7 +181,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
  &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -210,14 +210,14 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig15_better_colored.jpg" alt="Plan of the House on Via del Tempio Rotundo" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig15_better_colored.jpg" alt="Plan of the House on Via del Tempio Rotundo" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 1: Plan (after M. Supino; PA-OAnt, Archives).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig17_better.jpg" alt="Plan of the peristyle, with column bases and flower pots" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig17_better.jpg" alt="Plan of the peristyle, with column bases and flower pots" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 2: Plan of the peristyle, with column bases and flower pots (from Messineo 1984).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="photos">Photos&lt;/h3>
@@ -225,7 +225,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig23b.jpg" alt="A flower pot during 1973 excavation" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig23b.jpg" alt="A flower pot during 1973 excavation" onclick="fullscreen(this)">
  &lt;figcaption>Fig. 3: A flower pot during excavation, 1973 (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>
@@ -256,20 +256,20 @@
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>&lt;a href="https://www.worldcat.org/identities/lccn-nr98023577/">Paola Olivanti&lt;/a>&lt;/p>
 &lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item><item><title>Piazzale della Corporazioni</title><link>https://roman-gardens.github.io/test-drafts/province/italia/ostia/piazzale_della_corporazioni/</link><pubDate>Mon, 08 Feb 2021 19:00:00 -0800</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/ostia/piazzale_della_corporazioni/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a> &lt;br>
+&lt;p>21 Apr 2021&lt;/p></description></item><item><title>Piazzale della Corporazioni</title><link>https://roman-gardens.github.io/test-drafts/place/italia/ostia/piazzale_della_corporazioni/</link><pubDate>Mon, 08 Feb 2021 19:00:00 -0800</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/ostia/piazzale_della_corporazioni/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/">Ostia&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/">Ostia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/422995">Ostia (Pleiades)&lt;/a>&lt;/p>
 &lt;h3 id="location-description">Location Description&lt;/h3>
 &lt;p>&lt;a href="https://en.wikipedia.org/wiki/Ostia_Antica">Ostia Antica&lt;/a>, the port-city of Rome, was situated at the mouth (&lt;a href="https://en.wiktionary.org/wiki/ostium#Latin">&lt;em>ostium&lt;/em>&lt;/a>) of the &lt;a href="https://en.wikipedia.org/wiki/Tiber">Tiber&lt;/a>, where it flowed into the &lt;a href="http://vocab.getty.edu/page/tgn/1112319">Tyrrhenian sea&lt;/a>. Rome was situated further upriver, several kilometres from the sea. By its maritime position, Ostia also protected the landing at the mouth of the river; it controlled the trade that ran along it, and also the production of salt in the nearby salt works. Ancient historians believed that the city had been founded in the 7&lt;sup>th&lt;/sup> century by &lt;a href="https://en.wikipedia.org/wiki/Ancus_Marcius">king Ancus Marcius&lt;/a>; archaeological evidence shows that the first settlement was founded as a &lt;em>colonia maritima&lt;/em> in the 4&lt;sup>th&lt;/sup> century BCE. and that it was already acting as the harbour of Rome in the 3&lt;sup>rd&lt;/sup> century BCE.&lt;/p>
 &lt;p>From the 2&lt;sup>nd&lt;/sup> century BCE Ostia (and later &lt;a href="https://en.wikipedia.org/wiki/Portus">Portus&lt;/a>) was the main port for the landing of wheat and other foodstuffs destined for the markets of Rome. It was a lively and cosmopolitan port city, where the great cargo ships unloaded produce from all over the Mediterranean and beyond. At Ostia the freight was transferred to riverboats to be sent upriver to Rome. This thriving commercial activity was accompanied by demographic and economic growth and by the presence of people coming from all over the known world.&lt;/p>
-&lt;p>Ostia is especially well known in archaeological and historical studies for its building history. The earliest Ostian houses are only known from sporadic traces, beginning from the 2nd century BCE. They were &lt;a href="http://vocab.getty.edu/page/aat/300005506">&lt;em>domus&lt;/em>&lt;/a> of traditional type, both in the simplest version, of direct Italic derivation, with rooms arranged round the atrium, and in the more complex Roman-Hellenistic form, in which the peristyle with the garden was added (e.g. the &lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/house_of_the_bucrania/">House of the Bucrania&lt;/a>). They were single-family houses, generally single storied, or with an upper story limited to the height of the atrium.&lt;/p>
-&lt;p>The transition to a different type of house was marked by the so-called peristyle house, such as the &lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/house_on_via_del_tempio_rotondo/">House on the Via del Tempio Rotondo&lt;/a>, which dates to the &lt;a href="https://en.wikipedia.org/wiki/Augustus">Augustan period&lt;/a>, the one found below the &lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/schola_of_trajan/">Schola of Trajan&lt;/a> (built 20-40 CE) and the &lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/house_of_the_thunderbolt/">House of the Thunderbolt&lt;/a>, datable to the &lt;a href="https://en.wikipedia.org/wiki/Vespasian">Vespasianic period&lt;/a> (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the &lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/house_of_the_fortuna_annonaria/">House of Fortuna Annonaria&lt;/a>, with its garden (140-190 CE).&lt;/p>
+&lt;p>Ostia is especially well known in archaeological and historical studies for its building history. The earliest Ostian houses are only known from sporadic traces, beginning from the 2nd century BCE. They were &lt;a href="http://vocab.getty.edu/page/aat/300005506">&lt;em>domus&lt;/em>&lt;/a> of traditional type, both in the simplest version, of direct Italic derivation, with rooms arranged round the atrium, and in the more complex Roman-Hellenistic form, in which the peristyle with the garden was added (e.g. the &lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/house_of_the_bucrania/">House of the Bucrania&lt;/a>). They were single-family houses, generally single storied, or with an upper story limited to the height of the atrium.&lt;/p>
+&lt;p>The transition to a different type of house was marked by the so-called peristyle house, such as the &lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/house_on_via_del_tempio_rotondo/">House on the Via del Tempio Rotondo&lt;/a>, which dates to the &lt;a href="https://en.wikipedia.org/wiki/Augustus">Augustan period&lt;/a>, the one found below the &lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/schola_of_trajan/">Schola of Trajan&lt;/a> (built 20-40 CE) and the &lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/house_of_the_thunderbolt/">House of the Thunderbolt&lt;/a>, datable to the &lt;a href="https://en.wikipedia.org/wiki/Vespasian">Vespasianic period&lt;/a> (69-79 CE). In this latter type of house the rooms are laid out around a small central colonnaded courtyard, sometimes provided with a garden, more often paved. The later examples of this type include the first phase of the &lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/house_of_the_fortuna_annonaria/">House of Fortuna Annonaria&lt;/a>, with its garden (140-190 CE).&lt;/p>
 &lt;p>Ostia was heavily reconstructed in the 2&lt;sup>nd&lt;/sup> century CE, under the pressure of the growth in population due to the completion of its ports. The new city followed new canons of utilitarian, high-density building, based on the multi-storied &lt;a href="https://en.wikipedia.org/wiki/Insula_(building)">&lt;em>insula&lt;/em>&lt;/a>, which aimed at the efficient use of the little space available. A room with windows on the façade became a kind of atrium-room. The plan became enriched with smaller rooms and internal staircases that ascended to the private apartments of the upper floor. Independent stairways entered from the street provided access to the apartments on the second and upper floors. The most accomplished examples of this type of building date to the &lt;a href="https://en.wikipedia.org/wiki/Hadrian">Hadrianic period&lt;/a>, for example in some &lt;em>insulae&lt;/em> that compose the so-called Garden Houses. In another type of insula the main source of light is not the street, but an inner arcaded courtyard.&lt;/p>
-&lt;p>The internal space was not always delimited by a portico; the &lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/insula_dei_dipinti/">Insula of the Paintings&lt;/a>, comprising the houses of Jove and Ganymede, of the Infant Bacchus and of the Paintings, arranged according to an L-shaped plan, had its façade facing onto two streets, forming a corner, while its inner sides faced onto a fairly extensive garden, without porticoes.&lt;/p>
-&lt;p>In the 3&lt;sup>rd&lt;/sup> and 4&lt;sup>th&lt;/sup> centuries, the tenement houses of the less well-to-do fell into ruin or were patched up. Private building seemed limited to the erection of new patrician domus (e.g. the &lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/ostia/house_of_amor_and_psyche/">House of Amor and Psyche&lt;/a>), built on the ground floor of already existing buildings and richly decorated with costly marbles. In these houses the gardens were chiefly an ornamental backdrop.&lt;/p>
+&lt;p>The internal space was not always delimited by a portico; the &lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/insula_dei_dipinti/">Insula of the Paintings&lt;/a>, comprising the houses of Jove and Ganymede, of the Infant Bacchus and of the Paintings, arranged according to an L-shaped plan, had its façade facing onto two streets, forming a corner, while its inner sides faced onto a fairly extensive garden, without porticoes.&lt;/p>
+&lt;p>In the 3&lt;sup>rd&lt;/sup> and 4&lt;sup>th&lt;/sup> centuries, the tenement houses of the less well-to-do fell into ruin or were patched up. Private building seemed limited to the erection of new patrician domus (e.g. the &lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/ostia/house_of_amor_and_psyche/">House of Amor and Psyche&lt;/a>), built on the ground floor of already existing buildings and richly decorated with costly marbles. In these houses the gardens were chiefly an ornamental backdrop.&lt;/p>
 &lt;p>The internal garden of the house at Ostia described by &lt;a href="https://en.wikipedia.org/wiki/Augustine_of_Hippo">St. Augustine&lt;/a> (&lt;a href="https://www.stoa.org/hippo/text9.html#TB9C10S23">&lt;em>Confessions&lt;/em> 9.10.23&lt;/a>), which forms the setting for the conversation with his mother &lt;a href="https://en.wikipedia.org/wiki/Saint_Monica">St. Monica&lt;/a> in CE 388, is precisely of this type: a decorative backdrop that enhanced the peace and quiet of the interior of the house, an antithesis to the frenetic but vain life of the city outside.&lt;/p>
 &lt;p>Ostia gives us, all things considered, the idea of a heavily built-up city, which sacrificed much of its greenery in the attempt to exploit building land as intensively as possible. This must have been the case especially in the most intensive building phase in its history (1&lt;sup>st&lt;/sup>-3&lt;sup>rd&lt;/sup> century CE). As a consequence, the gardens laid out before this period were in large part destroyed by subsequent building activity. Later garden layouts, on the other hand, were wiped out by the frantic campaign of excavation in the years 1938-1942, conducted in preparation for the World Exhibition, never held due to the outbreak of the Second World War. But today, thanks to the new excavations being conducted at Ostia by Italian and international research groups, using the most modern methods of investigation, the gardens of the ancient city are finally being recovered. In all the cases so far ascertained, they were gardens laid out within peristyles/courtyards, associated with wells or fountains for irrigation. In some cases, the excavators found the classic perforated vases, in others large fragments of terracotta containers. As regards garden furniture, only the Domus of Fortuna Annonaria provided some reliable data.&lt;/p>
 &lt;p>Ostia in ancient times, however, must have been a good deal greener and richer in vegetation and flora than now seems the case; the ancient sources in fact speak of the flourishing cultivation of vegetables, leaks, melons and salads in Ostian territory. In the 5&lt;sup>th&lt;/sup> century CE “the Isola Sacra is so lush and pleasant that it does not lack admirable grazing land, neither in the summer, nor in the winter months; in the spring, moreover, it is filled with such a profusion of roses and other flowers that it may be called, for its luscious flowering fragrance, the Lebanon of bountiful Venus” (&lt;em>Cosmographia&lt;/em>: 25.25-30).&lt;/p>
@@ -278,7 +278,7 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_fig1.jpg" alt="General Plan of Ostia Antica" onclick="fullscreen(this)">
  &lt;figcaption>Ostia Antica, General Plan.&lt;/figcaption>
 &lt;/figure>
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -316,28 +316,28 @@
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_piazzale_fig1.jpg" alt="Plan of the Piazzale della Corporazioni from Calza 1953" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_piazzale_fig1.jpg" alt="Plan of the Piazzale della Corporazioni from Calza 1953" onclick="fullscreen(this)">
  &lt;figcaption>Figure 1: Plan of the Piazzale della Corporazioni (from Calza 1953).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_piazzale_fig2.jpg" alt="Plan of the Piazzale della Corporazioni from Lanciani 1881" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_piazzale_fig2.jpg" alt="Plan of the Piazzale della Corporazioni from Lanciani 1881" onclick="fullscreen(this)">
  &lt;figcaption>Figure 2: Plan of the Piazzale della Corporazioni (from Lanciani 1881).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_piazzale_fig3.jpg" alt="Sketch of the drainage system found below the Piazzale" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_piazzale_fig3.jpg" alt="Sketch of the drainage system found below the Piazzale" onclick="fullscreen(this)">
  &lt;figcaption>Figure 3: Sketch of the drainage system found below the Piazzale (from Giornale degli Scavi 1912).&lt;/figcaption>
 &lt;/figure>
 
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/ostia/ostia_piazzale_fig4.jpg" alt="Photo of the garden in 1912" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/ostia/ostia_piazzale_fig4.jpg" alt="Photo of the garden in 1912" onclick="fullscreen(this)">
  &lt;figcaption>Figure 4: The modern garden, 1912 (PA-OAnt, Photo Archive).&lt;/figcaption>
 &lt;/figure>
 &lt;h3 id="dates">Dates&lt;/h3>

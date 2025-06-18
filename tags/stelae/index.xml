@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stelae on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/stelae/</link><description>Recent content in Stelae on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 12:00:02 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/stelae/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb garden of A. Coelius C. f.</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/patavium/tomb_garden_of_a_coelius_c_f/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_x/patavium/tomb_garden_of_a_coelius_c_f/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stelae on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/tags/stelae/</link><description>Recent content in Stelae on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 22:12:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/tags/stelae/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb garden of A. Coelius C. f.</title><link>https://roman-gardens.github.io/test-drafts/place/italia/region_x/patavium/tomb_garden_of_a_coelius_c_f/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/region_x/patavium/tomb_garden_of_a_coelius_c_f/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/">Italia&lt;/a>&lt;/p>
 &lt;!--### Province Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/">Patavium&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/">Patavium&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/393473">Patavium (Pleiades)&lt;/a>&lt;/p>
 &lt;!--### Location Description-->
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Region X&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Region X&lt;/a>&lt;/p>
 &lt;!--### Sublocation Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -33,7 +33,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -56,17 +56,17 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="publication-date">Publication date&lt;/h3>
 &lt;p>21 Apr 2021&lt;/p>
 &lt;!--### Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Tomb Garden of L. Ogius Patroclus</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/altinum/tomb_garden_of_l_ogius_patroclus/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_x/altinum/tomb_garden_of_l_ogius_patroclus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a>&lt;/p>
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Tomb Garden of L. Ogius Patroclus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/region_x/altinum/tomb_garden_of_l_ogius_patroclus/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/region_x/altinum/tomb_garden_of_l_ogius_patroclus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a>&lt;/p>
 &lt;!--### Province Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/altinum/">Altinum&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/region_x/altinum/">Altinum&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/197110">Altinum (Pleiades)&lt;/a>&lt;/p>
 &lt;!--### Location Description-->
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/">Region X&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/region_x/">Region X&lt;/a>&lt;/p>
 &lt;!--### Sublocation Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -92,7 +92,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -116,17 +116,17 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="publication-date">Publication date&lt;/h3>
 &lt;p>21 Apr 2021&lt;/p>
 &lt;!--### Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Tomb garden of T. Vettius Hermes</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_ix/vardagate/tomb_garden_of_t_vettius_hermes/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_ix/vardagate/tomb_garden_of_t_vettius_hermes/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Tomb garden of T. Vettius Hermes</title><link>https://roman-gardens.github.io/test-drafts/place/italia/region_ix/vardagate/tomb_garden_of_t_vettius_hermes/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/region_ix/vardagate/tomb_garden_of_t_vettius_hermes/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/">Italia&lt;/a>&lt;/p>
 &lt;!--### Province Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/">Vardagate&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/">Vardagate&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/383809">Vardagate (Pleiades)&lt;/a>&lt;/p>
 &lt;!--### Location Description-->
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_ix/">Region IX&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/region_ix/">Region IX&lt;/a>&lt;/p>
 &lt;!--### Sublocation Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -150,7 +150,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_ix/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_ix/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
@@ -175,17 +175,17 @@ NEW WAY ↓↓↓↓
 &lt;h3 id="publication-date">Publication date&lt;/h3>
 &lt;p>21 Apr 2021&lt;/p>
 &lt;!--### Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Funerary Grove of Q. Cervonius Chryseros</title><link>https://roman-gardens.github.io/test-drafts/province/italia/region_x/aquileia/funerary_grove_of_q_cervonius_chryseros/</link><pubDate>Tue, 10 Nov 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/province/italia/region_x/aquileia/funerary_grove_of_q_cervonius_chryseros/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/">Italia&lt;/a>&lt;/p>
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Funerary Grove of Q. Cervonius Chryseros</title><link>https://roman-gardens.github.io/test-drafts/place/italia/region_x/aquileia/funerary_grove_of_q_cervonius_chryseros/</link><pubDate>Tue, 10 Nov 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/region_x/aquileia/funerary_grove_of_q_cervonius_chryseros/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a>&lt;/p>
 &lt;!--### Province Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/aquileia/">Aquileia&lt;/a> &lt;br>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/region_x/aquileia/">Aquileia&lt;/a> &lt;br>
 &lt;a href="hhttps://pleiades.stoa.org/places/187290">Aquileia (Pleiades)&lt;/a>&lt;/p>
 &lt;!--### Location Description-->
 &lt;!-- LEAVE THIS BLANK FOR NOW -->
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/province/italia/region_x/">Region X&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/region_x/">Region X&lt;/a>&lt;/p>
 &lt;!--### Sublocation Description-->
 &lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
@@ -210,7 +210,7 @@ NEW WAY ↓↓↓↓
 
 
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/region_x/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
  &lt;figcaption>CAPTION&lt;/figcaption>
 &lt;/figure>
 -->
