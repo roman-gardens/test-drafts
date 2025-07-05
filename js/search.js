@@ -22,11 +22,13 @@ function displayResults (qterms, results, store) {
 
       // find text around first instance of first query term
       let q1 = qterms[0].normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+      // find singular even when query is plural
+      // TODO: can we use lunr's stemming?
+      q1 = q1.replace(/s$/, 's?')
       let re = new RegExp(`^.*?(.{0,140})(${q1})(.{0,140}).*?$`, 'is')
       // extract and highlight first term
       let snippet = content.replace(re, '$1<em>$2</em>$3')
       // highlight any other terms found within the snippet
-      console.log(qterms)
       if (qterms.length > 1) {
         for (let i = 1 ; i < qterms.length; i++) {
           let qi = qterms[i]
@@ -55,6 +57,9 @@ if (q) {
 
   // Retain the search input in the form when displaying results
   window.setTimeout((function(){document.getElementById('search-input').setAttribute('value', q)}), 500)
+  
+  // also split tokens on slash
+  lunr.tokenizer.separator = /[\s\-\/]+/
 
   const idx = lunr(function () {
     this.ref('id')
@@ -67,7 +72,7 @@ if (q) {
       this.add({
         id: key,
         title: window.store[key].title,
-        content: window.store[key].content
+        content: window.store[key].content.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
       })
     }
   })
@@ -75,6 +80,9 @@ if (q) {
   // Only return results that contain ALL query terms
   let qterms = q.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\W+/g, ' ').trim().split(' ')
   let qall = '+' + qterms.join(' +')
+
+  // remove some stopwords -- TODO: can lunr do this for us?
+  qall = q.replaceAll(/\s?\\+(at|in|of|the)/g, '')
 
   try {
     // Perform the search

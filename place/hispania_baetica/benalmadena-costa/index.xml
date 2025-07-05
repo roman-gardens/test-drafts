@@ -1,79 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/benalmadena-costa/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/place/hispania_baetica/benalmadena-costa/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa</title><link>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/benalmadena-costa/villa/</link><pubDate>Mon, 12 Oct 2020 20:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/benalmadena-costa/villa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>Hispania Baetica&lt;/p>
-&lt;!--### Province Description-->
-&lt;!-- DESCRIPTION -->
-&lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/hispania_baetica/benalmadena-costa/">Benalmadena-Costa&lt;/a> &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/510567671">Benalmadena-Costa (Pleiades)&lt;/a>&lt;/p>
-&lt;h3 id="location-description">Location Description&lt;/h3>
-&lt;!--## Sublocation-->
-&lt;!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-&lt;!--### Sublocation Description-->
-&lt;!-- DESCRIPTION -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/benalmadena-costa/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/place/hispania_baetica/benalmadena-costa/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa</title><link>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/benalmadena-costa/villa/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/benalmadena-costa/villa/</guid><description>&lt;h2 id="location">Location&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/hispania_baetica/benalmadena-costa/">Benalmadena-Costa&lt;/a>&lt;/li>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Benalmadena-Costa">Benalmadena-Costa&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/510567671" title="Pleiades gazetteer of ancient places">Pleiades: 510567671&lt;/a>
+
+
+
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Villa&lt;/p>
-&lt;h3 id="keywords">Keywords&lt;/h3>
-&lt;!-- [no keyword]-->
-&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;h2 id="keywords">Keywords&lt;/h2>
+&lt;!-- [no keyword] -->
+&lt;h2 id="garden-description">Garden Description&lt;/h2>
 &lt;p>At the rear of this villa there is a grand &lt;em>euripus&lt;/em> running the length of the large rectangular garden.&lt;/p>
-&lt;h3 id="maps">Maps&lt;/h3>
-&lt;!--
-
-
-
-
-
-
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/benalmadena-costa/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
- &lt;figcaption>CAPTION&lt;/figcaption>
-&lt;/figure>
--->
-&lt;!--### Plans-->
-&lt;!--
-
-
-
-
-
-
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/benalmadena-costa/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
- &lt;figcaption>CAPTION&lt;/figcaption>
-&lt;/figure>
--->
-&lt;h3 id="images">Images&lt;/h3>
-&lt;!--
-
-
-
-
-
-
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/benalmadena-costa/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
- &lt;figcaption>CAPTION&lt;/figcaption>
-&lt;/figure>
--->
-&lt;h3 id="dates">Dates&lt;/h3>
+&lt;!-- ## Maps -->
+&lt;!-- ## Plans -->
+&lt;!-- ## Images -->
+&lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>unspecified&lt;/p>
-&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>P. Rodriguez Oliva, &lt;em>La arqueológia romana de Benalmádena&lt;/em>, Ayuntamiento de Benalmádena, (Malaga 1982).&lt;a href="http://www.worldcat.org/oclc/1123848744">(worldcat)&lt;/a>&lt;/li>
-&lt;li>P. Rodriguez Oliva,&lt;em>Anuario Arqueologico de Andalucia, 1986&lt;/em>, Direccion general de bienes culturales, (Sevilla, 1987), part II, 407 ff. &lt;a href="http://www.worldcat.org/oclc/491540528">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mª L. Loza Azuaga,‘La escultura de fuentes en Hispania: ejemplos de la Bética, &lt;em>Actas de la I Reunión sobre escultura romana en Hispania&lt;/em>, (Mérida, 1993), 97-110.&lt;a href="http://www.worldcat.org/oclc/884615852">(worldcat)&lt;/a>&lt;/li>
+&lt;li>P. Rodriguez Oliva, &lt;em>La arqueológia romana de Benalmádena&lt;/em>, Ayuntamiento de Benalmádena, (Malaga 1982).&lt;a href="https://search.worldcat.org/title/1123848744">(worldcat)&lt;/a>&lt;/li>
+&lt;li>P. Rodriguez Oliva,&lt;em>Anuario Arqueologico de Andalucia, 1986&lt;/em>, Direccion general de bienes culturales, (Sevilla, 1987), part II, 407 ff. &lt;a href="https://search.worldcat.org/title/491540528">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mª L. Loza Azuaga,'La escultura de fuentes en Hispania: ejemplos de la Bética, &lt;em>Actas de la I Reunión sobre escultura romana en Hispania&lt;/em>, (Mérida, 1993), 97-110.&lt;a href="https://search.worldcat.org/title/884615852">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;!--#### Periodo ID-->
-&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
-&lt;p>[510567671]/test-drafts/place/hispania_baetica/benalmadena-costa/) &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/510567671">510567671&lt;/a>&lt;/p>
-&lt;h4 id="tgn-id">TGN ID&lt;/h4>
-&lt;!-- [TGN_ID](http://vocab.getty.edu/page/tgn/TGN_ID) -->
-&lt;h3 id="contributor">Contributor&lt;/h3>
-&lt;p>&lt;a href="link">(AUTHOR_ID)&lt;/a> &lt;!-- - (ORCID: [xxx](link)) -->&lt;/p>
-&lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;h2 id="places">Places&lt;/h2>
+&lt;ul>
+&lt;li>[Benalroma]/test-drafts/place/hispania_baetica/benalmadena-costa/)&lt;/li>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Benalroma">Benalroma&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/510567671" title="Pleiades gazetteer of ancient places">Pleiades: 510567671&lt;/a>
+
+
+
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

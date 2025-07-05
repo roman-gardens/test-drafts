@@ -1,44 +1,128 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/die/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/die/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb garden of Publicius Calistus</title><link>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/die/tomb_garden_of_publicius_calistus/</link><pubDate>Mon, 14 Dec 2020 00:08:52 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/die/tomb_garden_of_publicius_calistus/</guid><description>&lt;h3 id="province">Province&lt;/h3>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/">Gallia Narbonensis&lt;/a> &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/981537">Gallia Narbonensis (Pleiades)&lt;/a>&lt;/p>
-&lt;!-- ### Province Description -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/die/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/die/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb garden of Publicius Calistus</title><link>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/die/tomb_garden_of_publicius_calistus/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/die/tomb_garden_of_publicius_calistus/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/">Gallia Narbonensis&lt;/a>&lt;/li>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Gallia%20Narbonensis">Gallia Narbonensis&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/981537" title="Pleiades gazetteer of ancient places">Pleiades: 981537&lt;/a>
+
+
+
+&lt;/li>
+&lt;/ul>
+&lt;!-- ## Province Description -->
 &lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/die/">DIE, France&lt;/a> &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/167716">DIE, France&lt;/a>&lt;/p>
-&lt;h3 id="location-description">Location Description&lt;/h3>
-&lt;!--### Location Description-->
-&lt;!-- LEAVE THIS BLANK FOR NOW -->
+&lt;ul>
+&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/die/">DIE, France&lt;/a>&lt;/li>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=DIE%2c%20France">DIE, France&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/167716" title="Pleiades gazetteer of ancient places">Pleiades: 167716&lt;/a>
+
+
+
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;!--### Sublocation Description-->
-&lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Tomb garden of Publicius Calistus&lt;/p>
-&lt;!-- ### Keywords -->
-&lt;h3 id="garden-description">Garden Description&lt;/h3>
-&lt;p>A funerary monument found near Die and now on the terrace of the courthouse there records an epitaph of (probably) the second or third century consecrated (consecratum) by Publicius Calistus for himself, his wives, and his children and attaching to the tomb two thirds of an &lt;em>arepennis&lt;/em> (a Gallic measure of land, equivalent to half a &lt;em>iugerum&lt;/em>, about one quarter of an acre) of vineyard (i.e. about 830 m2), from the revenue of which, according to Hirschfeld’s plausible interpretation in CIL, he wanted no fewer than fifteen &lt;em>sextarii&lt;/em> of wine to be poured in libation to him annually (on what occasions he does not say) (&lt;em>cum bese vineae arep(ennis), ex cuius reditu omnib(us) annis prolibari volo ne minus&lt;/em> XV &lt;em>v(ini ?) s(extaris ?)&lt;/em>).&lt;/p>
+&lt;!-- ## Keywords -->
+&lt;h2 id="garden-description">Garden Description&lt;/h2>
+&lt;p>A funerary monument found near Die and now on the terrace of the courthouse there records an epitaph of (probably) the second or third century consecrated (consecratum) by Publicius Calistus for himself, his wives, and his children and attaching to the tomb two thirds of an &lt;em>arepennis&lt;/em> (a Gallic measure of land, equivalent to half a &lt;em>iugerum&lt;/em>, about one quarter of an acre) of vineyard (i.e. about 830 m2), from the revenue of which, according to Hirschfeld's plausible interpretation in CIL, he wanted no fewer than fifteen &lt;em>sextarii&lt;/em> of wine to be poured in libation to him annually (on what occasions he does not say) (&lt;em>cum bese vineae arep(ennis), ex cuius reditu omnib(us) annis prolibari volo ne minus&lt;/em> XV &lt;em>v(ini ?) s(extaris ?)&lt;/em>).&lt;/p>
 &lt;!-- text is from draft file -->
-&lt;h3 id="plans">Plans&lt;/h3>
+&lt;h2 id="plans">Plans&lt;/h2>
 &lt;p>None Available&lt;/p>
-&lt;h3 id="images">Images&lt;/h3>
+&lt;h2 id="images">Images&lt;/h2>
 &lt;p>None Available&lt;/p>
-&lt;h3 id="dates">Dates&lt;/h3>
-&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;!-- ## Dates -->
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>CIL 12.1657 &lt;!-- Need more info about book -->&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>J.-J. Hatt, &lt;em>La tombe gallo-romaine&lt;/em> (Paris 1951) 71. &lt;a href="http://www.worldcat.org/oclc/166053943">(worldcat)&lt;/a>&lt;/p>
+&lt;p>J.-J. Hatt, &lt;em>La tombe gallo-romaine&lt;/em> (Paris 1951) 71. &lt;a href="https://search.worldcat.org/title/166053943">(worldcat)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
-&lt;p>&lt;a href="https://pleiades.stoa.org/places/981537">981537&lt;/a>&lt;/p>
-&lt;h4 id="tgn-id">TGN ID&lt;/h4>
-&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7030317">7030317&lt;/a>
-&lt;a href="http://vocab.getty.edu/page/tgn/7662219">7662219&lt;/a>&lt;/p>
-&lt;h3 id="contributor">Contributor&lt;/h3>
-&lt;p>&lt;a href="link">AUTHOR_ID&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0002-7384-1762">0000-0002-7384-1762&lt;/a>)&lt;/p>
-&lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p>
-&lt;!--### Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>
+&lt;h2 id="places">Places&lt;/h2>
+&lt;ul>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Narbonensis%20%28province%29">Narbonensis (province)&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/981537" title="Pleiades gazetteer of ancient places">Pleiades: 981537&lt;/a>
+
+
+
+&lt;/li>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Gallia%20Narbonensis%20%28province%29">Gallia Narbonensis (province)&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7030317" title="Thesaurus of Geographic Names (Getty)">TGN: 7030317&lt;/a>
+
+
+
+&lt;/li>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Die%20%28inhabited%20place%29">Die (inhabited place)&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7009141" title="Thesaurus of Geographic Names (Getty)">TGN: 7009141&lt;/a>
+
+
+
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

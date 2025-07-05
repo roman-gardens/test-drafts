@@ -12,6 +12,21 @@ a.nav {
   color: #000;
 }
 
+/* external links */
+a + a[target=_blank] {
+  padding-left: 0.5em;
+}
+a[target=_blank] {
+  font-family: "Candara", "Arial", sans-serif;
+  color: #44f ! important;
+}
+a[target=_blank]::after {
+  content: "🗗";
+  padding-left: 2px;
+  padding-right: 2em;
+}
+
+
 body {
   font-family: "Georgia", "Palatino", serif;
   font-size: 12pt;
@@ -35,7 +50,7 @@ body.test-drafts {
 }
 
 div.test-header {
-  font-size: 150%;
+  font-size: 100%;
   position: absolute;
   left: 0;
   top: 0;
@@ -48,6 +63,7 @@ div.container {
 }
 
 figure {
+  margin-top: 0.5em;
   margin-bottom: 2em;
 }
 
@@ -83,9 +99,18 @@ figure img:hover {
 figcaption {
   color: #000;
 }
+figcaption div.credit {
+  font-size: 80%;
+}
+
+footer a[target=_blank] {
+  color: #88f ! important;
+  float: right;
+}
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0.5em 0 0;
+  font-family: "Candara", Arial, sans-serif;
 }
 
 .container--outer {
@@ -154,10 +179,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 nav.breadcrumbs {
+  font-family: "Candara", Arial, sans-serif;
   font-weight: bold;
   font-size: 130%;
   margin-bottom: 0.5em;
-  color: #262;
+  color: #282;
 }
 
 nav.breadcrumbs a {
@@ -255,8 +281,9 @@ article.list__item em {
 }
 
 .smallcrumbs {
+  font-family: "Candara", "Arial", sans-serif;
 	color: #282;
-  font-size: 90%;
+  font-size: 100%;
   margin: 0;
   line-height: 1.0;
 }
@@ -266,8 +293,20 @@ article.list__item em {
 }
 
 .metadata {
-  margin: 0.5em 2em;
+  font-family: "Candara", "Arial", sans-serif;
+  margin: 0 0.5em;
+  padding: 0.3em 0.5em;
   font-size: 90%;
+  background: #f8f8f8;
+  border: 1px solid #ddd;
+}
+
+.metadata .left {
+  float: left;
+}
+
+.metadata .right {
+  text-align: right;
 }
 
 .draft {
@@ -299,6 +338,14 @@ article.list__item em {
 
 table.meta {
   font-family: "Arial Narrow", Arial, sans-serif;
+  width: auto;
+}
+table#metakeywords {
+  font-family: Arial;
+}
+
+table.meta th {
+  text-align: left;
 }
 
 table.meta th:hover {
@@ -311,7 +358,7 @@ table.meta a {
 }
 
 table.meta tr.draft {
-  background: #fff2e7;
+  background: #fda; /* #fff2e7; */
 }
 
 table.meta .path {

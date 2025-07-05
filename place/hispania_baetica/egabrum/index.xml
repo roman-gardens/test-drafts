@@ -1,105 +1,117 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/egabrum/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/place/hispania_baetica/egabrum/index.xml" rel="self" type="application/rss+xml"/><item><title>House of the Mithra</title><link>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/egabrum/house_of_the_mithra/</link><pubDate>Thu, 15 Oct 2020 10:00:00 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/egabrum/house_of_the_mithra/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>Hispania Baetica&lt;/p>
-&lt;!--### Province Description-->
-&lt;!-- DESCRIPTION -->
-&lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/hispania_baetica/egabrum/">Egabrum&lt;/a> &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/265919">Egabrum (Pleiades)&lt;/a>&lt;/p>
-&lt;h3 id="location-description">Location Description&lt;/h3>
-&lt;!--## Sublocation-->
-&lt;!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-&lt;!--### Sublocation Description-->
-&lt;!-- DESCRIPTION -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/egabrum/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/place/hispania_baetica/egabrum/index.xml" rel="self" type="application/rss+xml"/><item><title>House of the Mithra</title><link>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/egabrum/house_of_the_mithra/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/egabrum/house_of_the_mithra/</guid><description>&lt;h2 id="location">Location&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/hispania_baetica/egabrum/">Egabrum&lt;/a>&lt;/li>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Egabrum">Egabrum&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/265919" title="Pleiades gazetteer of ancient places">Pleiades: 265919&lt;/a>
+
+
+
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House of the Mithra&lt;/p>
-&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004095">courtyards&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052564">drains&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300081589">exedrae (site elements)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300006179">fountains&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004029">peristyles (Roman courtyards)&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards">courtyards (uncovered spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)">AAT:300004095&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=drains">drains&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300052564" title="Art and Architecture Thesaurus (Getty)">AAT:300052564&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=exedrae">exedrae (site elements)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300081589" title="Art and Architecture Thesaurus (Getty)">AAT:300081589&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fountains">fountains&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006179" title="Art and Architecture Thesaurus (Getty)">AAT:300006179&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Doric order">Doric order&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300067406" title="Art and Architecture Thesaurus (Getty)">AAT:300067406&lt;/a>
+&lt;/li>
 &lt;/ul>
-&lt;!-- [Doric order]-->
-&lt;!-- [triclinium]-->
-&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;!-- TODO triclinia -- should this be couches or rooms??? -->
+&lt;h2 id="garden-description">Garden Description&lt;/h2>
 &lt;p>Excavations identified two building phases in the villa. The early Imperial phase of the villa contained a peristyle courtyard with a pool, central drain and possibly a garden. During the late Imperial phase (fourth century AD), the pool was converted into a double fountain with two semicircular exedras on its short sides, which housed sculptures of Mithra and Dionysus. The space which may have been a garden was transformed into a second pool around the original one by paving it and building a low wall at the base of the peristyle. The ruins show this second state.&lt;/p>
-&lt;h3 id="maps">Maps&lt;/h3>
-&lt;!--
-
-
-
-
-
-
+&lt;!-- ## Maps -->
+&lt;!-- ## Plans -->
+&lt;h2 id="images">Images&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/egabrum/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
- &lt;figcaption>CAPTION&lt;/figcaption>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/egabrum/HIS_BAE_Ega_Hm_plan_CA%20fig1.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ Fig. 1: Plan of the House of the Mithra.&lt;div class="credit">Credit: Gorges, Planche XXXIII.&lt;/div>&lt;/figcaption>
 &lt;/figure>
--->
-&lt;!--### Plans-->
-&lt;!--
-
-
-
-
-
-
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/egabrum/FILENAME" alt="ALT_TEXT" onclick="fullscreen(this)">
- &lt;figcaption>CAPTION&lt;/figcaption>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/egabrum/HIS_BAE_Ega_Hm_photo_CA%20fig2.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ Fig. 2: Photo of the peristyle looking northwest.&lt;/figcaption>
 &lt;/figure>
--->
-&lt;h3 id="images">Images&lt;/h3>
-
-
-
-
-
-
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/egabrum/HIS_BAE_Ega_Hm_plan_CA%20fig1.jpg" alt="Fig. 1: Plan of the House of the Mithra. Source: Gorges, Planche XXXIII. (Rights Statement)" onclick="fullscreen(this)">
- &lt;figcaption>&lt;/figcaption>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/egabrum/HIS_BAE_Ega_Hm_Mosaic_CA%20fig3.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ Fig. 3: Photo of one of the mosaics from the House of Mithra on display at the municipal museum.&lt;/figcaption>
 &lt;/figure>
-
-
-
-
-
-
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/egabrum/HIS_BAE_Ega_Hm_photo_CA%20fig2.jpg" alt="Fig. 2: Photo of the peristyle looking northwest. (Rights Statement)" onclick="fullscreen(this)">
- &lt;figcaption>&lt;/figcaption>
-&lt;/figure>
-
-
-
-
-
-
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/hispania_baetica/egabrum/HIS_BAE_Ega_Hm_Mosaic_CA%20fig3.jpg" alt="Fig. 3: Photo of one of the mosaics from the House of Mithra on display at the municipal museum. (Rights Statement)" onclick="fullscreen(this)">
- &lt;figcaption>&lt;/figcaption>
-&lt;/figure>
-&lt;h3 id="dates">Dates&lt;/h3>
+&lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>unspecified&lt;/p>
-&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>A. Blanco, J. García y M. Bendala, ‘Excavaciones en Cabra (Córdoba).La Casa de Mitra (Primera campaña, 1972),’ &lt;em>Habis 3&lt;/em>, Universidad de Sevilla, (Sevilla 1973), 297-319.&lt;a href="http://www.worldcat.org/oclc/920418457">(worldcat)&lt;/a>&lt;/li>
-&lt;li>M.ª C. Fernández Castro,&lt;em>Villas romanas en Hispania&lt;/em>, (Madrid 1982). &lt;a href="http://www.worldcat.org/oclc/876519837">(worldcat)&lt;/a>&lt;/li>
-&lt;li>J. L. Jiménez Salvador and M. Martín Bueno,&lt;em>La Casa del Mitra&lt;/em>, Ayuntamiento de Córdoba, (Córdoba, 1991).&lt;a href="http://www.worldcat.org/oclc/490626772">(worldcat)&lt;/a>&lt;/li>
+&lt;li>A. Blanco, J. García y M. Bendala, 'Excavaciones en Cabra (Córdoba).La Casa de Mitra (Primera campaña, 1972),' &lt;em>Habis 3&lt;/em>, Universidad de Sevilla, (Sevilla 1973), 297-319.&lt;a href="https://search.worldcat.org/title/920418457">(worldcat)&lt;/a>&lt;/li>
+&lt;li>M.ª C. Fernández Castro,&lt;em>Villas romanas en Hispania&lt;/em>, (Madrid 1982). &lt;a href="https://search.worldcat.org/title/876519837">(worldcat)&lt;/a>&lt;/li>
+&lt;li>J. L. Jiménez Salvador and M. Martín Bueno,&lt;em>La Casa del Mitra&lt;/em>, Ayuntamiento de Córdoba, (Córdoba, 1991).&lt;a href="https://search.worldcat.org/title/490626772">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;!--#### Periodo ID-->
-&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
-&lt;p>[265919]/test-drafts/place/hispania_baetica/egabrum/) &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/265919">265919&lt;/a>&lt;/p>
-&lt;h4 id="tgn-id">TGN ID&lt;/h4>
-&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7007570">7007570&lt;/a>&lt;/p>
-&lt;h3 id="contributor">Contributor&lt;/h3>
-&lt;p>&lt;a href="link">(AUTHOR_ID)&lt;/a> &lt;!-- - (ORCID: [xxx](link)) -->&lt;/p>
-&lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;h2 id="places">Places&lt;/h2>
+&lt;ul>
+&lt;li>[Igabrum/Egabrum]/test-drafts/place/hispania_baetica/egabrum/)&lt;/li>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Igabrum%2fEgabrum">Igabrum/Egabrum&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/265919" title="Pleiades gazetteer of ancient places">Pleiades: 265919&lt;/a>
+
+
+
+&lt;/li>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Cabra%20%28inhabited%20place%29">Cabra (inhabited place)&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7007570" title="Thesaurus of Geographic Names (Getty)">TGN: 7007570&lt;/a>
+
+
+
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

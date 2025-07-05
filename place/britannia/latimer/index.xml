@@ -1,74 +1,114 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/britannia/latimer/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/place/britannia/latimer/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Latimer</title><link>https://roman-gardens.github.io/test-drafts/place/britannia/latimer/latimer_rural_villa/</link><pubDate>Sat, 11 Jul 2020 11:20:32 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/britannia/latimer/latimer_rural_villa/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/britannia/">Britannia&lt;/a>&lt;/p>
-&lt;h2 id="province-description">Province Description&lt;/h2>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/britannia/latimer/">Latimer&lt;/a> &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/79555">Latimer (Pleiades)&lt;/a>&lt;/p>
-&lt;!--### Location Description-->
-&lt;!-- LEAVE THIS BLANK FOR NOW -->
-&lt;!--## Sublocation-->
-&lt;!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-&lt;!--### Sublocation Description-->
-&lt;!-- DESCRIPTION -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/britannia/latimer/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/place/britannia/latimer/index.xml" rel="self" type="application/rss+xml"/><item><title>Rural Villa in Latimer</title><link>https://roman-gardens.github.io/test-drafts/place/britannia/latimer/latimer_rural_villa/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/britannia/latimer/latimer_rural_villa/</guid><description>&lt;h2 id="location">Location&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/britannia/latimer/">Latimer&lt;/a>&lt;/li>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Latimer">Latimer&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/79555" title="Pleiades gazetteer of ancient places">Pleiades: 79555&lt;/a>
+
+
+
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Rural Villa in Latimer&lt;/p>
-&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;h2 id="keywords">Keywords&lt;/h2>
+&lt;!-- - 
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=archaeological gardens">archaeological gardens&lt;/a>
+ -->
 &lt;ul>
-&lt;li>&lt;a href="#">archaeological garden&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005044">fences (site elements)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300008135">flower gardens&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300008890">orchards&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300008142">vegetable gardens&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005518">villae rusticae&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fences">fences (site elements)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005044" title="Art and Architecture Thesaurus (Getty)">AAT:300005044&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=flower gardens">flower gardens&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008135" title="Art and Architecture Thesaurus (Getty)">AAT:300008135&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=orchards">orchards&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008890" title="Art and Architecture Thesaurus (Getty)">AAT:300008890&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vegetable gardens">vegetable gardens&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008142" title="Art and Architecture Thesaurus (Getty)">AAT:300008142&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villae rusticae">villae rusticae&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005518" title="Art and Architecture Thesaurus (Getty)">AAT:300005518&lt;/a>
+&lt;/li>
 &lt;/ul>
-&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;h2 id="garden-description">Garden Description&lt;/h2>
 &lt;p>Excavations at this country house in Buckinghamshire have produced evidence for gardens adjacent to the main residence in its latest phase dating to the beginning of the 4th century (Fig. 1). The house at the west is of the winged corridor type, fronted by a large courtyard bisected by a paved central drive with a banked edge. Between the outer courtyard wall and the house were areas used for gardening (G in Fig. 1). Just inside the outer yard wall on the south side of the drive traces of at least six bedding trenches cut into the natural subsoil and running parallel to each other were followed for at least 5 meters (b in Fig. 1). These have been interpreted by the excavator as the remains of vegetable gardens (Fig. 2). He also attributed a number of stake holes in this area to small fences bounding the vegetable gardens, and suggested the possibility of an orchard on the northern side of the drive as well as a formal flower garden nearer to the house between the projecting wings, for which there is no concrete archaeological evidence. Finally a small pit just inside the courtyard gateway may represent a pit dug to take one of a pair of trees flanking the entrance.&lt;/p>
 &lt;!--
-### Maps
+## Maps
+
 -->
-&lt;h3 id="plans">Plans&lt;/h3>
-
-
-
-
-
-
+&lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/latimer/Latimer_fig_14_or_10.1a.jpg" alt="Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20." onclick="fullscreen(this)">
- &lt;figcaption>Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G). Adapted from Branigan 1971, fig. 20.&lt;/figcaption>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/britannia/latimer/Latimer_fig_14_or_10.1a.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G).&lt;div class="credit">Credit: Adapted from Branigan 1971, fig. 20.&lt;/div>&lt;/figcaption>
 &lt;/figure>
-&lt;h3 id="images">Images&lt;/h3>
-
-
-
-
-
-
+&lt;h2 id="images">Images&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/britannia/latimer/Latimer_fig_15_or_10.1b.jpg" alt="Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan." onclick="fullscreen(this)">
- &lt;figcaption>Fig. 2: Reconstruction of the house and garden. Courtesy of K. Branigan.&lt;/figcaption>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/britannia/latimer/Latimer_fig_15_or_10.1b.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ Fig. 2: Reconstruction of the house and garden.&lt;div class="credit">Credit: Courtesy of K. Branigan.&lt;/div>&lt;/figcaption>
 &lt;/figure>
-&lt;h3 id="dates">Dates&lt;/h3>
+&lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>early 4th century CE - unspecified&lt;/p>
-&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>K. Branigan, Latimer. &lt;em>Belgic, Roman, Dark Age and Early Modern Farm&lt;/em>, Bristol, 1971, pp. 85-86, 184, figs. 14, 20 &lt;a href="http://www.worldcat.org/oclc/462254320">(worldcat)&lt;/a>&lt;/li>
+&lt;li>K. Branigan, Latimer. &lt;em>Belgic, Roman, Dark Age and Early Modern Farm&lt;/em>, Bristol, 1971, pp. 85-86, 184, figs. 14, 20 &lt;a href="https://search.worldcat.org/title/462254320">(worldcat)&lt;/a>&lt;/li>
 &lt;li>M. Carroll, &lt;em>Earthly Paradises. Ancient Gardens in History and Archaeology.&lt;/em> London: The British Museum Press, 2003, 19, fig. 29&lt;/li>
 &lt;li>M. Carroll, They came, they saw, they gardened. &lt;em>The Garden: Journal of the Royal Horticultural Society&lt;/em> 128.6, 2003, 461, fig. p. 463&lt;/li>
-&lt;li>R.J. Zeepvat, “Roman Gardens in Britain,” in: A.E. Brown, ed., Garden Archaeology. Council for British Archaeology Research Report 78, London, 1991, p. 56, fig. 5.3. &lt;a href="http://www.worldcat.org/oclc/246578144">(worldcat)&lt;/a>&lt;/li>
+&lt;li>R.J. Zeepvat, &amp;quot;Roman Gardens in Britain,&amp;quot; in: A.E. Brown, ed., Garden Archaeology. Council for British Archaeology Research Report 78, London, 1991, p. 56, fig. 5.3. &lt;a href="https://search.worldcat.org/title/246578144">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;!--#### Periodo ID-->
-&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
-&lt;p>&lt;a href="https://pleiades.stoa.org/places/79555">79555&lt;/a>&lt;/p>
-&lt;h4 id="tgn-id">TGN ID&lt;/h4>
-&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/1029792">1029792&lt;/a>&lt;/p>
-&lt;h3 id="contributor">Contributor&lt;/h3>
-&lt;p>&lt;a href="https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
-&lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p>
-&lt;!--### Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>
+&lt;h2 id="places">Places&lt;/h2>
+&lt;ul>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Latimer">Latimer&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/79555" title="Pleiades gazetteer of ancient places">Pleiades: 79555&lt;/a>
+
+
+
+&lt;/li>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Latimer%20%28inhabited%20place%29">Latimer (inhabited place)&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/1029792" title="Thesaurus of Geographic Names (Getty)">TGN: 1029792&lt;/a>
+
+
+
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

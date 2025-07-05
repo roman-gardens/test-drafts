@@ -1,63 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/italia/region_ix/vardagate/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/place/italia/region_ix/vardagate/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb garden of T. Vettius Hermes</title><link>https://roman-gardens.github.io/test-drafts/place/italia/region_ix/vardagate/tomb_garden_of_t_vettius_hermes/</link><pubDate>Thu, 10 Dec 2020 12:00:02 -0500</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/region_ix/vardagate/tomb_garden_of_t_vettius_hermes/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/">Italia&lt;/a>&lt;/p>
-&lt;!--### Province Description-->
-&lt;!-- DESCRIPTION -->
-&lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/">Vardagate&lt;/a> &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/383809">Vardagate (Pleiades)&lt;/a>&lt;/p>
-&lt;!--### Location Description-->
-&lt;!-- LEAVE THIS BLANK FOR NOW -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/italia/region_ix/vardagate/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/place/italia/region_ix/vardagate/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb garden of T. Vettius Hermes</title><link>https://roman-gardens.github.io/test-drafts/place/italia/region_ix/vardagate/tomb_garden_of_t_vettius_hermes/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/region_ix/vardagate/tomb_garden_of_t_vettius_hermes/</guid><description>&lt;h2 id="location">Location&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/">Vardagate&lt;/a>&lt;/li>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Vardagate">Vardagate&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/383809" title="Pleiades gazetteer of ancient places">Pleiades: 383809&lt;/a>
+
+
+
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/region_ix/">Region IX&lt;/a>&lt;/p>
-&lt;!--### Sublocation Description-->
-&lt;!-- DESCRIPTION -->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Tomb garden of T. Vettius Hermes&lt;/p>
-&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005926">tombs&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300028729">epitaphs&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300007023">stelae&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs">tombs&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)">AAT:300005926&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=epitaphs">epitaphs&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300028729" title="Art and Architecture Thesaurus (Getty)">AAT:300028729&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=stelae">stelae&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300007023" title="Art and Architecture Thesaurus (Getty)">AAT:300007023&lt;/a>
+&lt;/li>
 &lt;/ul>
-&lt;h3 id="garden-description">Garden Description&lt;/h3>
-&lt;p>A marble stele now in a church at Grazzano records the epitaph of T. Vettius Hermes, a freedman ointment dealer (seplasiarius). After a gnomic sentiment about chthonic birthand reunion (mater genuit materq(ue) recepiit), Hermes goes on to declare that “these gardens, as great and excellent as they are, (will) serve my ashes, for I shall appoint caretakers to dine on the proceeds from them on my birthday and on the day of roses, in perpetuity” (hi horti ita uti o(ptimi) m(aximi)/que sunt cineribus seruite(!) meis nam curatores substituam uti uescantur ex horum hortorum reditu natale meo et per rosam in perpetuo).&lt;/p>
-&lt;!--### Maps-->
-&lt;!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-
-
-
-
-
-
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/province/italia/region_ix/image_name.ext" alt="ALT_TEXT" onclick="fullscreen(this)">
- &lt;figcaption>CAPTION&lt;/figcaption>
-&lt;/figure>
--->
-&lt;!--### Images-->
-&lt;h3 id="dates">Dates&lt;/h3>
+&lt;h2 id="garden-description">Garden Description&lt;/h2>
+&lt;p>A marble stele now in a church at Grazzano records the epitaph of T. Vettius Hermes, a freedman ointment dealer (seplasiarius). After a gnomic sentiment about chthonic birthand reunion (mater genuit materq(ue) recepiit), Hermes goes on to declare that &amp;quot;these gardens, as great and excellent as they are, (will) serve my ashes, for I shall appoint caretakers to dine on the proceeds from them on my birthday and on the day of roses, in perpetuity&amp;quot; (hi horti ita uti o(ptimi) m(aximi)/que sunt cineribus seruite(!) meis nam curatores substituam uti uescantur ex horum hortorum reditu natale meo et per rosam in perpetuo).&lt;/p>
+&lt;!-- ## Maps -->
+&lt;!-- ## Images -->
+&lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>unspecified&lt;/p>
-&lt;h4 id="excavation-date">Excavation Date&lt;/h4>
+&lt;h2 id="excavation-date">Excavation Date&lt;/h2>
 &lt;p>unspecified&lt;/p>
-&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
 &lt;li>CIL5.7454, cf. p. 7454&lt;/li>
 &lt;li>ILS8342&lt;/li>
 &lt;/ul>
-&lt;!--#### Periodo ID-->
-&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
-&lt;p>&lt;a href="https://pleiades.stoa.org/places/383809">383809&lt;/a>&lt;/p>
-&lt;h4 id="tgn-id">TGN ID&lt;/h4>
-&lt;p>unspecified&lt;/p>
-&lt;h3 id="contributor">Contributor&lt;/h3>
-&lt;p>Sean Gillies (&lt;a href="https://pleiades.stoa.org/author/sgillies">https://pleiades.stoa.org/author/sgillies&lt;/a>)&lt;/p>
-&lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p>
-&lt;!--### Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>
+&lt;h2 id="places">Places&lt;/h2>
+&lt;ul>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Vardagate">Vardagate&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/383809" title="Pleiades gazetteer of ancient places">Pleiades: 383809&lt;/a>
+
+
+
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

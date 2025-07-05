@@ -1,34 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/pannonia/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/place/pannonia/index.xml" rel="self" type="application/rss+xml"/><item><title>Pannonia</title><link>https://roman-gardens.github.io/test-drafts/place/pannonia/pannonia/</link><pubDate>Tue, 21 Jul 2020 16:35:11 -0400</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/pannonia/pannonia/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://pleiades.stoa.org/places/197425">Pannonia&lt;/a>&lt;/p>
-&lt;h3 id="province-description">Province Description&lt;/h3>
-&lt;p>The creation of the province of Pannonia can be dated to the years following 9 B.C., after the Pannonian tribes had been defeated by Tiberius. The province occupied the western half of modern Hungary up to the Danube in the north and east. Its western neighboring province was Noricum; to the south lay the Save river, Dalmatia, and the Adriatic coast. Because of its frontier position on the Danube, Pannonia was heavily garrisoned by the Roman army throughout its history. Probably to meet the needs of the army, large estates and villas were developed in the Pannonian plains, particularly around Lake Balaton (or Palso) and the Neusiedler (or Fertö) Lake. Large-scale vineyards were planted in the late Empire, producing wine probably for regional consumption. Grain and cattle, however, were not just consumed in Pannonia, but also exported to northern Italy in the late 3rd and 4th centuries. Under Trajan in 106/107 A.D., the province was separated into two parts: Pannonia Superior, with the governor’s residence in Carnuntum, and Pannonia Inferior with its capital in Aquincum. In the late 3rd and early 4th century under &lt;a href="#">Diocletian&lt;/a> and &lt;a href="#">Constantine&lt;/a>, the Pannonian provinces were split into four parts: Pannonia Prima, Savia, Pannonia Secunda and Valeria, with their capitals in Savaria, Siscia, Sopianae and Sirmium respectively.&lt;/p>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;!-- [Colonia Claudia Ara Agrippinensium (Cologne)](https://pleiades.stoa.org/places/108751) -->
-&lt;!--### Location Description-->
-&lt;!-- LEAVE THIS BLANK FOR NOW -->
-&lt;!--## Sublocation-->
-&lt;!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-&lt;!--### Sublocation Description-->
-&lt;!-- DESCRIPTION -->
-&lt;h2 id="garden">Garden&lt;/h2>
-&lt;!-- List of gardens in province -->
-&lt;!-- May be left blank for now -->
-&lt;h3 id="dates">Dates&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/pannonia/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/place/pannonia/index.xml" rel="self" type="application/rss+xml"/><item><title>Pannonia</title><link>https://roman-gardens.github.io/test-drafts/place/pannonia/pannonia/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/pannonia/pannonia/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;ul>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Pannonia">Pannonia&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/197425" title="Pleiades gazetteer of ancient places">Pleiades: 197425&lt;/a>
+
+
+
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="province-description">Province Description&lt;/h2>
+&lt;p>The creation of the province of Pannonia can be dated to the years following 9 B.C., after the Pannonian tribes had been defeated by Tiberius. The province occupied the western half of modern Hungary up to the Danube in the north and east. Its western neighboring province was Noricum; to the south lay the Save river, Dalmatia, and the Adriatic coast. Because of its frontier position on the Danube, Pannonia was heavily garrisoned by the Roman army throughout its history. Probably to meet the needs of the army, large estates and villas were developed in the Pannonian plains, particularly around Lake Balaton (or Palso) and the Neusiedler (or Fertö) Lake. Large-scale vineyards were planted in the late Empire, producing wine probably for regional consumption. Grain and cattle, however, were not just consumed in Pannonia, but also exported to northern Italy in the late 3rd and 4th centuries. Under Trajan in 106/107 A.D., the province was separated into two parts: Pannonia Superior, with the governor's residence in Carnuntum, and Pannonia Inferior with its capital in Aquincum. In the late 3rd and early 4th century under &lt;a href="#">Diocletian&lt;/a> and &lt;a href="#">Constantine&lt;/a>, the Pannonian provinces were split into four parts: Pannonia Prima, Savia, Pannonia Secunda and Valeria, with their capitals in Savaria, Siscia, Sopianae and Sirmium respectively.&lt;/p>
+&lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>9 B.C.&lt;/p>
-&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;!--
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
-&lt;!--#### Periodo ID-->
-&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
-&lt;p>&lt;a href="https://pleiades.stoa.org/places/197425">197425&lt;/a>&lt;/p>
-&lt;h4 id="tgn-id">TGN ID&lt;/h4>
-&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/4008442">4008442&lt;/a>&lt;/p>
-&lt;h3 id="contributor">Contributor&lt;/h3>
-&lt;p>&lt;a href="https://www.sheffield.ac.uk/archaeology/our-people/academic-staff/maureen-carroll">Maureen Carroll&lt;/a> (ORCID: &lt;a href="https://orcid.org/0000-0001-9958-8032">0000-0001-9958-8032&lt;/a>)&lt;/p>
-&lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p></description></item></channel></rss>
+&lt;h2 id="places">Places&lt;/h2>
+&lt;ul>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Pannonia">Pannonia&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/197425" title="Pleiades gazetteer of ancient places">Pleiades: 197425&lt;/a>
+
+
+
+&lt;/li>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Pannonia%20%28general%20region%29">Pannonia (general region)&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/4008442" title="Thesaurus of Geographic Names (Getty)">TGN: 4008442&lt;/a>
+
+
+
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

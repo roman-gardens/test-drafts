@@ -1,41 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_ii/insula_iii/house_4-6/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_ii/insula_iii/house_4-6/index.xml" rel="self" type="application/rss+xml"/><item><title>II.3.4-6</title><link>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_ii/insula_iii/house_4-6/ii.iii.4-6/</link><pubDate>Sun, 29 Nov 2020 10:54:29 -0700</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_ii/insula_iii/house_4-6/ii.iii.4-6/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a>&lt;/p>
-&lt;h3 id="location-description">Location Description&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_ii/insula_iii/house_4-6/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_ii/insula_iii/house_4-6/index.xml" rel="self" type="application/rss+xml"/><item><title>II.3.4-6</title><link>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_ii/insula_iii/house_4-6/ii.iii.4-6/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_ii/insula_iii/house_4-6/ii.iii.4-6/</guid><description>&lt;h2 id="location-description">Location Description&lt;/h2>
 &lt;p>An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p>
 &lt;h2 id="sublocation">Sublocation&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_ii/insula_iii/house_4-6/">Region II&lt;/a>&lt;/p>
 &lt;h2 id="insula">Insula&lt;/h2>
 &lt;p>&lt;a href="">Insula II&lt;/a>&lt;/p>
 &lt;h2 id="house">House&lt;/h2>
-&lt;p>&lt;a href="https://pleiades.stoa.org/places/998787235">II.iii.4-6&lt;/a>&lt;/p>
+&lt;!-- invalid
+- 
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=II.iii.4-6">II.iii.4-6&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/998787235" title="Pleiades gazetteer of ancient places">Pleiades: 998787235&lt;/a>
+
+
+
+
+-->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>Small domestic property with a garden to the rear.&lt;/p>
-&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300005208">cauponae&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300052558">cisterns (plumbing components)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300400600">lararia&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300007570">sacella&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300312262">statuettes (free-standing sculpture)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300011712">tufa&lt;/a>&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cauponae">cauponae&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005208" title="Art and Architecture Thesaurus (Getty)">AAT:300005208&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cisterns">cisterns (plumbing components)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300052558" title="Art and Architecture Thesaurus (Getty)">AAT:300052558&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=lararia">lararia&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300400600" title="Art and Architecture Thesaurus (Getty)">AAT:300400600&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sacella">sacella&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300007570" title="Art and Architecture Thesaurus (Getty)">AAT:300007570&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=statuettes">statuettes (free-standing sculpture)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300312262" title="Art and Architecture Thesaurus (Getty)">AAT:300312262&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tufa">tufa&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300011712" title="Art and Architecture Thesaurus (Getty)">AAT:300011712&lt;/a>
+&lt;/li>
 &lt;/ul>
-&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;h2 id="garden-description">Garden Description&lt;/h2>
 &lt;p>A. A small garden at the rear of this connected house and &lt;a href="http://vocab.getty.edu/page/aat/300005208">caupona&lt;/a> may have originally contained the two small statuettes found at this site in 1953. The two pieces were a headless ithyphallic tufa statuette (0.33 m. high with base; Pompeii inv. no. 10017) and a marble statuette of Venus (0.51 m. high without base; Pompeii inv. no. 9926) with much of the red color preserved in the drapery. The inventory books list this house as II.vi.4.&lt;/p>
-&lt;p>B. The small garden to the rear of house 4 had an entrance into this large open area (b) which had been planted at the time of the eruption. There was a second entrance (6) from the side street. At the time of excavation a &lt;a href="http://vocab.getty.edu/page/aat/300052558">cistern&lt;/a> was noted in the southwest corner, a basin along the south wall just before the jog, and the presence of seven root cavities. Jashemski found a few other scattered root cavities later, but too much damage had occurred from new growth to determine the original planting plan. At the east end of the north wall a door opened to a small &lt;a href="http://www.getty.edu/vow/AATFullDisplay?find=sacellum&amp;amp;logic=AND&amp;amp;note=&amp;amp;english=N&amp;amp;prev_page=1&amp;amp;subjectid=300007570">sacellum&lt;/a> with an aedicula &lt;a href="http://vocab.getty.edu/page/aat/300400600">lararium&lt;/a> on a small podium on the rear wall and a small masonry.&lt;/p>
-&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>B. The small garden to the rear of house 4 had an entrance into this large open area (b) which had been planted at the time of the eruption. There was a second entrance (6) from the side street. At the time of excavation a &lt;a href="http://vocab.getty.edu/page/aat/300052558">cistern&lt;/a> was noted in the southwest corner, a basin along the south wall just before the jog, and the presence of seven root cavities. Jashemski found a few other scattered root cavities later, but too much damage had occurred from new growth to determine the original planting plan. At the east end of the north wall a door opened to a small &lt;a href="http://vocab.getty.edu/page/aat/300007570">sacellum&lt;/a> with an aedicula &lt;a href="http://vocab.getty.edu/page/aat/300400600">lararium&lt;/a> on a small podium on the rear wall and a small masonry.&lt;/p>
+&lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>1754 to 1757, 1952&lt;/p>
-&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
 &lt;li>Jashemski, Wilhelmina F, and Stanley A. Jashemski, &lt;em>The Gardens of Pompeii: Herculaneum and the Villas Destroyed by Vesuvius.&lt;/em> New Rochelle, NY: Caratzas, 1993, pp. 84.
-&lt;a href="http://www.worldcat.org/oclc/769881162">worldcat&lt;/a>&lt;/li>
+&lt;a href="https://search.worldcat.org/title/769881162">worldcat&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;!--#### Periodo ID-->
-&lt;!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
-&lt;p>&lt;a href="https://pleiades.stoa.org/places/998787235">998787235&lt;/a>&lt;/p>
-&lt;h3 id="contributor">Contributor&lt;/h3>
-&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
-&lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 2021&lt;/p>
-&lt;!--### Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item></channel></rss>
+&lt;h2 id="places">Places&lt;/h2>
+&lt;!-- 
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=998787235">998787235&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/998787235" title="Pleiades gazetteer of ancient places">Pleiades: 998787235&lt;/a>
+
+
+
+ is invalid --></description></item></channel></rss>
