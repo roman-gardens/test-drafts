@@ -42,7 +42,7 @@
 &lt;!-- ## Maps -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/sufetula/AFR_Suf_hs_amalek1.jpg" alt="Plan of the House of the Seasons at Sufetula" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/sufetula/AFR_Suf_hs_amalek1.jpg" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 1: Plan of the House of the Seasons.&lt;div class="credit">Credit: (Duval, N. and Hallier, G., 1972, fig. 11)&lt;/div>&lt;/figcaption>
 &lt;/figure>

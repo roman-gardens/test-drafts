@@ -55,12 +55,12 @@
 &lt;!-- ## Maps -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/fig-1-region-i.jpg" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21&lt;/figcaption>
 &lt;/figure>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/insula_viii/region-i-insula-8.jpg" alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/pompeii/region_i/insula_viii/region-i-insula-8.jpg" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach&lt;/figcaption>
 &lt;/figure>

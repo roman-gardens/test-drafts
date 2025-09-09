@@ -49,7 +49,7 @@
 &lt;!-- ## Maps -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/britannia/darenth/darenth.png" alt="Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P). Adapted from Detsicas 1983, fig. 20" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/britannia/darenth/darenth.png" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 1: Plan of the villa with the main house (A), garden areas (G), and a large pool (P).&lt;div class="credit">Credit: Adapted from Detsicas 1983, fig. 20.&lt;/div>&lt;/figcaption>
 &lt;/figure>

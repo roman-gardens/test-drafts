@@ -306,7 +306,7 @@ The large dimensions of this house required further open spaces for light and ai
 &lt;!-- ## Maps -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/lusitania/conimbriga/HIS%20LUS_Conim_skeletons_plan_CA%20fig1.jpg" alt="Plan of the House of the Skeletons at Conimbriga, Lusitania Province, Spain." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/lusitania/conimbriga/HIS%20LUS_Conim_skeletons_plan_CA%20fig1.jpg" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 1: Plan of the House of the Skeletons.&lt;/figcaption>
 &lt;/figure>

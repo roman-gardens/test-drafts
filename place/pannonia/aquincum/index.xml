@@ -61,7 +61,7 @@
 &lt;/figure>
 &lt;h2 id="images">Images&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/pannonia/aquincum/PAN_AQU.jpg" alt="Fig. 2: The excavated courtyard building with its peristyle garden. Photo courtesy of M. Carroll." onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/pannonia/aquincum/PAN_AQU.jpg" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 2: The excavated courtyard building with its peristyle garden.&lt;div class="credit">Credit: Photo courtesy of M. Carroll.)&lt;/div>&lt;/figcaption>
 &lt;/figure>

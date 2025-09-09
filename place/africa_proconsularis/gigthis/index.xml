@@ -48,12 +48,12 @@
 &lt;!-- ## Maps -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/gigthis/suburban_villa.jpg" alt="Plan of then city and its suburbs" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/gigthis/suburban_villa.jpg" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 1: Plan of then city and its suburbs&lt;div class="credit">Credit: (Constans, L.-A., 1916, pl. I)&lt;/div>&lt;/figcaption>
 &lt;/figure>
 &lt;!-- &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/gigthis/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="Plan of the Atrium House at Colonia Claudia Ara Agrippinensium (Cologne)" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/gigthis/cologne_atrium_plan1_EUR_GI_ColClaAA_Ah_carroll.jpg" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
  Plan 1: Plan of the so-called 'atrium house' with an apsidal pool (P) in its garden courtyard (G).&lt;div class="credit">Credit: Adapted from Precht 1971, fig. 2.&lt;/div>&lt;/figcaption>
 &lt;/figure> -->
