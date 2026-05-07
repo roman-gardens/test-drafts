@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Valentine on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/gallia_aquitania/valentine/</link><description>Recent content in Valentine on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/gallia_aquitania/valentine/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa Of Arnesp</title><link>https://roman-gardens.github.io/test-drafts/place/gallia_aquitania/valentine/villa_of_arnesp/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/gallia_aquitania/valentine/villa_of_arnesp/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
+&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
+&lt;!-- format as YYYY, or YYYY-YYYY -->
+&lt;h2 id="garden-description">Garden Description&lt;/h2>
+&lt;!-- This is the main text describing the garden -->
+&lt;!--
+## Maps
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/valentine/filename.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ &lt;/figcaption>
+&lt;/figure>
+-->
+&lt;!--
+## Plans
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/valentine/filename.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ &lt;/figcaption>
+&lt;/figure>
+-->
+&lt;!--
+## Images
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/valentine/filename.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ &lt;/figcaption>
+&lt;/figure>
+-->
+&lt;!--
+## Bibliography
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+-->
+&lt;!--
+## Keywords
+- 
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+
+-->
+&lt;!--
+## Places
+places containing this garden will be listed automatically
+- 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades: &lt;/a>
+
+
+
+
+ &lt;br>
+
+- 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN: &lt;/a>
+
+
+
+
+ &lt;br>
+
+--></description></item></channel></rss>
