@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rhodes on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/asia/rhodes/</link><description>Recent content in Rhodes on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/asia/rhodes/index.xml" rel="self" type="application/rss+xml"/><item><title>Lindos Grove</title><link>https://roman-gardens.github.io/test-drafts/place/asia/rhodes/lindos_grove/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/asia/rhodes/lindos_grove/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rhodes on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/asia/rhodes/</link><description>Recent content in Rhodes on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/asia/rhodes/index.xml" rel="self" type="application/rss+xml"/><item><title>Lindos Grove</title><link>https://roman-gardens.github.io/test-drafts/place/asia/rhodes/lindos_grove/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/asia/rhodes/lindos_grove/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
 &lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
 &lt;!-- format as YYYY, or YYYY-YYYY -->
@@ -170,10 +170,12 @@ places containing this garden will be listed automatically
 
 --></description></item><item><title>Rhodes Palatial House</title><link>https://roman-gardens.github.io/test-drafts/place/asia/rhodes/rhodes_palatial_house/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/asia/rhodes/rhodes_palatial_house/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
+&lt;!--
+## Excavation Dates
+format as YYYY, or YYYY-YYYY -->
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+&lt;p>At the foot of the acropolis in Rhodes stood a late Hellenistic building that occupied an entire insula. Unfortunately the building is poorly preserved. Because of the size of the building and its provision with luxurious reception rooms and a large bath suite, the excavators proposed that this was not simply a private house, but that it had some other special function.&lt;/p>
+&lt;p>The building had three courtyards in the eastern sector, and a large open area with a semi-circular pool (15.30 x 17.30 m) in the western part. Various renovations were carried out before the late second century A.D. These included the addition of decorative pools in two of the courtyards and an alteration to the semi-circular pool in the western part of the building. No trace of any pavement was found in this area. The natural rocky ground of the site was left unaltered at the northern end of this pool, giving the whole area a rusticated appearance. Various fragments of sculpture, including a herm, a dog and a marble vessel (&lt;em>louterion&lt;/em>), were found on site. The excavators have reconstructed this part of the building as a landscaped garden adorned with plantings, the pool and sculpture.&lt;/p>
 &lt;!--
 ## Maps
 &lt;figure>
@@ -196,61 +198,50 @@ places containing this garden will be listed automatically
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/rhodes/filename.jpg" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
  &lt;/figcaption>
-&lt;/figure>
+&lt;/figure> 
+original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartige Gebäude in der Nähe der Akropolis von Rhodos,” in W. Hoepfner and G. Brands, eds., Basileia. Die Paläste der hellenistischen Könige, Berlin, 1996, pp. 182-192, figs. 7-8.
 -->
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;!--
-## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
-
--->
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- &lt;a target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades: &lt;/a>
-
-
-
-
- &lt;br>
-
-- 
+&lt;ul>
+&lt;li>Dreliossi-Herakleidou, A. 1996. “Späthellenistische palastartige Gebäude in der Nähe der Akropolis von Rhodos.” In &lt;em>Basileia. Die Paläste der hellenistischen Könige&lt;/em>: Internationales Symposium in Berlin vom 16.12.1992 bis 20.12.1992, edited by W. Hoepfner and G. Brands, 182-192. Berlin: Schriften des Seminars für Klassische Archäologie der Freien Universität Berlin. &lt;a href="https://search.worldcat.org/title/37277386">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="keywords">Keywords&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=semicircular">semicircular&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300263828" title="Art and Architecture Thesaurus (Getty)">AAT:300263828&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sculpture">sculpture (visual works)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300047090" title="Art and Architecture Thesaurus (Getty)">AAT:300047090&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=herms">herms&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300047170" title="Art and Architecture Thesaurus (Getty)">AAT:300047170&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="places">Places&lt;/h2>
+&lt;ul>
+&lt;li>
 
 
 
 
 
 
-
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Palatial%20House%20at%20Rhodes">Palatial House at Rhodes&lt;/a>
 
 
  
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN: &lt;/a>
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/994502886" title="Pleiades gazetteer of ancient places">Pleiades: 994502886&lt;/a>
 
 
 
-
- &lt;br>
-
---></description></item></channel></rss>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
