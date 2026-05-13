@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Samos on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/asia/samos/</link><description>Recent content in Samos on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/asia/samos/index.xml" rel="self" type="application/rss+xml"/><item><title>Private Villa</title><link>https://roman-gardens.github.io/test-drafts/place/asia/samos/private_villa/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/asia/samos/private_villa/</guid><description>&lt;!-- ## Dates
- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Samos on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/asia/samos/</link><description>Recent content in Samos on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/asia/samos/index.xml" rel="self" type="application/rss+xml"/><item><title>Private Villa</title><link>https://roman-gardens.github.io/test-drafts/place/asia/samos/private_villa/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/asia/samos/private_villa/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
+&lt;p>Late 2nd century BCE – Late 2nd century/Early 3rd century CE.&lt;/p>
 &lt;!-- ## Excavation Dates
 &lt;!-- format as YYYY, or YYYY-YYYY -->
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -50,9 +50,11 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 &lt;li>
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fountains">fountains&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006179" title="Art and Architecture Thesaurus (Getty)">AAT:300006179&lt;/a>
 &lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards">courtyards (uncovered spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)">AAT:300004095&lt;/a>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
-&lt;p>places containing this garden will be listed automatically&lt;/p>
 &lt;ul>
 &lt;li>
 
@@ -68,7 +70,7 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/599926%22%22" title="Pleiades gazetteer of ancient places">Pleiades: 599926&amp;#34;&amp;#34;&lt;/a>
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/599926" title="Pleiades gazetteer of ancient places">Pleiades: 599926&lt;/a>
 
 
 

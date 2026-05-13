@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2026 08:19:02 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/index.xml" rel="self" type="application/rss+xml"/><item><title>Alena Wigodner</title><link>https://roman-gardens.github.io/test-drafts/people/alena-wigodner/</link><pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/people/alena-wigodner/</guid><description>&lt;!-- position title, institution -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2026 16:04:06 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/index.xml" rel="self" type="application/rss+xml"/><item><title>Alena Wigodner</title><link>https://roman-gardens.github.io/test-drafts/people/alena-wigodner/</link><pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/people/alena-wigodner/</guid><description>&lt;!-- position title, institution -->
 &lt;!--
 ## E-mail
 
@@ -2506,8 +2506,8 @@ places containing this garden will be listed automatically
 
  &lt;br>
 
---></description></item><item><title>Private Villa</title><link>https://roman-gardens.github.io/test-drafts/place/asia/samos/private_villa/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/asia/samos/private_villa/</guid><description>&lt;!-- ## Dates
- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
+--></description></item><item><title>Private Villa</title><link>https://roman-gardens.github.io/test-drafts/place/asia/samos/private_villa/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/asia/samos/private_villa/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
+&lt;p>Late 2nd century BCE – Late 2nd century/Early 3rd century CE.&lt;/p>
 &lt;!-- ## Excavation Dates
 &lt;!-- format as YYYY, or YYYY-YYYY -->
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -2558,9 +2558,11 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 &lt;li>
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fountains">fountains&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006179" title="Art and Architecture Thesaurus (Getty)">AAT:300006179&lt;/a>
 &lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards">courtyards (uncovered spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)">AAT:300004095&lt;/a>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
-&lt;p>places containing this garden will be listed automatically&lt;/p>
 &lt;ul>
 &lt;li>
 
@@ -2576,17 +2578,20 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/599926%22%22" title="Pleiades gazetteer of ancient places">Pleiades: 599926&amp;#34;&amp;#34;&lt;/a>
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/599926" title="Pleiades gazetteer of ancient places">Pleiades: 599926&lt;/a>
 
 
 
 &lt;/li>
 &lt;/ul></description></item><item><title>Rhodes Groves On The Acropolis</title><link>https://roman-gardens.github.io/test-drafts/place/asia/rhodes/rhodes_groves_on_the_acropolis/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/asia/rhodes/rhodes_groves_on_the_acropolis/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
+&lt;p>Unspecified&lt;/p>
 &lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
 &lt;!-- format as YYYY, or YYYY-YYYY -->
+&lt;p>Unexcavated&lt;/p>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
 &lt;!-- This is the main text describing the garden -->
+&lt;p>Aelius Aristides (25.6) referred in the second century A.D. to the parks and groves in the acropolis district of the city. According to Philostratos, writing in the late second and early third century A.D., this area in the western part of the city had many sanctuaries, groves and gymnasia (Life of Apollonius 5.22). Archaeological exploration of the acropolis sector has confirmed the existence of temples to Zeus and to Apollo, a gymnasium with a stadium and several sacred caves of the nymphs (nymphaia) near the temple of Zeus. These artificial caves were carved out of the rock and had water basins and niches for statues. No trace of any gardens or groves survives, but these would not have been out of place in the context of sanctuaries and gymnasia.&lt;/p>
 &lt;!--
 ## Maps
 &lt;figure>
@@ -2610,17 +2615,31 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
  &lt;figcaption>
  &lt;/figcaption>
 &lt;/figure>
+BIBLIOGRAPHY: W. Hoepfner and E.-L. Schwandner, Haus und Stadt im klassischen Griechenland. Wohnen in der klassischen Polis 1, 2nd Edition, Berlin, 1994, pp. 65-66, fig. 41; 
 -->
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;!--
-## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
-
--->
+&lt;ul>
+&lt;li>Carroll-Spillecke, M. 1989. &lt;em>Κήπος. Der antike griechische Garten.&lt;/em> Vol. 3, &lt;em>Wohnen in der klassischen Polis&lt;/em>, 86, 94, fig. 12. Munich: Deutscher Kunstverlag. &lt;a href="https://search.worldcat.org/title/21460064">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Hoepfner, W., and E.-L. Schwandner, S. Dakares, and J. Boessneck. 1994. &lt;em>Haus und Stadt im klassischen Griechenland.&lt;/em> 2nd. ed. Vol. 1, &lt;em>Wohnen in der klassischen Polis&lt;/em>, 65-66, fig. 41. Munich: Deutscher Kunstverlag. &lt;a href="https://search.worldcat.org/title/30964330">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="keywords">Keywords&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=groves">groves (plant communities)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008884" title="Art and Architecture Thesaurus (Getty)">AAT:300008884&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sanctuaries">sanctuaries (religious building spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004575" title="Art and Architecture Thesaurus (Getty)">AAT:300004575&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gymnasiums">gymnasiums (physical education buildings)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300007297" title="Art and Architecture Thesaurus (Getty)">AAT:300007297&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=nymphaea">nymphaea (garden structures)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006809" title="Art and Architecture Thesaurus (Getty)">AAT:300006809&lt;/a>
+&lt;/li>
+&lt;/ul>
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -2667,10 +2686,10 @@ places containing this garden will be listed automatically
  &lt;br>
 
 --></description></item><item><title>Rhodes Palatial House</title><link>https://roman-gardens.github.io/test-drafts/place/asia/rhodes/rhodes_palatial_house/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/asia/rhodes/rhodes_palatial_house/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;!--
-## Excavation Dates
-format as YYYY, or YYYY-YYYY -->
+&lt;p>300 BCE - 300 CE&lt;/p>
+&lt;!-- dates from Pleiades https://pleiades.stoa.org/places/994502886/hellenistischer-palastbau -->
+&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
+&lt;p>unspecified&lt;/p>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
 &lt;p>At the foot of the acropolis in Rhodes stood a late Hellenistic building that occupied an entire insula. Unfortunately the building is poorly preserved. Because of the size of the building and its provision with luxurious reception rooms and a large bath suite, the excavators proposed that this was not simply a private house, but that it had some other special function.&lt;/p>
 &lt;p>The building had three courtyards in the eastern sector, and a large open area with a semi-circular pool (15.30 x 17.30 m) in the western part. Various renovations were carried out before the late second century A.D. These included the addition of decorative pools in two of the courtyards and an alteration to the semi-circular pool in the western part of the building. No trace of any pavement was found in this area. The natural rocky ground of the site was left unaltered at the northern end of this pool, giving the whole area a rusticated appearance. Various fragments of sculpture, including a herm, a dog and a marble vessel (&lt;em>louterion&lt;/em>), were found on site. The excavators have reconstructed this part of the building as a landscaped garden adorned with plantings, the pool and sculpture.&lt;/p>
@@ -2700,9 +2719,6 @@ format as YYYY, or YYYY-YYYY -->
 original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartige Gebäude in der Nähe der Akropolis von Rhodos,” in W. Hoepfner and G. Brands, eds., Basileia. Die Paläste der hellenistischen Könige, Berlin, 1996, pp. 182-192, figs. 7-8.
 -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
-&lt;!--
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
 &lt;ul>
 &lt;li>Dreliossi-Herakleidou, A. 1996. “Späthellenistische palastartige Gebäude in der Nähe der Akropolis von Rhodos.” In &lt;em>Basileia. Die Paläste der hellenistischen Könige&lt;/em>: Internationales Symposium in Berlin vom 16.12.1992 bis 20.12.1992, edited by W. Hoepfner and G. Brands, 182-192. Berlin: Schriften des Seminars für Klassische Archäologie der Freien Universität Berlin. &lt;a href="https://search.worldcat.org/title/37277386">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
@@ -2719,6 +2735,27 @@ original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartig
 &lt;/li>
 &lt;li>
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=herms">herms&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300047170" title="Art and Architecture Thesaurus (Getty)">AAT:300047170&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=insulae">insulae (apartments)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300000325" title="Art and Architecture Thesaurus (Getty)">AAT:300000325&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water baths">water baths&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300248755" title="Art and Architecture Thesaurus (Getty)">AAT:300248755&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards">courtyards (uncovered spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)">AAT:300004095&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=buildings">buildings (structures)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004792" title="Art and Architecture Thesaurus (Getty)">AAT:300004792&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=rustic">rustic (style)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300310541" title="Art and Architecture Thesaurus (Getty)">AAT:300310541&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water features">water features (landscaping)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300180674" title="Art and Architecture Thesaurus (Getty)">AAT:300180674&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=marble">marble (rock)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300011443" title="Art and Architecture Thesaurus (Getty)">AAT:300011443&lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
@@ -10919,7 +10956,7 @@ A.D 80-100 Two burials made&lt;/p>
 &lt;!-- this is the TGN ID for Hadrian's Villa, not for this particular garden --></description></item><item><title>Aphrodisias</title><link>https://roman-gardens.github.io/test-drafts/place/asia/aphrodisias/aphrodisias/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/asia/aphrodisias/aphrodisias/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>Aphrodisias (&lt;em>Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis&lt;/em>), in Caria, was home to the cult image of Aphrodite of Aphrodisias. Located about 100 miles from the port at Smyrna, the area featured important marble quarries of the Hellenistic and Roman era. An abundance of sculpture has been found during excavations, and inscriptions indicate that the art landscape as well as architectural settings. An inscription (MAMA VIII, 448) indicates that Artemidorus Pedias, during his term as &lt;em>strategos&lt;/em>, promised to &amp;quot;adorn a palm grove with a statue of Hermes, and a gilded Aphrodite with Erotes holding lamps on either side and a marble Eros in Front&amp;quot; (Roueché, 70.) The location of this garden is not specified. Robert suggests, based on the location of the inscription, that it was in the temenos of Aphrodite (Robert, 257). Roueché conjectures that it perhaps lay on the east side of the agora, based upon the presence of Hermes Agoraios (MAMA VIII, 406, 445, 446, and CIG 2770). She proposes that the grove was later embellished by the fountain at the agora gate, where inscriptions (Hell. IV, 131-2) honor the conversion of the gate into a fountain, alluding to the &lt;em>Nymphs&lt;/em> of the &amp;quot;place of the palms&amp;quot; (RRR Smith et al. 2018) Roueché notes that this palm-grove, with its walks, statuary, and fountains was clearly an elaborately decorated park. The agora and &lt;em>temenos&lt;/em> have been identified. The south agora (215 x 70m) features a long, monumental basin in its center.&lt;/p>
+&lt;p>Aphrodisias (&lt;em>Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis&lt;/em>), in Caria, was home to the cult image of Aphrodite of Aphrodisias. Located about 100 miles from the port at Smyrna, the area featured important marble quarries of the Hellenistic and Roman era. An abundance of sculpture has been found during excavations, and inscriptions indicate that the art landscape as well as architectural settings &lt;!-- confusing sentence -->. An inscription (MAMA VIII, 448) indicates that Artemidorus Pedias, during his term as &lt;em>strategos&lt;/em>, promised to &amp;quot;adorn a palm grove with a statue of Hermes, and a gilded Aphrodite with Erotes holding lamps on either side and a marble Eros in Front&amp;quot; (Roueché, 70.) The location of this garden is not specified. Robert suggests, based on the location of the inscription, that it was in the temenos of Aphrodite (Robert, 257). Roueché conjectures that it perhaps lay on the east side of the agora, based upon the presence of Hermes Agoraios (MAMA VIII, 406, 445, 446, and CIG 2770). She proposes that the grove was later embellished by the fountain at the agora gate, where inscriptions (Hell. IV, 131-2) honor the conversion of the gate into a fountain, alluding to the &lt;em>Nymphs&lt;/em> of the &amp;quot;place of the palms&amp;quot; (RRR Smith et al. 2018) Roueché notes that this palm-grove, with its walks, statuary, and fountains was clearly an elaborately decorated park. The agora and &lt;em>temenos&lt;/em> have been identified. The south agora (215 x 70m) features a long, monumental basin in its center.&lt;/p>
 &lt;!-- ## Maps -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
@@ -10940,10 +10977,14 @@ A.D 80-100 Two burials made&lt;/p>
 &lt;/figure>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>T. Reinach, &amp;quot;Inscriptions d'Aphrodisias&amp;quot; REG 19 (1906), n. 15, p. 107 &lt;a href="https://search.worldcat.org/title/504802954">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Charlotte Roueché, Joyce Maire Reynolds, &lt;em>Aphrodisias in late antiquity: the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim&lt;/em>. London: Society for the Promotion of Roman Studies, 1989, Pp. 70, 71, 78. &lt;a href="https://search.worldcat.org/title/4669803971">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Wilson, A. I. (2015). Water, nymphs and a palm grove: monumental water display at Aphrodisias (R. R. R. Smith, J. Lenaghan, A. Sokolicek, &amp;amp; K. Welch, Eds.), Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012, Portsmouth, Journal of Roman Archaeology. Supplement 103, 100-135. &lt;a href="https://search.worldcat.org/title/6568599066">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Reinach, T. 1906. &amp;quot;Inscriptions d'Aphrodisias&amp;quot; &lt;em>RÉG&lt;/em> 19, 84: 107 &lt;a href="https://search.worldcat.org/title/504802954">(worldcat)&lt;/a> &lt;!-- is this the right formatting for Vol. 19, No. 84, page 107?-->&lt;/li>
+&lt;li>Roueché, C., and J.M. Reynolds. 1989. &lt;em>Aphrodisias in late antiquity: the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim&lt;/em>. London: Society for the Promotion of Roman Studies. &lt;a href="https://search.worldcat.org/title/4669803971">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Wilson, A.I. 2015. &amp;quot;Water, nymphs and a palm grove: monumental water displays at Aphrodisias.&amp;quot; In &lt;em>Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012&lt;/em>, edited by R.R.R. Smith, J. Lenaghan, A. Sokolicek, and K. Welch, 100-135. &lt;em>JRA&lt;/em> Supplement 103. &lt;a href="https://search.worldcat.org/title/950610833">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;!-- 
+original: T. Reinach, "Inscriptions d'Aphrodisias" REG 19 (1906), n. 15, p. 107 [(worldcat)](https://search.worldcat.org/title/504802954) 
+original: Charlotte Roueché, Joyce Maire Reynolds, *Aphrodisias in late antiquity: the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim*. London: Society for the Promotion of Roman Studies, 1989, Pp. 70, 71, 78. [(worldcat)](https://search.worldcat.org/title/4669803971) 
+original: Wilson, A. I. (2015). Water, nymphs and a palm grove: monumental water display at Aphrodisias (R. R. R. Smith, J. Lenaghan, A. Sokolicek, &amp; K. Welch, Eds.), Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012, Portsmouth, Journal of Roman Archaeology. Supplement 103, 100-135. [(worldcat)](https://search.worldcat.org/title/6568599066) -->
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -10957,6 +10998,18 @@ A.D 80-100 Two burials made&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=temene">temene&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300000805" title="Art and Architecture Thesaurus (Getty)">AAT:300000805&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=marble">marble (rock)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300011443" title="Art and Architecture Thesaurus (Getty)">AAT:300011443&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sculpture">sculpture (visual works)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300047090" title="Art and Architecture Thesaurus (Getty)">AAT:300047090&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=groves">groves (plant communities)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008884" title="Art and Architecture Thesaurus (Getty)">AAT:300008884&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions">inscriptions&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)">AAT:300028702&lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
@@ -60730,7 +60783,7 @@ While I was passing through the temple enclosure my head full of the fatigues of
 &lt;/ul></description></item><item><title>Tomb Garden of Bassos son of Euarestos</title><link>https://roman-gardens.github.io/test-drafts/place/asia/attaleia/attaleia_tomb_garden_of_bassos_son_of_euarestos/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/asia/attaleia/attaleia_tomb_garden_of_bassos_son_of_euarestos/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>A statue base found in 1886 in a modern cemetery midway along the path between Gueuktché-Ahmed and Seldjikli preserves, on its front, a decree of the local senate and people at Attaleia passed, probably, some time during the second century honoring Bassus and his father Euarestos for their demonstration of piety toward the guardian Zeus of the city; on its right side, an excerpt from Euarestos's will instructing his heir to provide oil to the community on one day a year annually; and, on its left side, detailed instructions for the implementation of the foundation: &amp;quot;From the first to the fifth hour of the day the oil shall be provided from the revenues of the garden (per™€bolow) purchased from Eubolos, the son of Antiphanes, for Bassos, son of Euarestos, grandson of Phocas&amp;quot;. (épÚ Àraw a' ßvw e' t`eyÆsetai tÚ ¶leon §k prosÒd&lt;o>vn peribÒlou toË égorasy°ntow parå EÈboÊlou ÉAntifãnouw efiw Bãsson EÈar°[s]tou Fvkç tÚn ÍÒn). The location of the garden in relation to Bassos's tomb is not specified, and the statue base recording its purchase and the honorific decree recognizing it were probably set up in a public place rather than at the tomb, but the commemorative purpose of the garden in supporting an annual distribution in his name is clear, and it is likely that the two properties were near each other, if not contiguous. In accordance with an idiomatic usage common in both Greek and Latin and favored in Lydia (as at Hypaipa and Thyaira), the garden is identified metonymically by reference to its enclosure wall (per™€bolow), the &lt;em>sine qua non&lt;/em> of a tomb garden in the Greco-Roman world.&lt;/p>
+&lt;p>A statue base found in 1886 in a modern cemetery midway along the path between Gueuktché-Ahmed and Seldjikli preserves, on its front, a decree of the local senate and people at Attaleia passed, probably, some time during the second century honoring Bassus and his father Euarestos for their demonstration of piety toward the guardian Zeus of the city; on its right side, an excerpt from Euarestos's will instructing his heir to provide oil to the community on one day a year annually; and, on its left side, detailed instructions for the implementation of the foundation: &amp;quot;From the first to the fifth hour of the day the oil shall be provided from the revenues of the garden (&lt;em>peribolo&lt;/em>) purchased from Eubolos, the son of Antiphanes, for Bassos, son of Euarestos, grandson of Phocas&amp;quot;. (épÚ Àraw a' ßvw e' t`eyÆsetai tÚ ¶leon §k prosÒd&lt;o>vn peribÒlou toË égorasy°ntow parå EÈboÊlou ÉAntifãnouw efiw Bãsson EÈar°[s]tou Fvkç tÚn ÍÒn).&lt;!-- fix Greek--> The location of the garden in relation to Bassos's tomb is not specified, and the statue base recording its purchase and the honorific decree recognizing it were probably set up in a public place rather than at the tomb, but the commemorative purpose of the garden in supporting an annual distribution in his name is clear, and it is likely that the two properties were near each other, if not contiguous. In accordance with an idiomatic usage common in both Greek and Latin and favored in Lydia (as at Hypaipa and Thyaira), the garden is identified metonymically by reference to its enclosure wall (per™€bolow), the &lt;em>sine qua non&lt;/em> of a tomb garden in the Greco-Roman world.&lt;/p>
 &lt;!-- ## Maps -->
 &lt;!--
 ## Plans
