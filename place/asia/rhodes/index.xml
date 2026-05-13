@@ -4,6 +4,7 @@
 &lt;!-- format as YYYY, or YYYY-YYYY -->
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
 &lt;!-- This is the main text describing the garden -->
+&lt;p>There is no archaeological evidence for a sacred grove on the acropolis of the Rhodian town of Lindos. Roman inscriptions, however, record the existence of olive trees in a religious context. The names of several priests who made a gift of olive trees are preserved in a text dating to ca. 50 A.D. These were priests of Athena, Apollo and Sarapis, each of them donating 10 or 20 trees, but also of Dionysos; the number of trees the latter donated is not given. Other inscriptions of the third century A.D. name Aglochartos as a generous donor of olive trees to Athena that were meant for her precinct on the acropolis at Lindos (IG XII.1.781-783).&lt;/p>
 &lt;!--
 ## Maps
 &lt;figure>
@@ -30,14 +31,26 @@
 -->
 &lt;!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+
 -->
+&lt;ul>
+&lt;li>Bousquet, J. 1976. “Les oliviers de Lindos”. In &lt;em>Recueil Plassart&lt;/em>, edited by A. Plassart, 9-46. Paris : Le Belles Lettres. (&lt;a href="https://search.worldcat.org/it/title/2984822?oclcNum=2984822">https://search.worldcat.org/it/title/2984822?oclcNum=2984822&lt;/a>)&lt;/li>
+&lt;li>Birge, D. E. 1982. &lt;em>Sacred Groves in the Ancient Greek World&lt;/em>. PhD thesis, University of California, Berkeley. (&lt;a href="https://search.worldcat.org/it/title/602039678">https://search.worldcat.org/it/title/602039678&lt;/a>)&lt;/li>
+&lt;/ul>
 &lt;!--
 ## Keywords
 - 
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
 
 -->
+&lt;ul>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=olive trees">olive trees&lt;/a>&lt;a target="_blank" href="https://powo.science.kew.org/taxon/610675-1" title="Plants of the World Online (Kew)">POWO:610675-1&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=acropolises">acropolises&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300000700" title="Art and Architecture Thesaurus (Getty)">AAT:300000700&lt;/a>
+&lt;/li>
+&lt;/ul>
 &lt;!--
 ## Places
 places containing this garden will be listed automatically

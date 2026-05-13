@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2026 16:04:06 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/index.xml" rel="self" type="application/rss+xml"/><item><title>Alena Wigodner</title><link>https://roman-gardens.github.io/test-drafts/people/alena-wigodner/</link><pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/people/alena-wigodner/</guid><description>&lt;!-- position title, institution -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2026 16:56:16 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/index.xml" rel="self" type="application/rss+xml"/><item><title>Alena Wigodner</title><link>https://roman-gardens.github.io/test-drafts/people/alena-wigodner/</link><pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/people/alena-wigodner/</guid><description>&lt;!-- position title, institution -->
 &lt;!--
 ## E-mail
 
@@ -1832,6 +1832,7 @@ places containing this garden will be listed automatically
 &lt;!-- format as YYYY, or YYYY-YYYY -->
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
 &lt;!-- This is the main text describing the garden -->
+&lt;p>There is no archaeological evidence for a sacred grove on the acropolis of the Rhodian town of Lindos. Roman inscriptions, however, record the existence of olive trees in a religious context. The names of several priests who made a gift of olive trees are preserved in a text dating to ca. 50 A.D. These were priests of Athena, Apollo and Sarapis, each of them donating 10 or 20 trees, but also of Dionysos; the number of trees the latter donated is not given. Other inscriptions of the third century A.D. name Aglochartos as a generous donor of olive trees to Athena that were meant for her precinct on the acropolis at Lindos (IG XII.1.781-783).&lt;/p>
 &lt;!--
 ## Maps
 &lt;figure>
@@ -1858,14 +1859,26 @@ places containing this garden will be listed automatically
 -->
 &lt;!--
 ## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+
 -->
+&lt;ul>
+&lt;li>Bousquet, J. 1976. “Les oliviers de Lindos”. In &lt;em>Recueil Plassart&lt;/em>, edited by A. Plassart, 9-46. Paris : Le Belles Lettres. (&lt;a href="https://search.worldcat.org/it/title/2984822?oclcNum=2984822">https://search.worldcat.org/it/title/2984822?oclcNum=2984822&lt;/a>)&lt;/li>
+&lt;li>Birge, D. E. 1982. &lt;em>Sacred Groves in the Ancient Greek World&lt;/em>. PhD thesis, University of California, Berkeley. (&lt;a href="https://search.worldcat.org/it/title/602039678">https://search.worldcat.org/it/title/602039678&lt;/a>)&lt;/li>
+&lt;/ul>
 &lt;!--
 ## Keywords
 - 
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
 
 -->
+&lt;ul>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=olive trees">olive trees&lt;/a>&lt;a target="_blank" href="https://powo.science.kew.org/taxon/610675-1" title="Plants of the World Online (Kew)">POWO:610675-1&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=acropolises">acropolises&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300000700" title="Art and Architecture Thesaurus (Getty)">AAT:300000700&lt;/a>
+&lt;/li>
+&lt;/ul>
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -2560,28 +2573,6 @@ BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 &lt;/li>
 &lt;li>
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards">courtyards (uncovered spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)">AAT:300004095&lt;/a>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="places">Places&lt;/h2>
-&lt;ul>
-&lt;li>
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Samos%20%28island%29">Samos (island)&lt;/a>
-
-
- 
- 
-
-
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/599926" title="Pleiades gazetteer of ancient places">Pleiades: 599926&lt;/a>
-
-
-
 &lt;/li>
 &lt;/ul></description></item><item><title>Rhodes Groves On The Acropolis</title><link>https://roman-gardens.github.io/test-drafts/place/asia/rhodes/rhodes_groves_on_the_acropolis/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/asia/rhodes/rhodes_groves_on_the_acropolis/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
@@ -10484,10 +10475,10 @@ A.D 80-100 Two burials made&lt;/p>
 
 
 &lt;/li>
-&lt;/ul></description></item><item><title>Aix, Jardins de Grassi, House with the large peristyle</title><link>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/">Gallia Narbonensis&lt;/a>&lt;/li>
-&lt;li>
+&lt;/ul></description></item><item><title>Aix, Jardins de Grassi, House with the large peristyle</title><link>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle/</guid><description>&lt;!--## Province
+
+- [Gallia Narbonensis](/test-drafts/place/gallia_narbonensis/)
+- 
 
 
 
@@ -10505,17 +10496,59 @@ A.D 80-100 Two burials made&lt;/p>
 
 
 
+
+
+## Province Description
+
+Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
+
+## Location
+
+[aix-en-provence](/test-drafts/place/gallia_narbonensis/aix-en-provence/) \
+[aix-en-provence (Pleiades)](#)
+
+## Sublocation
+
+[Aix, Jardins de Grassi, House with the large peristyle](#)
+
+## House
+
+Aix, Jardins de Grassi, House with the large peristyle-->
+&lt;h2 id="dates">Dates&lt;/h2>
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
+&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
+&lt;!-- format as YYYY, or YYYY-YYYY -->
+&lt;h2 id="house-description">House Description&lt;/h2>
+&lt;p>This luxurious residence wrapped around a large (15 x 18 m) peristyle [1] with galleries 3 to 4 meters wide. The center was no doubt a garden. A vast reception room [15], paved with an &lt;em>opus sectile&lt;/em>, looked out onto the central axis of the garden. It was flanked by two other handsome rooms; the one to the west [18] also had a marble floor. An exedra [5] with an &lt;em>opus sectile&lt;/em> floor opened in the center of the east wing over a wide threshold, embellished on each side by a pilaster and column. Room 14, also with a marble floor, is more withdrawn. The principal reception room opened onto another open space [1], thought to have been 22 meters long by 7 meters wide, delimited at ground level by a stone border. Perhaps treated as a garden, it was made pleasant by two stone basins with water jets placed on the axis of the rooms [18] and [16]. The view was rounded off by the large flattened semicircle of the back (north) wall of the garden.&lt;/p>
+&lt;!--
+## Maps
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/aix-en-provence/filename.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ &lt;/figcaption>
+&lt;/figure>
+-->
+&lt;h2 id="plans">Plans&lt;/h2>
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle1.png" alt="Fig.1 plan of the House with the Large peristyle" onclick="fullscreen(this)">
+ &lt;figcaption>
+ Fig 1. House with the large peristyle&lt;/figcaption>
+&lt;/figure>
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle2.png" alt="Fig.2 Plan of the House with the Large peristyle" onclick="fullscreen(this)">
+ &lt;figcaption>
+ Fig 2. House with the large peristyle&lt;/figcaption>
+&lt;/figure>
+&lt;!-- ## Images -->
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;em>Maison 1996&lt;/em>, t. II,, p. 30-31&lt;/p>
 &lt;/li>
-&lt;/ul>
-&lt;h2 id="province-description">Province Description&lt;/h2>
-&lt;p>Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.&lt;/p>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/aix-en-provence/">aix-en-provence&lt;/a> &lt;br>
-&lt;a href="#">aix-en-provence (Pleiades)&lt;/a>&lt;/p>
-&lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="#">Aix, Jardins de Grassi, House with the large peristyle&lt;/a>&lt;/p>
-&lt;h2 id="house">House&lt;/h2>
-&lt;p>Aix, Jardins de Grassi, House with the large peristyle&lt;/p>
+&lt;li>
+&lt;p>&lt;em>Atlas De Provence-Côte D'azur: 1&lt;/em>. Bruxelles: ACTES, 1974, P 62-64 and P261-277.&lt;a href="https://search.worldcat.org/title/461460528">worldcat&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -10537,31 +10570,6 @@ A.D 80-100 Two burials made&lt;/p>
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=columns">columns (architectural elements)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300001571" title="Art and Architecture Thesaurus (Getty)">AAT:300001571&lt;/a>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="house-description">House Description&lt;/h2>
-&lt;p>This luxurious residence wrapped around a large (15 x 18 m) peristyle [1] with galleries 3 to 4 meters wide. The center was no doubt a garden. A vast reception room [15], paved with an &lt;em>opus sectile&lt;/em>, looked out onto the central axis of the garden. It was flanked by two other handsome rooms; the one to the west [18] also had a marble floor. An exedra [5] with an &lt;em>opus sectile&lt;/em> floor opened in the center of the east wing over a wide threshold, embellished on each side by a pilaster and column. Room 14, also with a marble floor, is more withdrawn. The principal reception room opened onto another open space [1], thought to have been 22 meters long by 7 meters wide, delimited at ground level by a stone border. Perhaps treated as a garden, it was made pleasant by two stone basins with water jets placed on the axis of the rooms [18] and [16]. The view was rounded off by the large flattened semicircle of the back (north) wall of the garden.&lt;/p>
-&lt;!-- ## Maps -->
-&lt;h2 id="plans">Plans&lt;/h2>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle1.png" alt="Fig.1 plan of the House with the Large peristyle" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig 1. House with the large peristyle&lt;/figcaption>
-&lt;/figure>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle2.png" alt="Fig.2 Plan of the House with the Large peristyle" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig 2. House with the large peristyle&lt;/figcaption>
-&lt;/figure>
-&lt;!-- ## Images -->
-&lt;!-- ## Dates -->
-&lt;h2 id="bibliography">Bibliography&lt;/h2>
-&lt;ol>
-&lt;li>
-&lt;p>&lt;em>Maison 1996&lt;/em>, t. II,, p. 30-31&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;em>Atlas De Provence-Côte D'azur: 1&lt;/em>. Bruxelles: ACTES, 1974, P 62-64 and P261-277.&lt;a href="https://search.worldcat.org/title/461460528">worldcat&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -10956,7 +10964,7 @@ A.D 80-100 Two burials made&lt;/p>
 &lt;!-- this is the TGN ID for Hadrian's Villa, not for this particular garden --></description></item><item><title>Aphrodisias</title><link>https://roman-gardens.github.io/test-drafts/place/asia/aphrodisias/aphrodisias/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/asia/aphrodisias/aphrodisias/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>Aphrodisias (&lt;em>Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis&lt;/em>), in Caria, was home to the cult image of Aphrodite of Aphrodisias. Located about 100 miles from the port at Smyrna, the area featured important marble quarries of the Hellenistic and Roman era. An abundance of sculpture has been found during excavations, and inscriptions indicate that the art landscape as well as architectural settings &lt;!-- confusing sentence -->. An inscription (MAMA VIII, 448) indicates that Artemidorus Pedias, during his term as &lt;em>strategos&lt;/em>, promised to &amp;quot;adorn a palm grove with a statue of Hermes, and a gilded Aphrodite with Erotes holding lamps on either side and a marble Eros in Front&amp;quot; (Roueché, 70.) The location of this garden is not specified. Robert suggests, based on the location of the inscription, that it was in the temenos of Aphrodite (Robert, 257). Roueché conjectures that it perhaps lay on the east side of the agora, based upon the presence of Hermes Agoraios (MAMA VIII, 406, 445, 446, and CIG 2770). She proposes that the grove was later embellished by the fountain at the agora gate, where inscriptions (Hell. IV, 131-2) honor the conversion of the gate into a fountain, alluding to the &lt;em>Nymphs&lt;/em> of the &amp;quot;place of the palms&amp;quot; (RRR Smith et al. 2018) Roueché notes that this palm-grove, with its walks, statuary, and fountains was clearly an elaborately decorated park. The agora and &lt;em>temenos&lt;/em> have been identified. The south agora (215 x 70m) features a long, monumental basin in its center.&lt;/p>
+&lt;p>Aphrodisias (&lt;em>Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis&lt;/em>), in Caria, was home to the cult image of Aphrodite of Aphrodisias. Located about 100 miles from the port at Smyrna, the area featured important marble quarries of the Hellenistic and Roman era. An abundance of sculpture has been found during excavations, and inscriptions indicate that the art was placed in landscape as well as architectural settings. An inscription (MAMA VIII, 448) indicates that Artemidorus Pedias, during his term as &lt;em>strategos&lt;/em>, promised to &amp;quot;adorn a palm grove with a statue of Hermes, and a gilded Aphrodite with Erotes holding lamps on either side and a marble Eros in Front&amp;quot; (Roueché, 70). The location of this garden is not specified. Robert suggests, based on the location of the inscription, that it was in the &lt;em>temenos&lt;/em> of Aphrodite (Robert, 257). Roueché conjectures that it perhaps lay on the east side of the &lt;em>agora&lt;/em>, based upon the presence of Hermes Agoraios (MAMA VIII, 406, 445, 446, and CIG 2770). She proposes that the grove was later embellished by the fountain at the &lt;em>agora&lt;/em> gate, where inscriptions (Hell. IV, 131-2) honor the conversion of the gate into a fountain, alluding to the Nymphs of the &amp;quot;place of the palms&amp;quot; (RRR Smith et al. 2018) Roueché notes that this palm-grove, with its walks, statuary, and fountains was clearly an elaborately decorated park. The &lt;em>agora&lt;/em> and &lt;em>temenos&lt;/em> have been identified. The south &lt;em>agora&lt;/em> (215 x 70m) features a long, monumental basin in its center.&lt;/p>
 &lt;!-- ## Maps -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
@@ -10982,9 +10990,10 @@ A.D 80-100 Two burials made&lt;/p>
 &lt;li>Wilson, A.I. 2015. &amp;quot;Water, nymphs and a palm grove: monumental water displays at Aphrodisias.&amp;quot; In &lt;em>Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012&lt;/em>, edited by R.R.R. Smith, J. Lenaghan, A. Sokolicek, and K. Welch, 100-135. &lt;em>JRA&lt;/em> Supplement 103. &lt;a href="https://search.worldcat.org/title/950610833">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;!-- 
-original: T. Reinach, "Inscriptions d'Aphrodisias" REG 19 (1906), n. 15, p. 107 [(worldcat)](https://search.worldcat.org/title/504802954) 
-original: Charlotte Roueché, Joyce Maire Reynolds, *Aphrodisias in late antiquity: the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim*. London: Society for the Promotion of Roman Studies, 1989, Pp. 70, 71, 78. [(worldcat)](https://search.worldcat.org/title/4669803971) 
-original: Wilson, A. I. (2015). Water, nymphs and a palm grove: monumental water display at Aphrodisias (R. R. R. Smith, J. Lenaghan, A. Sokolicek, &amp; K. Welch, Eds.), Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012, Portsmouth, Journal of Roman Archaeology. Supplement 103, 100-135. [(worldcat)](https://search.worldcat.org/title/6568599066) -->
+original bibliography
+- T. Reinach, "Inscriptions d'Aphrodisias" REG 19 (1906), n. 15, p. 107 [(worldcat)](https://search.worldcat.org/title/504802954) 
+- Charlotte Roueché, Joyce Maire Reynolds, *Aphrodisias in late antiquity: the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim*. London: Society for the Promotion of Roman Studies, 1989, Pp. 70, 71, 78. [(worldcat)](https://search.worldcat.org/title/4669803971) 
+- Wilson, A. I. (2015). Water, nymphs and a palm grove: monumental water display at Aphrodisias (R. R. R. Smith, J. Lenaghan, A. Sokolicek, &amp; K. Welch, Eds.), Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012, Portsmouth, Journal of Roman Archaeology. Supplement 103, 100-135. [(worldcat)](https://search.worldcat.org/title/6568599066) -->
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -11013,25 +11022,6 @@ original: Wilson, A. I. (2015). Water, nymphs and a palm grove: monumental water
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
-&lt;!-- 
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=82786301">82786301&lt;/a>
-
-
- 
- 
-
-
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/827863015" title="Pleiades gazetteer of ancient places">Pleiades: 827863015&lt;/a>
-
-
-
- is invalid -->
 &lt;ul>
 &lt;li>
 
@@ -29134,10 +29124,10 @@ Excavated in 1992-93 by Agnès Balmelle, this vast house probably covered about 
 
 
 &lt;/li>
-&lt;/ul></description></item><item><title>House of the Skeletons</title><link>https://roman-gardens.github.io/test-drafts/place/lusitania/conimbriga/lusitania_house-of-skeletons_xw/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/lusitania/conimbriga/lusitania_house-of-skeletons_xw/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/">Lusitania&lt;/a>&lt;/p>
-&lt;ul>
-&lt;li>
+&lt;/ul></description></item><item><title>House of the Skeletons</title><link>https://roman-gardens.github.io/test-drafts/place/lusitania/conimbriga/lusitania_house-of-skeletons_xw/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/lusitania/conimbriga/lusitania_house-of-skeletons_xw/</guid><description>&lt;!-- # Province
+
+[Lusitania](/test-drafts/)
+- 
 
 
 
@@ -29155,35 +29145,15 @@ Excavated in 1992-93 by Agnès Balmelle, this vast house probably covered about 
 
 
 
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="province-description">Province Description&lt;/h2>
-&lt;p>Despite the prior existence of urban centers like Metellinum, the capital of Lusitania was a new foundation, the Colonia Augusta Emerita (Mérida), which would also serve as the capital of one of the smaller juridical units (conventus) and would be the scene of flourishing activity in the succeeding centuries, its prosperity lasting until the late Roman and Visigothic era. Subsequently, a series of well-known Roman cities were built in what was then Lusitania but is now partly in Portugal and partly in Spain. As well as the capital, there were Conimbriga, Salmantica, Evora, Olisipo (now Lisbon), Pax Iulia (now Beja), and Metallium Viscascense (Aljustrel), this last recognized as the capital of an important mining area. The series of wealthy villae, such as that of La Cocosa, Milreu or San Cucufate are particularly noteworthy. Another of the important elements of the Roman era is the series of still visible ways of communication, of which the Vía de la Plata has most remaining, especially in the sections of Baños de Montemayor in Cáceres or the bridges that cross the rivers, such as that of San Pedro de Alcántara, or of Mérida.&lt;/p>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/lusitania/conimbriga/">Conimbriga&lt;/a>&lt;/li>
-&lt;li>
 
 
+ ## Province Description
 
+Despite the prior existence of urban centers like Metellinum, the capital of Lusitania was a new foundation, the Colonia Augusta Emerita (Mérida), which would also serve as the capital of one of the smaller juridical units (conventus) and would be the scene of flourishing activity in the succeeding centuries, its prosperity lasting until the late Roman and Visigothic era. Subsequently, a series of well-known Roman cities were built in what was then Lusitania but is now partly in Portugal and partly in Spain. As well as the capital, there were Conimbriga, Salmantica, Evora, Olisipo (now Lisbon), Pax Iulia (now Beja), and Metallium Viscascense (Aljustrel), this last recognized as the capital of an important mining area. The series of wealthy villae, such as that of La Cocosa, Milreu or San Cucufate are particularly noteworthy. Another of the important elements of the Roman era is the series of still visible ways of communication, of which the Vía de la Plata has most remaining, especially in the sections of Baños de Montemayor in Cáceres or the bridges that cross the rivers, such as that of San Pedro de Alcántara, or of Mérida. 
 
+## Location Description
 
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Conimbriga">Conimbriga&lt;/a>
-
-
- 
- 
-
-
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades: 236443&lt;/a>
-
-
-
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="location-description">Location Description&lt;/h2>
-&lt;p>The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Augustan period and, thereafter, a forum, a public bath-house, an aqueduct and city walls were constructed. During the Flavian period, the city was made a municipium with ius Latii. At the end of the third or beginning of the fourth century AD, new fortification walls considerably reduced the area occupied by the city. In the time of the Suevi it was an Episcopal See, which was then transferred to Aeminium (the present day Coimbra) around A. D. 585, when the kingdom of the Suevi was conquered by the Visigoths. Further reduced in area and impoverished, the city survived until 986, at which date, according to Arab sources, it was destroyed by the great Muslim chief Almansor. In addition to the Augustan forum, which was completely rebuilt on a new ground plan under the Flavians, four bath houses have been excavated, and preliminary trial trenches established the plan of the amphitheater. Four domus have been excavated, three of which were left outside the wall built under the late empire. It is in these houses, all built around peristyles, that we find the gardens of Conimbriga.&lt;/p>
+The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Augustan period and, thereafter, a forum, a public bath-house, an aqueduct and city walls were constructed. During the Flavian period, the city was made a municipium with ius Latii. At the end of the third or beginning of the fourth century AD, new fortification walls considerably reduced the area occupied by the city. In the time of the Suevi it was an Episcopal See, which was then transferred to Aeminium (the present day Coimbra) around A. D. 585, when the kingdom of the Suevi was conquered by the Visigoths. Further reduced in area and impoverished, the city survived until 986, at which date, according to Arab sources, it was destroyed by the great Muslim chief Almansor. In addition to the Augustan forum, which was completely rebuilt on a new ground plan under the Flavians, four bath houses have been excavated, and preliminary trial trenches established the plan of the amphitheater. Four domus have been excavated, three of which were left outside the wall built under the late empire. It is in these houses, all built around peristyles, that we find the gardens of Conimbriga. -->
 &lt;h2 id="garden">Garden&lt;/h2>
 &lt;p>House of the Skeletons&lt;/p>
 &lt;h2 id="keywords">Keywords&lt;/h2>
@@ -79312,60 +79282,48 @@ This humble house had a huge garden (a) which was entered from the long fauceson
 &lt;ul>
 &lt;li>Maiuri,Herculaneum, p. 52&lt;/li>
 &lt;li>Maiuri, Ercolano, p. 431 and fig. 374 (plan) on p. 431&lt;/li>
-&lt;/ul></description></item><item><title>Casa D'Argo</title><link>https://roman-gardens.github.io/test-drafts/place/italia/herculaneum/insula_ii/casa_d_argo/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/herculaneum/insula_ii/casa_d_argo/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;/ul></description></item><item><title>Casa D'Argo (II.2)</title><link>https://roman-gardens.github.io/test-drafts/place/italia/herculaneum/insula_ii/casa_d_argo/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/herculaneum/insula_ii/casa_d_argo/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
+&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
+&lt;p>1828-1835&lt;/p>
+&lt;h2 id="garden-description">Garden Description&lt;/h2>
+&lt;p>A. The earliest excavations of Herculaneum were done with underground tunnels. Several of these crossed this site and were discovered sixty three years later when further excavation of this patrician house was conducted in 1828-1835. Eight brick columns and one engaged column stood on each of the long sides of the portico that bounded the large peristyle garden (a) on the east, north, and west sides. The north side was supported by four more columns and at the two front corners there was a pillar with an engaged column on each side. In the center of the north side two smaller pillars with one engaged column each framed a garden view from the triclinium. All the supporting members were coated with fine stucco. Gutters ringing the garden conveyed rain water to the cistern.&lt;/p>
+&lt;p>B. A second peristyle garden was located to the west of the first, but has only been partially excavated. It has stuccoed columns and pillars joined by a wall 0.4 m. high painted with plants and flowers.&lt;/p>
+&lt;!--
+## Maps
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/herculaneum/insula_ii/filename.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ &lt;/figcaption>
+&lt;/figure>
+-->
+&lt;!--
+## Plans
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/herculaneum/insula_ii/filename.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ &lt;/figcaption>
+&lt;/figure>
+-->
+&lt;!--
+## Images
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/herculaneum/insula_ii/filename.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ &lt;/figcaption>
+&lt;/figure>
+-->
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/">Italia&lt;/a>&lt;/li>
-&lt;li>
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Italia">Italia&lt;/a>
-
-
- 
- 
-
-
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
-
-
-
-&lt;/li>
+&lt;li>A.C. 1835. &amp;quot;Il Regno di Napoli.&amp;quot; &lt;em>BdI&lt;/em> (1835), 127-130 &lt;a href="https://search.worldcat.org/it/title/799356231">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Bonucci, C. 1830. &amp;quot;Pompei. Gennaio 1830.&amp;quot; &lt;em>BdI&lt;/em> (1830), 119-121 &lt;a href="https://search.worldcat.org/it/title/799356231">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Bonucci, C. 1835. &lt;em>Le due Sicilie: Ercolano&lt;/em>. Napoli: dalla stamperia e cartiera del Fibreno &lt;a href="https://search.worldcat.org/it/title/1046008803">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Breton,E. 1870. &lt;em>Pompeia&lt;/em>. Paris: Gide et Baudry. &lt;a href="https://search.worldcat.org/title/602759412">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, A. 1989. &lt;em>Herculaneum&lt;/em>. Roma: La libreria dello stato. &lt;a href="https://search.worldcat.org/title/1107784297">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, A. 1958. &lt;em>Ercolano. I nuovi scavi (1927-1958)&lt;/em>. Roma: Istituto poligrafico dello Stato. &lt;a href="https://search.worldcat.org/it/title/859591551">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Niccolini, F., and Bechi G. 1831. In &lt;em>Real museo borbonico&lt;/em>. Napoli: Stamperia reale &lt;a href="https://search.worldcat.org/title/277993202">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Ruggiero, M. 1885. &lt;em>Storia degli scavi di Ercolano&lt;/em>. Napoli: Tipografia dell'Accademia Reale delle Scienze &lt;a href="https://search.worldcat.org/title/18405521">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/herculaneum/">Herculaneum&lt;/a>&lt;/li>
-&lt;li>
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Herculaneum">Herculaneum&lt;/a>
-
-
- 
- 
-
-
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades: 432873&lt;/a>
-
-
-
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="location-description">Location Description&lt;/h2>
-&lt;p>An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.&lt;/p>
-&lt;h2 id="insula">Insula&lt;/h2>
-&lt;p>II&lt;/p>
-&lt;h2 id="house">House&lt;/h2>
-&lt;p>2&lt;/p>
-&lt;h2 id="garden">Garden&lt;/h2>
-&lt;p>Casa D'Argo&lt;/p>
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -79383,34 +79341,6 @@ This humble house had a huge garden (a) which was entered from the long fauceson
 &lt;li>
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gutters">gutters (building drainage components)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300052565" title="Art and Architecture Thesaurus (Getty)">AAT:300052565&lt;/a>
 &lt;/li>
-&lt;/ul>
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>533.II.2.
-A. The earliest excavations of Herculaneum were done with underground tunnels. Several of these crossed this site and were discovered sixty three years later when further excavation of this patrician house was conducted in1828-1835. Eight brick columns and one engaged column stood on each of the long sides of the &lt;em>portico&lt;/em> that bounded the large &lt;em>peristyle&lt;/em> garden (a) on the east, north, and west sides. The north side was supported by four more columns and at the two front corners there was a pillar with an engaged column on each side. In the center of the north side two smaller pillars with one engaged column each framed a garden view from the &lt;em>triclinium&lt;/em>. All the supporting members were coated with fine stucco. &lt;em>Gutters&lt;/em> ringing the garden conveyed rain water to the &lt;em>cistern&lt;/em>.&lt;/p>
-&lt;p>534.II.2.
-B. A second &lt;em>peristyle&lt;/em> garden was located to the west of the first, but has only been partially excavated. It has stuccoed columns and pillars joined by a wall 0.4 m. high painted with plants and flowers.&lt;/p>
-&lt;!-- ## Maps -->
-&lt;h2 id="plans">Plans&lt;/h2>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/herculaneum/insula_ii/h_2_2.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- Plan of Casa D'Argo&lt;/figcaption>
-&lt;/figure>
-&lt;h2 id="dates">Dates&lt;/h2>
-&lt;p>unspecified&lt;/p>
-&lt;h2 id="excavation-date">Excavation Date&lt;/h2>
-&lt;p>1828-1835&lt;/p>
-&lt;h2 id="bibliography">Bibliography&lt;/h2>
-&lt;ul>
-&lt;li>A.C. &lt;em>BdI&lt;/em> (1835),p. 130 &lt;a href="https://search.worldcat.org/title/504636074">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Bonucci, &lt;em>BdI&lt;/em> (1830), p.121 &lt;a href="https://search.worldcat.org/title/504636074">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Bonucci, Le due Sicilie: Ercolano, fig. 11 (plan) and p. 37 &lt;a href="https://search.worldcat.org/title/79720703">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Breton,&lt;em>Pompeia&lt;/em> p. 519 &lt;a href="https://search.worldcat.org/title/602759412">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Maiuri, &lt;em>Herculaneum&lt;/em>, p. 24 &lt;a href="https://search.worldcat.org/title/1107784297">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Maiuri,&lt;em>Ercolano&lt;/em>, pp. 367-368 and fig. 293 (plan) on p. 362 &lt;a href="https://search.worldcat.org/title/490581395">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Niccolini,&lt;em>Real museo borbonico&lt;/em>, vol. 7, fig. 59 (plan), description by Bechi, pp. 19-21 &lt;a href="https://search.worldcat.org/title/277993202">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Ruggiero, &lt;em>Ercolano&lt;/em>, pp. 541-545 (contains the detailed reports of Bonucci)&lt;a href="https://search.worldcat.org/title/18405521">(worldcat)&lt;/a>&lt;/li>
-&lt;li>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>

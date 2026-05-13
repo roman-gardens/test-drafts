@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aix-en-Provence on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/aix-en-provence/</link><description>Recent content in Aix-en-Provence on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/aix-en-provence/index.xml" rel="self" type="application/rss+xml"/><item><title>Aix, Jardins de Grassi, House with the large peristyle</title><link>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/">Gallia Narbonensis&lt;/a>&lt;/li>
-&lt;li>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aix-en-Provence on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/aix-en-provence/</link><description>Recent content in Aix-en-Provence on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/aix-en-provence/index.xml" rel="self" type="application/rss+xml"/><item><title>Aix, Jardins de Grassi, House with the large peristyle</title><link>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle/</guid><description>&lt;!--## Province
+
+- [Gallia Narbonensis](/test-drafts/place/gallia_narbonensis/)
+- 
 
 
 
@@ -19,17 +19,59 @@
 
 
 
+
+
+## Province Description
+
+Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
+
+## Location
+
+[aix-en-provence](/test-drafts/place/gallia_narbonensis/aix-en-provence/) \
+[aix-en-provence (Pleiades)](#)
+
+## Sublocation
+
+[Aix, Jardins de Grassi, House with the large peristyle](#)
+
+## House
+
+Aix, Jardins de Grassi, House with the large peristyle-->
+&lt;h2 id="dates">Dates&lt;/h2>
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
+&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
+&lt;!-- format as YYYY, or YYYY-YYYY -->
+&lt;h2 id="house-description">House Description&lt;/h2>
+&lt;p>This luxurious residence wrapped around a large (15 x 18 m) peristyle [1] with galleries 3 to 4 meters wide. The center was no doubt a garden. A vast reception room [15], paved with an &lt;em>opus sectile&lt;/em>, looked out onto the central axis of the garden. It was flanked by two other handsome rooms; the one to the west [18] also had a marble floor. An exedra [5] with an &lt;em>opus sectile&lt;/em> floor opened in the center of the east wing over a wide threshold, embellished on each side by a pilaster and column. Room 14, also with a marble floor, is more withdrawn. The principal reception room opened onto another open space [1], thought to have been 22 meters long by 7 meters wide, delimited at ground level by a stone border. Perhaps treated as a garden, it was made pleasant by two stone basins with water jets placed on the axis of the rooms [18] and [16]. The view was rounded off by the large flattened semicircle of the back (north) wall of the garden.&lt;/p>
+&lt;!--
+## Maps
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/aix-en-provence/filename.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ &lt;/figcaption>
+&lt;/figure>
+-->
+&lt;h2 id="plans">Plans&lt;/h2>
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle1.png" alt="Fig.1 plan of the House with the Large peristyle" onclick="fullscreen(this)">
+ &lt;figcaption>
+ Fig 1. House with the large peristyle&lt;/figcaption>
+&lt;/figure>
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle2.png" alt="Fig.2 Plan of the House with the Large peristyle" onclick="fullscreen(this)">
+ &lt;figcaption>
+ Fig 2. House with the large peristyle&lt;/figcaption>
+&lt;/figure>
+&lt;!-- ## Images -->
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;em>Maison 1996&lt;/em>, t. II,, p. 30-31&lt;/p>
 &lt;/li>
-&lt;/ul>
-&lt;h2 id="province-description">Province Description&lt;/h2>
-&lt;p>Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.&lt;/p>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-drafts/place/gallia_narbonensis/aix-en-provence/">aix-en-provence&lt;/a> &lt;br>
-&lt;a href="#">aix-en-provence (Pleiades)&lt;/a>&lt;/p>
-&lt;h2 id="sublocation">Sublocation&lt;/h2>
-&lt;p>&lt;a href="#">Aix, Jardins de Grassi, House with the large peristyle&lt;/a>&lt;/p>
-&lt;h2 id="house">House&lt;/h2>
-&lt;p>Aix, Jardins de Grassi, House with the large peristyle&lt;/p>
+&lt;li>
+&lt;p>&lt;em>Atlas De Provence-Côte D'azur: 1&lt;/em>. Bruxelles: ACTES, 1974, P 62-64 and P261-277.&lt;a href="https://search.worldcat.org/title/461460528">worldcat&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -51,31 +93,6 @@
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=columns">columns (architectural elements)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300001571" title="Art and Architecture Thesaurus (Getty)">AAT:300001571&lt;/a>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="house-description">House Description&lt;/h2>
-&lt;p>This luxurious residence wrapped around a large (15 x 18 m) peristyle [1] with galleries 3 to 4 meters wide. The center was no doubt a garden. A vast reception room [15], paved with an &lt;em>opus sectile&lt;/em>, looked out onto the central axis of the garden. It was flanked by two other handsome rooms; the one to the west [18] also had a marble floor. An exedra [5] with an &lt;em>opus sectile&lt;/em> floor opened in the center of the east wing over a wide threshold, embellished on each side by a pilaster and column. Room 14, also with a marble floor, is more withdrawn. The principal reception room opened onto another open space [1], thought to have been 22 meters long by 7 meters wide, delimited at ground level by a stone border. Perhaps treated as a garden, it was made pleasant by two stone basins with water jets placed on the axis of the rooms [18] and [16]. The view was rounded off by the large flattened semicircle of the back (north) wall of the garden.&lt;/p>
-&lt;!-- ## Maps -->
-&lt;h2 id="plans">Plans&lt;/h2>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle1.png" alt="Fig.1 plan of the House with the Large peristyle" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig 1. House with the large peristyle&lt;/figcaption>
-&lt;/figure>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/aix-en-provence/aix_jardins_de_grassi_house_with_the_large_peristyle2.png" alt="Fig.2 Plan of the House with the Large peristyle" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig 2. House with the large peristyle&lt;/figcaption>
-&lt;/figure>
-&lt;!-- ## Images -->
-&lt;!-- ## Dates -->
-&lt;h2 id="bibliography">Bibliography&lt;/h2>
-&lt;ol>
-&lt;li>
-&lt;p>&lt;em>Maison 1996&lt;/em>, t. II,, p. 30-31&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;em>Atlas De Provence-Côte D'azur: 1&lt;/em>. Bruxelles: ACTES, 1974, P 62-64 and P261-277.&lt;a href="https://search.worldcat.org/title/461460528">worldcat&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
 &lt;li>
