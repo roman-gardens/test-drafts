@@ -8,7 +8,7 @@
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Almedinilla">Almedinilla&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Almedinilla" title='search for "Almedinilla" within GRE'>Almedinilla&lt;/a>
 
 
  
@@ -93,7 +93,7 @@
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=El%20Ruedo">El Ruedo&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=El%20Ruedo" title='search for "El Ruedo" within GRE'>El Ruedo&lt;/a>
 
 
  
@@ -112,7 +112,7 @@
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Almedinilla%20%28inhabited%20place%29">Almedinilla (inhabited place)&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Almedinilla%20%28inhabited%20place%29" title='search for "Almedinilla (inhabited place)" within GRE'>Almedinilla (inhabited place)&lt;/a>
 
 
  
@@ -124,5 +124,4 @@
 
 
 &lt;/li>
-&lt;/ul>
-&lt;p>&lt;a href="link">D. Vaquerizo&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;/ul></description></item></channel></rss>

@@ -383,3 +383,7 @@ xh3::after { content: 'h3' }
 xh4::after { content: 'h4' }
 xh5::after { content: 'h5' }
 xh6::after { content: 'h6' }
+
+sup {
+  font-size: 75%;
+}

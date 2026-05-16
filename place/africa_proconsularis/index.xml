@@ -1,1 +1,67 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Africa Proconsularis on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/africa_proconsularis/</link><description>Recent content in Africa Proconsularis on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate/><atom:link href="https://roman-gardens.github.io/test-drafts/place/africa_proconsularis/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Africa Proconsularis on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/africa_proconsularis/</link><description>Recent content in Africa Proconsularis on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/africa_proconsularis/index.xml" rel="self" type="application/rss+xml"/><item><title>Uzita</title><link>https://roman-gardens.github.io/test-drafts/place/africa_proconsularis/uzita/</link><pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/africa_proconsularis/uzita/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
+&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
+&lt;!-- format as YYYY, or YYYY-YYYY -->
+&lt;h2 id="garden-description">Garden Description&lt;/h2>
+&lt;!-- spelled "Uzitta" in the original .doc -->
+&lt;p>Uzita was mentioned by Caesar in the African War. The ruins are on a small hill surrounded by plains near Jemmal. A large sector of a residential district was uncovered around 1960. The site had many houses and some large villas with peristyle courtyards with possible gardens.&lt;/p>
+&lt;!--
+## Maps
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/filename.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ &lt;/figcaption>
+&lt;/figure>
+-->
+&lt;!--
+## Plans
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/filename.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ &lt;/figcaption>
+&lt;/figure>
+-->
+&lt;!--
+## Images
+&lt;figure>
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/filename.jpg" alt="" onclick="fullscreen(this)">
+ &lt;figcaption>
+ &lt;/figcaption>
+&lt;/figure>
+-->
+&lt;h2 id="bibliography">Bibliography&lt;/h2>
+&lt;ul>
+&lt;li>A. Ennabli, PE, p. 951; L. Foucher in Karthago 9(1958) 135-136.&lt;/li>
+&lt;/ul>
+&lt;!--
+What is PE?
+Check Amplissimae.
+-->
+&lt;!--
+## Keywords
+- 
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+
+-->
+&lt;h2 id="places">Places&lt;/h2>
+&lt;ul>
+&lt;li>
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Uzita" title='search for "Uzita" within GRE'>Uzita&lt;/a>
+
+
+ 
+ 
+
+
+ &lt;a target="_blank" href="https://pleiades.stoa.org/places/324844" title="Pleiades gazetteer of ancient places">Pleiades: 324844&lt;/a>
+
+
+
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
