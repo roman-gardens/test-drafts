@@ -20,7 +20,7 @@ function fullscreen(img) {
     d.style.backgroundImage = `url(${img.src})`
     d.style.display = 'block'
     document.querySelector('body').append(d)
-    d.addEventListener('click', (x) => { 
+    d.addEventListener('click', (x) => {
         d.remove()
     })
 }

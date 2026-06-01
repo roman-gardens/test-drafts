@@ -57,7 +57,7 @@ if (q) {
 
   // Retain the search input in the form when displaying results
   window.setTimeout((function(){document.getElementById('search-input').setAttribute('value', q)}), 500)
-  
+
   // also split tokens on slash
   lunr.tokenizer.separator = /[\s\-\/]+/
 
