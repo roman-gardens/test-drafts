@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -38,7 +38,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades: 432873&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades:432873&lt;/a>)
 
 
 
@@ -54,19 +54,19 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fauces">fauces&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004298" title="Art and Architecture Thesaurus (Getty)">AAT:300004298&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fauces">fauces&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004298" title="Art and Architecture Thesaurus (Getty)">AAT:300004298&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tondi">tondi&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300033622" title="Art and Architecture Thesaurus (Getty)">AAT:300033622&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tondi">tondi&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300033622" title="Art and Architecture Thesaurus (Getty)">AAT:300033622&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peltae">peltae&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300213495" title="Art and Architecture Thesaurus (Getty)">AAT:300213495&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peltae">peltae&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300213495" title="Art and Architecture Thesaurus (Getty)">AAT:300213495&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pinakes">pinakes (votive plaques)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300264977" title="Art and Architecture Thesaurus (Getty)">AAT:300264977&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pinakes">pinakes (votive plaques)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300264977" title="Art and Architecture Thesaurus (Getty)">AAT:300264977&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=impluvia">impluvia&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300129867" title="Art and Architecture Thesaurus (Getty)">AAT:300129867&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=impluvia">impluvia&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300129867" title="Art and Architecture Thesaurus (Getty)">AAT:300129867&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -104,7 +104,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades: 432873&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades:432873&lt;/a>)
 
 
 
@@ -123,7 +123,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7031897" title="Thesaurus of Geographic Names (Getty)">TGN: 7031897&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7031897" title="Thesaurus of Geographic Names (Getty)">TGN:7031897&lt;/a>)
 
 
 
@@ -133,9 +133,9 @@
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Maiuri, &lt;em>Herculaneum&lt;/em>, pp.65-66 &lt;a href="https://search.worldcat.org/title/1107784297">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, pp. 347-352 and fig. 276 (plan) on p. 346 &lt;a href="https://search.worldcat.org/title/490581395">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. 1, fig. 91 on p. 52 &lt;a href="https://search.worldcat.org/title/1029851777">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, &lt;em>Herculaneum&lt;/em>, pp.65-66 &lt;a href="https://search.worldcat.org/title/1107784297" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, pp. 347-352 and fig. 276 (plan) on p. 346 &lt;a href="https://search.worldcat.org/title/490581395" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. 1, fig. 91 on p. 52 &lt;a href="https://search.worldcat.org/title/1029851777" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Insula or. I.2-3(B)</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_b/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_b/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -153,7 +153,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -176,7 +176,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades: 432873&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades:432873&lt;/a>)
 
 
 
@@ -192,13 +192,13 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atriums">atriums (Roman halls)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004097" title="Art and Architecture Thesaurus (Getty)">AAT:300004097&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atriums">atriums (Roman halls)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004097" title="Art and Architecture Thesaurus (Getty)">AAT:300004097&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=stuccoing">stuccoing&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300053875" title="Art and Architecture Thesaurus (Getty)">AAT:300053875&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=stuccoing">stuccoing&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300053875" title="Art and Architecture Thesaurus (Getty)">AAT:300053875&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -236,7 +236,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades: 432873&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades:432873&lt;/a>)
 
 
 
@@ -255,7 +255,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7031897" title="Thesaurus of Geographic Names (Getty)">TGN: 7031897&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7031897" title="Thesaurus of Geographic Names (Getty)">TGN:7031897&lt;/a>)
 
 
 
@@ -265,9 +265,9 @@
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Maiuri, &lt;em>Herculaneum&lt;/em>, pp.66-67 &lt;a href="https://search.worldcat.org/title/1107784297">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, p. 353 &lt;a href="https://search.worldcat.org/title/490581395">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, 1:50-51 and fig. 89 on p. 51 &lt;a href="https://search.worldcat.org/title/1029851777">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, &lt;em>Herculaneum&lt;/em>, pp.66-67 &lt;a href="https://search.worldcat.org/title/1107784297" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, p. 353 &lt;a href="https://search.worldcat.org/title/490581395" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, 1:50-51 and fig. 89 on p. 51 &lt;a href="https://search.worldcat.org/title/1029851777" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Insula or. I.2-3(C)</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_c/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_c/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -285,7 +285,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -308,7 +308,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades: 432873&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades:432873&lt;/a>)
 
 
 
@@ -324,7 +324,7 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -356,7 +356,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades: 432873&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades:432873&lt;/a>)
 
 
 
@@ -375,7 +375,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7031897" title="Thesaurus of Geographic Names (Getty)">TGN: 7031897&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7031897" title="Thesaurus of Geographic Names (Getty)">TGN:7031897&lt;/a>)
 
 
 
@@ -385,7 +385,7 @@
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, p. 353 &lt;a href="https://search.worldcat.org/title/490581395">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, p. 353 &lt;a href="https://search.worldcat.org/title/490581395" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Insula or. I.2-3(D)</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_d/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_d/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -403,7 +403,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -426,7 +426,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades: 432873&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades:432873&lt;/a>)
 
 
 
@@ -442,10 +442,10 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=rustic">rustic (style)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300310541" title="Art and Architecture Thesaurus (Getty)">AAT:300310541&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=rustic">rustic (style)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300310541" title="Art and Architecture Thesaurus (Getty)">AAT:300310541&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=shrines">shrines (structures)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300007558" title="Art and Architecture Thesaurus (Getty)">AAT:300007558&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=shrines">shrines (structures)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300007558" title="Art and Architecture Thesaurus (Getty)">AAT:300007558&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -477,7 +477,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades: 432873&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades:432873&lt;/a>)
 
 
 
@@ -496,7 +496,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7031897" title="Thesaurus of Geographic Names (Getty)">TGN: 7031897&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7031897" title="Thesaurus of Geographic Names (Getty)">TGN:7031897&lt;/a>)
 
 
 
@@ -506,6 +506,6 @@
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Maiuri, &lt;em>Herculaneum&lt;/em>, p. 67 &lt;a href="https://search.worldcat.org/title/1107784297">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, pp. 359, 360 &lt;a href="https://search.worldcat.org/title/490581395">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, &lt;em>Herculaneum&lt;/em>, p. 67 &lt;a href="https://search.worldcat.org/title/1107784297" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, pp. 359, 360 &lt;a href="https://search.worldcat.org/title/490581395" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

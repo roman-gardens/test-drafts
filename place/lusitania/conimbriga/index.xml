@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1101" title="Pleiades gazetteer of ancient places">Pleiades: 1101&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1101" title="Pleiades gazetteer of ancient places">Pleiades:1101&lt;/a>)
 
 
 
@@ -40,7 +40,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades: 236443&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades:236443&lt;/a>)
 
 
 
@@ -53,10 +53,10 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=statuettes">statuettes (free-standing sculpture)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300312262" title="Art and Architecture Thesaurus (Getty)">AAT:300312262&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=statuettes">statuettes (free-standing sculpture)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300312262" title="Art and Architecture Thesaurus (Getty)">AAT:300312262&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -108,7 +108,7 @@ The large dimensions of this house required further open spaces for light and ai
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades: 236443&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades:236443&lt;/a>)
 
 
 
@@ -130,7 +130,7 @@ The large dimensions of this house required further open spaces for light and ai
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1101" title="Pleiades gazetteer of ancient places">Pleiades: 1101&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1101" title="Pleiades gazetteer of ancient places">Pleiades:1101&lt;/a>)
 
 
 
@@ -155,7 +155,7 @@ The large dimensions of this house required further open spaces for light and ai
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades: 236443&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades:236443&lt;/a>)
 
 
 
@@ -168,10 +168,10 @@ The large dimensions of this house required further open spaces for light and ai
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -193,7 +193,7 @@ The large dimensions of this house required further open spaces for light and ai
 &lt;!-- ## Dates -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). &lt;a href="https://search.worldcat.org/title/255066311">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Morand, I., La Maison aux jets d'eau de Conimbriga (Boccard, Paris, 2005). &lt;a href="https://search.worldcat.org/title/255066311" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -211,7 +211,7 @@ The large dimensions of this house required further open spaces for light and ai
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades: 236443&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades:236443&lt;/a>)
 
 
 
@@ -230,7 +230,7 @@ The large dimensions of this house required further open spaces for light and ai
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7031751" title="Thesaurus of Geographic Names (Getty)">TGN: 7031751&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7031751" title="Thesaurus of Geographic Names (Getty)">TGN:7031751&lt;/a>)
 
 
 
@@ -252,7 +252,7 @@ The large dimensions of this house required further open spaces for light and ai
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1101" title="Pleiades gazetteer of ancient places">Pleiades: 1101&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1101" title="Pleiades gazetteer of ancient places">Pleiades:1101&lt;/a>)
 
 
 
@@ -270,13 +270,13 @@ The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Aug
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=axial plan">axial plan&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300121971" title="Art and Architecture Thesaurus (Getty)">AAT:300121971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=axial plan">axial plan&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300121971" title="Art and Architecture Thesaurus (Getty)">AAT:300121971&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -304,8 +304,8 @@ The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Aug
 &lt;!-- ## Dates -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>J. Alarcão and R. Etienne, &amp;quot;Les jardins a Conimbriga (Portugal)&amp;quot; in Ancient Roman Gardens, Dumbarton Oaks Colloquium on the History of Landscape Architecture,no. 7. 1979, E. B. MacDougall and W. F. Jashemski eds. Washington, D. C., 1981, pp. 67-80. &lt;a href="https://search.worldcat.org/title/495350071">(worldcat)&lt;/a>&lt;/li>
-&lt;li>V. Hipólito Carreia, Conimbriga, Guide to the Ruins, Instituto Portugués de Museus, 2006. &lt;a href="https://search.worldcat.org/title/927151602">(worldcat)&lt;/a>&lt;/li>
+&lt;li>J. Alarcão and R. Etienne, &amp;quot;Les jardins a Conimbriga (Portugal)&amp;quot; in Ancient Roman Gardens, Dumbarton Oaks Colloquium on the History of Landscape Architecture,no. 7. 1979, E. B. MacDougall and W. F. Jashemski eds. Washington, D. C., 1981, pp. 67-80. &lt;a href="https://search.worldcat.org/title/495350071" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>V. Hipólito Carreia, Conimbriga, Guide to the Ruins, Instituto Portugués de Museus, 2006. &lt;a href="https://search.worldcat.org/title/927151602" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -323,7 +323,7 @@ The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Aug
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades: 236443&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades:236443&lt;/a>)
 
 
 
@@ -345,7 +345,7 @@ The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Aug
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1101" title="Pleiades gazetteer of ancient places">Pleiades: 1101&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1101" title="Pleiades gazetteer of ancient places">Pleiades:1101&lt;/a>)
 
 
 
@@ -370,7 +370,7 @@ The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Aug
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades: 236443&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades:236443&lt;/a>)
 
 
 
@@ -383,7 +383,7 @@ The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Aug
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -421,7 +421,7 @@ The pre-Roman oppidum of Conimbriga was made the capital of a civitas in the Aug
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades: 236443&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/236443" title="Pleiades gazetteer of ancient places">Pleiades:236443&lt;/a>)
 
 
 

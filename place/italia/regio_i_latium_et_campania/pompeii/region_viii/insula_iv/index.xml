@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -38,7 +38,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -52,13 +52,13 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=dolia">dolia&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300400601" title="Art and Architecture Thesaurus (Getty)">AAT:300400601&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=dolia">dolia&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300400601" title="Art and Architecture Thesaurus (Getty)">AAT:300400601&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -85,7 +85,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -104,7 +104,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -114,14 +114,14 @@
 &lt;p>1861&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Breton, &lt;em>Pompeia&lt;/em>, 3rd ed. p. 470 &lt;a href="https://search.worldcat.org/title/894211341">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Dohl, &lt;em>Plastik aus Pompeji&lt;/em>, p. 44 &lt;a href="https://search.worldcat.org/title/52662796">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Giornale degli scavi di Pompei&lt;/em> (1861), pp. 351-352, 367 &lt;a href="https://search.worldcat.org/title/962518899">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Gli scavi di Pompei dal 1861 al 1872&lt;/em>, p. 5 &lt;a href="https://search.worldcat.org/title/65043382">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, p. 340 &lt;a href="https://search.worldcat.org/title/252039996">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 213 &lt;a href="https://search.worldcat.org/title/1113367431">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Lugebil, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1861), p. 237 &lt;a href="https://search.worldcat.org/title/823239162">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 2, &amp;quot;Descr. gen,&amp;quot; p. 67 &lt;a href="https://search.worldcat.org/title/906755593">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Breton, &lt;em>Pompeia&lt;/em>, 3rd ed. p. 470 &lt;a href="https://search.worldcat.org/title/894211341" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Dohl, &lt;em>Plastik aus Pompeji&lt;/em>, p. 44 &lt;a href="https://search.worldcat.org/title/52662796" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Giornale degli scavi di Pompei&lt;/em> (1861), pp. 351-352, 367 &lt;a href="https://search.worldcat.org/title/962518899" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Gli scavi di Pompei dal 1861 al 1872&lt;/em>, p. 5 &lt;a href="https://search.worldcat.org/title/65043382" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, p. 340 &lt;a href="https://search.worldcat.org/title/252039996" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 213 &lt;a href="https://search.worldcat.org/title/1113367431" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Lugebil, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1861), p. 237 &lt;a href="https://search.worldcat.org/title/823239162" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 2, &amp;quot;Descr. gen,&amp;quot; p. 67 &lt;a href="https://search.worldcat.org/title/906755593" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>VIII.4.15. House of C. Cornelius Rufus; House of C. Cornelius Adiutor</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_iv/viii.4.15/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_iv/viii.4.15/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -139,7 +139,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -162,7 +162,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -176,31 +176,31 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (rooms)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)">AAT:300004359&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (rooms)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)">AAT:300004359&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=exedrae">exedrae (interior spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004014" title="Art and Architecture Thesaurus (Getty)">AAT:300004014&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=exedrae">exedrae (interior spaces)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004014" title="Art and Architecture Thesaurus (Getty)">AAT:300004014&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=exedrae">exedrae (site elements)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300081589" title="Art and Architecture Thesaurus (Getty)">AAT:300081589&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=exedrae">exedrae (site elements)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300081589" title="Art and Architecture Thesaurus (Getty)">AAT:300081589&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=puteals">puteals&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300443458" title="Art and Architecture Thesaurus (Getty)">AAT:300443458&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=puteals">puteals&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300443458" title="Art and Architecture Thesaurus (Getty)">AAT:300443458&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atriums">atriums (Roman halls)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004097" title="Art and Architecture Thesaurus (Getty)">AAT:300004097&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atriums">atriums (Roman halls)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004097" title="Art and Architecture Thesaurus (Getty)">AAT:300004097&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=impluvia">impluvia&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300129867" title="Art and Architecture Thesaurus (Getty)">AAT:300129867&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=impluvia">impluvia&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300129867" title="Art and Architecture Thesaurus (Getty)">AAT:300129867&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;!-- TODO: not sure which exedrae -->
@@ -234,7 +234,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -253,7 +253,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -263,13 +263,13 @@
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Breton, &lt;em>Pompeia&lt;/em>, 3rd ed. pp. 471-472 &lt;a href="https://search.worldcat.org/title/894211341">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Gli scavi di Pompei dal 1861 al 1872&lt;/em>, p. 6 &lt;a href="https://search.worldcat.org/title/65043382">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, p. 342 &lt;a href="https://search.worldcat.org/title/252039996">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, pp. 213-214 &lt;a href="https://search.worldcat.org/title/1113367431">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Lugebil, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1861), p. 238 &lt;a href="https://search.worldcat.org/title/823239162">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 2, &amp;quot;Descr. gen,&amp;quot; p. 67 &lt;a href="https://search.worldcat.org/title/906755593">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Pernice, &lt;em>Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen&lt;/em>, pp. 1, 24, 28, 37 and fig. 1 on p. 2. &lt;a href="https://search.worldcat.org/title/680390526">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Breton, &lt;em>Pompeia&lt;/em>, 3rd ed. pp. 471-472 &lt;a href="https://search.worldcat.org/title/894211341" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Gli scavi di Pompei dal 1861 al 1872&lt;/em>, p. 6 &lt;a href="https://search.worldcat.org/title/65043382" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, p. 342 &lt;a href="https://search.worldcat.org/title/252039996" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, pp. 213-214 &lt;a href="https://search.worldcat.org/title/1113367431" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Lugebil, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1861), p. 238 &lt;a href="https://search.worldcat.org/title/823239162" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 2, &amp;quot;Descr. gen,&amp;quot; p. 67 &lt;a href="https://search.worldcat.org/title/906755593" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Pernice, &lt;em>Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen&lt;/em>, pp. 1, 24, 28, 37 and fig. 1 on p. 2. &lt;a href="https://search.worldcat.org/title/680390526" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>VIII.4.26-29. Bakery and House of Felix</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_iv/viii.4.26-29/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_iv/viii.4.26-29/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -287,7 +287,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -310,7 +310,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -324,7 +324,7 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -357,7 +357,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -376,7 +376,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -386,11 +386,11 @@
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Boyce, &lt;em>Corpus of the Lararia of Pompeii&lt;/em>, Memoris of the American Academy in Rome (1937), p. 76, no. 363 &lt;a href="https://search.worldcat.org/title/1131425884">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Gli scavi di Pompei dal 1861 al 1872&lt;/em>, p. 7 &lt;a href="https://search.worldcat.org/title/65043382">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, p. 343 &lt;a href="https://search.worldcat.org/title/252039996">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 214 &lt;a href="https://search.worldcat.org/title/1113367431">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 2, &amp;quot;Descr. gen,&amp;quot; p. 67 &lt;a href="https://search.worldcat.org/title/906755593">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Boyce, &lt;em>Corpus of the Lararia of Pompeii&lt;/em>, Memoris of the American Academy in Rome (1937), p. 76, no. 363 &lt;a href="https://search.worldcat.org/title/1131425884" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Gli scavi di Pompei dal 1861 al 1872&lt;/em>, p. 7 &lt;a href="https://search.worldcat.org/title/65043382" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, p. 343 &lt;a href="https://search.worldcat.org/title/252039996" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 214 &lt;a href="https://search.worldcat.org/title/1113367431" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 2, &amp;quot;Descr. gen,&amp;quot; p. 67 &lt;a href="https://search.worldcat.org/title/906755593" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>VIII.4.30.</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_iv/viii.4.30/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_iv/viii.4.30/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -408,7 +408,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -431,7 +431,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -445,10 +445,10 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atriums">atriums (Roman halls)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004097" title="Art and Architecture Thesaurus (Getty)">AAT:300004097&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atriums">atriums (Roman halls)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004097" title="Art and Architecture Thesaurus (Getty)">AAT:300004097&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -475,7 +475,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -494,7 +494,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -504,10 +504,10 @@
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Fiorelli, &lt;em>Gli scavi di Pompei dal 1861 al 1872&lt;/em>, pp.7-8 &lt;a href="https://search.worldcat.org/title/65043382">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, pp. 343-345 &lt;a href="https://search.worldcat.org/title/252039996">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 214 &lt;a href="https://search.worldcat.org/title/1113367431">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 2, &amp;quot;Descr. gen,&amp;quot; p. 67 &lt;a href="https://search.worldcat.org/title/906755593">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Gli scavi di Pompei dal 1861 al 1872&lt;/em>, pp.7-8 &lt;a href="https://search.worldcat.org/title/65043382" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, pp. 343-345 &lt;a href="https://search.worldcat.org/title/252039996" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 214 &lt;a href="https://search.worldcat.org/title/1113367431" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 2, &amp;quot;Descr. gen,&amp;quot; p. 67 &lt;a href="https://search.worldcat.org/title/906755593" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>VIII.4.33.</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_iv/viii.4.33/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_iv/viii.4.33/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -525,7 +525,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -548,7 +548,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -562,7 +562,7 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -595,7 +595,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -614,7 +614,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -624,12 +624,12 @@
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Dohl, &lt;em>Plastik aus Pompeji&lt;/em>, p. 45 &lt;a href="https://search.worldcat.org/title/52662796">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Gli scavi di Pompei dal 1861 al 1872&lt;/em>, p. 8 &lt;a href="https://search.worldcat.org/title/65043382">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, p. 342 &lt;a href="https://search.worldcat.org/title/252039996">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Giornale degli scavi di Pompei&lt;/em> (1861), p. 382 &lt;a href="https://search.worldcat.org/title/962518899">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 214 &lt;a href="https://search.worldcat.org/title/1113367431">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 2, &amp;quot;Descr. gen,&amp;quot; p. 67 &lt;a href="https://search.worldcat.org/title/906755593">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Dohl, &lt;em>Plastik aus Pompeji&lt;/em>, p. 45 &lt;a href="https://search.worldcat.org/title/52662796" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Gli scavi di Pompei dal 1861 al 1872&lt;/em>, p. 8 &lt;a href="https://search.worldcat.org/title/65043382" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, p. 342 &lt;a href="https://search.worldcat.org/title/252039996" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Giornale degli scavi di Pompei&lt;/em> (1861), p. 382 &lt;a href="https://search.worldcat.org/title/962518899" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 214 &lt;a href="https://search.worldcat.org/title/1113367431" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 2, &amp;quot;Descr. gen,&amp;quot; p. 67 &lt;a href="https://search.worldcat.org/title/906755593" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>VIII.4.4. House of M. Holconius Rufus; House of Q. Postumius Modestus and Q. Postumius Proculus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_iv/viii.4.4/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_iv/viii.4.4/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -647,7 +647,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -670,7 +670,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -684,16 +684,16 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=exedrae">exedrae (interior spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004014" title="Art and Architecture Thesaurus (Getty)">AAT:300004014&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=exedrae">exedrae (interior spaces)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004014" title="Art and Architecture Thesaurus (Getty)">AAT:300004014&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=exedrae">exedrae (site elements)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300081589" title="Art and Architecture Thesaurus (Getty)">AAT:300081589&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=exedrae">exedrae (site elements)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300081589" title="Art and Architecture Thesaurus (Getty)">AAT:300081589&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (rooms)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)">AAT:300004359&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (rooms)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)">AAT:300004359&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;!-- TODO: not sure which exedrae -->
@@ -737,7 +737,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -756,7 +756,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -766,15 +766,15 @@
 &lt;p>1861&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Breton, &lt;em>Pompeia&lt;/em>, 3rd ed. pp. 461-464 &lt;a href="https://search.worldcat.org/title/894211341">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Giornale degli scavi di Pompei&lt;/em> (1861), pp. 46-47, 345, 350 &lt;a href="https://search.worldcat.org/title/962518899">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Gli scavi di Pompei dal 1861 al 1872&lt;/em>, pp. 2-3 &lt;a href="https://search.worldcat.org/title/65043382">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, pp. 334-335 &lt;a href="https://search.worldcat.org/title/252039996">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 212 &lt;a href="https://search.worldcat.org/title/1113367431">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Minervini, &lt;em>Bullettino archeologico italiano&lt;/em> (1861), p. 53 &lt;a href="https://search.worldcat.org/title/759182452">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 2, &amp;quot;Descr. gen,&amp;quot; p. 66 &lt;a href="https://search.worldcat.org/title/906755593">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Overbeck and Mau, &lt;em>Pompeji in seinen Gebäuden, Altertümern und Kunstwerken&lt;/em>, pp. 293-294 and fig. 162(plan) on p. 290 &lt;a href="https://search.worldcat.org/title/1189285747">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Pernice, &lt;em>Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen&lt;/em>, pp. 49-50 and pl. 32.4 &lt;a href="https://search.worldcat.org/title/680390526">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Breton, &lt;em>Pompeia&lt;/em>, 3rd ed. pp. 461-464 &lt;a href="https://search.worldcat.org/title/894211341" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Giornale degli scavi di Pompei&lt;/em> (1861), pp. 46-47, 345, 350 &lt;a href="https://search.worldcat.org/title/962518899" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Gli scavi di Pompei dal 1861 al 1872&lt;/em>, pp. 2-3 &lt;a href="https://search.worldcat.org/title/65043382" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, pp. 334-335 &lt;a href="https://search.worldcat.org/title/252039996" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 212 &lt;a href="https://search.worldcat.org/title/1113367431" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Minervini, &lt;em>Bullettino archeologico italiano&lt;/em> (1861), p. 53 &lt;a href="https://search.worldcat.org/title/759182452" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 2, &amp;quot;Descr. gen,&amp;quot; p. 66 &lt;a href="https://search.worldcat.org/title/906755593" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Overbeck and Mau, &lt;em>Pompeji in seinen Gebäuden, Altertümern und Kunstwerken&lt;/em>, pp. 293-294 and fig. 162(plan) on p. 290 &lt;a href="https://search.worldcat.org/title/1189285747" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Pernice, &lt;em>Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen&lt;/em>, pp. 49-50 and pl. 32.4 &lt;a href="https://search.worldcat.org/title/680390526" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>VIII.4.9. House of T. Mescinius Gelo</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_iv/viii.4.9/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_iv/viii.4.9/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -792,7 +792,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -815,7 +815,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -829,7 +829,7 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -856,7 +856,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -875,7 +875,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -885,11 +885,11 @@
 &lt;p>1860-1861&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Breton, &lt;em>Pompeia&lt;/em>, 3rd ed. p. 469 &lt;a href="https://search.worldcat.org/title/894211341">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Giornale degli scavi di Pompei&lt;/em> (1861), pp. 103-104, 386 &lt;a href="https://search.worldcat.org/title/962518899">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Gli scavi di Pompei dal 1861 al 1872&lt;/em>, p. 4 &lt;a href="https://search.worldcat.org/title/65043382">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, p. 339 &lt;a href="https://search.worldcat.org/title/252039996">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, pp. 212-213 &lt;a href="https://search.worldcat.org/title/1113367431">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Lugebil, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1861), p. 237 &lt;a href="https://search.worldcat.org/title/823239162">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 2, &amp;quot;Descr. gen,&amp;quot; p. 67 &lt;a href="https://search.worldcat.org/title/906755593">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Breton, &lt;em>Pompeia&lt;/em>, 3rd ed. p. 469 &lt;a href="https://search.worldcat.org/title/894211341" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Giornale degli scavi di Pompei&lt;/em> (1861), pp. 103-104, 386 &lt;a href="https://search.worldcat.org/title/962518899" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Gli scavi di Pompei dal 1861 al 1872&lt;/em>, p. 4 &lt;a href="https://search.worldcat.org/title/65043382" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, p. 339 &lt;a href="https://search.worldcat.org/title/252039996" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, pp. 212-213 &lt;a href="https://search.worldcat.org/title/1113367431" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Lugebil, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1861), p. 237 &lt;a href="https://search.worldcat.org/title/823239162" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 2, &amp;quot;Descr. gen,&amp;quot; p. 67 &lt;a href="https://search.worldcat.org/title/906755593" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

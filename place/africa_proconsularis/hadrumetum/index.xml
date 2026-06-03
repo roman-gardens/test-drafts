@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/324716" title="Pleiades gazetteer of ancient places">Pleiades: 324716&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/324716" title="Pleiades gazetteer of ancient places">Pleiades:324716&lt;/a>)
 
 
 
@@ -33,20 +33,20 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>)
 &lt;/li>
 &lt;li>
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=semicircular basin">semicircular basin&lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mural paintings">mural paintings (visual works)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300033644" title="Art and Architecture Thesaurus (Getty)">AAT:300033644&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mural paintings">mural paintings (visual works)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300033644" title="Art and Architecture Thesaurus (Getty)">AAT:300033644&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;!-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villae urbanae">villae urbanae&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005520" title="Art and Architecture Thesaurus (Getty)">AAT:300005520&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villae urbanae">villae urbanae&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005520" title="Art and Architecture Thesaurus (Getty)">AAT:300005520&lt;/a>)
  -->
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
 &lt;p>This very damaged house was laid out around a peristyle garden. A semi-circular and bisected basin was placed on the axis of the reception room (Plan view, Fig. 1). The small wall that enclosed the garden was painted with flowers.&lt;/p>
@@ -68,15 +68,15 @@
 &lt;p>end 2nd century CE&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Bullo, S., Ghedini, F., &lt;em>Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana&lt;/em>, Rome: Edizioni Quasar, 2003, pp. 100-101. &lt;a href="https://search.worldcat.org/title/989088620">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Gauckler, P., &amp;quot;Les mosaïques de l'Arsenal à Sousse&amp;quot;, in &lt;em>Revue archéologique&lt;/em>, 1897, II, p. 9-10.&lt;a href="https://search.worldcat.org/title/5547381665">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Bullo, S., Ghedini, F., &lt;em>Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana&lt;/em>, Rome: Edizioni Quasar, 2003, pp. 100-101. &lt;a href="https://search.worldcat.org/title/989088620" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Gauckler, P., &amp;quot;Les mosaïques de l'Arsenal à Sousse&amp;quot;, in &lt;em>Revue archéologique&lt;/em>, 1897, II, p. 9-10.&lt;a href="https://search.worldcat.org/title/5547381665" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Gauckler, P., &lt;em>Inventaire des mosaïques de la Gaule et de l'Afrique&lt;/em>, II : Afrique
-proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.&lt;a href="https://search.worldcat.org/title/488882908">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Ghaddhab, R., &amp;quot;Y avait-il un port à Hadrumetum dans l'antiquité tardive?&amp;quot;, in &lt;em>Revue des etudes anciennes&lt;/em>, 2016, Bordeaux, France: Feret &amp;amp; Fils, pp. 175-199. &lt;a href="https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf">https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf&lt;/a>&lt;/li>
+proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.&lt;a href="https://search.worldcat.org/title/488882908" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Ghaddhab, R., &amp;quot;Y avait-il un port à Hadrumetum dans l'antiquité tardive?&amp;quot;, in &lt;em>Revue des etudes anciennes&lt;/em>, 2016, Bordeaux, France: Feret &amp;amp; Fils, pp. 175-199. &lt;a href="https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf" target="_blank">https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf&lt;/a>&lt;/li>
 &lt;li>Hannezo, G., &amp;quot;Les mosaïques de Sousse&amp;quot;, in &lt;em>Association française pour l'Avancement des Sciences&lt;/em>, Carthage, 25e session, 1896, 2e partie, p. 817-821, p. 819.&lt;/li>
-&lt;li>La Blanchère, M.-R., &amp;quot;Note sur une mosaïque représentant le cortège de de Neptune, découvertes à Hadrumetum et transportée au musée de Tunis (Bardo)&amp;quot;, in &lt;em>Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres&lt;/em>, 15, p. 342-346, 378-383.&lt;a href="https://search.worldcat.org/title/4649609892">(worldcat)&lt;/a>&lt;/li>
+&lt;li>La Blanchère, M.-R., &amp;quot;Note sur une mosaïque représentant le cortège de de Neptune, découvertes à Hadrumetum et transportée au musée de Tunis (Bardo)&amp;quot;, in &lt;em>Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres&lt;/em>, 15, p. 342-346, 378-383.&lt;a href="https://search.worldcat.org/title/4649609892" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;li>La Blanchère, M.-R., &amp;quot;La mosaïque de Neptune à Sousse&amp;quot;, in &lt;em>Bulletin du Comité des travaux historiques&lt;/em>, 1888, p. 163‑176.&lt;/li>
-&lt;li>Laporte, J.-P., Lavagne, H., &amp;quot;Sousse: La domus de Sorothus et ses mosaïques&amp;quot;, in &lt;em>Les sodalités africo-romaines&lt;/em>, Chaires internationales de recherche Blaise Pascale, Paris, 2006, p. 24-28, fig. 4. &lt;a href="https://search.worldcat.org/title/912914354">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Laporte, J.-P., Lavagne, H., &amp;quot;Sousse: La domus de Sorothus et ses mosaïques&amp;quot;, in &lt;em>Les sodalités africo-romaines&lt;/em>, Chaires internationales de recherche Blaise Pascale, Paris, 2006, p. 24-28, fig. 4. &lt;a href="https://search.worldcat.org/title/912914354" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -94,7 +94,7 @@ proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.&lt;a href="https://
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/324716" title="Pleiades gazetteer of ancient places">Pleiades: 324716&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/324716" title="Pleiades gazetteer of ancient places">Pleiades:324716&lt;/a>)
 
 
 
@@ -113,7 +113,7 @@ proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.&lt;a href="https://
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7015312" title="Thesaurus of Geographic Names (Getty)">TGN: 7015312&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7015312" title="Thesaurus of Geographic Names (Getty)">TGN:7015312&lt;/a>)
 
 
 
@@ -135,7 +135,7 @@ proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.&lt;a href="https://
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/324716" title="Pleiades gazetteer of ancient places">Pleiades: 324716&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/324716" title="Pleiades gazetteer of ancient places">Pleiades:324716&lt;/a>)
 
 
 
@@ -153,17 +153,17 @@ proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.&lt;a href="https://
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>)
 &lt;/li>
 &lt;li>
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=oecus cyzicenus">oecus cyzicenus&lt;/a>
 &lt;/li>
 &lt;/ul>
 &lt;!-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villae urbanae">villae urbanae&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005520" title="Art and Architecture Thesaurus (Getty)">AAT:300005520&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villae urbanae">villae urbanae&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005520" title="Art and Architecture Thesaurus (Getty)">AAT:300005520&lt;/a>)
  -->
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
 &lt;p>Known for its mosaic pavements, the &lt;em>domus&lt;/em> of the Masks was laid out around a large peristyle that may have had a garden.&lt;/p>
@@ -180,10 +180,10 @@ proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.&lt;a href="https://
 &lt;p>2nd century CE&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Bullo, S., Ghedini, F., &lt;em>Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana&lt;/em>, Rome: Edizioni Quasar, 2003, pp. 103-105. &lt;a href="https://search.worldcat.org/title/989088620">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Foucher, L., &lt;em>La Maison des Masques à Sousse, Fouilles 1962-1963&lt;/em>, Notes et documents, VI, Tunis, 1965. &lt;a href="https://search.worldcat.org/title/318017455">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Ghaddhab, R., &amp;quot;Y avait-il un port à Hadrumetum dans l'antiquité tardive?&amp;quot;, in &lt;em>Revue des etudes anciennes&lt;/em>, 2016, Bordeaux, France: Feret &amp;amp; Fils, pp. 175-199. &lt;a href="https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf">https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf&lt;/a>&lt;/li>
-&lt;li>Guizani, S., &amp;quot;L'œcus « cyzicenus » de la maison des Masques à Sousse&amp;quot;, in &lt;em>Revue Tunisienne d'archéologie&lt;/em>, 2013, p. 77-91.&lt;a href="https://search.worldcat.org/title/949200707">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Bullo, S., Ghedini, F., &lt;em>Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana&lt;/em>, Rome: Edizioni Quasar, 2003, pp. 103-105. &lt;a href="https://search.worldcat.org/title/989088620" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Foucher, L., &lt;em>La Maison des Masques à Sousse, Fouilles 1962-1963&lt;/em>, Notes et documents, VI, Tunis, 1965. &lt;a href="https://search.worldcat.org/title/318017455" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Ghaddhab, R., &amp;quot;Y avait-il un port à Hadrumetum dans l'antiquité tardive?&amp;quot;, in &lt;em>Revue des etudes anciennes&lt;/em>, 2016, Bordeaux, France: Feret &amp;amp; Fils, pp. 175-199. &lt;a href="https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf" target="_blank">https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf&lt;/a>&lt;/li>
+&lt;li>Guizani, S., &amp;quot;L'œcus « cyzicenus » de la maison des Masques à Sousse&amp;quot;, in &lt;em>Revue Tunisienne d'archéologie&lt;/em>, 2013, p. 77-91.&lt;a href="https://search.worldcat.org/title/949200707" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -201,7 +201,7 @@ proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.&lt;a href="https://
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/324716" title="Pleiades gazetteer of ancient places">Pleiades: 324716&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/324716" title="Pleiades gazetteer of ancient places">Pleiades:324716&lt;/a>)
 
 
 
@@ -220,7 +220,7 @@ proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.&lt;a href="https://
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7015312" title="Thesaurus of Geographic Names (Getty)">TGN: 7015312&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7015312" title="Thesaurus of Geographic Names (Getty)">TGN:7015312&lt;/a>)
 
 
 
@@ -241,22 +241,22 @@ proconsulaire (Tunisie), Paris, 1910, p. 48-52, nos 120-130.&lt;a href="https://
 &lt;!-- ## Images -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Bullo, S., Ghedini, F., &lt;em>Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana&lt;/em>, Rome: Edizioni Quasar, 2003, pp. 106-107. &lt;a href="https://search.worldcat.org/title/989088620">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Foucher, L., &amp;quot;Venationes à Hadrumete&amp;quot;, in &lt;em>OMRL&lt;/em>, XLV, pp. 87-114. &lt;a href="https://search.worldcat.org/title/68004816">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Ghaddhab, R., &amp;quot;Y avait-il un port à Hadrumetum dans l'antiquité tardive?&amp;quot;, in &lt;em>Revue des etudes anciennes&lt;/em>, 2016, Bordeaux, France: Feret &amp;amp; Fils, pp. 175-199. &lt;a href="https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf">https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf&lt;/a>&lt;/li>
+&lt;li>Bullo, S., Ghedini, F., &lt;em>Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana&lt;/em>, Rome: Edizioni Quasar, 2003, pp. 106-107. &lt;a href="https://search.worldcat.org/title/989088620" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Foucher, L., &amp;quot;Venationes à Hadrumete&amp;quot;, in &lt;em>OMRL&lt;/em>, XLV, pp. 87-114. &lt;a href="https://search.worldcat.org/title/68004816" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Ghaddhab, R., &amp;quot;Y avait-il un port à Hadrumetum dans l'antiquité tardive?&amp;quot;, in &lt;em>Revue des etudes anciennes&lt;/em>, 2016, Bordeaux, France: Feret &amp;amp; Fils, pp. 175-199. &lt;a href="https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf" target="_blank">https://revue-etudes-anciennes.fr/wp-content/uploads/2020/03/ghaddhab1-2016.pdf&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=niches">niches&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300002704" title="Art and Architecture Thesaurus (Getty)">AAT:300002704&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=niches">niches&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300002704" title="Art and Architecture Thesaurus (Getty)">AAT:300002704&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;!-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villae urbanae">villae urbanae&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005520" title="Art and Architecture Thesaurus (Getty)">AAT:300005520&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villae urbanae">villae urbanae&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005520" title="Art and Architecture Thesaurus (Getty)">AAT:300005520&lt;/a>)
  --></description></item></channel></rss>

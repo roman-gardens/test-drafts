@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -31,25 +31,25 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=chests">chests (case furniture)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300038992" title="Art and Architecture Thesaurus (Getty)">AAT:300038992&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=chests">chests (case furniture)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300038992" title="Art and Architecture Thesaurus (Getty)">AAT:300038992&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=columns">columns (architectural elements)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300001571" title="Art and Architecture Thesaurus (Getty)">AAT:300001571&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=columns">columns (architectural elements)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300001571" title="Art and Architecture Thesaurus (Getty)">AAT:300001571&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gutters">gutters (building drainage components)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300052565" title="Art and Architecture Thesaurus (Getty)">AAT:300052565&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gutters">gutters (building drainage components)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300052565" title="Art and Architecture Thesaurus (Getty)">AAT:300052565&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=statues">statues&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300047600" title="Art and Architecture Thesaurus (Getty)">AAT:300047600&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=statues">statues&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300047600" title="Art and Architecture Thesaurus (Getty)">AAT:300047600&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=statuettes">statuettes (free-standing sculpture)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300312262" title="Art and Architecture Thesaurus (Getty)">AAT:300312262&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=statuettes">statuettes (free-standing sculpture)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300312262" title="Art and Architecture Thesaurus (Getty)">AAT:300312262&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -73,7 +73,7 @@
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
 &lt;li>Della Corte, &lt;em>Case&lt;/em>, p. 334.&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, p. 42. &lt;a href="https://search.worldcat.org/title/921816405">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, p. 42. &lt;a href="https://search.worldcat.org/title/921816405" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Maiuri, &amp;quot;Statuetta eburnea d'art indiana a Pompei,&amp;quot; &lt;em>LeArti&lt;/em> (1938), pp. 111-115.&lt;/li>
 &lt;li>Idem, &amp;quot;Navalia pompeiana,&amp;quot; &lt;em>RendNap&lt;/em>, n.s., 33 (1959): 22.&lt;/li>
 &lt;/ul>
@@ -93,7 +93,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -112,7 +112,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)">TGN: 7004658&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)">TGN:7004658&lt;/a>)
 
 
 

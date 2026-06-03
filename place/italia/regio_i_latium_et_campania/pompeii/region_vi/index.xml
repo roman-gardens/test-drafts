@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -41,7 +41,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -66,7 +66,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/984330151" title="Pleiades gazetteer of ancient places">Pleiades: 984330151&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/984330151" title="Pleiades gazetteer of ancient places">Pleiades:984330151&lt;/a>)
 
 
 
@@ -86,16 +86,16 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (couches)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300142552" title="Art and Architecture Thesaurus (Getty)">AAT:300142552&lt;/a>&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (rooms)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)">AAT:300004359&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (couches)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300142552" title="Art and Architecture Thesaurus (Getty)">AAT:300142552&lt;/a>)&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (rooms)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)">AAT:300004359&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pergolas">pergolas&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006783" title="Art and Architecture Thesaurus (Getty)">AAT:300006783&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pergolas">pergolas&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006783" title="Art and Architecture Thesaurus (Getty)">AAT:300006783&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cisterns">cisterns (plumbing components)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300052558" title="Art and Architecture Thesaurus (Getty)">AAT:300052558&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cisterns">cisterns (plumbing components)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300052558" title="Art and Architecture Thesaurus (Getty)">AAT:300052558&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gutters">gutters (building drainage components)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300052565" title="Art and Architecture Thesaurus (Getty)">AAT:300052565&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gutters">gutters (building drainage components)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300052565" title="Art and Architecture Thesaurus (Getty)">AAT:300052565&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -105,12 +105,12 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. -->
 &lt;!-- If no date, use "unspecified" -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
-&lt;p>Dyer, pp. 307-308, plan, p. 308 &lt;a href="https://search.worldcat.org/title/944931081">(worldcat)&lt;/a> &lt;br>
-Fiorelli, &lt;em>Descr.&lt;/em>, p.76 &lt;a href="https://search.worldcat.org/title/1074056884">(worldcat)&lt;/a> &lt;br>
-Jashemski, &lt;em>Gardens&lt;/em>, 1:168 and fig. 249 on p.168 &lt;a href="https://search.worldcat.org/title/921816405">(worldcat)&lt;/a> &lt;br>
-Idem, &lt;em>Gardens&lt;/em>, vol. II, p. 119 &lt;a href="https://search.worldcat.org/title/921816405">(worldcat)&lt;/a> &lt;br>
-Mazois, 2:46, pl. 9, figs. 3, 5 &lt;a href="https://search.worldcat.org/title/874412631">(worldcat)&lt;/a> &lt;br>
-&lt;em>PAH&lt;/em>, vol. 1, pt.2, p.36 (Mar. 8, 1787) &lt;a href="https://search.worldcat.org/title/568028156">(worldcat)&lt;/a> &lt;br>
+&lt;p>Dyer, pp. 307-308, plan, p. 308 &lt;a href="https://search.worldcat.org/title/944931081" target="_blank">(worldcat)&lt;/a> &lt;br>
+Fiorelli, &lt;em>Descr.&lt;/em>, p.76 &lt;a href="https://search.worldcat.org/title/1074056884" target="_blank">(worldcat)&lt;/a> &lt;br>
+Jashemski, &lt;em>Gardens&lt;/em>, 1:168 and fig. 249 on p.168 &lt;a href="https://search.worldcat.org/title/921816405" target="_blank">(worldcat)&lt;/a> &lt;br>
+Idem, &lt;em>Gardens&lt;/em>, vol. II, p. 119 &lt;a href="https://search.worldcat.org/title/921816405" target="_blank">(worldcat)&lt;/a> &lt;br>
+Mazois, 2:46, pl. 9, figs. 3, 5 &lt;a href="https://search.worldcat.org/title/874412631" target="_blank">(worldcat)&lt;/a> &lt;br>
+&lt;em>PAH&lt;/em>, vol. 1, pt.2, p.36 (Mar. 8, 1787) &lt;a href="https://search.worldcat.org/title/568028156" target="_blank">(worldcat)&lt;/a> &lt;br>
 Soprano, p. 300, no. 13.&lt;/p>
 &lt;!--
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
@@ -131,7 +131,7 @@ Soprano, p. 300, no. 13.&lt;/p>
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/222138654" title="Pleiades gazetteer of ancient places">Pleiades: 222138654&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/222138654" title="Pleiades gazetteer of ancient places">Pleiades:222138654&lt;/a>)
 
 
 
@@ -150,7 +150,7 @@ Soprano, p. 300, no. 13.&lt;/p>
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)">TGN: 7004658&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)">TGN:7004658&lt;/a>)
 
 
 

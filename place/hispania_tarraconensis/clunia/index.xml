@@ -17,19 +17,19 @@
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>M.ª Lucas and V. Viñas, &lt;em>La villa romana de Aguilafuente (Segovia) in Symposium de arqueología romana&lt;/em>, Segovia y la arqueología romana. Publicaciones eventuales 27, Universidad de Barcelona, Barcelona, 1977, pp. 239-255.&lt;a href="https://search.worldcat.org/title/7180188573">(worldcat)&lt;/a>&lt;/p>
+&lt;p>M.ª Lucas and V. Viñas, &lt;em>La villa romana de Aguilafuente (Segovia) in Symposium de arqueología romana&lt;/em>, Segovia y la arqueología romana. Publicaciones eventuales 27, Universidad de Barcelona, Barcelona, 1977, pp. 239-255.&lt;a href="https://search.worldcat.org/title/7180188573" target="_blank">(worldcat)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>M.ª C. Fernández Castro, &lt;em>Las villas romanas en Hispania&lt;/em>, Madrid, 1986; J.G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 355. &lt;a href="https://search.worldcat.org/title/758189394">(worldcat)&lt;/a>&lt;/p>
+&lt;p>M.ª C. Fernández Castro, &lt;em>Las villas romanas en Hispania&lt;/em>, Madrid, 1986; J.G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 355. &lt;a href="https://search.worldcat.org/title/758189394" target="_blank">(worldcat)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=natationes">natationes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300162917" title="Art and Architecture Thesaurus (Getty)">AAT:300162917&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=natationes">natationes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300162917" title="Art and Architecture Thesaurus (Getty)">AAT:300162917&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=caldaria">caldaria&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004203" title="Art and Architecture Thesaurus (Getty)">AAT:300004203&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=caldaria">caldaria&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004203" title="Art and Architecture Thesaurus (Getty)">AAT:300004203&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
@@ -48,7 +48,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/246345" title="Pleiades gazetteer of ancient places">Pleiades: 246345&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/246345" title="Pleiades gazetteer of ancient places">Pleiades:246345&lt;/a>)
 
 
 
@@ -67,7 +67,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7027125" title="Thesaurus of Geographic Names (Getty)">TGN: 7027125&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7027125" title="Thesaurus of Geographic Names (Getty)">TGN:7027125&lt;/a>)
 
 
 
@@ -108,10 +108,10 @@ Maybe items should be copied from clunia/_index.md ?
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=passages">passages (circulation spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004283" title="Art and Architecture Thesaurus (Getty)">AAT:300004283&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=passages">passages (circulation spaces)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004283" title="Art and Architecture Thesaurus (Getty)">AAT:300004283&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards">courtyards (uncovered spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)">AAT:300004095&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards">courtyards (uncovered spaces)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)">AAT:300004095&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
@@ -130,7 +130,7 @@ Maybe items should be copied from clunia/_index.md ?
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/246345" title="Pleiades gazetteer of ancient places">Pleiades: 246345&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/246345" title="Pleiades gazetteer of ancient places">Pleiades:246345&lt;/a>)
 
 
 
@@ -149,7 +149,7 @@ Maybe items should be copied from clunia/_index.md ?
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7027125" title="Thesaurus of Geographic Names (Getty)">TGN: 7027125&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7027125" title="Thesaurus of Geographic Names (Getty)">TGN:7027125&lt;/a>)
 
 
 

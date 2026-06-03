@@ -15,22 +15,22 @@
 &lt;!-- ## Images -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>G. Radet and H. Lechat, &amp;quot;Notes de géographie ancienne,&amp;quot; BCH 11, 1887:399-401 &lt;a href="https://search.worldcat.org/title/4648358600">(worldcat)&lt;/a>&lt;/li>
-&lt;li>R. Cagnat, et al., &lt;em>Inscriptiones Graecae ad res Romanas pertinentes&lt;/em>. Paris, 1906-1927, IV, 1168 &lt;a href="https://search.worldcat.org/title/256313198">(worldcat)&lt;/a>&lt;/li>
-&lt;li>B. Laum, &lt;em>Stiftungen in der griechischen und römischen Antike&lt;/em>. Leipzig, 1914, II, no. 72 &lt;a href="https://search.worldcat.org/title/457633912">(worldcat)&lt;/a>&lt;/li>
-&lt;li>J. Kubin'ska, &lt;em>Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure&lt;/em>. Warsaw, 1968, p. 144 &lt;a href="https://search.worldcat.org/title/164233326">(worldcat)&lt;/a>&lt;/li>
-&lt;li>P. Herrmann, &lt;em>Tituli Lydiae linguis Graeca et Latina conscripti (Tituli Asiae Minoris V, 2)&lt;/em>. Vienna, 1989, 828c4.&lt;a href="https://search.worldcat.org/title/886649239">(worldcat)&lt;/a>&lt;/li>
+&lt;li>G. Radet and H. Lechat, &amp;quot;Notes de géographie ancienne,&amp;quot; BCH 11, 1887:399-401 &lt;a href="https://search.worldcat.org/title/4648358600" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>R. Cagnat, et al., &lt;em>Inscriptiones Graecae ad res Romanas pertinentes&lt;/em>. Paris, 1906-1927, IV, 1168 &lt;a href="https://search.worldcat.org/title/256313198" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>B. Laum, &lt;em>Stiftungen in der griechischen und römischen Antike&lt;/em>. Leipzig, 1914, II, no. 72 &lt;a href="https://search.worldcat.org/title/457633912" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>J. Kubin'ska, &lt;em>Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure&lt;/em>. Warsaw, 1968, p. 144 &lt;a href="https://search.worldcat.org/title/164233326" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>P. Herrmann, &lt;em>Tituli Lydiae linguis Graeca et Latina conscripti (Tituli Asiae Minoris V, 2)&lt;/em>. Vienna, 1989, 828c4.&lt;a href="https://search.worldcat.org/title/886649239" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=statues">statues&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300047600" title="Art and Architecture Thesaurus (Getty)">AAT:300047600&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=statues">statues&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300047600" title="Art and Architecture Thesaurus (Getty)">AAT:300047600&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=periboloi">periboloi&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005069" title="Art and Architecture Thesaurus (Getty)">AAT:300005069&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=periboloi">periboloi&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005069" title="Art and Architecture Thesaurus (Getty)">AAT:300005069&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs">tombs&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)">AAT:300005926&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs">tombs&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)">AAT:300005926&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
@@ -49,7 +49,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/550472" title="Pleiades gazetteer of ancient places">Pleiades: 550472&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/550472" title="Pleiades gazetteer of ancient places">Pleiades:550472&lt;/a>)
 
 
 
@@ -68,7 +68,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7002358" title="Thesaurus of Geographic Names (Getty)">TGN: 7002358&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7002358" title="Thesaurus of Geographic Names (Getty)">TGN:7002358&lt;/a>)
 
 
 

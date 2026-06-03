@@ -55,7 +55,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades: &lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
 
 
 
@@ -76,7 +76,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN: &lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
 
 
 
@@ -100,7 +100,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/550812" title="Pleiades gazetteer of ancient places">Pleiades: 550812&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/550812" title="Pleiades gazetteer of ancient places">Pleiades:550812&lt;/a>)
 
 
 
@@ -113,27 +113,27 @@ places containing this garden will be listed automatically
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=groves">groves (plant communities)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008884" title="Art and Architecture Thesaurus (Getty)">AAT:300008884&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=groves">groves (plant communities)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008884" title="Art and Architecture Thesaurus (Getty)">AAT:300008884&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sanctuary centers">sanctuary centers (religious centers)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300391482" title="Art and Architecture Thesaurus (Getty)">AAT:300391482&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sanctuary centers">sanctuary centers (religious centers)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300391482" title="Art and Architecture Thesaurus (Getty)">AAT:300391482&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions">inscriptions&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)">AAT:300028702&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions">inscriptions&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)">AAT:300028702&lt;/a>)
 &lt;/li>
-&lt;li>&lt;a href="https://catalog.perseus.org/catalog/urn:cite:perseus:author.228">Athenaeus&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://catalog.perseus.org/catalog/urn:cite:perseus:author.1141">Pliny the Elder&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://catalog.perseus.org/catalog/urn:cite:perseus:author.365">Cicero&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://catalog.perseus.org/catalog/urn:cite:perseus:author.204">Aristotle&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://catalog.perseus.org/catalog/urn:cite:perseus:author.1144">Plutarch&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://catalog.perseus.org/catalog/urn:cite:perseus:author.228" target="_blank">Athenaeus&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://catalog.perseus.org/catalog/urn:cite:perseus:author.1141" target="_blank">Pliny the Elder&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://catalog.perseus.org/catalog/urn:cite:perseus:author.365" target="_blank">Cicero&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://catalog.perseus.org/catalog/urn:cite:perseus:author.204" target="_blank">Aristotle&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://catalog.perseus.org/catalog/urn:cite:perseus:author.1144" target="_blank">Plutarch&lt;/a>&lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=quadriportici">quadriportici&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004101" title="Art and Architecture Thesaurus (Getty)">AAT:300004101&lt;/a>
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=palaestrae">palaestrae&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300007301" title="Art and Architecture Thesaurus (Getty)">AAT:300007301&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=quadriportici">quadriportici&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004101" title="Art and Architecture Thesaurus (Getty)">AAT:300004101&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gymnasiums">gymnasiums (physical education buildings)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300007297" title="Art and Architecture Thesaurus (Getty)">AAT:300007297&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=palaestrae">palaestrae&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300007301" title="Art and Architecture Thesaurus (Getty)">AAT:300007301&lt;/a>)
+&lt;/li>
+&lt;li>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gymnasiums">gymnasiums (physical education buildings)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300007297" title="Art and Architecture Thesaurus (Getty)">AAT:300007297&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -145,10 +145,10 @@ places containing this garden will be listed automatically
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>M. Carroll-Spillecke, &amp;quot;The Gardens of Greece from Homeric to Roman Times,&amp;quot; &lt;em>Journal of Garden History&lt;/em> 12, 1992: 84-101. &lt;a href="https://doi.org/10.1080/01445170.1992.10410564">(Taylor &amp;amp; Francis Online)&lt;/a>&lt;/li>
-&lt;li>A. Kuttner, &amp;quot;Republican Rome looks at Pergamon,&amp;quot; &lt;em>Harvard Studies in Classical Philology&lt;/em> vol. 97, &lt;em>Greece in Rome: Influence, Interaction, Resistance&lt;/em>, ed. C. P. Jones, R. Thomas, 1997, pp. 157-178. &lt;a href="https://search.worldcat.org/title/67030024">(worldcat)&lt;/a>&lt;/li>
-&lt;li>C. Ratte, &amp;quot;Pergamon,&amp;quot; &lt;em>Oxford Encyclopedia of Near Eastern Archaeology&lt;/em>, 1997, 261-262. &lt;a href="https://search.worldcat.org/title/607143997">(worldcat)&lt;/a>&lt;/li>
-&lt;li>I. Nielsen, &lt;em>Hellenistic Palaces&lt;/em>. Aarhus, 1994, p. 107, catalog no. 15. &lt;a href="https://search.worldcat.org/title/468433476">(worldcat)&lt;/a>&lt;/li>
+&lt;li>M. Carroll-Spillecke, &amp;quot;The Gardens of Greece from Homeric to Roman Times,&amp;quot; &lt;em>Journal of Garden History&lt;/em> 12, 1992: 84-101. &lt;a href="https://doi.org/10.1080/01445170.1992.10410564" target="_blank">(Taylor &amp;amp; Francis Online)&lt;/a>&lt;/li>
+&lt;li>A. Kuttner, &amp;quot;Republican Rome looks at Pergamon,&amp;quot; &lt;em>Harvard Studies in Classical Philology&lt;/em> vol. 97, &lt;em>Greece in Rome: Influence, Interaction, Resistance&lt;/em>, ed. C. P. Jones, R. Thomas, 1997, pp. 157-178. &lt;a href="https://search.worldcat.org/title/67030024" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>C. Ratte, &amp;quot;Pergamon,&amp;quot; &lt;em>Oxford Encyclopedia of Near Eastern Archaeology&lt;/em>, 1997, 261-262. &lt;a href="https://search.worldcat.org/title/607143997" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>I. Nielsen, &lt;em>Hellenistic Palaces&lt;/em>. Aarhus, 1994, p. 107, catalog no. 15. &lt;a href="https://search.worldcat.org/title/468433476" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -166,7 +166,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/537932154" title="Pleiades gazetteer of ancient places">Pleiades: 537932154&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/537932154" title="Pleiades gazetteer of ancient places">Pleiades:537932154&lt;/a>)
 
 
 
@@ -185,7 +185,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7016140" title="Thesaurus of Geographic Names (Getty)">TGN: 7016140&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7016140" title="Thesaurus of Geographic Names (Getty)">TGN:7016140&lt;/a>)
 
 
 

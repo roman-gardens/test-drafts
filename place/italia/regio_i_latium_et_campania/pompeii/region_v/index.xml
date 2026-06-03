@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -40,7 +40,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -60,16 +60,16 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cisterns">cisterns (plumbing components)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300052558" title="Art and Architecture Thesaurus (Getty)">AAT:300052558&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cisterns">cisterns (plumbing components)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300052558" title="Art and Architecture Thesaurus (Getty)">AAT:300052558&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=lararia">lararia&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300400600" title="Art and Architecture Thesaurus (Getty)">AAT:300400600&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=lararia">lararia&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300400600" title="Art and Architecture Thesaurus (Getty)">AAT:300400600&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=trellises">trellises&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006785" title="Art and Architecture Thesaurus (Getty)">AAT:300006785&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=trellises">trellises&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006785" title="Art and Architecture Thesaurus (Getty)">AAT:300006785&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fountains">fountains&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006179" title="Art and Architecture Thesaurus (Getty)">AAT:300006179&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fountains">fountains&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006179" title="Art and Architecture Thesaurus (Getty)">AAT:300006179&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -91,11 +91,11 @@
 &lt;p>1900CE&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Boyce, p. 39, no. 117. &lt;a href="https://search.worldcat.org/title/491367250">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, pp. 116, 336. &lt;a href="https://search.worldcat.org/title/1029851777">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mau, &lt;em>RM&lt;/em> (1901), pp. 313-314. &lt;a href="https://search.worldcat.org/title/1189330863">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Schefold, &lt;em>WändP&lt;/em>, p. 83. &lt;a href="https://search.worldcat.org/title/1100462668">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1901), p.256 and fig. 1 (plan). &lt;a href="https://search.worldcat.org/title/1091982220">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Boyce, p. 39, no. 117. &lt;a href="https://search.worldcat.org/title/491367250" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, pp. 116, 336. &lt;a href="https://search.worldcat.org/title/1029851777" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>RM&lt;/em> (1901), pp. 313-314. &lt;a href="https://search.worldcat.org/title/1189330863" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Schefold, &lt;em>WändP&lt;/em>, p. 83. &lt;a href="https://search.worldcat.org/title/1100462668" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1901), p.256 and fig. 1 (plan). &lt;a href="https://search.worldcat.org/title/1091982220" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -113,7 +113,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -132,7 +132,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -154,7 +154,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -179,7 +179,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -199,22 +199,22 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gutters">gutters (building drainage components)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300052565" title="Art and Architecture Thesaurus (Getty)">AAT:300052565&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gutters">gutters (building drainage components)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300052565" title="Art and Architecture Thesaurus (Getty)">AAT:300052565&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cisterns">cisterns (plumbing components)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300052558" title="Art and Architecture Thesaurus (Getty)">AAT:300052558&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cisterns">cisterns (plumbing components)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300052558" title="Art and Architecture Thesaurus (Getty)">AAT:300052558&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (couches)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300142552" title="Art and Architecture Thesaurus (Getty)">AAT:300142552&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (couches)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300142552" title="Art and Architecture Thesaurus (Getty)">AAT:300142552&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=trellises">trellises&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006785" title="Art and Architecture Thesaurus (Getty)">AAT:300006785&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=trellises">trellises&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006785" title="Art and Architecture Thesaurus (Getty)">AAT:300006785&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=altars">altars (religious fixtures)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300003725" title="Art and Architecture Thesaurus (Getty)">AAT:300003725&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=altars">altars (religious fixtures)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300003725" title="Art and Architecture Thesaurus (Getty)">AAT:300003725&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=lararia">lararia&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300400600" title="Art and Architecture Thesaurus (Getty)">AAT:300400600&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=lararia">lararia&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300400600" title="Art and Architecture Thesaurus (Getty)">AAT:300400600&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -236,12 +236,12 @@
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Boyce, p. 41, no. 126 and pl. 11.2. &lt;a href="https://search.worldcat.org/title/491367250">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Boyce, p. 41, no. 126 and pl. 11.2. &lt;a href="https://search.worldcat.org/title/491367250" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Döhl, p. 14; (Döhl, Plastik aus Pompeji)&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, p. 116. &lt;a href="https://search.worldcat.org/title/1029851777">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1905), pp. 91-92 and fig. 1 (plan) on p. 87. &lt;a href="https://search.worldcat.org/title/1091982220">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, p. 116. &lt;a href="https://search.worldcat.org/title/1029851777" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1905), pp. 91-92 and fig. 1 (plan) on p. 87. &lt;a href="https://search.worldcat.org/title/1091982220" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Soprano, p. 299, no. 12 (identifies the structure in the garden as a true triclinium and not triclinium-shaped seats as Sogliano suggests); (Soprano, I triclini all'aperto di Pompei)&lt;/li>
-&lt;li>Thédenat, p. 88. &lt;a href="https://search.worldcat.org/title/37336723">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Thédenat, p. 88. &lt;a href="https://search.worldcat.org/title/37336723" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -259,7 +259,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -278,7 +278,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -300,7 +300,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -325,7 +325,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -345,22 +345,22 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cubicula">cubicula (domestic spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004367" title="Art and Architecture Thesaurus (Getty)">AAT:300004367&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cubicula">cubicula (domestic spaces)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004367" title="Art and Architecture Thesaurus (Getty)">AAT:300004367&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atrium houses">atrium houses&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005451" title="Art and Architecture Thesaurus (Getty)">AAT:300005451&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atrium houses">atrium houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005451" title="Art and Architecture Thesaurus (Getty)">AAT:300005451&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=predellas">predellas&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300003745" title="Art and Architecture Thesaurus (Getty)">AAT:300003745&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=predellas">predellas&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300003745" title="Art and Architecture Thesaurus (Getty)">AAT:300003745&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gutters">gutters (building drainage components)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300052565" title="Art and Architecture Thesaurus (Getty)">AAT:300052565&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gutters">gutters (building drainage components)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300052565" title="Art and Architecture Thesaurus (Getty)">AAT:300052565&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=trellises">trellises&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006785" title="Art and Architecture Thesaurus (Getty)">AAT:300006785&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=trellises">trellises&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006785" title="Art and Architecture Thesaurus (Getty)">AAT:300006785&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -382,11 +382,11 @@
 &lt;p>1900CE&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Della Corte, &lt;em>Case&lt;/em>, p. 11. &lt;a href="https://search.worldcat.org/title/869407232">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, pp. 116, 396. &lt;a href="https://search.worldcat.org/title/1029851777">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mau, &lt;em>RM&lt;/em> (1901), p. 352; PPP, 2:85. &lt;a href="https://search.worldcat.org/title/1189330863">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Schefold, &lt;em>WändP&lt;/em>, p. 85. &lt;a href="https://search.worldcat.org/title/1100462668">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1901), p. 161 and fig. 1 (plan) on p.145. &lt;a href="https://search.worldcat.org/title/1091982220">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Della Corte, &lt;em>Case&lt;/em>, p. 11. &lt;a href="https://search.worldcat.org/title/869407232" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, pp. 116, 396. &lt;a href="https://search.worldcat.org/title/1029851777" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>RM&lt;/em> (1901), p. 352; PPP, 2:85. &lt;a href="https://search.worldcat.org/title/1189330863" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Schefold, &lt;em>WändP&lt;/em>, p. 85. &lt;a href="https://search.worldcat.org/title/1100462668" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1901), p. 161 and fig. 1 (plan) on p.145. &lt;a href="https://search.worldcat.org/title/1091982220" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -404,7 +404,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -423,7 +423,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -445,7 +445,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -470,7 +470,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -490,13 +490,13 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gutters">gutters (building drainage components)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300052565" title="Art and Architecture Thesaurus (Getty)">AAT:300052565&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gutters">gutters (building drainage components)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300052565" title="Art and Architecture Thesaurus (Getty)">AAT:300052565&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=basins">basins (vessels)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300045614" title="Art and Architecture Thesaurus (Getty)">AAT:300045614&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=basins">basins (vessels)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300045614" title="Art and Architecture Thesaurus (Getty)">AAT:300045614&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -518,11 +518,11 @@
 &lt;p>1899&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, p. 116.&lt;a href="https://search.worldcat.org/title/1029851777">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mau, &lt;em>RM&lt;/em> (1901), p. 324.&lt;a href="https://search.worldcat.org/title/1189330863">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Pernice, p. 28.&lt;a href="https://search.worldcat.org/title/714016975">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1899), fig. 1 (plan) on p. 339.&lt;a href="https://search.worldcat.org/title/1091982220">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1901), p.258. &lt;a href="https://search.worldcat.org/title/1091982220">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, p. 116.&lt;a href="https://search.worldcat.org/title/1029851777" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>RM&lt;/em> (1901), p. 324.&lt;a href="https://search.worldcat.org/title/1189330863" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Pernice, p. 28.&lt;a href="https://search.worldcat.org/title/714016975" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1899), fig. 1 (plan) on p. 339.&lt;a href="https://search.worldcat.org/title/1091982220" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1901), p.258. &lt;a href="https://search.worldcat.org/title/1091982220" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -540,7 +540,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -559,7 +559,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -581,7 +581,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -606,7 +606,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -626,22 +626,22 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=predellas">predellas&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300003745" title="Art and Architecture Thesaurus (Getty)">AAT:300003745&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=predellas">predellas&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300003745" title="Art and Architecture Thesaurus (Getty)">AAT:300003745&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=lararia">lararia&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300400600" title="Art and Architecture Thesaurus (Getty)">AAT:300400600&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=lararia">lararia&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300400600" title="Art and Architecture Thesaurus (Getty)">AAT:300400600&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fountains">fountains&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006179" title="Art and Architecture Thesaurus (Getty)">AAT:300006179&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fountains">fountains&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006179" title="Art and Architecture Thesaurus (Getty)">AAT:300006179&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -663,16 +663,16 @@
 &lt;p>1900CE&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Bastet, p. 66. &lt;a href="https://search.worldcat.org/title/174883177">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Curtius, &lt;em>Wandmalerei&lt;/em>, fig. 33. &lt;a href="https://search.worldcat.org/title/494624256">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, 1:71 and fig. 115b on p. 71, 1:79 and fig. 128 on p. 78. &lt;a href="https://search.worldcat.org/title/1029851777">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Idem, &lt;em>Gardens&lt;/em>, vol.II, pp. 116, 336, 396-397. &lt;a href="https://search.worldcat.org/title/921816405">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mau, &lt;em>RM&lt;/em> (1901), pp. 338, 356, plan pl. 13. &lt;a href="https://search.worldcat.org/title/1189330863">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Michel, pp. 390-391. &lt;a href="https://search.worldcat.org/title/1088872231">(worldcat)&lt;/a>&lt;/li>
-&lt;li>PPP, 2:87, 89, 90-91. &lt;a href="https://search.worldcat.org/title/13334913">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Schefold, &lt;em>RM&lt;/em>, (1953-1954), pp. 113, 117. &lt;a href="https://search.worldcat.org/title/1100462668">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Bastet, p. 66. &lt;a href="https://search.worldcat.org/title/174883177" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Curtius, &lt;em>Wandmalerei&lt;/em>, fig. 33. &lt;a href="https://search.worldcat.org/title/494624256" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, 1:71 and fig. 115b on p. 71, 1:79 and fig. 128 on p. 78. &lt;a href="https://search.worldcat.org/title/1029851777" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Idem, &lt;em>Gardens&lt;/em>, vol.II, pp. 116, 336, 396-397. &lt;a href="https://search.worldcat.org/title/921816405" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>RM&lt;/em> (1901), pp. 338, 356, plan pl. 13. &lt;a href="https://search.worldcat.org/title/1189330863" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Michel, pp. 390-391. &lt;a href="https://search.worldcat.org/title/1088872231" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>PPP, 2:87, 89, 90-91. &lt;a href="https://search.worldcat.org/title/13334913" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Schefold, &lt;em>RM&lt;/em>, (1953-1954), pp. 113, 117. &lt;a href="https://search.worldcat.org/title/1100462668" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Idem, &lt;em>WändP&lt;/em>, pp. 85, 87.&lt;/li>
-&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1901), pp. 155, 163, 164-166 and figs. 15 and 15. &lt;a href="https://search.worldcat.org/title/1091982220">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1901), pp. 155, 163, 164-166 and figs. 15 and 15. &lt;a href="https://search.worldcat.org/title/1091982220" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Warscher, &amp;quot;Flora pompei&amp;quot; p. 36.&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
@@ -691,7 +691,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -710,7 +710,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -732,7 +732,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -757,7 +757,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -777,19 +777,19 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fountains">fountains&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006179" title="Art and Architecture Thesaurus (Getty)">AAT:300006179&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fountains">fountains&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006179" title="Art and Architecture Thesaurus (Getty)">AAT:300006179&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (couches)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300142552" title="Art and Architecture Thesaurus (Getty)">AAT:300142552&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (couches)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300142552" title="Art and Architecture Thesaurus (Getty)">AAT:300142552&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=trellises">trellises&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006785" title="Art and Architecture Thesaurus (Getty)">AAT:300006785&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=trellises">trellises&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006785" title="Art and Architecture Thesaurus (Getty)">AAT:300006785&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=headboards">headboards&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300040447" title="Art and Architecture Thesaurus (Getty)">AAT:300040447&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=headboards">headboards&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300040447" title="Art and Architecture Thesaurus (Getty)">AAT:300040447&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -814,9 +814,9 @@
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
 &lt;li>Döhl, p. 14.&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, p. 117. &lt;a href="https://search.worldcat.org/title/1029851777">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mau, &lt;em>RM&lt;/em> (1901), p. 363. &lt;a href="https://search.worldcat.org/title/1189330863">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1901), pp. 261, 330, 331 and plan on p. 329. &lt;a href="https://search.worldcat.org/title/1091982220">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, p. 117. &lt;a href="https://search.worldcat.org/title/1029851777" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>RM&lt;/em> (1901), p. 363. &lt;a href="https://search.worldcat.org/title/1189330863" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1901), pp. 261, 330, 331 and plan on p. 329. &lt;a href="https://search.worldcat.org/title/1091982220" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;li>Soprano, p. 299, no. 11.&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
@@ -835,7 +835,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -854,7 +854,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -873,7 +873,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)">TGN: 7004658&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)">TGN:7004658&lt;/a>)
 
 
 
@@ -895,7 +895,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -920,7 +920,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -943,19 +943,19 @@
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=viridarium">viridarium&lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cisterns">cisterns (plumbing components)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300052558" title="Art and Architecture Thesaurus (Getty)">AAT:300052558&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cisterns">cisterns (plumbing components)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300052558" title="Art and Architecture Thesaurus (Getty)">AAT:300052558&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mural paintings">mural paintings (visual works)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300033644" title="Art and Architecture Thesaurus (Getty)">AAT:300033644&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mural paintings">mural paintings (visual works)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300033644" title="Art and Architecture Thesaurus (Getty)">AAT:300033644&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=trellises">trellises&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006785" title="Art and Architecture Thesaurus (Getty)">AAT:300006785&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=trellises">trellises&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006785" title="Art and Architecture Thesaurus (Getty)">AAT:300006785&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=lararia">lararia&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300400600" title="Art and Architecture Thesaurus (Getty)">AAT:300400600&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=lararia">lararia&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300400600" title="Art and Architecture Thesaurus (Getty)">AAT:300400600&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -973,11 +973,11 @@
 &lt;p>1902 CE&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Boyce, p. 39, no. 117. &lt;a href="https://search.worldcat.org/title/491367250">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, pp. 116, 336. &lt;a href="https://search.worldcat.org/title/1029851777">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mau, &lt;em>RM&lt;/em> (1901), pp. 313-314. &lt;a href="https://search.worldcat.org/title/1189330863">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Schefold, &lt;em>WändP&lt;/em>, p. 83. &lt;a href="https://search.worldcat.org/title/1100462668">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1901), p.256 and fig. 1 (plan). &lt;a href="https://search.worldcat.org/title/1091982220">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Boyce, p. 39, no. 117. &lt;a href="https://search.worldcat.org/title/491367250" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol.II, pp. 116, 336. &lt;a href="https://search.worldcat.org/title/1029851777" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>RM&lt;/em> (1901), pp. 313-314. &lt;a href="https://search.worldcat.org/title/1189330863" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Schefold, &lt;em>WändP&lt;/em>, p. 83. &lt;a href="https://search.worldcat.org/title/1100462668" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Sogliano, &lt;em>NSc&lt;/em> (1901), p.256 and fig. 1 (plan). &lt;a href="https://search.worldcat.org/title/1091982220" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -995,7 +995,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -1014,7 +1014,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -1033,7 +1033,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)">TGN: 7004658&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)">TGN:7004658&lt;/a>)
 
 
 

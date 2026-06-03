@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1101" title="Pleiades gazetteer of ancient places">Pleiades: 1101&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1101" title="Pleiades gazetteer of ancient places">Pleiades:1101&lt;/a>)
 
 
 
@@ -40,7 +40,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/256478" title="Pleiades gazetteer of ancient places">Pleiades: 256478&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/256478" title="Pleiades gazetteer of ancient places">Pleiades:256478&lt;/a>)
 
 
 
@@ -51,16 +51,16 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>)
 &lt;/li>
 &lt;li>
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=apsed triclinium">apsed triclinium&lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=dolia">dolia&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300400601" title="Art and Architecture Thesaurus (Getty)">AAT:300400601&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=dolia">dolia&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300400601" title="Art and Architecture Thesaurus (Getty)">AAT:300400601&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -99,9 +99,9 @@
 &lt;!-- ## Dates -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>M. Heleno, 'A 'villa' lusitano-romano de Torre de Palma (Monforte),' O Arqueólogo Portugés ser 2, 6 (1962) p. 313-38. &lt;a href="https://search.worldcat.org/title/517199729">(worldcat)&lt;/a>&lt;/li>
-&lt;li>J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. &lt;a href="https://search.worldcat.org/title/803415143">(worldcat)&lt;/a>&lt;/li>
-&lt;li>S. J. Maloney and J. R. Hale, 'The villa of Torre de Palma (Alto Alentejo)' Journal of Roman Archaeology, vol. 9, 1996, p. 275-94. &lt;a href="https://search.worldcat.org/title/51847498">(worldcat)&lt;/a>&lt;/li>
+&lt;li>M. Heleno, 'A 'villa' lusitano-romano de Torre de Palma (Monforte),' O Arqueólogo Portugés ser 2, 6 (1962) p. 313-38. &lt;a href="https://search.worldcat.org/title/517199729" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. &lt;a href="https://search.worldcat.org/title/803415143" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>S. J. Maloney and J. R. Hale, 'The villa of Torre de Palma (Alto Alentejo)' Journal of Roman Archaeology, vol. 9, 1996, p. 275-94. &lt;a href="https://search.worldcat.org/title/51847498" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -119,7 +119,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/256478" title="Pleiades gazetteer of ancient places">Pleiades: 256478&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/256478" title="Pleiades gazetteer of ancient places">Pleiades:256478&lt;/a>)
 
 
 

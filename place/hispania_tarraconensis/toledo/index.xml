@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/266066" title="Pleiades gazetteer of ancient places">Pleiades: 266066&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/266066" title="Pleiades gazetteer of ancient places">Pleiades:266066&lt;/a>)
 
 
 
@@ -38,7 +38,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/266044" title="Pleiades gazetteer of ancient places">Pleiades: 266044&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/266044" title="Pleiades gazetteer of ancient places">Pleiades:266044&lt;/a>)
 
 
 
@@ -53,13 +53,13 @@
 ## Keywords
 
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>)
 
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=corridors">corridors&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004294" title="Art and Architecture Thesaurus (Getty)">AAT:300004294&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=corridors">corridors&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004294" title="Art and Architecture Thesaurus (Getty)">AAT:300004294&lt;/a>)
 
 
 ## Garden Description
@@ -81,7 +81,7 @@ The large number of objects of daily life found in the ruins, some under toppled
 &lt;!-- ## Dates -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Mª C. Fernández Castro, Las llamadas &amp;quot;Termas&amp;quot; de Rielves (Toledo), in Archivo Español de Arqueología, L-LI. CSIC, Madrid, 1978, pp. 209-251. &lt;a href="https://search.worldcat.org/title/1122498001">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mª C. Fernández Castro, Las llamadas &amp;quot;Termas&amp;quot; de Rielves (Toledo), in Archivo Español de Arqueología, L-LI. CSIC, Madrid, 1978, pp. 209-251. &lt;a href="https://search.worldcat.org/title/1122498001" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -99,7 +99,7 @@ The large number of objects of daily life found in the ruins, some under toppled
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/266044" title="Pleiades gazetteer of ancient places">Pleiades: 266044&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/266044" title="Pleiades gazetteer of ancient places">Pleiades:266044&lt;/a>)
 
 
 

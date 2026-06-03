@@ -55,7 +55,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades: &lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
 
 
 
@@ -76,7 +76,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN: &lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
 
 
 
@@ -99,7 +99,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades: 981539&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades:981539&lt;/a>)
 
 
 
@@ -124,7 +124,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades: 334636&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
 
 
 
@@ -142,16 +142,16 @@ places containing this garden will be listed automatically
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (rooms)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)">AAT:300004359&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (rooms)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)">AAT:300004359&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -168,9 +168,9 @@ places containing this garden will be listed automatically
 &lt;p>3rd century CE?&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Ballu, A., &lt;em>Les ruines de Timgad&lt;/em>, Paris, 1903, p. 90-94. &lt;a href="https://search.worldcat.org/title/804848941">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Germain, S., &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 65, fig. 7. &lt;a href="https://search.worldcat.org/title/643640586">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Ballu, A., &lt;em>Les ruines de Timgad&lt;/em>, Paris, 1903, p. 90-94. &lt;a href="https://search.worldcat.org/title/804848941" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Germain, S., &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 65, fig. 7. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -188,7 +188,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades: 334636&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
 
 
 
@@ -207,7 +207,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN: 7001328&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN:7001328&lt;/a>)
 
 
 
@@ -228,7 +228,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades: 981539&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades:981539&lt;/a>)
 
 
 
@@ -253,7 +253,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades: 334636&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
 
 
 
@@ -271,10 +271,10 @@ places containing this garden will be listed automatically
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -291,10 +291,10 @@ places containing this garden will be listed automatically
 &lt;p>3rd-5th century CE?&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Ballu A., &lt;em>Rapport&lt;/em>, 1922, p. 47-53. &lt;a href="https://search.worldcat.org/title/557425503">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Ballu A., &lt;em>Rapport&lt;/em> 1923, p. 45-47: plan dépliant. &lt;a href="https://search.worldcat.org/title/494571409">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Germain, S. &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 81, fig. 10. &lt;a href="https://search.worldcat.org/title/643640586">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Ballu A., &lt;em>Rapport&lt;/em>, 1922, p. 47-53. &lt;a href="https://search.worldcat.org/title/557425503" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Ballu A., &lt;em>Rapport&lt;/em> 1923, p. 45-47: plan dépliant. &lt;a href="https://search.worldcat.org/title/494571409" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Germain, S. &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 81, fig. 10. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -312,7 +312,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades: 334636&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
 
 
 
@@ -331,7 +331,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN: 7001328&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN:7001328&lt;/a>)
 
 
 
@@ -352,7 +352,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades: 981539&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades:981539&lt;/a>)
 
 
 
@@ -377,7 +377,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades: 334636&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
 
 
 
@@ -395,19 +395,19 @@ places containing this garden will be listed automatically
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>)
 &lt;/li>
 &lt;li>
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=semicircular basin">semicircular basin&lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (rooms)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)">AAT:300004359&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (rooms)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)">AAT:300004359&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -424,10 +424,10 @@ places containing this garden will be listed automatically
 &lt;p>3rd-5th century CE?&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Boeswillwald, E., Cagnat, R., Ballu, A., &lt;em>Timgad une cité africaine sous l'Empire romain&lt;/em>, Paris, 1905; pp. 326-333, plan fig. 152. &lt;a href="https://search.worldcat.org/title/898850651">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Paris, 1951, p 53, plan with scale. &lt;a href="https://search.worldcat.org/title/23396951">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Germain, S. &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 59. &lt;a href="https://search.worldcat.org/title/643640586">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Lassus, J., &amp;quot;Une opération immobilière à Timgad&amp;quot;, in &lt;em>Mélanges d'archéologie et d'histoire offerts à André Piganiol&lt;/em>, Paris, 1966, pp. 1221-1231. &lt;a href="https://search.worldcat.org/title/419236627">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Boeswillwald, E., Cagnat, R., Ballu, A., &lt;em>Timgad une cité africaine sous l'Empire romain&lt;/em>, Paris, 1905; pp. 326-333, plan fig. 152. &lt;a href="https://search.worldcat.org/title/898850651" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Paris, 1951, p 53, plan with scale. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Germain, S. &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 59. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Lassus, J., &amp;quot;Une opération immobilière à Timgad&amp;quot;, in &lt;em>Mélanges d'archéologie et d'histoire offerts à André Piganiol&lt;/em>, Paris, 1966, pp. 1221-1231. &lt;a href="https://search.worldcat.org/title/419236627" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -445,7 +445,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades: 334636&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
 
 
 
@@ -464,7 +464,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN: 7001328&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN:7001328&lt;/a>)
 
 
 
@@ -485,7 +485,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades: 981539&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades:981539&lt;/a>)
 
 
 
@@ -510,7 +510,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades: 334636&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
 
 
 
@@ -528,19 +528,19 @@ places containing this garden will be listed automatically
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water wells">water wells&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300152327" title="Art and Architecture Thesaurus (Getty)">AAT:300152327&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water wells">water wells&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300152327" title="Art and Architecture Thesaurus (Getty)">AAT:300152327&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=planters">planters (containers)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300237566" title="Art and Architecture Thesaurus (Getty)">AAT:300237566&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=planters">planters (containers)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300237566" title="Art and Architecture Thesaurus (Getty)">AAT:300237566&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=herms">herms&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300047170" title="Art and Architecture Thesaurus (Getty)">AAT:300047170&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=herms">herms&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300047170" title="Art and Architecture Thesaurus (Getty)">AAT:300047170&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -569,10 +569,10 @@ places containing this garden will be listed automatically
 &lt;p>2nd-3rd century CE?&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Ballu, A., &lt;em>Les ruines de Timgad (Antique Thamugadi)&lt;/em>, Paris, 1897, pp. 224-226, plan fig. 36. S. &lt;a href="https://search.worldcat.org/title/1055093825">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Boeswillwald, E., Cagnat, R., Ballu, A., &lt;em>Timgad: une cité africaine sous l'Empire romain&lt;/em>, Paris, Leroux, 1905, pp. 88-92, Plan fig.40.&lt;a href="https://search.worldcat.org/title/156040038">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Germain, S., &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 37. &lt;a href="https://search.worldcat.org/title/643640586">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Ballu, A., &lt;em>Les ruines de Timgad (Antique Thamugadi)&lt;/em>, Paris, 1897, pp. 224-226, plan fig. 36. S. &lt;a href="https://search.worldcat.org/title/1055093825" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Boeswillwald, E., Cagnat, R., Ballu, A., &lt;em>Timgad: une cité africaine sous l'Empire romain&lt;/em>, Paris, Leroux, 1905, pp. 88-92, Plan fig.40.&lt;a href="https://search.worldcat.org/title/156040038" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Germain, S., &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 37. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -590,7 +590,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades: 334636&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
 
 
 
@@ -609,7 +609,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN: 7001328&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN:7001328&lt;/a>)
 
 
 
@@ -630,7 +630,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades: 981539&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades:981539&lt;/a>)
 
 
 
@@ -655,7 +655,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades: 334636&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
 
 
 
@@ -673,16 +673,16 @@ places containing this garden will be listed automatically
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>)
 &lt;/li>
 &lt;li>
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=semicircular basin">semicircular basin&lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -700,9 +700,9 @@ places containing this garden will be listed automatically
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Ballu, A., &lt;em>Les ruines de Timgad, Sept années de découvertes&lt;/em>, Paris, 1911, p. 49-53,120, plan p. 51. &lt;a href="https://search.worldcat.org/title/802835102">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Germain, S., &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 88, fig. 12. &lt;a href="https://search.worldcat.org/title/643640586">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Ballu, A., &lt;em>Les ruines de Timgad, Sept années de découvertes&lt;/em>, Paris, 1911, p. 49-53,120, plan p. 51. &lt;a href="https://search.worldcat.org/title/802835102" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Germain, S., &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 88, fig. 12. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -720,7 +720,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades: 334636&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
 
 
 
@@ -739,7 +739,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN: 7001328&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN:7001328&lt;/a>)
 
 
 
@@ -760,7 +760,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades: 981539&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades:981539&lt;/a>)
 
 
 
@@ -785,7 +785,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades: 334636&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
 
 
 
@@ -803,22 +803,22 @@ places containing this garden will be listed automatically
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mural paintings">mural paintings (visual works)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300033644" title="Art and Architecture Thesaurus (Getty)">AAT:300033644&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mural paintings">mural paintings (visual works)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300033644" title="Art and Architecture Thesaurus (Getty)">AAT:300033644&lt;/a>)
 &lt;/li>
 &lt;li>
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=viridarium">viridarium&lt;/a>
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=temples">temples (buildings)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300007595" title="Art and Architecture Thesaurus (Getty)">AAT:300007595&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=temples">temples (buildings)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300007595" title="Art and Architecture Thesaurus (Getty)">AAT:300007595&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sanctuaries">sanctuaries (religious building spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004575" title="Art and Architecture Thesaurus (Getty)">AAT:300004575&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sanctuaries">sanctuaries (religious building spaces)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004575" title="Art and Architecture Thesaurus (Getty)">AAT:300004575&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions">inscriptions&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)">AAT:300028702&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions">inscriptions&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)">AAT:300028702&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -835,11 +835,11 @@ places containing this garden will be listed automatically
 &lt;p>2nd-3rd century CE&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Malek, A.-A., &amp;quot;Le Jardin Dans Les Sanctuaires De L'afrique Romaine: Premières Approches.&amp;quot;, in &lt;em>Du Culte Aux Sanctuaires : L'architecture Religieuse Dans L'afrique Romaine Et Byzantine : Actes Du Colloque&lt;/em>, 18-19 Avril 2013, Paris, Fondation Simone Et Cino Del Duca... -. (2018), p. 362, fig. 12. &lt;a href="https://search.worldcat.org/title/1201712466">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Lassus, J., &lt;em>La forteresse byzantine de Thamugadi, Fouilles à Timgad&lt;/em>, 1938-1956, Paris, 1981, plan p. 25, fig. 9, pp. 215-17, fig. 174-76. &lt;a href="https://search.worldcat.org/title/906459184">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Leschi, L., &amp;quot;Découvertes récentes à Timgad: Aqua Septimiana Felix&amp;quot;, in &lt;em>CRAI&lt;/em>, 1947, pp. 87-99. &lt;a href="https://search.worldcat.org/title/4649794390">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Leschi, L., &lt;em>Etudes d'épigraphie, d'archéologie et d'histoire africaines&lt;/em>, Paris, 1957, pp. 240-45, ici pp. 242. &lt;a href="https://search.worldcat.org/title/78689255">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Malek, A.-A., &amp;quot;Le Jardin Dans Les Sanctuaires De L'afrique Romaine: Premières Approches.&amp;quot;, in &lt;em>Du Culte Aux Sanctuaires : L'architecture Religieuse Dans L'afrique Romaine Et Byzantine : Actes Du Colloque&lt;/em>, 18-19 Avril 2013, Paris, Fondation Simone Et Cino Del Duca... -. (2018), p. 362, fig. 12. &lt;a href="https://search.worldcat.org/title/1201712466" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Lassus, J., &lt;em>La forteresse byzantine de Thamugadi, Fouilles à Timgad&lt;/em>, 1938-1956, Paris, 1981, plan p. 25, fig. 9, pp. 215-17, fig. 174-76. &lt;a href="https://search.worldcat.org/title/906459184" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Leschi, L., &amp;quot;Découvertes récentes à Timgad: Aqua Septimiana Felix&amp;quot;, in &lt;em>CRAI&lt;/em>, 1947, pp. 87-99. &lt;a href="https://search.worldcat.org/title/4649794390" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Leschi, L., &lt;em>Etudes d'épigraphie, d'archéologie et d'histoire africaines&lt;/em>, Paris, 1957, pp. 240-45, ici pp. 242. &lt;a href="https://search.worldcat.org/title/78689255" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -857,7 +857,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades: 334636&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
 
 
 
@@ -876,7 +876,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN: 7001328&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN:7001328&lt;/a>)
 
 
 

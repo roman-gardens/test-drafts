@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/694916885" title="Pleiades gazetteer of ancient places">Pleiades: 694916885&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/694916885" title="Pleiades gazetteer of ancient places">Pleiades:694916885&lt;/a>)
 
 
 
@@ -32,10 +32,10 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -52,8 +52,8 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
 &lt;!-- ## Dates -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Teógenes Ortego Frías, La villa romana de Los Quintanares, en el término de Rioseco de Soria, in IX Congreso Nacional de Arqueología. Valladolid. Valladolid, 1965, pp. 341-347. &lt;a href="https://search.worldcat.org/title/892240885">(worldcat)&lt;/a>&lt;/li>
-&lt;li>T. Ortego Frías, La villa romana de Los Quintanares, en el término de Rioseco (Soria), in Segovia , Symposium de arqueología romana,. Publicaciones eventuales 27, Universidad de Barcelona, Barcelona, 1977, pp. 285-292. &lt;a href="https://search.worldcat.org/title/802753312">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Teógenes Ortego Frías, La villa romana de Los Quintanares, en el término de Rioseco de Soria, in IX Congreso Nacional de Arqueología. Valladolid. Valladolid, 1965, pp. 341-347. &lt;a href="https://search.worldcat.org/title/892240885" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>T. Ortego Frías, La villa romana de Los Quintanares, en el término de Rioseco (Soria), in Segovia , Symposium de arqueología romana,. Publicaciones eventuales 27, Universidad de Barcelona, Barcelona, 1977, pp. 285-292. &lt;a href="https://search.worldcat.org/title/802753312" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;!-- 
@@ -70,7 +70,7 @@ The villa is built around two peristyles of similar size. The surrounding rooms 
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/614074944" title="Pleiades gazetteer of ancient places">Pleiades: 614074944&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/614074944" title="Pleiades gazetteer of ancient places">Pleiades:614074944&lt;/a>)
 
 
 

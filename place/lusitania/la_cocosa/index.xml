@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1101" title="Pleiades gazetteer of ancient places">Pleiades: 1101&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1101" title="Pleiades gazetteer of ancient places">Pleiades:1101&lt;/a>)
 
 
 
@@ -40,7 +40,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/256109" title="Pleiades gazetteer of ancient places">Pleiades: 256109&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/256109" title="Pleiades gazetteer of ancient places">Pleiades:256109&lt;/a>)
 
 
 
@@ -51,13 +51,13 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=podiums">podiums (building divisions)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300000976" title="Art and Architecture Thesaurus (Getty)">AAT:300000976&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=podiums">podiums (building divisions)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000976" title="Art and Architecture Thesaurus (Getty)">AAT:300000976&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -81,9 +81,9 @@
 &lt;!-- ## Dates -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>J. de C. Serra Rafols, La villa romana de la Dehesa de 'La Cocosa'. Badajoz, 1952. &lt;a href="https://search.worldcat.org/title/17319391">(worldcat)&lt;/a>&lt;/li>
-&lt;li>J. de C. Serra Rafols, 'A propósito de la villa de La Cocosa. Rectificación.' In Archivo Español de Arqueología, XXVI. CSIC, Madrid, 1953, p. 302. &lt;a href="https://search.worldcat.org/title/1122498001">(worldcat)&lt;/a>&lt;/li>
-&lt;li>J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. &lt;a href="https://search.worldcat.org/title/803415143">(worldcat)&lt;/a>&lt;/li>
+&lt;li>J. de C. Serra Rafols, La villa romana de la Dehesa de 'La Cocosa'. Badajoz, 1952. &lt;a href="https://search.worldcat.org/title/17319391" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>J. de C. Serra Rafols, 'A propósito de la villa de La Cocosa. Rectificación.' In Archivo Español de Arqueología, XXVI. CSIC, Madrid, 1953, p. 302. &lt;a href="https://search.worldcat.org/title/1122498001" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>J. G. Gorges, Les villes hispano-romaines. Inventaire et problematique archaeologiques. Centre Pierre Paris, París, 1979, pp. 189-190. &lt;a href="https://search.worldcat.org/title/803415143" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -101,7 +101,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/256109" title="Pleiades gazetteer of ancient places">Pleiades: 256109&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/256109" title="Pleiades gazetteer of ancient places">Pleiades:256109&lt;/a>)
 
 
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sikyon on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/achaea/sikyon/</link><description>Recent content in Sikyon on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/achaea/sikyon/index.xml" rel="self" type="application/rss+xml"/><item><title>Sanctuary of Demeter and Persephone</title><link>https://roman-gardens.github.io/test-drafts/place/achaea/sikyon/sikyon_sanctuary_of_demeter_and_persephone/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/achaea/sikyon/sikyon_sanctuary_of_demeter_and_persephone/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>unspecified (mentioned in the 2nd century CE)&lt;/p>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>Pausanias gave directions on how to reach the grove called Pyraia, located near the city of Sikyon (&lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.11">2.11.3&lt;/a>). He did not reveal what kind of trees grew here, but the grove was sacred to Demeter and Persephone. In it both men and women held religious festivals, but in separate locations. Statues of Demeter and Persephone, as well as Dionysos, were still standing in a chamber of the sanctuary when Pausanias visited the site in the 2nd century A.D.&lt;/p>
+&lt;p>Pausanias gave directions on how to reach the grove called Pyraia, located near the city of Sikyon (&lt;a href="http://data.perseus.org/citations/urn:cts:greekLit:tlg0525.tlg001.perseus-eng1:2.11" target="_blank">2.11.3&lt;/a>). He did not reveal what kind of trees grew here, but the grove was sacred to Demeter and Persephone. In it both men and women held religious festivals, but in separate locations. Statues of Demeter and Persephone, as well as Dionysos, were still standing in a chamber of the sanctuary when Pausanias visited the site in the 2nd century A.D.&lt;/p>
 &lt;!-- ## Maps -->
 &lt;!-- ## Plans -->
 &lt;!-- ## Images -->
@@ -11,9 +11,9 @@
 &lt;li>
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=literary gardens">literary gardens&lt;/a>
 &lt;/li>
-&lt;li>&lt;a href="https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1">Pausanias&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://catalog.perseus.org/cite-collections/authors/urn:cite:perseus:author.1054.1" target="_blank">Pausanias&lt;/a>&lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sacred groves">sacred groves&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300251876" title="Art and Architecture Thesaurus (Getty)">AAT:300251876&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sacred groves">sacred groves&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300251876" title="Art and Architecture Thesaurus (Getty)">AAT:300251876&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
@@ -32,7 +32,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/570668" title="Pleiades gazetteer of ancient places">Pleiades: 570668&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/570668" title="Pleiades gazetteer of ancient places">Pleiades:570668&lt;/a>)
 
 
 
@@ -51,7 +51,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7002741" title="Thesaurus of Geographic Names (Getty)">TGN: 7002741&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7002741" title="Thesaurus of Geographic Names (Getty)">TGN:7002741&lt;/a>)
 
 
 

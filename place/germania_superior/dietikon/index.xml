@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/981525" title="Pleiades gazetteer of ancient places">Pleiades: 981525&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981525" title="Pleiades gazetteer of ancient places">Pleiades:981525&lt;/a>)
 
 
 
@@ -26,22 +26,22 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=axial plan">axial plan&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300121971" title="Art and Architecture Thesaurus (Getty)">AAT:300121971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=axial plan">axial plan&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300121971" title="Art and Architecture Thesaurus (Getty)">AAT:300121971&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=corridors">corridors&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004294" title="Art and Architecture Thesaurus (Getty)">AAT:300004294&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=corridors">corridors&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004294" title="Art and Architecture Thesaurus (Getty)">AAT:300004294&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pergolas">pergolas&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006783" title="Art and Architecture Thesaurus (Getty)">AAT:300006783&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pergolas">pergolas&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006783" title="Art and Architecture Thesaurus (Getty)">AAT:300006783&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=piscinae">piscinae (pools)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300375619" title="Art and Architecture Thesaurus (Getty)">AAT:300375619&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=piscinae">piscinae (pools)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300375619" title="Art and Architecture Thesaurus (Getty)">AAT:300375619&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villae rusticae">villae rusticae&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005518" title="Art and Architecture Thesaurus (Getty)">AAT:300005518&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villae rusticae">villae rusticae&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005518" title="Art and Architecture Thesaurus (Getty)">AAT:300005518&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -82,9 +82,9 @@
 &lt;p>Stone-built villa: Middle of the 1st century CE&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>C. Ebnöther, &amp;quot;Die Gartenanlage in der pars urbana des Gutshofes von Dietikon ZH,&amp;quot; &lt;em>Archäologie der Schweiz&lt;/em> 14, 1991:250-256. &lt;a href="https://search.worldcat.org/title/891753339">(worldcat)&lt;/a>&lt;/li>
-&lt;li>C. Ebnöther, &lt;em>Der römische Gutshof in Dietikon&lt;/em>. Monographien der Kantonsarchäologie Zürich 25, Zürich, 1995, pp. 36-45, 49-50, figs. 21, 36-37,41-42. &lt;a href="https://search.worldcat.org/title/891774240">(worldcat)&lt;/a>&lt;/li>
-&lt;li>L. Flutsch, U. Niffeler, F. Rossi, eds., &lt;em>La Suisse du Paléolithique à l'aube du Moyen-Age (SPM) V. Epoque romaine/Età Romana&lt;/em>, Basel, 2002, p. 143, fig. 140. &lt;a href="https://search.worldcat.org/title/492139765">(worldcat)&lt;/a>&lt;/li>
+&lt;li>C. Ebnöther, &amp;quot;Die Gartenanlage in der pars urbana des Gutshofes von Dietikon ZH,&amp;quot; &lt;em>Archäologie der Schweiz&lt;/em> 14, 1991:250-256. &lt;a href="https://search.worldcat.org/title/891753339" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>C. Ebnöther, &lt;em>Der römische Gutshof in Dietikon&lt;/em>. Monographien der Kantonsarchäologie Zürich 25, Zürich, 1995, pp. 36-45, 49-50, figs. 21, 36-37,41-42. &lt;a href="https://search.worldcat.org/title/891774240" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>L. Flutsch, U. Niffeler, F. Rossi, eds., &lt;em>La Suisse du Paléolithique à l'aube du Moyen-Age (SPM) V. Epoque romaine/Età Romana&lt;/em>, Basel, 2002, p. 143, fig. 140. &lt;a href="https://search.worldcat.org/title/492139765" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
@@ -102,7 +102,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/981525" title="Pleiades gazetteer of ancient places">Pleiades: 981525&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981525" title="Pleiades gazetteer of ancient places">Pleiades:981525&lt;/a>)
 
 
 
@@ -121,7 +121,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7007345" title="Thesaurus of Geographic Names (Getty)">TGN: 7007345&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7007345" title="Thesaurus of Geographic Names (Getty)">TGN:7007345&lt;/a>)
 
 
 

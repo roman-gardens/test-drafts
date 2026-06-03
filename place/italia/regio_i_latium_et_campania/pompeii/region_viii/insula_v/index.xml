@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -38,7 +38,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -52,16 +52,16 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=insulae">insulae (apartments)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300000325" title="Art and Architecture Thesaurus (Getty)">AAT:300000325&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=insulae">insulae (apartments)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000325" title="Art and Architecture Thesaurus (Getty)">AAT:300000325&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=angiportus">angiportus&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008249" title="Art and Architecture Thesaurus (Getty)">AAT:300008249&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=angiportus">angiportus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008249" title="Art and Architecture Thesaurus (Getty)">AAT:300008249&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=puteals">puteals&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300443458" title="Art and Architecture Thesaurus (Getty)">AAT:300443458&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=puteals">puteals&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300443458" title="Art and Architecture Thesaurus (Getty)">AAT:300443458&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -101,7 +101,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -120,7 +120,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -130,10 +130,10 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, pp. 216-217 &lt;a href="https://search.worldcat.org/title/1113367431">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1883), pp. 197-200, 203-204 &lt;a href="https://search.worldcat.org/title/823239162">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Sogliano, &lt;em>Notizie degli scavi di Antichita&lt;/em> (1882), pp. 279, 317 &lt;a href="https://search.worldcat.org/title/638883283">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Pernice, &lt;em>Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen&lt;/em>, p. 34 and pl. 23.2 &lt;a href="https://search.worldcat.org/title/680390526">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, pp. 216-217 &lt;a href="https://search.worldcat.org/title/1113367431" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1883), pp. 197-200, 203-204 &lt;a href="https://search.worldcat.org/title/823239162" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Sogliano, &lt;em>Notizie degli scavi di Antichita&lt;/em> (1882), pp. 279, 317 &lt;a href="https://search.worldcat.org/title/638883283" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Pernice, &lt;em>Hellenistische Tische, Zisternenmundungen, Beckenuntersatze, Altare und Truhen&lt;/em>, p. 34 and pl. 23.2 &lt;a href="https://search.worldcat.org/title/680390526" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>VIII.5.2. Casa del Gallo; House of the Cock</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_v/viii.5.2/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_v/viii.5.2/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -151,7 +151,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -174,7 +174,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -188,13 +188,13 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=puteals">puteals&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300443458" title="Art and Architecture Thesaurus (Getty)">AAT:300443458&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=puteals">puteals&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300443458" title="Art and Architecture Thesaurus (Getty)">AAT:300443458&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -221,7 +221,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -240,7 +240,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -250,11 +250,11 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Jacono, Osservazioni su i viridarii pompeiani, p. 12 &lt;a href="https://search.worldcat.org/title/1131425884">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 214 &lt;a href="https://search.worldcat.org/title/1113367431">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mairui, &lt;em>Notizie degli scavi di Antichita&lt;/em> (1944-1945), p. 150 and fig. 6 (plan) on p. 144 &lt;a href="https://search.worldcat.org/title/638883283">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1883), p.172 &lt;a href="https://search.worldcat.org/title/823239162">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Sogliano, &lt;em>Notizie degli scavi di Antichita&lt;/em> (1881), pp. 320-321 &lt;a href="https://search.worldcat.org/title/638883283">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jacono, Osservazioni su i viridarii pompeiani, p. 12 &lt;a href="https://search.worldcat.org/title/1131425884" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 214 &lt;a href="https://search.worldcat.org/title/1113367431" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mairui, &lt;em>Notizie degli scavi di Antichita&lt;/em> (1944-1945), p. 150 and fig. 6 (plan) on p. 144 &lt;a href="https://search.worldcat.org/title/638883283" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1883), p.172 &lt;a href="https://search.worldcat.org/title/823239162" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Sogliano, &lt;em>Notizie degli scavi di Antichita&lt;/em> (1881), pp. 320-321 &lt;a href="https://search.worldcat.org/title/638883283" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>VIII.5.20/17. Caupona</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_v/viii.5.20_17/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_v/viii.5.20_17/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -272,7 +272,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -295,7 +295,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -309,10 +309,10 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=angiportus">angiportus&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008249" title="Art and Architecture Thesaurus (Getty)">AAT:300008249&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=angiportus">angiportus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008249" title="Art and Architecture Thesaurus (Getty)">AAT:300008249&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cauponae">cauponae&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005208" title="Art and Architecture Thesaurus (Getty)">AAT:300005208&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cauponae">cauponae&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005208" title="Art and Architecture Thesaurus (Getty)">AAT:300005208&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -339,7 +339,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -358,7 +358,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -368,7 +368,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1883), pp. 226-227 &lt;a href="https://search.worldcat.org/title/823239162">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1883), pp. 226-227 &lt;a href="https://search.worldcat.org/title/823239162" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>VIII.5.24. Casa del Medico</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_v/viii.5.24/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_v/viii.5.24/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -386,7 +386,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -409,7 +409,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -423,10 +423,10 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atriums">atriums (Roman halls)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004097" title="Art and Architecture Thesaurus (Getty)">AAT:300004097&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atriums">atriums (Roman halls)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004097" title="Art and Architecture Thesaurus (Getty)">AAT:300004097&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -453,7 +453,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -472,7 +472,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -482,12 +482,12 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Breton, &lt;em>Pompeia&lt;/em>, 3rd ed. p. 456 &lt;a href="https://search.worldcat.org/title/894211341">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 217 &lt;a href="https://search.worldcat.org/title/1113367431">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1883), pp. 228-230 &lt;a href="https://search.worldcat.org/title/823239162">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 4, &amp;quot;Nuovi scavi, 1874-1882&amp;quot; pp. 19-20 (address given as VIII.5a-6a.6 &lt;a href="https://search.worldcat.org/title/906755593">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Schefold, &lt;em>Die Wande Pompejis&lt;/em>, p. 227 &lt;a href="https://search.worldcat.org/title/1189906922">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Sogliano, &lt;em>Notizie degli scavi di Antichita&lt;/em> (1882), pp. 322-323 &lt;a href="https://search.worldcat.org/title/638883283">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Breton, &lt;em>Pompeia&lt;/em>, 3rd ed. p. 456 &lt;a href="https://search.worldcat.org/title/894211341" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 217 &lt;a href="https://search.worldcat.org/title/1113367431" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1883), pp. 228-230 &lt;a href="https://search.worldcat.org/title/823239162" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Niccolini, &lt;em>Le case ed i monumenti di Pompei designati e descritti&lt;/em>, vol. 4, &amp;quot;Nuovi scavi, 1874-1882&amp;quot; pp. 19-20 (address given as VIII.5a-6a.6 &lt;a href="https://search.worldcat.org/title/906755593" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Schefold, &lt;em>Die Wande Pompejis&lt;/em>, p. 227 &lt;a href="https://search.worldcat.org/title/1189906922" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Sogliano, &lt;em>Notizie degli scavi di Antichita&lt;/em> (1882), pp. 322-323 &lt;a href="https://search.worldcat.org/title/638883283" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>VIII.5.28. Casa della Calce; Casa dell'Imperatore Francesco II</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_v/viii.5.28/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_v/viii.5.28/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -505,7 +505,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -528,7 +528,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -542,16 +542,16 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atriums">atriums (Roman halls)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004097" title="Art and Architecture Thesaurus (Getty)">AAT:300004097&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atriums">atriums (Roman halls)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004097" title="Art and Architecture Thesaurus (Getty)">AAT:300004097&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -578,7 +578,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -597,7 +597,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -607,9 +607,9 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, p. 447 (address given as VIII.vi.10-11) &lt;a href="https://search.worldcat.org/title/252039996">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 217 &lt;a href="https://search.worldcat.org/title/1113367431">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1883), pp. 230-231 &lt;a href="https://search.worldcat.org/title/823239162">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Descrizione di Pompei&lt;/em>, p. 447 (address given as VIII.vi.10-11) &lt;a href="https://search.worldcat.org/title/252039996" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 217 &lt;a href="https://search.worldcat.org/title/1113367431" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1883), pp. 230-231 &lt;a href="https://search.worldcat.org/title/823239162" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>VIII.5.37. Casa delle Pareti Rosse; House of the Fabii</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_v/viii.5.37/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_v/viii.5.37/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -627,7 +627,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -650,7 +650,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -664,13 +664,13 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atriums">atriums (Roman halls)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004097" title="Art and Architecture Thesaurus (Getty)">AAT:300004097&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atriums">atriums (Roman halls)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004097" title="Art and Architecture Thesaurus (Getty)">AAT:300004097&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -703,7 +703,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -722,7 +722,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -732,10 +732,10 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 &lt;p>1882&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Dohl, &lt;em>Plastik aus Pompeji&lt;/em>,p. 46 &lt;a href="https://search.worldcat.org/title/52662796">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 218 &lt;a href="https://search.worldcat.org/title/1113367431">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1883), p. 108 &lt;a href="https://search.worldcat.org/title/823239162">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Sogliano, &lt;em>Notizie degli scavi di Antichita&lt;/em> (1882), pp. 377, 422 &lt;a href="https://search.worldcat.org/title/638883283">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Dohl, &lt;em>Plastik aus Pompeji&lt;/em>,p. 46 &lt;a href="https://search.worldcat.org/title/52662796" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 218 &lt;a href="https://search.worldcat.org/title/1113367431" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1883), p. 108 &lt;a href="https://search.worldcat.org/title/823239162" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Sogliano, &lt;em>Notizie degli scavi di Antichita&lt;/em> (1882), pp. 377, 422 &lt;a href="https://search.worldcat.org/title/638883283" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>VIII.5.39. House of Acceptus and Euhodia</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_v/viii.5.39/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_v/viii.5.39/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -753,7 +753,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -776,7 +776,7 @@ C. Off the west end of the angioportus was opening 15 which led to another large
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -790,16 +790,16 @@ C. Off the west end of the angioportus was opening 15 which led to another large
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atriums">atriums (Roman halls)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004097" title="Art and Architecture Thesaurus (Getty)">AAT:300004097&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=atriums">atriums (Roman halls)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004097" title="Art and Architecture Thesaurus (Getty)">AAT:300004097&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (rooms)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)">AAT:300004359&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (rooms)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)">AAT:300004359&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -827,7 +827,7 @@ B. The northwest corner of this small house contained a second garden (b) just o
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -846,7 +846,7 @@ B. The northwest corner of this small house contained a second garden (b) just o
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -856,14 +856,14 @@ B. The northwest corner of this small house contained a second garden (b) just o
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Boyce, &lt;em>Corpus of the Lararia of Pompeii&lt;/em>, Memoris of the American Academy in Rome (1937), p. 78, no. 372 &lt;a href="https://search.worldcat.org/title/1131425884">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Dohl, &lt;em>Plastik aus Pompeji&lt;/em>, pp. 46-47 &lt;a href="https://search.worldcat.org/title/52662796">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Dwyer, &lt;em>Pompeian Oscilla Collections&lt;/em>, Mitteilungen des Deutsches Archäologisches Institut. Römische Abteilung , p. 281, no. 106 &lt;a href="https://search.worldcat.org/title/8605701">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 218 &lt;a href="https://search.worldcat.org/title/1113367431">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1884), pp. 127-130 &lt;a href="https://search.worldcat.org/title/823239162">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mau, &lt;em>Pompeii:Its Life and Art&lt;/em>, 2nd ed. Trans. by Kelsey, pp. 341-343, plan on p. 341 &lt;a href="https://search.worldcat.org/title/1197366621">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Sogliano, &lt;em>Notizie degli scavi di Antichita&lt;/em> (1882), pp. 280-281, 324, 359-360 &lt;a href="https://search.worldcat.org/title/638883283">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Soprano, &lt;em>I triclini all'aperto di Pompei&lt;/em> In Pompeiana, p. 301, no. 16. &lt;a href="https://search.worldcat.org/title/78719058">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Boyce, &lt;em>Corpus of the Lararia of Pompeii&lt;/em>, Memoris of the American Academy in Rome (1937), p. 78, no. 372 &lt;a href="https://search.worldcat.org/title/1131425884" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Dohl, &lt;em>Plastik aus Pompeji&lt;/em>, pp. 46-47 &lt;a href="https://search.worldcat.org/title/52662796" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Dwyer, &lt;em>Pompeian Oscilla Collections&lt;/em>, Mitteilungen des Deutsches Archäologisches Institut. Römische Abteilung , p. 281, no. 106 &lt;a href="https://search.worldcat.org/title/8605701" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 218 &lt;a href="https://search.worldcat.org/title/1113367431" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1884), pp. 127-130 &lt;a href="https://search.worldcat.org/title/823239162" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>Pompeii:Its Life and Art&lt;/em>, 2nd ed. Trans. by Kelsey, pp. 341-343, plan on p. 341 &lt;a href="https://search.worldcat.org/title/1197366621" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Sogliano, &lt;em>Notizie degli scavi di Antichita&lt;/em> (1882), pp. 280-281, 324, 359-360 &lt;a href="https://search.worldcat.org/title/638883283" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Soprano, &lt;em>I triclini all'aperto di Pompei&lt;/em> In Pompeiana, p. 301, no. 16. &lt;a href="https://search.worldcat.org/title/78719058" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>VIII.5.9.</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_v/viii.5.9/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_viii/insula_v/viii.5.9/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -881,7 +881,7 @@ B. The northwest corner of this small house contained a second garden (b) just o
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -904,7 +904,7 @@ B. The northwest corner of this small house contained a second garden (b) just o
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -918,13 +918,13 @@ B. The northwest corner of this small house contained a second garden (b) just o
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tablina">tablina&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004180" title="Art and Architecture Thesaurus (Getty)">AAT:300004180&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=puteals">puteals&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300443458" title="Art and Architecture Thesaurus (Getty)">AAT:300443458&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=puteals">puteals&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300443458" title="Art and Architecture Thesaurus (Getty)">AAT:300443458&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -951,7 +951,7 @@ B. The northwest corner of this small house contained a second garden (b) just o
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades: 538911200&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/538911200" title="Pleiades gazetteer of ancient places">Pleiades:538911200&lt;/a>)
 
 
 
@@ -970,7 +970,7 @@ B. The northwest corner of this small house contained a second garden (b) just o
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN: 2053030&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/2053030" title="Thesaurus of Geographic Names (Getty)">TGN:2053030&lt;/a>)
 
 
 
@@ -980,7 +980,7 @@ B. The northwest corner of this small house contained a second garden (b) just o
 &lt;p>1881&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Fiorelli, &lt;em>Notizie degli scavi di Antichita&lt;/em> (1881), p. 332 &lt;a href="https://search.worldcat.org/title/638883283">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 216 &lt;a href="https://search.worldcat.org/title/1113367431">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1883), pp. 175-176 &lt;a href="https://search.worldcat.org/title/823239162">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Fiorelli, &lt;em>Notizie degli scavi di Antichita&lt;/em> (1881), p. 332 &lt;a href="https://search.worldcat.org/title/638883283" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, vol. II, p. 216 &lt;a href="https://search.worldcat.org/title/1113367431" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Mau, &lt;em>Bullettino dell'Instituto di Corrispondenza Archeologica&lt;/em> (1883), pp. 175-176 &lt;a href="https://search.worldcat.org/title/823239162" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

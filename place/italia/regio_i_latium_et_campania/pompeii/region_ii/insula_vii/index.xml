@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -38,7 +38,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -52,14 +52,14 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=palaestrae">palaestrae&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300007301" title="Art and Architecture Thesaurus (Getty)">AAT:300007301&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=palaestrae">palaestrae&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300007301" title="Art and Architecture Thesaurus (Getty)">AAT:300007301&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>Colonnaded &lt;a href="http://vocab.getty.edu/page/aat/300004145">porticoes&lt;/a> encircled the &lt;a href="http://vocab.getty.edu/page/aat/300007301">palaestra&lt;/a> on the south, west and north. A large swimming pool (34.55 m x 22.25 m) was located in the center. Casts made of tree cavities planted eight meters apart in two rows around the north, west and south sides of the enclosed area indicated that these were plane trees, just under one hundred years old.&lt;/p>
+&lt;p>Colonnaded &lt;a href="http://vocab.getty.edu/page/aat/300004145" target="_blank">porticoes&lt;/a> encircled the &lt;a href="http://vocab.getty.edu/page/aat/300007301" target="_blank">palaestra&lt;/a> on the south, west and north. A large swimming pool (34.55 m x 22.25 m) was located in the center. Casts made of tree cavities planted eight meters apart in two rows around the north, west and south sides of the enclosed area indicated that these were plane trees, just under one hundred years old.&lt;/p>
 &lt;!-- ## Plans
 
 &lt;figure>
@@ -83,7 +83,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/456321707" title="Pleiades gazetteer of ancient places">Pleiades: 456321707&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/456321707" title="Pleiades gazetteer of ancient places">Pleiades:456321707&lt;/a>)
 
 
 
@@ -102,7 +102,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)">TGN: 7004658&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)">TGN:7004658&lt;/a>)
 
 
 
@@ -112,9 +112,9 @@
 &lt;p>Excavated 1814 to 1816, 1933, and 1935 to 1939.&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Jashemski, W. 1979. &lt;em>Gardens of Pompeii&lt;/em>, vol.I, pp.160-161 and fig. 246 on p.161 &lt;a href="https://search.worldcat.org/title/884024123">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, W. 1993. &lt;em>Gardens of Pompeii&lt;/em>, vol.II, p.92 &lt;a href="https://search.worldcat.org/title/921816405">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Maiuri, A. 1939. &lt;em>Notizie degli scavi di antichità&lt;/em>, pp.193-195 and pl.9 (plan shows only a part of the root cavities found).&lt;a href="https://search.worldcat.org/title/1646037">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, W. 1979. &lt;em>Gardens of Pompeii&lt;/em>, vol.I, pp.160-161 and fig. 246 on p.161 &lt;a href="https://search.worldcat.org/title/884024123" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, W. 1993. &lt;em>Gardens of Pompeii&lt;/em>, vol.II, p.92 &lt;a href="https://search.worldcat.org/title/921816405" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, A. 1939. &lt;em>Notizie degli scavi di antichità&lt;/em>, pp.193-195 and pl.9 (plan shows only a part of the root cavities found).&lt;a href="https://search.worldcat.org/title/1646037" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>II.6.7 Park Area adjacent to the Great Palaestra and the Amphitheater</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_ii/insula_vii/ii.vi.7/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_ii/insula_vii/ii.vi.7/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -132,7 +132,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -155,7 +155,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -194,7 +194,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/456321707" title="Pleiades gazetteer of ancient places">Pleiades: 456321707&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/456321707" title="Pleiades gazetteer of ancient places">Pleiades:456321707&lt;/a>)
 
 
 
@@ -213,7 +213,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)">TGN: 7004658&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)">TGN:7004658&lt;/a>)
 
 
 
@@ -222,9 +222,9 @@
 &lt;!-- ## Dates -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Jashemski, W. 1979. &lt;em>Gardens of Pompeii&lt;/em>, vol.I, pp.13-14, 161-162 &lt;a href="https://search.worldcat.org/title/884024123">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, W. 1993. &lt;em>Gardens of Pompeii&lt;/em>, vol.II, p.91-92 &lt;a href="https://search.worldcat.org/title/921816405">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Maiuri, A. 1939. &lt;em>Notizie degli scavi di antichità&lt;/em>, pp.194 &lt;a href="https://search.worldcat.org/title/1646037">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, W. 1979. &lt;em>Gardens of Pompeii&lt;/em>, vol.I, pp.13-14, 161-162 &lt;a href="https://search.worldcat.org/title/884024123" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, W. 1993. &lt;em>Gardens of Pompeii&lt;/em>, vol.II, p.91-92 &lt;a href="https://search.worldcat.org/title/921816405" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, A. 1939. &lt;em>Notizie degli scavi di antichità&lt;/em>, pp.194 &lt;a href="https://search.worldcat.org/title/1646037" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Park Area Adjacent to the Great Palaestra and the Amphitheater</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_ii/insula_vii/park_area_adjacent_to_the_great_palaestra_and_the_amphitheater/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/region_ii/insula_vii/park_area_adjacent_to_the_great_palaestra_and_the_amphitheater/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/">Italia&lt;/a>&lt;/li>
@@ -242,7 +242,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -265,7 +265,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -279,14 +279,14 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=palaestrae">palaestrae&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300007301" title="Art and Architecture Thesaurus (Getty)">AAT:300007301&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=palaestrae">palaestrae&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300007301" title="Art and Architecture Thesaurus (Getty)">AAT:300007301&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>Park-like areas were located between the Great &lt;a href="http://vocab.getty.edu/page/aat/300007301">Palaestra&lt;/a> and the Amphitheater and to the north. Here booths were set up under trees or awnings and a carnival atmosphere existed as depicted in a painting (Mus. Naz. inv. no. 112 222) found in the &lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyle&lt;/a> of house I.3.23. Two huge root cavities were found in front of the &lt;a href="http://vocab.getty.edu/page/aat/300007301">palaestra&lt;/a> by Maiuri, although only one was recorded in his plan, and six trees grew in a row on the north side of the &lt;a href="http://vocab.getty.edu/page/aat/300007301">palaestra&lt;/a>.&lt;/p>
+&lt;p>Park-like areas were located between the Great &lt;a href="http://vocab.getty.edu/page/aat/300007301" target="_blank">Palaestra&lt;/a> and the Amphitheater and to the north. Here booths were set up under trees or awnings and a carnival atmosphere existed as depicted in a painting (Mus. Naz. inv. no. 112 222) found in the &lt;a href="http://vocab.getty.edu/page/aat/300080971" target="_blank">peristyle&lt;/a> of house I.3.23. Two huge root cavities were found in front of the &lt;a href="http://vocab.getty.edu/page/aat/300007301" target="_blank">palaestra&lt;/a> by Maiuri, although only one was recorded in his plan, and six trees grew in a row on the north side of the &lt;a href="http://vocab.getty.edu/page/aat/300007301" target="_blank">palaestra&lt;/a>.&lt;/p>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;ul>
 &lt;li>
@@ -303,7 +303,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades: 433032&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places">Pleiades:433032&lt;/a>)
 
 
 
@@ -322,7 +322,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)">TGN: 7004658&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)">TGN:7004658&lt;/a>)
 
 
 
@@ -330,7 +330,7 @@
 &lt;/ul>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Jashemski, W.F. &lt;em>Gardens of Pompeii&lt;/em>, vol.I, pp. 13-14, 161-162 &lt;a href="https://search.worldcat.org/title/884024123">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, W.F. &lt;em>Gardens of Pompeii&lt;/em>, vol.II, pp. 91-92 &lt;a href="https://search.worldcat.org/title/921816405">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Maiuri, A. &lt;em>Notizie degli scavi di antichità&lt;/em>, p.194 &lt;a href="https://search.worldcat.org/title/1646037">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, W.F. &lt;em>Gardens of Pompeii&lt;/em>, vol.I, pp. 13-14, 161-162 &lt;a href="https://search.worldcat.org/title/884024123" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, W.F. &lt;em>Gardens of Pompeii&lt;/em>, vol.II, pp. 91-92 &lt;a href="https://search.worldcat.org/title/921816405" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, A. &lt;em>Notizie degli scavi di antichità&lt;/em>, p.194 &lt;a href="https://search.worldcat.org/title/1646037" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

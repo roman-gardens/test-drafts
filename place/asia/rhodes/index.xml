@@ -34,8 +34,8 @@
 
 -->
 &lt;ul>
-&lt;li>Bousquet, J. 1976. “Les oliviers de Lindos”. In &lt;em>Recueil Plassart&lt;/em>, edited by A. Plassart, 9-46. Paris : Le Belles Lettres. (&lt;a href="https://search.worldcat.org/it/title/2984822?oclcNum=2984822">https://search.worldcat.org/it/title/2984822?oclcNum=2984822&lt;/a>)&lt;/li>
-&lt;li>Birge, D. E. 1982. &lt;em>Sacred Groves in the Ancient Greek World&lt;/em>. PhD thesis, University of California, Berkeley. (&lt;a href="https://search.worldcat.org/it/title/602039678">https://search.worldcat.org/it/title/602039678&lt;/a>)&lt;/li>
+&lt;li>Bousquet, J. 1976. “Les oliviers de Lindos”. In &lt;em>Recueil Plassart&lt;/em>, edited by A. Plassart, 9-46. Paris : Le Belles Lettres. (&lt;a href="https://search.worldcat.org/it/title/2984822?oclcNum=2984822" target="_blank">https://search.worldcat.org/it/title/2984822?oclcNum=2984822&lt;/a>)&lt;/li>
+&lt;li>Birge, D. E. 1982. &lt;em>Sacred Groves in the Ancient Greek World&lt;/em>. PhD thesis, University of California, Berkeley. (&lt;a href="https://search.worldcat.org/it/title/602039678" target="_blank">https://search.worldcat.org/it/title/602039678&lt;/a>)&lt;/li>
 &lt;/ul>
 &lt;!--
 ## Keywords
@@ -45,10 +45,10 @@
 -->
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=olive trees">olive trees&lt;/a>&lt;a target="_blank" href="https://powo.science.kew.org/taxon/610675-1" title="Plants of the World Online (Kew)">POWO:610675-1&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=olive trees">olive trees&lt;/a> (&lt;a class="id" target="_blank" href="https://powo.science.kew.org/taxon/610675-1" title="Plants of the World Online (Kew)">POWO:610675-1&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=acropolises">acropolises&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300000700" title="Art and Architecture Thesaurus (Getty)">AAT:300000700&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=acropolises">acropolises&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000700" title="Art and Architecture Thesaurus (Getty)">AAT:300000700&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;!--
@@ -68,7 +68,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades: &lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
 
 
 
@@ -89,7 +89,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN: &lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
 
 
 
@@ -135,22 +135,22 @@ BIBLIOGRAPHY: W. Hoepfner and E.-L. Schwandner, Haus und Stadt im klassischen Gr
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
 -->
 &lt;ul>
-&lt;li>Carroll-Spillecke, M. 1989. &lt;em>Κήπος. Der antike griechische Garten.&lt;/em> Vol. 3, &lt;em>Wohnen in der klassischen Polis&lt;/em>, 86, 94, fig. 12. Munich: Deutscher Kunstverlag. &lt;a href="https://search.worldcat.org/title/21460064">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Hoepfner, W., and E.-L. Schwandner, S. Dakares, and J. Boessneck. 1994. &lt;em>Haus und Stadt im klassischen Griechenland.&lt;/em> 2nd. ed. Vol. 1, &lt;em>Wohnen in der klassischen Polis&lt;/em>, 65-66, fig. 41. Munich: Deutscher Kunstverlag. &lt;a href="https://search.worldcat.org/title/30964330">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Carroll-Spillecke, M. 1989. &lt;em>Κήπος. Der antike griechische Garten.&lt;/em> Vol. 3, &lt;em>Wohnen in der klassischen Polis&lt;/em>, 86, 94, fig. 12. Munich: Deutscher Kunstverlag. &lt;a href="https://search.worldcat.org/title/21460064" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Hoepfner, W., and E.-L. Schwandner, S. Dakares, and J. Boessneck. 1994. &lt;em>Haus und Stadt im klassischen Griechenland.&lt;/em> 2nd. ed. Vol. 1, &lt;em>Wohnen in der klassischen Polis&lt;/em>, 65-66, fig. 41. Munich: Deutscher Kunstverlag. &lt;a href="https://search.worldcat.org/title/30964330" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=groves">groves (plant communities)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008884" title="Art and Architecture Thesaurus (Getty)">AAT:300008884&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=groves">groves (plant communities)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008884" title="Art and Architecture Thesaurus (Getty)">AAT:300008884&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sanctuaries">sanctuaries (religious building spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004575" title="Art and Architecture Thesaurus (Getty)">AAT:300004575&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sanctuaries">sanctuaries (religious building spaces)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004575" title="Art and Architecture Thesaurus (Getty)">AAT:300004575&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gymnasiums">gymnasiums (physical education buildings)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300007297" title="Art and Architecture Thesaurus (Getty)">AAT:300007297&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gymnasiums">gymnasiums (physical education buildings)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300007297" title="Art and Architecture Thesaurus (Getty)">AAT:300007297&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=nymphaea">nymphaea (garden structures)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006809" title="Art and Architecture Thesaurus (Getty)">AAT:300006809&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=nymphaea">nymphaea (garden structures)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006809" title="Art and Architecture Thesaurus (Getty)">AAT:300006809&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;!--
@@ -170,7 +170,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades: &lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
 
 
 
@@ -191,7 +191,7 @@ places containing this garden will be listed automatically
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN: &lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
 
 
 
@@ -233,42 +233,42 @@ original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartig
 -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>Dreliossi-Herakleidou, A. 1996. “Späthellenistische palastartige Gebäude in der Nähe der Akropolis von Rhodos.” In &lt;em>Basileia. Die Paläste der hellenistischen Könige&lt;/em>: Internationales Symposium in Berlin vom 16.12.1992 bis 20.12.1992, edited by W. Hoepfner and G. Brands, 182-192. Berlin: Schriften des Seminars für Klassische Archäologie der Freien Universität Berlin. &lt;a href="https://search.worldcat.org/title/37277386">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Dreliossi-Herakleidou, A. 1996. “Späthellenistische palastartige Gebäude in der Nähe der Akropolis von Rhodos.” In &lt;em>Basileia. Die Paläste der hellenistischen Könige&lt;/em>: Internationales Symposium in Berlin vom 16.12.1992 bis 20.12.1992, edited by W. Hoepfner and G. Brands, 182-192. Berlin: Schriften des Seminars für Klassische Archäologie der Freien Universität Berlin. &lt;a href="https://search.worldcat.org/title/37277386" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=semicircular">semicircular&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300263828" title="Art and Architecture Thesaurus (Getty)">AAT:300263828&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=semicircular">semicircular&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300263828" title="Art and Architecture Thesaurus (Getty)">AAT:300263828&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sculpture">sculpture (visual works)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300047090" title="Art and Architecture Thesaurus (Getty)">AAT:300047090&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sculpture">sculpture (visual works)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300047090" title="Art and Architecture Thesaurus (Getty)">AAT:300047090&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=herms">herms&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300047170" title="Art and Architecture Thesaurus (Getty)">AAT:300047170&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=herms">herms&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300047170" title="Art and Architecture Thesaurus (Getty)">AAT:300047170&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=insulae">insulae (apartments)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300000325" title="Art and Architecture Thesaurus (Getty)">AAT:300000325&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=insulae">insulae (apartments)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000325" title="Art and Architecture Thesaurus (Getty)">AAT:300000325&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water baths">water baths&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300248755" title="Art and Architecture Thesaurus (Getty)">AAT:300248755&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water baths">water baths&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300248755" title="Art and Architecture Thesaurus (Getty)">AAT:300248755&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards">courtyards (uncovered spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)">AAT:300004095&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards">courtyards (uncovered spaces)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)">AAT:300004095&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=buildings">buildings (structures)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004792" title="Art and Architecture Thesaurus (Getty)">AAT:300004792&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=buildings">buildings (structures)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004792" title="Art and Architecture Thesaurus (Getty)">AAT:300004792&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=rustic">rustic (style)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300310541" title="Art and Architecture Thesaurus (Getty)">AAT:300310541&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=rustic">rustic (style)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300310541" title="Art and Architecture Thesaurus (Getty)">AAT:300310541&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water features">water features (landscaping)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300180674" title="Art and Architecture Thesaurus (Getty)">AAT:300180674&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water features">water features (landscaping)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300180674" title="Art and Architecture Thesaurus (Getty)">AAT:300180674&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=marble">marble (rock)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300011443" title="Art and Architecture Thesaurus (Getty)">AAT:300011443&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=marble">marble (rock)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300011443" title="Art and Architecture Thesaurus (Getty)">AAT:300011443&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
@@ -287,7 +287,7 @@ original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartig
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/994502886" title="Pleiades gazetteer of ancient places">Pleiades: 994502886&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/994502886" title="Pleiades gazetteer of ancient places">Pleiades:994502886&lt;/a>)
 
 
 

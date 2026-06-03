@@ -14,7 +14,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/981537" title="Pleiades gazetteer of ancient places">Pleiades: 981537&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981537" title="Pleiades gazetteer of ancient places">Pleiades:981537&lt;/a>)
 
 
 
@@ -39,7 +39,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/157799" title="Pleiades gazetteer of ancient places">Pleiades: 157799&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/157799" title="Pleiades gazetteer of ancient places">Pleiades:157799&lt;/a>)
 
 
 
@@ -54,22 +54,22 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles">peristyles (Roman courtyards)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)">AAT:300080971&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=opus signinum">opus signinum&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300379969" title="Art and Architecture Thesaurus (Getty)">AAT:300379969&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=opus signinum">opus signinum&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300379969" title="Art and Architecture Thesaurus (Getty)">AAT:300379969&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=reception rooms">reception rooms&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300077176" title="Art and Architecture Thesaurus (Getty)">AAT:300077176&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=reception rooms">reception rooms&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300077176" title="Art and Architecture Thesaurus (Getty)">AAT:300077176&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics">mosaics (visual works)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)">AAT:300015342&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=balnea">balnea&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300120377" title="Art and Architecture Thesaurus (Getty)">AAT:300120377&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=balnea">balnea&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300120377" title="Art and Architecture Thesaurus (Getty)">AAT:300120377&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="villa-description">Villa Description&lt;/h2>
@@ -87,10 +87,10 @@
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ol>
 &lt;li>
-&lt;p>Brun, Jean-Pierre. &lt;em>Carte Archéologique De La Gaule: 83, Le Var 1&lt;/em>. Paris, 1999, vol.2, P. 835-840, plan P. 836. &lt;a href="https://search.worldcat.org/title/1074683092">(worldcat)&lt;/a>&lt;/p>
+&lt;p>Brun, Jean-Pierre. &lt;em>Carte Archéologique De La Gaule: 83, Le Var 1&lt;/em>. Paris, 1999, vol.2, P. 835-840, plan P. 836. &lt;a href="https://search.worldcat.org/title/1074683092" target="_blank">(worldcat)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Bouet, Alain, and Philippe Leveau. Les Thermes Prives Et Publics En Gaule Narbonnaise. S.l.: s.n., 1996, P. 401, Fig. 279-283. &lt;a href="https://search.worldcat.org/title/490154337">(worldcat)&lt;/a>&lt;/p>
+&lt;p>Bouet, Alain, and Philippe Leveau. Les Thermes Prives Et Publics En Gaule Narbonnaise. S.l.: s.n., 1996, P. 401, Fig. 279-283. &lt;a href="https://search.worldcat.org/title/490154337" target="_blank">(worldcat)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>R. AMBARD, &lt;em>La villa gallo-romaine de Muscapeu&lt;/em>, in &lt;em>Provence historique&lt;/em>, V, 1955, P. 104.&lt;/p>
@@ -112,7 +112,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/981537" title="Pleiades gazetteer of ancient places">Pleiades: 981537&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981537" title="Pleiades gazetteer of ancient places">Pleiades:981537&lt;/a>)
 
 
 
@@ -131,7 +131,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7030317" title="Thesaurus of Geographic Names (Getty)">TGN: 7030317&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7030317" title="Thesaurus of Geographic Names (Getty)">TGN:7030317&lt;/a>)
 
 
 
@@ -150,7 +150,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/1035905" title="Thesaurus of Geographic Names (Getty)">TGN: 1035905&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/1035905" title="Thesaurus of Geographic Names (Getty)">TGN:1035905&lt;/a>)
 
 
 

@@ -14,7 +14,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/74935822" title="Pleiades gazetteer of ancient places">Pleiades: 74935822&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/74935822" title="Pleiades gazetteer of ancient places">Pleiades:74935822&lt;/a>)
 
 
 
@@ -33,7 +33,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/423338213" title="Pleiades gazetteer of ancient places">Pleiades: 423338213&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/423338213" title="Pleiades gazetteer of ancient places">Pleiades:423338213&lt;/a>)
 
 
 
@@ -48,22 +48,22 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards">courtyards (uncovered spaces)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)">AAT:300004095&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards">courtyards (uncovered spaces)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)">AAT:300004095&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=ditches">ditches&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006178" title="Art and Architecture Thesaurus (Getty)">AAT:300006178&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=ditches">ditches&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006178" title="Art and Architecture Thesaurus (Getty)">AAT:300006178&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=epitaphs">epitaphs&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300028729" title="Art and Architecture Thesaurus (Getty)">AAT:300028729&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=epitaphs">epitaphs&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028729" title="Art and Architecture Thesaurus (Getty)">AAT:300028729&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=funerary buildings">funerary buildings&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005866" title="Art and Architecture Thesaurus (Getty)">AAT:300005866&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=funerary buildings">funerary buildings&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005866" title="Art and Architecture Thesaurus (Getty)">AAT:300005866&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sepulchral monuments">sepulchral monuments&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005909" title="Art and Architecture Thesaurus (Getty)">AAT:300005909&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sepulchral monuments">sepulchral monuments&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005909" title="Art and Architecture Thesaurus (Getty)">AAT:300005909&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs">tombs&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)">AAT:300005926&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs">tombs&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)">AAT:300005926&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -76,20 +76,20 @@
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>J. Bodel, &lt;em>Roman Tomb Gardens&lt;/em>, Cambridge University Press, 2018, pp. 222-224. &lt;a href="https://www.cambridge.org/core/books/gardens-of-the-roman-empire/roman-tomb-gardens/6BDAE36C21FFFADD3EB4E9CBD4BB8986">link&lt;/a>&lt;/p>
+&lt;p>J. Bodel, &lt;em>Roman Tomb Gardens&lt;/em>, Cambridge University Press, 2018, pp. 222-224. &lt;a href="https://www.cambridge.org/core/books/gardens-of-the-roman-empire/roman-tomb-gardens/6BDAE36C21FFFADD3EB4E9CBD4BB8986" target="_blank">link&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Ch. Hülsen, &lt;em>Piante iconografiche incise in marmo,&lt;/em> BMDAI(R) 5 (1890): 46-63 &lt;a href="https://search.worldcat.org/title/901880248">worldcat&lt;/a>&lt;/p>
+&lt;p>Ch. Hülsen, &lt;em>Piante iconografiche incise in marmo,&lt;/em> BMDAI(R) 5 (1890): 46-63 &lt;a href="https://search.worldcat.org/title/901880248" target="_blank">worldcat&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>H. von Hesberg, &lt;em>Römische Grundrissplane auf Marmor,&lt;/em> in Bauplanung und Bautheorie der Antike (Berlin 1984) 121-24;&lt;a href="https://search.worldcat.org/title/801974522">worldcat&lt;/a>&lt;/p>
+&lt;p>H. von Hesberg, &lt;em>Römische Grundrissplane auf Marmor,&lt;/em> in Bauplanung und Bautheorie der Antike (Berlin 1984) 121-24;&lt;a href="https://search.worldcat.org/title/801974522" target="_blank">worldcat&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>M. Luni, &lt;em>Iscrizioni pubbliche ed iscrizioni relative ad edifici,&lt;/em> in 1756-1986. Il Museo Archeologico di Urbino I (Urbino 1986) 167 figs. 6-7. &lt;a href="https://search.worldcat.org/title/878639163">worldcat&lt;/a>&lt;/p>
+&lt;p>M. Luni, &lt;em>Iscrizioni pubbliche ed iscrizioni relative ad edifici,&lt;/em> in 1756-1986. Il Museo Archeologico di Urbino I (Urbino 1986) 167 figs. 6-7. &lt;a href="https://search.worldcat.org/title/878639163" target="_blank">worldcat&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>R. Volpe,&lt;em>Cento anni a Centocelle: dal volo di Wilbur Wright ai recenti scavi,&lt;/em> in Atti del Convegno Nazionale di Archeologia Aerea &amp;quot;100 anni di Archeologia Aerea in Italia&amp;quot; (Roma 15-17 aprile 2009), Archeologia Aerea 4-5, 2010-2011, pp.41-46. Fig. 3
-&lt;a href="https://search.worldcat.org/title/819281762">worldcat&lt;/a>&lt;/p>
+&lt;a href="https://search.worldcat.org/title/819281762" target="_blank">worldcat&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
@@ -108,7 +108,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/423338213" title="Pleiades gazetteer of ancient places">Pleiades: 423338213&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/423338213" title="Pleiades gazetteer of ancient places">Pleiades:423338213&lt;/a>)
 
 
 
@@ -129,7 +129,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/74935822" title="Pleiades gazetteer of ancient places">Pleiades: 74935822&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/74935822" title="Pleiades gazetteer of ancient places">Pleiades:74935822&lt;/a>)
 
 
 
@@ -144,19 +144,19 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=funerary buildings">funerary buildings&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005866" title="Art and Architecture Thesaurus (Getty)">AAT:300005866&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=funerary buildings">funerary buildings&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005866" title="Art and Architecture Thesaurus (Getty)">AAT:300005866&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sepulchral monuments">sepulchral monuments&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005909" title="Art and Architecture Thesaurus (Getty)">AAT:300005909&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sepulchral monuments">sepulchral monuments&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005909" title="Art and Architecture Thesaurus (Getty)">AAT:300005909&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs">tombs&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)">AAT:300005926&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs">tombs&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)">AAT:300005926&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villas">villas&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005517" title="Art and Architecture Thesaurus (Getty)">AAT:300005517&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villas">villas&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005517" title="Art and Architecture Thesaurus (Getty)">AAT:300005517&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=garden pavilions">garden pavilions&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006819" title="Art and Architecture Thesaurus (Getty)">AAT:300006819&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=garden pavilions">garden pavilions&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006819" title="Art and Architecture Thesaurus (Getty)">AAT:300006819&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -165,9 +165,9 @@
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>G.-L. Gregori, &lt;em>Horti sepulchrales e cepotaphia nelle iscrizioni urbane,&lt;/em> Bullettino della Commissione Archeologica Comunale di Roma &lt;a href="https://search.worldcat.org/title/886794800">worldcat&lt;/a>&lt;/li>
+&lt;li>G.-L. Gregori, &lt;em>Horti sepulchrales e cepotaphia nelle iscrizioni urbane,&lt;/em> Bullettino della Commissione Archeologica Comunale di Roma &lt;a href="https://search.worldcat.org/title/886794800" target="_blank">worldcat&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>-F. Sinn and K. S. Freyberger, &lt;em>Vatikansiche Museen: Museo Gregorio Profano ex Lateranense: Dir Grabdenkmäler 2: Die Ausstatung des Hateriusgrabes,&lt;/em> (Mainz 1996) 45-51, no. 5 (pl. 7, figs. 8-10). &lt;a href="https://search.worldcat.org/title/312453022">worldcat&lt;/a>&lt;/p>
+&lt;p>-F. Sinn and K. S. Freyberger, &lt;em>Vatikansiche Museen: Museo Gregorio Profano ex Lateranense: Dir Grabdenkmäler 2: Die Ausstatung des Hateriusgrabes,&lt;/em> (Mainz 1996) 45-51, no. 5 (pl. 7, figs. 8-10). &lt;a href="https://search.worldcat.org/title/312453022" target="_blank">worldcat&lt;/a>&lt;/p>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;!-- 
 
@@ -183,7 +183,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/229438406" title="Pleiades gazetteer of ancient places">Pleiades: 229438406&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/229438406" title="Pleiades gazetteer of ancient places">Pleiades:229438406&lt;/a>)
 
 
 
@@ -203,7 +203,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/74935822" title="Pleiades gazetteer of ancient places">Pleiades: 74935822&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/74935822" title="Pleiades gazetteer of ancient places">Pleiades:74935822&lt;/a>)
 
 
 
@@ -218,13 +218,13 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=crematories">crematories&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005871" title="Art and Architecture Thesaurus (Getty)">AAT:300005871&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=crematories">crematories&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005871" title="Art and Architecture Thesaurus (Getty)">AAT:300005871&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=funerary buildings">funerary buildings&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005866" title="Art and Architecture Thesaurus (Getty)">AAT:300005866&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=funerary buildings">funerary buildings&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005866" title="Art and Architecture Thesaurus (Getty)">AAT:300005866&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs">tombs&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)">AAT:300005926&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs">tombs&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)">AAT:300005926&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -237,13 +237,13 @@
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>B. E. Thomasson and M. Pavese,&lt;em>A Survey of Greek and Latin Inscriptions on Stone in Swedish Collections,&lt;/em> (Stockholm 1997) XXX &lt;a href="https://search.worldcat.org/title/898968143">worldcat&lt;/a>&lt;/p>
+&lt;p>B. E. Thomasson and M. Pavese,&lt;em>A Survey of Greek and Latin Inscriptions on Stone in Swedish Collections,&lt;/em> (Stockholm 1997) XXX &lt;a href="https://search.worldcat.org/title/898968143" target="_blank">worldcat&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>G.-L. Gregori, &lt;em>Horti sepulchrales e cepotaphia nelle iscrizioni urbane,&lt;/em> Bullettino della Commissione Archeologica Comunale di Roma &lt;a href="https://search.worldcat.org/title/886794800">worldcat&lt;/a>&lt;/p>
+&lt;p>G.-L. Gregori, &lt;em>Horti sepulchrales e cepotaphia nelle iscrizioni urbane,&lt;/em> Bullettino della Commissione Archeologica Comunale di Roma &lt;a href="https://search.worldcat.org/title/886794800" target="_blank">worldcat&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>L. Chioffi, &lt;em>Epigrafia e insediamenti: Il caso del suburbio di Roma,&lt;/em> in La forma della città e del territorio (Atlante Tematico di Topografia Antica V Supplemento), edited by S. Quilici Gigli (Rome, 1999) 53 n. 9.&lt;a href="https://search.worldcat.org/title/43384208">worldcat&lt;/a>&lt;/p>
+&lt;p>L. Chioffi, &lt;em>Epigrafia e insediamenti: Il caso del suburbio di Roma,&lt;/em> in La forma della città e del territorio (Atlante Tematico di Topografia Antica V Supplemento), edited by S. Quilici Gigli (Rome, 1999) 53 n. 9.&lt;a href="https://search.worldcat.org/title/43384208" target="_blank">worldcat&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
@@ -261,7 +261,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/229438405" title="Pleiades gazetteer of ancient places">Pleiades: 229438405&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/229438405" title="Pleiades gazetteer of ancient places">Pleiades:229438405&lt;/a>)
 
 
 
@@ -281,7 +281,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/74935822" title="Pleiades gazetteer of ancient places">Pleiades: 74935822&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/74935822" title="Pleiades gazetteer of ancient places">Pleiades:74935822&lt;/a>)
 
 
 
@@ -296,13 +296,13 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=epitaphs">epitaphs&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300028729" title="Art and Architecture Thesaurus (Getty)">AAT:300028729&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=epitaphs">epitaphs&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028729" title="Art and Architecture Thesaurus (Getty)">AAT:300028729&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sepulchral monuments">sepulchral monuments&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005909" title="Art and Architecture Thesaurus (Getty)">AAT:300005909&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sepulchral monuments">sepulchral monuments&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005909" title="Art and Architecture Thesaurus (Getty)">AAT:300005909&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs">tombs&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)">AAT:300005926&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs">tombs&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)">AAT:300005926&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -311,7 +311,7 @@
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>G.-L. Gregori, &lt;em>Horti sepulchrales e cepotaphia nelle iscrizioni urbane,&lt;/em> Bullettino della Commissione Archeologica Comunale di Roma &lt;a href="https://search.worldcat.org/title/886794800">worldcat&lt;/a>&lt;/li>
+&lt;li>G.-L. Gregori, &lt;em>Horti sepulchrales e cepotaphia nelle iscrizioni urbane,&lt;/em> Bullettino della Commissione Archeologica Comunale di Roma &lt;a href="https://search.worldcat.org/title/886794800" target="_blank">worldcat&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
 &lt;!-- 
@@ -328,7 +328,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/60995119" title="Pleiades gazetteer of ancient places">Pleiades: 60995119&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/60995119" title="Pleiades gazetteer of ancient places">Pleiades:60995119&lt;/a>)
 
 
 

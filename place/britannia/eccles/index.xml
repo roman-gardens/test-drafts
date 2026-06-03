@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/79448" title="Pleiades gazetteer of ancient places">Pleiades: 79448&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/79448" title="Pleiades gazetteer of ancient places">Pleiades:79448&lt;/a>)
 
 
 
@@ -26,22 +26,22 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=ditches">ditches&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300006178" title="Art and Architecture Thesaurus (Getty)">AAT:300006178&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=ditches">ditches&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006178" title="Art and Architecture Thesaurus (Getty)">AAT:300006178&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=drains">drains&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300052564" title="Art and Architecture Thesaurus (Getty)">AAT:300052564&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=drains">drains&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300052564" title="Art and Architecture Thesaurus (Getty)">AAT:300052564&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=horticultural containers">horticultural containers&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300198749" title="Art and Architecture Thesaurus (Getty)">AAT:300198749&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=horticultural containers">horticultural containers&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300198749" title="Art and Architecture Thesaurus (Getty)">AAT:300198749&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=piscinae">piscinae (pools)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300375619" title="Art and Architecture Thesaurus (Getty)">AAT:300375619&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=piscinae">piscinae (pools)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300375619" title="Art and Architecture Thesaurus (Getty)">AAT:300375619&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villae rusticae">villae rusticae&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005518" title="Art and Architecture Thesaurus (Getty)">AAT:300005518&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villae rusticae">villae rusticae&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005518" title="Art and Architecture Thesaurus (Getty)">AAT:300005518&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water baths">water baths&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300248755" title="Art and Architecture Thesaurus (Getty)">AAT:300248755&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water baths">water baths&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300248755" title="Art and Architecture Thesaurus (Getty)">AAT:300248755&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -63,8 +63,8 @@
 &lt;p>mid-1st to 4th century CE&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>A. Detsicas, &lt;em>The Cantiaci&lt;/em>, Gloucester, 1983, pp. 103-107, fig. 20. &lt;a href="https://search.worldcat.org/title/247009310">(worldcat)&lt;/a>&lt;/li>
-&lt;li>R.J. Zeepvat, &amp;quot;Fishponds in Roman Britain,&amp;quot; in: M. Aston, ed., &lt;em>Medieval Fish, Fisheries and Fishponds in England. British Archaeological Reports&lt;/em>, Brit. Ser. 182, Oxford, 1988, p. 18, fig. 2. &lt;a href="https://search.worldcat.org/title/490025716">(worldcat)&lt;/a>&lt;/li>
+&lt;li>A. Detsicas, &lt;em>The Cantiaci&lt;/em>, Gloucester, 1983, pp. 103-107, fig. 20. &lt;a href="https://search.worldcat.org/title/247009310" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>R.J. Zeepvat, &amp;quot;Fishponds in Roman Britain,&amp;quot; in: M. Aston, ed., &lt;em>Medieval Fish, Fisheries and Fishponds in England. British Archaeological Reports&lt;/em>, Brit. Ser. 182, Oxford, 1988, p. 18, fig. 2. &lt;a href="https://search.worldcat.org/title/490025716" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;li>A. Detsicas, &amp;quot;A group of pottery from Eccles, Kent,&amp;quot; in &lt;em>Roman Pottery Research in Britain and Northwest Europe, British Archaeological Reports&lt;/em>, Int. Ser. 123, Oxford, 1981, pp. 441-445.&lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
@@ -83,7 +83,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/79448" title="Pleiades gazetteer of ancient places">Pleiades: 79448&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/79448" title="Pleiades gazetteer of ancient places">Pleiades:79448&lt;/a>)
 
 
 
@@ -102,7 +102,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/1029144" title="Thesaurus of Geographic Names (Getty)">TGN: 1029144&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/1029144" title="Thesaurus of Geographic Names (Getty)">TGN:1029144&lt;/a>)
 
 
 

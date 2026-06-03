@@ -15,7 +15,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades: 1052&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places">Pleiades:1052&lt;/a>)
 
 
 
@@ -37,7 +37,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades: 432873&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades:432873&lt;/a>)
 
 
 
@@ -52,16 +52,16 @@
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=stuccoing">stuccoing&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300053875" title="Art and Architecture Thesaurus (Getty)">AAT:300053875&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=stuccoing">stuccoing&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300053875" title="Art and Architecture Thesaurus (Getty)">AAT:300053875&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes">porticoes&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)">AAT:300004145&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=exedrae">exedrae (site elements)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300081589" title="Art and Architecture Thesaurus (Getty)">AAT:300081589&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=exedrae">exedrae (site elements)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300081589" title="Art and Architecture Thesaurus (Getty)">AAT:300081589&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="garden-description">Garden Description&lt;/h2>
@@ -88,7 +88,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades: 432873&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places">Pleiades:432873&lt;/a>)
 
 
 
@@ -107,7 +107,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7031897" title="Thesaurus of Geographic Names (Getty)">TGN: 7031897&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7031897" title="Thesaurus of Geographic Names (Getty)">TGN:7031897&lt;/a>)
 
 
 
@@ -116,6 +116,6 @@
 &lt;h2 id="dates">Dates&lt;/h2>
 &lt;p>Unspecified&lt;/p>
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
-&lt;p>Maiuri, &lt;em>Herculaneum&lt;/em>, pp. 25-26 &lt;a href="https://search.worldcat.org/title/1107784297">(worldcat)&lt;/a>
-Maiuri, &lt;em>Ercolano&lt;/em>, pp. 405-406 and fig. 340 (plan) on p. 404 &lt;a href="https://search.worldcat.org/title/490581395">(worldcat)&lt;/a>
-Ruggiero, &lt;em>Ercolano&lt;/em>, p. 663 &lt;a href="https://search.worldcat.org/title/469320995">(worldcat)&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>Maiuri, &lt;em>Herculaneum&lt;/em>, pp. 25-26 &lt;a href="https://search.worldcat.org/title/1107784297" target="_blank">(worldcat)&lt;/a>
+Maiuri, &lt;em>Ercolano&lt;/em>, pp. 405-406 and fig. 340 (plan) on p. 404 &lt;a href="https://search.worldcat.org/title/490581395" target="_blank">(worldcat)&lt;/a>
+Ruggiero, &lt;em>Ercolano&lt;/em>, p. 663 &lt;a href="https://search.worldcat.org/title/469320995" target="_blank">(worldcat)&lt;/a>&lt;/p></description></item></channel></rss>

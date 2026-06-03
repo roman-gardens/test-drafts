@@ -15,16 +15,16 @@
 &lt;!-- ## Images -->
 &lt;h2 id="bibliography">Bibliography&lt;/h2>
 &lt;ul>
-&lt;li>&lt;em>Monumenta Asiae Minoris Antiquae&lt;/em>. Manchester and London, 1928-1993, VI, 83. &lt;a href="https://www.jstor.org/stable/4341001">(worldcat)&lt;/a>&lt;/li>
-&lt;li>J. Kubin'ska, &lt;em>Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure&lt;/em>. Warsaw, 1968, p. 145. &lt;a href="https://search.worldcat.org/title/164233326">(worldcat)&lt;/a>&lt;/li>
+&lt;li>&lt;em>Monumenta Asiae Minoris Antiquae&lt;/em>. Manchester and London, 1928-1993, VI, 83. &lt;a href="https://www.jstor.org/stable/4341001" target="_blank">(worldcat)&lt;/a>&lt;/li>
+&lt;li>J. Kubin'ska, &lt;em>Les monuments funéraires dans les inscriptions grecques de l'Asie Mineure&lt;/em>. Warsaw, 1968, p. 145. &lt;a href="https://search.worldcat.org/title/164233326" target="_blank">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="keywords">Keywords&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=marble">marble (rock)&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300011443" title="Art and Architecture Thesaurus (Getty)">AAT:300011443&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=marble">marble (rock)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300011443" title="Art and Architecture Thesaurus (Getty)">AAT:300011443&lt;/a>)
 &lt;/li>
 &lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=epitaphs">epitaphs&lt;/a>&lt;a target="_blank" href="http://vocab.getty.edu/page/aat/300028729" title="Art and Architecture Thesaurus (Getty)">AAT:300028729&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=epitaphs">epitaphs&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028729" title="Art and Architecture Thesaurus (Getty)">AAT:300028729&lt;/a>)
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="places">Places&lt;/h2>
@@ -43,7 +43,7 @@
  
 
 
- &lt;a target="_blank" href="https://pleiades.stoa.org/places/638779" title="Pleiades gazetteer of ancient places">Pleiades: 638779&lt;/a>
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/638779" title="Pleiades gazetteer of ancient places">Pleiades:638779&lt;/a>)
 
 
 
@@ -62,7 +62,7 @@
  
 
 
- &lt;a target="_blank" href="http://vocab.getty.edu/page/tgn/7002358" title="Thesaurus of Geographic Names (Getty)">TGN: 7002358&lt;/a>
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7002358" title="Thesaurus of Geographic Names (Getty)">TGN:7002358&lt;/a>)
 
 
 
