@@ -1,5 +1,5 @@
 // custom code for displaying garden search results from Lunr
-function displayResults (qterms, results, store) {
+function displayResults (qterms, results, pageData) {
   const searchResultsSummary = document.getElementById('search-results-summary')
   const searchResultsList = document.getElementById('search-results-list')
   if (results.length) {
@@ -7,7 +7,7 @@ function displayResults (qterms, results, store) {
     let resultList = ''
     // Iterate and build result list elements
     for (const n in results) {
-      const item = store[results[n].ref]
+      const item = pageData[results[n].ref]
       resultList += '<article class="list__item post">'
 
       // breadcrumbs
@@ -62,18 +62,19 @@ if (q) {
   // also split tokens on slash
   lunr.tokenizer.separator = /[\s\-\/]+/
 
-  const idx = lunr(function () {
+  // build a lunr search index from all the page data
+  const searchIndex = lunr(function () {
     this.ref('id')
     this.field('title', {
       boost: 10
     })
     this.field('content')
 
-    for (const key in window.store) {
+    for (const key in window.pageData) {
       this.add({
         id: key,
-        title: window.store[key].title,
-        content: window.store[key].content.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+        title: window.pageData[key].title,
+        content: window.pageData[key].content.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
       })
     }
   })
@@ -87,9 +88,10 @@ if (q) {
 
   try {
     // Perform the search
-    const results = idx.search(qall)
+    window.results = searchIndex.search(qall)
+    //window.results = results
     // Update the list with results
-    displayResults(qterms, results, window.store)
+    displayResults(qterms, window.results, window.pageData)
   }
   catch {
     const searchResultsSummary = document.getElementById('search-results-summary')
