@@ -16,7 +16,7 @@
 &lt;/figure>
 &lt;h2 id="images">Images&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/ephesos/Ephesos%20Northwest%20corner%205a.jpg" alt="Garden painting in the North-West corner of the peristyle showing plants and painted windows with more surrounding context" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/ephesos/Ephesos%20Northwest%20corner%205a.jpg" alt="The painting shows plants and painted windows with more surrounding context" onclick="fullscreen(this)">
  &lt;figcaption>
  Garden painting in the North-West corner of the peristyle&lt;/figcaption>
 &lt;/figure>

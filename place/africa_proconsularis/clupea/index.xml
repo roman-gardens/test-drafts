@@ -8,7 +8,7 @@
 &lt;!-- ## Maps -->
 &lt;h2 id="plans">Plans&lt;/h2>
 &lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/clupea/houses_of_the_bust_of_Marcus_Aurelius.jpg" alt="Plan of the House of Marcus Aurelius" onclick="fullscreen(this)">
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/africa_proconsularis/clupea/houses_of_the_bust_of_Marcus_Aurelius.jpg" alt="" onclick="fullscreen(this)">
  &lt;figcaption>
  Fig. 1: Plan of the House of Marcus Aurelius&lt;div class="credit">Credit: (Lassère, J.-M., Slim, H., 2010)&lt;/div>&lt;/figcaption>
 &lt;/figure>
