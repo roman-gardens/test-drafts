@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cordoba on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/cordoba/</link><description>Recent content in Cordoba on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/hispania_baetica/cordoba/index.xml" rel="self" type="application/rss+xml"/><item><title>Bae 4 1 Fountain Statues</title><link>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/cordoba/bae_4_1_fountain_statues/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/cordoba/bae_4_1_fountain_statues/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cordoba on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/cordoba/</link><description>Recent content in Cordoba on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/hispania_baetica/cordoba/index.xml" rel="self" type="application/rss+xml"/><item><title>Bae 4 1 Fountain Statues</title><link>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/cordoba/bae_4_1_fountain_statues/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/cordoba/bae_4_1_fountain_statues/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/cordoba/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/cordoba/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/cordoba/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/cordoba/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/cordoba/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/cordoba/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -55,12 +55,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -76,53 +76,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Bae 4 2 Fountain</title><link>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/cordoba/bae_4_2_fountain/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/cordoba/bae_4_2_fountain/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Bae 4 2 Fountain</title><link>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/cordoba/bae_4_2_fountain/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/hispania_baetica/cordoba/bae_4_2_fountain/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/cordoba/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/cordoba/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/cordoba/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/cordoba/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/cordoba/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/hispania_baetica/cordoba/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -140,12 +140,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -161,11 +161,11 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item></channel></rss>
+--&gt;</description></item></channel></rss>

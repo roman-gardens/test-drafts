@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thamugadi on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/</link><description>Recent content in Thamugadi on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden Cicero Thabudeiensis</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/tomb_garden_cicero_thabudeiensis/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/tomb_garden_cicero_thabudeiensis/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thamugadi on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/</link><description>Recent content in Thamugadi on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden Cicero Thabudeiensis</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/tomb_garden_cicero_thabudeiensis/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/tomb_garden_cicero_thabudeiensis/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -55,12 +55,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -76,809 +76,809 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Hermaphrodite House (Maison de l'Hermaphrodite)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/hermaphrodite_house/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/hermaphrodite_house/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;ul>
-&lt;li>
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Numidia" title='search for "Numidia" within GRE'>Numidia&lt;/a>
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades:981539&lt;/a>)
-
-
-
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="province-description">Province Description&lt;/h2>
-&lt;p>The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.&lt;/p>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/">Thamugadi&lt;/a>&lt;/li>
-&lt;li>
+--&gt;</description></item><item><title>Hermaphrodite House (Maison de l'Hermaphrodite)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/hermaphrodite_house/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/hermaphrodite_house/</guid><description>&lt;h2 id="province"&gt;Province&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'>Thamugadi&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Numidia" title='search for "Numidia" within GRE'&gt;Numidia&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places"&gt;Pleiades:981539&lt;/a&gt;)
 
 
 
-&lt;/li>
-&lt;/ul>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/timgad_city_plan_hermaphrodite_house.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig. 1: Plan of Thamugadi&lt;div class="credit">Credit: (Courtois, C., 1951)&lt;/div>&lt;/figcaption>
-&lt;/figure>
-&lt;h2 id="location-description">Location Description&lt;/h2>
-&lt;p>Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p>
-&lt;h2 id="garden">Garden&lt;/h2>
-&lt;p>Hermaphrodite House (Maison de l'Hermaphrodite)&lt;/p>
-&lt;h2 id="keywords">Keywords&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (rooms)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)">AAT:300004359&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>)
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>The large house was laid out around a large peristyle of 22 columns. In the axis of the &lt;em>triclinium&lt;/em> was a rectangular pool. The courtyard may have been planted (Plan view, Fig. 1).&lt;/p>
-&lt;!-- ## Maps -->
-&lt;h2 id="plans">Plans&lt;/h2>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/hermaphrodite_house.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig. 1: Plan of the Hermaphrodite House&lt;div class="credit">Credit: (Germain, S., 1969, fig. 7)&lt;/div>&lt;/figcaption>
-&lt;/figure>
-&lt;!-- ## Images -->
-&lt;h2 id="dates">Dates&lt;/h2>
-&lt;p>3rd century CE?&lt;/p>
-&lt;h2 id="bibliography">Bibliography&lt;/h2>
-&lt;ul>
-&lt;li>Ballu, A., &lt;em>Les ruines de Timgad&lt;/em>, Paris, 1903, p. 90-94. &lt;a href="https://search.worldcat.org/title/804848941" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Germain, S., &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 65, fig. 7. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="places">Places&lt;/h2>
-&lt;ul>
-&lt;li>
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="province-description"&gt;Province Description&lt;/h2&gt;
+&lt;p&gt;The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.&lt;/p&gt;
+&lt;h2 id="location"&gt;Location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/"&gt;Thamugadi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'>Thamugadi&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'&gt;Thamugadi&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places"&gt;Pleiades:334636&lt;/a&gt;)
 
 
 
-&lt;/li>
-&lt;li>
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Timgad%20%28deserted%20settlement%29" title='search for "Timgad (deserted settlement)" within GRE'>Timgad (deserted settlement)&lt;/a>
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN:7001328&lt;/a>)
-
-
-
-&lt;/li>
-&lt;/ul></description></item><item><title>House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_at_the_w_of_the_filadelfes/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_at_the_w_of_the_filadelfes/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;ul>
-&lt;li>
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Numidia" title='search for "Numidia" within GRE'>Numidia&lt;/a>
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades:981539&lt;/a>)
-
-
-
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="province-description">Province Description&lt;/h2>
-&lt;p>The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.&lt;/p>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/">Thamugadi&lt;/a>&lt;/li>
-&lt;li>
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'>Thamugadi&lt;/a>
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
-
-
-
-&lt;/li>
-&lt;/ul>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/timgad_city_plan_house_of_the_west_of_the_filadelfes.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig. 1: Plan of Thamugadi&lt;div class="credit">Credit: (Courtois, C., 1951)&lt;/div>&lt;/figcaption>
-&lt;/figure>
-&lt;h2 id="location-description">Location Description&lt;/h2>
-&lt;p>Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p>
-&lt;h2 id="garden">Garden&lt;/h2>
-&lt;p>House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)&lt;/p>
-&lt;h2 id="keywords">Keywords&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>)
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>This large house (2500m2) was laid out around two peristyles. The E peristyle had 12 columns onto which at least three rooms opened. The large peristyle on the W, was bordered by three porticos, its large courtyard may have been planted. Between the peristyles was placed a reception room that opened into each of them.&lt;/p>
-&lt;!-- ## Maps -->
-&lt;h2 id="plans">Plans&lt;/h2>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/house_at%20_the_w%20_of_the_filadelfes.jpg" alt="Plan of the House at the west of the filadelfes Baths at Thamugadi; Les mosaïques de Timgad, p. 81, fig. 10" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig. 1: Plan of the House at the west of the filadelfes Baths.&lt;div class="credit">Credit: (Germain, S., 1969, fig. 10)&lt;/div>&lt;/figcaption>
-&lt;/figure>
-&lt;!-- ## Images -->
-&lt;h2 id="dates">Dates&lt;/h2>
-&lt;p>3rd-5th century CE?&lt;/p>
-&lt;h2 id="bibliography">Bibliography&lt;/h2>
-&lt;ul>
-&lt;li>Ballu A., &lt;em>Rapport&lt;/em>, 1922, p. 47-53. &lt;a href="https://search.worldcat.org/title/557425503" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Ballu A., &lt;em>Rapport&lt;/em> 1923, p. 45-47: plan dépliant. &lt;a href="https://search.worldcat.org/title/494571409" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Germain, S. &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 81, fig. 10. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="places">Places&lt;/h2>
-&lt;ul>
-&lt;li>
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/timgad_city_plan_hermaphrodite_house.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 1: Plan of Thamugadi&lt;div class="credit"&gt;Credit: (Courtois, C., 1951)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="location-description"&gt;Location Description&lt;/h2&gt;
+&lt;p&gt;Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p&gt;
+&lt;h2 id="garden"&gt;Garden&lt;/h2&gt;
+&lt;p&gt;Hermaphrodite House (Maison de l'Hermaphrodite)&lt;/p&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses"&gt;peristyle houses&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005452&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus"&gt;domus&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005506&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia"&gt;triclinia (rooms)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004359&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools"&gt;pools (bodies of water)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008692&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;The large house was laid out around a large peristyle of 22 columns. In the axis of the &lt;em&gt;triclinium&lt;/em&gt; was a rectangular pool. The courtyard may have been planted (Plan view, Fig. 1).&lt;/p&gt;
+&lt;!-- ## Maps --&gt;
+&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/hermaphrodite_house.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 1: Plan of the Hermaphrodite House&lt;div class="credit"&gt;Credit: (Germain, S., 1969, fig. 7)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!-- ## Images --&gt;
+&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;3rd century CE?&lt;/p&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ballu, A., &lt;em&gt;Les ruines de Timgad&lt;/em&gt;, Paris, 1903, p. 90-94. &lt;a href="https://search.worldcat.org/title/804848941" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Courtois, C., &lt;em&gt;Timgad, antique Thamugadi&lt;/em&gt;, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Germain, S., &lt;em&gt;Les mosaïques de Timgad&lt;/em&gt;, Paris, 1969, p. 65, fig. 7. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'>Thamugadi&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'&gt;Thamugadi&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places"&gt;Pleiades:334636&lt;/a&gt;)
 
 
 
-&lt;/li>
-&lt;li>
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Timgad%20%28deserted%20settlement%29" title='search for "Timgad (deserted settlement)" within GRE'>Timgad (deserted settlement)&lt;/a>
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN:7001328&lt;/a>)
-
-
-
-&lt;/li>
-&lt;/ul></description></item><item><title>House of Sertius (Maison de Sertius)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_of_sertius/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_of_sertius/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;ul>
-&lt;li>
+&lt;/li&gt;
+&lt;li&gt;
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Numidia" title='search for "Numidia" within GRE'>Numidia&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Timgad%20%28deserted%20settlement%29" title='search for "Timgad (deserted settlement)" within GRE'&gt;Timgad (deserted settlement)&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades:981539&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7001328&lt;/a&gt;)
 
 
 
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="province-description">Province Description&lt;/h2>
-&lt;p>The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.&lt;/p>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/">Thamugadi&lt;/a>&lt;/li>
-&lt;li>
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_at_the_w_of_the_filadelfes/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_at_the_w_of_the_filadelfes/</guid><description>&lt;h2 id="province"&gt;Province&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'>Thamugadi&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Numidia" title='search for "Numidia" within GRE'&gt;Numidia&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places"&gt;Pleiades:981539&lt;/a&gt;)
 
 
 
-&lt;/li>
-&lt;/ul>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/timgad_city_plan_house_of_the_sertius.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig. 1: Plan of Thamugadi&lt;div class="credit">Credit: (Courtois, C., 1951)&lt;/div>&lt;/figcaption>
-&lt;/figure>
-&lt;h2 id="location-description">Location Description&lt;/h2>
-&lt;p>Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p>
-&lt;h2 id="garden">Garden&lt;/h2>
-&lt;p>House of Sertius (Maison de Sertius)&lt;/p>
-&lt;h2 id="keywords">Keywords&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=semicircular basin">semicircular basin&lt;/a>
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia">triclinia (rooms)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)">AAT:300004359&lt;/a>)
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>This large &lt;em>domus&lt;/em> the result of the combining of two houses, is located at the periphery of the center of the city. The &lt;em>domus&lt;/em> is laid out around two peristyles. The first, near the vestibule had a long rectangular basin placed in the axis of the &lt;em>triclinium&lt;/em>, the two strips that bordered the pool may have been planted. The second peristyle with 8 columns had a semi-circular basin (Plan view Fi.1).&lt;/p>
-&lt;!-- ## Maps -->
-&lt;h2 id="plans">Plans&lt;/h2>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/house_of%20_sertius.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig. 1: Plan of the House of Sertius&lt;div class="credit">Credit: (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)&lt;/div>&lt;/figcaption>
-&lt;/figure>
-&lt;!-- ## Images -->
-&lt;h2 id="dates">Dates&lt;/h2>
-&lt;p>3rd-5th century CE?&lt;/p>
-&lt;h2 id="bibliography">Bibliography&lt;/h2>
-&lt;ul>
-&lt;li>Boeswillwald, E., Cagnat, R., Ballu, A., &lt;em>Timgad une cité africaine sous l'Empire romain&lt;/em>, Paris, 1905; pp. 326-333, plan fig. 152. &lt;a href="https://search.worldcat.org/title/898850651" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Paris, 1951, p 53, plan with scale. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Germain, S. &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 59. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Lassus, J., &amp;quot;Une opération immobilière à Timgad&amp;quot;, in &lt;em>Mélanges d'archéologie et d'histoire offerts à André Piganiol&lt;/em>, Paris, 1966, pp. 1221-1231. &lt;a href="https://search.worldcat.org/title/419236627" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="places">Places&lt;/h2>
-&lt;ul>
-&lt;li>
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="province-description"&gt;Province Description&lt;/h2&gt;
+&lt;p&gt;The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.&lt;/p&gt;
+&lt;h2 id="location"&gt;Location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/"&gt;Thamugadi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'>Thamugadi&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'&gt;Thamugadi&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places"&gt;Pleiades:334636&lt;/a&gt;)
 
 
 
-&lt;/li>
-&lt;li>
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Timgad%20%28deserted%20settlement%29" title='search for "Timgad (deserted settlement)" within GRE'>Timgad (deserted settlement)&lt;/a>
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN:7001328&lt;/a>)
-
-
-
-&lt;/li>
-&lt;/ul></description></item><item><title>House of the Planters (Maison aux jardinières)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_of_the_planters/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_of_the_planters/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;ul>
-&lt;li>
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Numidia" title='search for "Numidia" within GRE'>Numidia&lt;/a>
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades:981539&lt;/a>)
-
-
-
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="province-description">Province Description&lt;/h2>
-&lt;p>The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.&lt;/p>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/">Thamugadi&lt;/a>&lt;/li>
-&lt;li>
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/timgad_city_plan_house_of_the_west_of_the_filadelfes.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 1: Plan of Thamugadi&lt;div class="credit"&gt;Credit: (Courtois, C., 1951)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="location-description"&gt;Location Description&lt;/h2&gt;
+&lt;p&gt;Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p&gt;
+&lt;h2 id="garden"&gt;Garden&lt;/h2&gt;
+&lt;p&gt;House at the west of the Filadelfes (Maison à l'ouest des Bains des Filadelfes)&lt;/p&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses"&gt;peristyle houses&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005452&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus"&gt;domus&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005506&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;This large house (2500m2) was laid out around two peristyles. The E peristyle had 12 columns onto which at least three rooms opened. The large peristyle on the W, was bordered by three porticos, its large courtyard may have been planted. Between the peristyles was placed a reception room that opened into each of them.&lt;/p&gt;
+&lt;!-- ## Maps --&gt;
+&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/house_at%20_the_w%20_of_the_filadelfes.jpg" alt="Plan of the House at the west of the filadelfes Baths at Thamugadi; Les mosaïques de Timgad, p. 81, fig. 10" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 1: Plan of the House at the west of the filadelfes Baths.&lt;div class="credit"&gt;Credit: (Germain, S., 1969, fig. 10)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!-- ## Images --&gt;
+&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;3rd-5th century CE?&lt;/p&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ballu A., &lt;em&gt;Rapport&lt;/em&gt;, 1922, p. 47-53. &lt;a href="https://search.worldcat.org/title/557425503" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ballu A., &lt;em&gt;Rapport&lt;/em&gt; 1923, p. 45-47: plan dépliant. &lt;a href="https://search.worldcat.org/title/494571409" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Courtois, C., &lt;em&gt;Timgad, antique Thamugadi&lt;/em&gt;, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Germain, S. &lt;em&gt;Les mosaïques de Timgad&lt;/em&gt;, Paris, 1969, p. 81, fig. 10. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'>Thamugadi&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'&gt;Thamugadi&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places"&gt;Pleiades:334636&lt;/a&gt;)
 
 
 
-&lt;/li>
-&lt;/ul>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/timgad_city_plan_house_of_the_planters.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig. 1: Plan of Thamugadi&lt;div class="credit">Credit: (Courtois, C., 1951)&lt;/div>&lt;/figcaption>
-&lt;/figure>
-&lt;h2 id="location-description">Location Description&lt;/h2>
-&lt;p>Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p>
-&lt;h2 id="garden">Garden&lt;/h2>
-&lt;p>House of the Planters (Maison aux jardinières)&lt;/p>
-&lt;h2 id="keywords">Keywords&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water wells">water wells&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300152327" title="Art and Architecture Thesaurus (Getty)">AAT:300152327&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=planters">planters (containers)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300237566" title="Art and Architecture Thesaurus (Getty)">AAT:300237566&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=herms">herms&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300047170" title="Art and Architecture Thesaurus (Getty)">AAT:300047170&lt;/a>)
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>Located SW of the Decumanus and NE of the forum, the house of the &amp;quot;Jardinières&amp;quot; almost square shaped, was laid out around a peristyle of 10 columns. Along the three porticoes and the angles of the fourth were arranged planters (10,50 x10,50 m) whose contours are curved. Double herm-heads or two sided-plaque with masks were found, they may have surmounted the corner pilasters of the courtyard. In the middle was a well. Facing the entrance and opening towards the courtyard, a large reception room was surrounded on its two sides by a vestibule leading to a room. (Plan view Fig.1; Fig.2)&lt;/p>
-&lt;!-- ## Maps -->
-&lt;h2 id="plans">Plans&lt;/h2>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/house_of_the_planters1.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig. 1: Plan of the House of the Planters at Thamugadi&lt;div class="credit">Credit: (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 40)&lt;/div>&lt;/figcaption>
-&lt;/figure>
-&lt;h2 id="images">Images&lt;/h2>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/house_of_the_planters_drawing.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig. 2: Drawing of the courtyard of the House of the Planter&lt;div class="credit">Credit: (Ballu, A., 1897,fig. 36)&lt;/div>&lt;/figcaption>
-&lt;/figure>
+&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Timgad%20%28deserted%20settlement%29" title='search for "Timgad (deserted settlement)" within GRE'&gt;Timgad (deserted settlement)&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7001328&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>House of Sertius (Maison de Sertius)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_of_sertius/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_of_sertius/</guid><description>&lt;h2 id="province"&gt;Province&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Numidia" title='search for "Numidia" within GRE'&gt;Numidia&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places"&gt;Pleiades:981539&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="province-description"&gt;Province Description&lt;/h2&gt;
+&lt;p&gt;The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.&lt;/p&gt;
+&lt;h2 id="location"&gt;Location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/"&gt;Thamugadi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'&gt;Thamugadi&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places"&gt;Pleiades:334636&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/timgad_city_plan_house_of_the_sertius.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 1: Plan of Thamugadi&lt;div class="credit"&gt;Credit: (Courtois, C., 1951)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="location-description"&gt;Location Description&lt;/h2&gt;
+&lt;p&gt;Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p&gt;
+&lt;h2 id="garden"&gt;Garden&lt;/h2&gt;
+&lt;p&gt;House of Sertius (Maison de Sertius)&lt;/p&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses"&gt;peristyle houses&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005452&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus"&gt;domus&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005506&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=semicircular basin"&gt;semicircular basin&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools"&gt;pools (bodies of water)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008692&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=triclinia"&gt;triclinia (rooms)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004359" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004359&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;This large &lt;em&gt;domus&lt;/em&gt; the result of the combining of two houses, is located at the periphery of the center of the city. The &lt;em&gt;domus&lt;/em&gt; is laid out around two peristyles. The first, near the vestibule had a long rectangular basin placed in the axis of the &lt;em&gt;triclinium&lt;/em&gt;, the two strips that bordered the pool may have been planted. The second peristyle with 8 columns had a semi-circular basin (Plan view Fi.1).&lt;/p&gt;
+&lt;!-- ## Maps --&gt;
+&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/house_of%20_sertius.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 1: Plan of the House of Sertius&lt;div class="credit"&gt;Credit: (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 152)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!-- ## Images --&gt;
+&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;3rd-5th century CE?&lt;/p&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Boeswillwald, E., Cagnat, R., Ballu, A., &lt;em&gt;Timgad une cité africaine sous l'Empire romain&lt;/em&gt;, Paris, 1905; pp. 326-333, plan fig. 152. &lt;a href="https://search.worldcat.org/title/898850651" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Courtois, C., &lt;em&gt;Timgad, antique Thamugadi&lt;/em&gt;, Paris, 1951, p 53, plan with scale. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Germain, S. &lt;em&gt;Les mosaïques de Timgad&lt;/em&gt;, Paris, 1969, p. 59. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lassus, J., &amp;quot;Une opération immobilière à Timgad&amp;quot;, in &lt;em&gt;Mélanges d'archéologie et d'histoire offerts à André Piganiol&lt;/em&gt;, Paris, 1966, pp. 1221-1231. &lt;a href="https://search.worldcat.org/title/419236627" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'&gt;Thamugadi&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places"&gt;Pleiades:334636&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Timgad%20%28deserted%20settlement%29" title='search for "Timgad (deserted settlement)" within GRE'&gt;Timgad (deserted settlement)&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7001328&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>House of the Planters (Maison aux jardinières)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_of_the_planters/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_of_the_planters/</guid><description>&lt;h2 id="province"&gt;Province&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Numidia" title='search for "Numidia" within GRE'&gt;Numidia&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places"&gt;Pleiades:981539&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="province-description"&gt;Province Description&lt;/h2&gt;
+&lt;p&gt;The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.&lt;/p&gt;
+&lt;h2 id="location"&gt;Location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/"&gt;Thamugadi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'&gt;Thamugadi&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places"&gt;Pleiades:334636&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/timgad_city_plan_house_of_the_planters.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 1: Plan of Thamugadi&lt;div class="credit"&gt;Credit: (Courtois, C., 1951)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="location-description"&gt;Location Description&lt;/h2&gt;
+&lt;p&gt;Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p&gt;
+&lt;h2 id="garden"&gt;Garden&lt;/h2&gt;
+&lt;p&gt;House of the Planters (Maison aux jardinières)&lt;/p&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses"&gt;peristyle houses&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005452&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus"&gt;domus&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005506&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water wells"&gt;water wells&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300152327" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300152327&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=planters"&gt;planters (containers)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300237566" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300237566&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=herms"&gt;herms&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300047170" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300047170&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;Located SW of the Decumanus and NE of the forum, the house of the &amp;quot;Jardinières&amp;quot; almost square shaped, was laid out around a peristyle of 10 columns. Along the three porticoes and the angles of the fourth were arranged planters (10,50 x10,50 m) whose contours are curved. Double herm-heads or two sided-plaque with masks were found, they may have surmounted the corner pilasters of the courtyard. In the middle was a well. Facing the entrance and opening towards the courtyard, a large reception room was surrounded on its two sides by a vestibule leading to a room. (Plan view Fig.1; Fig.2)&lt;/p&gt;
+&lt;!-- ## Maps --&gt;
+&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/house_of_the_planters1.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 1: Plan of the House of the Planters at Thamugadi&lt;div class="credit"&gt;Credit: (Boeswillwald, E., Cagnat, R., Ballu, A., 1905, plan fig. 40)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="images"&gt;Images&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/house_of_the_planters_drawing.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 2: Drawing of the courtyard of the House of the Planter&lt;div class="credit"&gt;Credit: (Ballu, A., 1897,fig. 36)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;!--
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/%23" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ).&lt;/figcaption>
-&lt;/figure>
--->
-&lt;h2 id="dates">Dates&lt;/h2>
-&lt;p>2nd-3rd century CE?&lt;/p>
-&lt;h2 id="bibliography">Bibliography&lt;/h2>
-&lt;ul>
-&lt;li>Ballu, A., &lt;em>Les ruines de Timgad (Antique Thamugadi)&lt;/em>, Paris, 1897, pp. 224-226, plan fig. 36. S. &lt;a href="https://search.worldcat.org/title/1055093825" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Boeswillwald, E., Cagnat, R., Ballu, A., &lt;em>Timgad: une cité africaine sous l'Empire romain&lt;/em>, Paris, Leroux, 1905, pp. 88-92, Plan fig.40.&lt;a href="https://search.worldcat.org/title/156040038" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Germain, S., &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 37. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="places">Places&lt;/h2>
-&lt;ul>
-&lt;li>
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/%23" alt="Photographic view of the courtyard of the House of the Planters (WFJ) at Thamugadi" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 3 Photographic view of the courtyard of the House of the Planters (WFJ).&lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;2nd-3rd century CE?&lt;/p&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ballu, A., &lt;em&gt;Les ruines de Timgad (Antique Thamugadi)&lt;/em&gt;, Paris, 1897, pp. 224-226, plan fig. 36. S. &lt;a href="https://search.worldcat.org/title/1055093825" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Boeswillwald, E., Cagnat, R., Ballu, A., &lt;em&gt;Timgad: une cité africaine sous l'Empire romain&lt;/em&gt;, Paris, Leroux, 1905, pp. 88-92, Plan fig.40.&lt;a href="https://search.worldcat.org/title/156040038" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Courtois, C., &lt;em&gt;Timgad, antique Thamugadi&lt;/em&gt;, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Germain, S., &lt;em&gt;Les mosaïques de Timgad&lt;/em&gt;, Paris, 1969, p. 37. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'>Thamugadi&lt;/a>
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
-
-
-
-&lt;/li>
-&lt;li>
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Timgad%20%28deserted%20settlement%29" title='search for "Timgad (deserted settlement)" within GRE'>Timgad (deserted settlement)&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'&gt;Thamugadi&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN:7001328&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places"&gt;Pleiades:334636&lt;/a&gt;)
 
 
 
-&lt;/li>
-&lt;/ul></description></item><item><title>House of the Warehouse (Maison de l'entrepôt)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_of_the_warehouse/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_of_the_warehouse/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;ul>
-&lt;li>
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Numidia" title='search for "Numidia" within GRE'>Numidia&lt;/a>
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades:981539&lt;/a>)
-
-
-
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="province-description">Province Description&lt;/h2>
-&lt;p>The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.&lt;/p>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/">Thamugadi&lt;/a>&lt;/li>
-&lt;li>
+&lt;/li&gt;
+&lt;li&gt;
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'>Thamugadi&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Timgad%20%28deserted%20settlement%29" title='search for "Timgad (deserted settlement)" within GRE'&gt;Timgad (deserted settlement)&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7001328&lt;/a&gt;)
 
 
 
-&lt;/li>
-&lt;/ul>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/timgad_city_plan_house_of_the_warehouse.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig. 1: Plan of Thamugadi&lt;div class="credit">Credit: (Courtois, C., 1951)&lt;/div>&lt;/figcaption>
-&lt;/figure>
-&lt;h2 id="location-description">Location Description&lt;/h2>
-&lt;p>Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p>
-&lt;h2 id="garden">Garden&lt;/h2>
-&lt;p>House of the Warehouse (Maison de l'entrepôt)&lt;/p>
-&lt;h2 id="keywords">Keywords&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses">peristyle houses&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)">AAT:300005452&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus">domus&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)">AAT:300005506&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=semicircular basin">semicircular basin&lt;/a>
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>)
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>This large house was laid out around two peristyles (A,B) arranged along the N S axis. The plan presents a complex layout notably in the southern part of the &lt;em>domus&lt;/em> upon which the excavators did not comment thoroughly (Plan view, Fig. 1).&lt;/p>
-&lt;p>The S part of the &lt;em>domus&lt;/em> was probably added in a latter period. It presents a peristyle (B) on which a reception room (C) projected and a series of galleries terminating with an apsidal form. The N peristyle (A) had four porticoes, the S gallery was a continuous colonnade that crossed the W and E porticoes. On the N and W, a vestibule and reception rooms opened towards the peristyle (A). A large rectangular basin oriented NS was placed on the axis of the vestibule, which projected into the courtyard. It seems that the S reception room (C) opened also toward the N peristyle (A). Along the NS axis a semi-circular basin projecting into the peristyle (B) and facing a reception room was placed in between the fourth and the fifth columns. The courtyards of the peristyles may have been planted.&lt;/p>
-&lt;!-- ## Maps -->
-&lt;h2 id="plans">Plans&lt;/h2>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/house_of_the_warehouse.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig. 1: Plan of the House of the Warehouse at Thamugadi; Les mosaïques de Timgad, p. 88, fig. 12&lt;div class="credit">Credit: (Germain, S., 1969, fig. 12)&lt;/div>&lt;/figcaption>
-&lt;/figure>
-&lt;!-- ## Images -->
-&lt;h2 id="dates">Dates&lt;/h2>
-&lt;p>Unspecified&lt;/p>
-&lt;h2 id="bibliography">Bibliography&lt;/h2>
-&lt;ul>
-&lt;li>Ballu, A., &lt;em>Les ruines de Timgad, Sept années de découvertes&lt;/em>, Paris, 1911, p. 49-53,120, plan p. 51. &lt;a href="https://search.worldcat.org/title/802835102" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Germain, S., &lt;em>Les mosaïques de Timgad&lt;/em>, Paris, 1969, p. 88, fig. 12. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="places">Places&lt;/h2>
-&lt;ul>
-&lt;li>
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>House of the Warehouse (Maison de l'entrepôt)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_of_the_warehouse/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/house_of_the_warehouse/</guid><description>&lt;h2 id="province"&gt;Province&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'>Thamugadi&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Numidia" title='search for "Numidia" within GRE'&gt;Numidia&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places"&gt;Pleiades:981539&lt;/a&gt;)
 
 
 
-&lt;/li>
-&lt;li>
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Timgad%20%28deserted%20settlement%29" title='search for "Timgad (deserted settlement)" within GRE'>Timgad (deserted settlement)&lt;/a>
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN:7001328&lt;/a>)
-
-
-
-&lt;/li>
-&lt;/ul></description></item><item><title>Water Sanctuary Aqua Septimiana Felix (Sanctuaire des eaux)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/water_sanctuary_aqua_eptimania_felix/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/water_sanctuary_aqua_eptimania_felix/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;ul>
-&lt;li>
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="province-description"&gt;Province Description&lt;/h2&gt;
+&lt;p&gt;The frontier between Numidia and Mauretania fluctuated during early the African kingdoms. It was fixed at the river of Ampsaga during Caesar's reign when he rewarded his ally King Bocchus, giving him part of the Numidian kingdom. By 31 BCE, Numidia (also known as Africa Nova) was under direct Roman control, becoming attached to the province of Africa Proconsularis. Toward 194 CE, Septimus Severus detached most of the Numidia territory from the province of Africa Proconsularis, forming a special province governed from Cirta by a procurator, subordinate to the imperial legate. With the Diocletian reforms, the whole of Roman Africa (with exception of Mauretania Tingitana) constituted a single diocese subdivided into six provinces, including Numidia Cirtensis with Cirta as capital.&lt;/p&gt;
+&lt;h2 id="location"&gt;Location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/"&gt;Thamugadi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Numidia" title='search for "Numidia" within GRE'>Numidia&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'&gt;Thamugadi&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places">Pleiades:981539&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places"&gt;Pleiades:334636&lt;/a&gt;)
 
 
 
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="province-description">Province Description&lt;/h2>
-&lt;p>Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/">Thamugadi&lt;/a>&lt;/li>
-&lt;li>
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'>Thamugadi&lt;/a>
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
-
-
-
-&lt;/li>
-&lt;/ul>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/timgad_city_plan_water_sanctuary.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig. 1: Plan of Thamugadi&lt;div class="credit">Credit: (Courtois, C., 1951)&lt;/div>&lt;/figcaption>
-&lt;/figure>
-&lt;h2 id="location-description">Location Description&lt;/h2>
-&lt;p>Timgad, ancient Thamugadi was founded as a colony under Trajan. The city had a checker board plan, that measured 11ha. In the center was the forum with its Curia, an imperial temple and the basilica. Between the IInd and the IVth century the city expanded out of its original layout. Temples, baths and a market were built and the center of the city was renovated with the construction of the library, the market and luxurious houses. At the end of the IVth century the bishop Optatus of Timgad a prominent member of the donatist church constructed the great west basilica. During the Byzantine conquest a fortress was erected on the water sanctuary dating to the IIIrd and IVth century.&lt;/p>
-&lt;h2 id="garden">Garden&lt;/h2>
-&lt;p>Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)&lt;/p>
-&lt;h2 id="keywords">Keywords&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mural paintings">mural paintings (visual works)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300033644" title="Art and Architecture Thesaurus (Getty)">AAT:300033644&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=viridarium">viridarium&lt;/a>
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=temples">temples (buildings)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300007595" title="Art and Architecture Thesaurus (Getty)">AAT:300007595&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sanctuaries">sanctuaries (religious building spaces)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004575" title="Art and Architecture Thesaurus (Getty)">AAT:300004575&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools">pools (bodies of water)&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)">AAT:300008692&lt;/a>)
-&lt;/li>
-&lt;li>
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions">inscriptions&lt;/a> (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)">AAT:300028702&lt;/a>)
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;p>The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of the city. An inscription that was discovered during the Byzantine fort excavations enumerates the embellishments that were undertaken in 213 by the city of Timgad for the sanctuary, Aqua Septimiana Felix: one of which, a bronze balustrade surrounding the spring (a pool with marble slabs of 3,6 m x 13, 60 m) and a &lt;em>viridarium&lt;/em> surrounded by porticoes decorated with paintings (&lt;em>porticus virdiari (sic) picturis ornatas&lt;/em>).&lt;/p>
-&lt;!-- ## Maps -->
-&lt;h2 id="plans">Plans&lt;/h2>
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/water_sanctuary%20_aqua_eptimania_felix1.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix&lt;div class="credit">Credit: (Lassus, J., 1981, fig. 9)&lt;/div>&lt;/figcaption>
-&lt;/figure>
-&lt;!-- ## Images -->
-&lt;h2 id="dates">Dates&lt;/h2>
-&lt;p>2nd-3rd century CE&lt;/p>
-&lt;h2 id="bibliography">Bibliography&lt;/h2>
-&lt;ul>
-&lt;li>Courtois, C., &lt;em>Timgad, antique Thamugadi&lt;/em>, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Malek, A.-A., &amp;quot;Le Jardin Dans Les Sanctuaires De L'afrique Romaine: Premières Approches.&amp;quot;, in &lt;em>Du Culte Aux Sanctuaires : L'architecture Religieuse Dans L'afrique Romaine Et Byzantine : Actes Du Colloque&lt;/em>, 18-19 Avril 2013, Paris, Fondation Simone Et Cino Del Duca... -. (2018), p. 362, fig. 12. &lt;a href="https://search.worldcat.org/title/1201712466" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Lassus, J., &lt;em>La forteresse byzantine de Thamugadi, Fouilles à Timgad&lt;/em>, 1938-1956, Paris, 1981, plan p. 25, fig. 9, pp. 215-17, fig. 174-76. &lt;a href="https://search.worldcat.org/title/906459184" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Leschi, L., &amp;quot;Découvertes récentes à Timgad: Aqua Septimiana Felix&amp;quot;, in &lt;em>CRAI&lt;/em>, 1947, pp. 87-99. &lt;a href="https://search.worldcat.org/title/4649794390" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Leschi, L., &lt;em>Etudes d'épigraphie, d'archéologie et d'histoire africaines&lt;/em>, Paris, 1957, pp. 240-45, ici pp. 242. &lt;a href="https://search.worldcat.org/title/78689255" target="_blank">(worldcat)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="places">Places&lt;/h2>
-&lt;ul>
-&lt;li>
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/timgad_city_plan_house_of_the_warehouse.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 1: Plan of Thamugadi&lt;div class="credit"&gt;Credit: (Courtois, C., 1951)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="location-description"&gt;Location Description&lt;/h2&gt;
+&lt;p&gt;Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p&gt;
+&lt;h2 id="garden"&gt;Garden&lt;/h2&gt;
+&lt;p&gt;House of the Warehouse (Maison de l'entrepôt)&lt;/p&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyle houses"&gt;peristyle houses&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005452" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005452&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus"&gt;domus&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005506&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=semicircular basin"&gt;semicircular basin&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools"&gt;pools (bodies of water)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008692&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;This large house was laid out around two peristyles (A,B) arranged along the N S axis. The plan presents a complex layout notably in the southern part of the &lt;em&gt;domus&lt;/em&gt; upon which the excavators did not comment thoroughly (Plan view, Fig. 1).&lt;/p&gt;
+&lt;p&gt;The S part of the &lt;em&gt;domus&lt;/em&gt; was probably added in a latter period. It presents a peristyle (B) on which a reception room (C) projected and a series of galleries terminating with an apsidal form. The N peristyle (A) had four porticoes, the S gallery was a continuous colonnade that crossed the W and E porticoes. On the N and W, a vestibule and reception rooms opened towards the peristyle (A). A large rectangular basin oriented NS was placed on the axis of the vestibule, which projected into the courtyard. It seems that the S reception room (C) opened also toward the N peristyle (A). Along the NS axis a semi-circular basin projecting into the peristyle (B) and facing a reception room was placed in between the fourth and the fifth columns. The courtyards of the peristyles may have been planted.&lt;/p&gt;
+&lt;!-- ## Maps --&gt;
+&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/house_of_the_warehouse.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 1: Plan of the House of the Warehouse at Thamugadi; Les mosaïques de Timgad, p. 88, fig. 12&lt;div class="credit"&gt;Credit: (Germain, S., 1969, fig. 12)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!-- ## Images --&gt;
+&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;Unspecified&lt;/p&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ballu, A., &lt;em&gt;Les ruines de Timgad, Sept années de découvertes&lt;/em&gt;, Paris, 1911, p. 49-53,120, plan p. 51. &lt;a href="https://search.worldcat.org/title/802835102" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Courtois, C., &lt;em&gt;Timgad, antique Thamugadi&lt;/em&gt;, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Germain, S., &lt;em&gt;Les mosaïques de Timgad&lt;/em&gt;, Paris, 1969, p. 88, fig. 12. &lt;a href="https://search.worldcat.org/title/643640586" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'>Thamugadi&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'&gt;Thamugadi&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places">Pleiades:334636&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places"&gt;Pleiades:334636&lt;/a&gt;)
 
 
 
-&lt;/li>
-&lt;li>
+&lt;/li&gt;
+&lt;li&gt;
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Timgad%20%28deserted%20settlement%29" title='search for "Timgad (deserted settlement)" within GRE'>Timgad (deserted settlement)&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Timgad%20%28deserted%20settlement%29" title='search for "Timgad (deserted settlement)" within GRE'&gt;Timgad (deserted settlement)&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)">TGN:7001328&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7001328&lt;/a&gt;)
 
 
 
-&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Water Sanctuary Aqua Septimiana Felix (Sanctuaire des eaux)</title><link>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/water_sanctuary_aqua_eptimania_felix/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/water_sanctuary_aqua_eptimania_felix/</guid><description>&lt;h2 id="province"&gt;Province&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Numidia" title='search for "Numidia" within GRE'&gt;Numidia&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981539" title="Pleiades gazetteer of ancient places"&gt;Pleiades:981539&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="province-description"&gt;Province Description&lt;/h2&gt;
+&lt;p&gt;Thamugadi, now known as Timgad, was founded as a colony during by Emperor Trajan around 100 CE. The city had a checker-board plan, measuring approximately 11 hectares (27 acres) total, containing a forum with Curia, an imperial temple, and a basilica. Between the second and fourth centuries, the city expanded from its original layout. Additional temples and baths were built, and the center of the city was expanded with the construction of luxurious houses, a library, and a new market. At the end of the fourth century, bishop Optatus of Timgad, a prominent member of the Donatist church, constructed the great west basilica. During the Byzantine conquest, a fortress was erected on the water sanctuary; the original site dating to the third or fourth century.&lt;/p&gt;
+&lt;h2 id="location"&gt;Location&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://roman-gardens.github.io/test-drafts/place/numidia/thamugadi/"&gt;Thamugadi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'&gt;Thamugadi&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places"&gt;Pleiades:334636&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/timgad_city_plan_water_sanctuary.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 1: Plan of Thamugadi&lt;div class="credit"&gt;Credit: (Courtois, C., 1951)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="location-description"&gt;Location Description&lt;/h2&gt;
+&lt;p&gt;Timgad, ancient Thamugadi was founded as a colony under Trajan. The city had a checker board plan, that measured 11ha. In the center was the forum with its Curia, an imperial temple and the basilica. Between the IInd and the IVth century the city expanded out of its original layout. Temples, baths and a market were built and the center of the city was renovated with the construction of the library, the market and luxurious houses. At the end of the IVth century the bishop Optatus of Timgad a prominent member of the donatist church constructed the great west basilica. During the Byzantine conquest a fortress was erected on the water sanctuary dating to the IIIrd and IVth century.&lt;/p&gt;
+&lt;h2 id="garden"&gt;Garden&lt;/h2&gt;
+&lt;p&gt;Water Sanctuary Aqua Eptimania Felix (Sanctuaire des eaux)&lt;/p&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mural paintings"&gt;mural paintings (visual works)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300033644" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300033644&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=viridarium"&gt;viridarium&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=temples"&gt;temples (buildings)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300007595" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300007595&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sanctuaries"&gt;sanctuaries (religious building spaces)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004575" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004575&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools"&gt;pools (bodies of water)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008692&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions"&gt;inscriptions&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300028702&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;The water sanctuary lies beneath the Byzantine fort in the Northern suburbs of the city. An inscription that was discovered during the Byzantine fort excavations enumerates the embellishments that were undertaken in 213 by the city of Timgad for the sanctuary, Aqua Septimiana Felix: one of which, a bronze balustrade surrounding the spring (a pool with marble slabs of 3,6 m x 13, 60 m) and a &lt;em&gt;viridarium&lt;/em&gt; surrounded by porticoes decorated with paintings (&lt;em&gt;porticus virdiari (sic) picturis ornatas&lt;/em&gt;).&lt;/p&gt;
+&lt;!-- ## Maps --&gt;
+&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/water_sanctuary%20_aqua_eptimania_felix1.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 1: Plan of the Water Sanctuary Aqua Septimiana Felix&lt;div class="credit"&gt;Credit: (Lassus, J., 1981, fig. 9)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!-- ## Images --&gt;
+&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;2nd-3rd century CE&lt;/p&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Courtois, C., &lt;em&gt;Timgad, antique Thamugadi&lt;/em&gt;, Alger, 1951. &lt;a href="https://search.worldcat.org/title/23396951" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Malek, A.-A., &amp;quot;Le Jardin Dans Les Sanctuaires De L'afrique Romaine: Premières Approches.&amp;quot;, in &lt;em&gt;Du Culte Aux Sanctuaires : L'architecture Religieuse Dans L'afrique Romaine Et Byzantine : Actes Du Colloque&lt;/em&gt;, 18-19 Avril 2013, Paris, Fondation Simone Et Cino Del Duca... -. (2018), p. 362, fig. 12. &lt;a href="https://search.worldcat.org/title/1201712466" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lassus, J., &lt;em&gt;La forteresse byzantine de Thamugadi, Fouilles à Timgad&lt;/em&gt;, 1938-1956, Paris, 1981, plan p. 25, fig. 9, pp. 215-17, fig. 174-76. &lt;a href="https://search.worldcat.org/title/906459184" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Leschi, L., &amp;quot;Découvertes récentes à Timgad: Aqua Septimiana Felix&amp;quot;, in &lt;em&gt;CRAI&lt;/em&gt;, 1947, pp. 87-99. &lt;a href="https://search.worldcat.org/title/4649794390" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Leschi, L., &lt;em&gt;Etudes d'épigraphie, d'archéologie et d'histoire africaines&lt;/em&gt;, Paris, 1957, pp. 240-45, ici pp. 242. &lt;a href="https://search.worldcat.org/title/78689255" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Thamugadi" title='search for "Thamugadi" within GRE'&gt;Thamugadi&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/334636" title="Pleiades gazetteer of ancient places"&gt;Pleiades:334636&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Timgad%20%28deserted%20settlement%29" title='search for "Timgad (deserted settlement)" within GRE'&gt;Timgad (deserted settlement)&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7001328" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7001328&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

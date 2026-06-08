@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tivoli on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/</link><description>Recent content in Tivoli on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/index.xml" rel="self" type="application/rss+xml"/><item><title>Colle Vitriano</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/colle_vitriano/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/colle_vitriano/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tivoli on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/</link><description>Recent content in Tivoli on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/index.xml" rel="self" type="application/rss+xml"/><item><title>Colle Vitriano</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/colle_vitriano/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/colle_vitriano/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -55,12 +55,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -76,54 +76,54 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Horace S Sabine Villa</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/horace_s_sabine_villa/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/horace_s_sabine_villa/</guid><description>&lt;!-- merge this with the one at italia/regio iv/licenza -->
-&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Horace S Sabine Villa</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/horace_s_sabine_villa/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/horace_s_sabine_villa/</guid><description>&lt;!-- merge this with the one at italia/regio iv/licenza --&gt;
+&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -141,12 +141,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -162,53 +162,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Tomb Garden Valeria Athenais</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/tomb_garden_valeria_athenais/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/tomb_garden_valeria_athenais/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Tomb Garden Valeria Athenais</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/tomb_garden_valeria_athenais/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/tomb_garden_valeria_athenais/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -226,12 +226,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -247,53 +247,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Villa Of Arcinelli</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_arcinelli/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_arcinelli/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Villa Of Arcinelli</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_arcinelli/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_arcinelli/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -311,12 +311,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -332,53 +332,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Villa Of Brutus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_brutus/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_brutus/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Villa Of Brutus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_brutus/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_brutus/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -396,12 +396,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -417,53 +417,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Villa Of Capito</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_capito/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_capito/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Villa Of Capito</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_capito/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_capito/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -481,12 +481,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -502,53 +502,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Villa Of Cassius</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_cassius/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_cassius/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Villa Of Cassius</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_cassius/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_cassius/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -566,12 +566,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -587,53 +587,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Villa Of Cynthia</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_cynthia/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_cynthia/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Villa Of Cynthia</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_cynthia/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_cynthia/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -651,12 +651,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -672,53 +672,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Villa Of Horace</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_horace/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_horace/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Villa Of Horace</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_horace/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_horace/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -736,12 +736,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -757,53 +757,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Villa Of Manilius Vopiscus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_manilius_vopiscus/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_manilius_vopiscus/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Villa Of Manilius Vopiscus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_manilius_vopiscus/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_manilius_vopiscus/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -821,12 +821,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -842,53 +842,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Villa Of Nero At Subiaco</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_nero_at_subiaco/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_nero_at_subiaco/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Villa Of Nero At Subiaco</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_nero_at_subiaco/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_nero_at_subiaco/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -906,12 +906,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -927,53 +927,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Villa Of Quintilius Varus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_quintilius_varus/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_quintilius_varus/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Villa Of Quintilius Varus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_quintilius_varus/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_quintilius_varus/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -991,12 +991,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -1012,53 +1012,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Villa Of Santo Stefano</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_santo_stefano/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_santo_stefano/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Villa Of Santo Stefano</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_santo_stefano/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_santo_stefano/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -1076,12 +1076,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -1097,53 +1097,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Villa Of The Pianelle Dei Signori Reali</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_the_pianelle_dei_signori_reali/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_the_pianelle_dei_signori_reali/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Villa Of The Pianelle Dei Signori Reali</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_the_pianelle_dei_signori_reali/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_the_pianelle_dei_signori_reali/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -1161,12 +1161,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -1182,53 +1182,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Villa Of The Vibii Vari</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_the_vibii_vari/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_the_vibii_vari/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Villa Of The Vibii Vari</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_the_vibii_vari/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_the_vibii_vari/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -1246,12 +1246,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -1267,53 +1267,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Villa Of Ventidius Bassus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_ventidius_bassus/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_ventidius_bassus/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Villa Of Ventidius Bassus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_ventidius_bassus/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_iv_samnium/tivoli/villa_of_ventidius_bassus/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_iv_samnium/tivoli/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -1331,12 +1331,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -1352,11 +1352,11 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item></channel></rss>
+--&gt;</description></item></channel></rss>

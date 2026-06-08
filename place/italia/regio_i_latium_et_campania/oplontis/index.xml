@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Oplontis on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/</link><description>Recent content in Oplontis on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/index.xml" rel="self" type="application/rss+xml"/><item><title>Courtyard Garden</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/courtyard_garden/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/courtyard_garden/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Oplontis on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/</link><description>Recent content in Oplontis on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/index.xml" rel="self" type="application/rss+xml"/><item><title>Courtyard Garden</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/courtyard_garden/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/courtyard_garden/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -55,12 +55,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -76,53 +76,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Garden 58</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/garden_58/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/garden_58/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Garden 58</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/garden_58/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/garden_58/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -140,12 +140,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -161,53 +161,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Garden At Rear Of Atrium</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/garden_at_rear_of_atrium/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/garden_at_rear_of_atrium/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Garden At Rear Of Atrium</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/garden_at_rear_of_atrium/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/garden_at_rear_of_atrium/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -225,12 +225,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -246,53 +246,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Garden South Of Swimming Pool</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/garden_south_of_swimming_pool/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/garden_south_of_swimming_pool/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Garden South Of Swimming Pool</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/garden_south_of_swimming_pool/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/garden_south_of_swimming_pool/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -310,12 +310,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -331,53 +331,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Large Garden Beyond Propylon</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/large_garden_beyond_propylon/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/large_garden_beyond_propylon/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Large Garden Beyond Propylon</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/large_garden_beyond_propylon/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/large_garden_beyond_propylon/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -395,12 +395,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -416,53 +416,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Peristyle Garden</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/peristyle_garden/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/peristyle_garden/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Peristyle Garden</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/peristyle_garden/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/peristyle_garden/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -480,12 +480,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -501,53 +501,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Planter Pool Garden</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/planter_pool_garden/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/planter_pool_garden/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Planter Pool Garden</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/planter_pool_garden/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/planter_pool_garden/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -565,12 +565,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -586,53 +586,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Sculpture Garden</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/sculpture_garden/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/sculpture_garden/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Sculpture Garden</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/sculpture_garden/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/sculpture_garden/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -650,12 +650,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -671,53 +671,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Small Raised Garden</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/small_raised_garden/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/small_raised_garden/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Small Raised Garden</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/small_raised_garden/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/small_raised_garden/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -735,12 +735,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -756,53 +756,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>South And North Courtyard Gardens</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/south_and_north_courtyard_gardens/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/south_and_north_courtyard_gardens/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>South And North Courtyard Gardens</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/south_and_north_courtyard_gardens/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/south_and_north_courtyard_gardens/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -820,12 +820,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -841,53 +841,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Southeast Large Garden</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/southeast_large_garden/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/southeast_large_garden/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Southeast Large Garden</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/southeast_large_garden/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/southeast_large_garden/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -905,12 +905,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -926,53 +926,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Southwest Garden</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/southwest_garden/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/southwest_garden/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Southwest Garden</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/southwest_garden/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/oplontis/southwest_garden/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -990,12 +990,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -1011,11 +1011,11 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item></channel></rss>
+--&gt;</description></item></channel></rss>

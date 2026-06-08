@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Areas Outside Pompeii on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/</link><description>Recent content in Areas Outside Pompeii on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/index.xml" rel="self" type="application/rss+xml"/><item><title>Pagus Maritimus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/pagus_maritimus/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/pagus_maritimus/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Areas Outside Pompeii on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/</link><description>Recent content in Areas Outside Pompeii on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/index.xml" rel="self" type="application/rss+xml"/><item><title>Pagus Maritimus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/pagus_maritimus/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/pagus_maritimus/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -55,12 +55,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -76,53 +76,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Suburban Baths</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/suburban_baths/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/suburban_baths/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Suburban Baths</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/suburban_baths/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/suburban_baths/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -140,12 +140,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -161,53 +161,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Temple Of Dionysus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/temple_of_dionysus/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/temple_of_dionysus/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Temple Of Dionysus</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/temple_of_dionysus/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/temple_of_dionysus/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -225,12 +225,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -246,53 +246,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Tomb 11</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_11/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_11/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Tomb 11</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_11/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_11/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -310,12 +310,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -331,53 +331,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Tomb Of Aesquillia Polla</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_aesquillia_polla/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_aesquillia_polla/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Tomb Of Aesquillia Polla</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_aesquillia_polla/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_aesquillia_polla/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -395,12 +395,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -416,53 +416,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Tomb Of Eumachia</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_eumachia/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_eumachia/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Tomb Of Eumachia</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_eumachia/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_eumachia/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -480,12 +480,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -501,53 +501,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Tomb Of M Alleius Minius</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_m_alleius_minius/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_m_alleius_minius/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Tomb Of M Alleius Minius</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_m_alleius_minius/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_m_alleius_minius/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -565,12 +565,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -586,53 +586,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Tomb Of M Tullius</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_m_tullius/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_m_tullius/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Tomb Of M Tullius</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_m_tullius/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_m_tullius/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -650,12 +650,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -671,53 +671,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Tomb Of The Blue Glass Vase</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_the_blue_glass_vase/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_the_blue_glass_vase/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Tomb Of The Blue Glass Vase</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_the_blue_glass_vase/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/tomb_of_the_blue_glass_vase/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -735,12 +735,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -756,53 +756,53 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item><item><title>Unfinished Tomb 16</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/unfinished_tomb_16/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/unfinished_tomb_16/</guid><description>&lt;h2 id="dates">Dates&lt;/h2>
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" -->
-&lt;h2 id="excavation-dates">Excavation Dates&lt;/h2>
-&lt;!-- format as YYYY, or YYYY-YYYY -->
-&lt;h2 id="garden-description">Garden Description&lt;/h2>
-&lt;!-- This is the main text describing the garden -->
+--&gt;</description></item><item><title>Unfinished Tomb 16</title><link>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/unfinished_tomb_16/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/unfinished_tomb_16/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Plans
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Images
-&lt;figure>
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)">
- &lt;figcaption>
- &lt;/figcaption>
-&lt;/figure>
--->
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/pompeii/areas_outside_pompeii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;!--
 ## Bibliography
 - BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
--->
+--&gt;
 &lt;!--
 ## Keywords
 - 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example">example&lt;/a>
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
--->
+--&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -820,12 +820,12 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places">Pleiades:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
 - 
 
@@ -841,11 +841,11 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)">TGN:&lt;/a>)
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
 
 
 
 
- &lt;br>
+ &lt;br&gt;
 
---></description></item></channel></rss>
+--&gt;</description></item></channel></rss>
