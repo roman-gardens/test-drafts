@@ -293,7 +293,13 @@ article.list__item em {
 	margin: 1em 0;
 }
 
-.people-gardens div.province {
+.people-gardens li.place {
+  list-style-type: none;
+  padding: 0;
+  border: 0;
+}
+
+.people-gardens li.province {
   font-weight: bold;
   font-size: 110%;
   margin-top: 1em;
