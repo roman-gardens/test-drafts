@@ -127,12 +127,12 @@ hr {
 }
 
 .container--outer {
-	margin: 0 auto 25px;
+  margin: 0 auto 25px;
 }
 
 .header {
-	width: 100%;
-	background: linear-gradient(to bottom, #ffffff00, 40%, #ffffff00, 65%, #ffffffff), url('../img/header91.jpg');
+  width: 100%;
+  background: linear-gradient(to bottom, #ffffff00, 40%, #ffffff00, 65%, #ffffffff), url('../img/header91.jpg');
 }
 
 .logo__title {
@@ -161,7 +161,7 @@ hr {
   }
 
   .menu__link {
-  	color: #000;
+    color: #000;
   }
 
 }
@@ -285,12 +285,12 @@ article.list__item em {
 }
 
 #search-results-list {
-	margin: 1em 0;
-	list-style: none;
+  margin: 1em 0;
+  list-style: none;
 }
 
 #search-results-list li {
-	margin: 1em 0;
+  margin: 1em 0;
 }
 
 .people-gardens li.place {
@@ -307,7 +307,7 @@ article.list__item em {
 
 .smallcrumbs {
   font-family: "Candara", "Arial", sans-serif;
-	color: #282;
+  color: #282;
   font-size: 100%;
   margin: 0;
   line-height: 1.0;
