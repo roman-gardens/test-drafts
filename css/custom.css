@@ -361,6 +361,20 @@ article.list__item em {
   clear: none;
 }
 
+a.cite {
+  float: right;
+  cursor: pointer;
+  background: #c23e40;
+  color: #fff;
+  padding: 3px 0.7em;
+  border-radius: 1em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+cite {
+  display: none;
+}
+
 table.meta {
   font-family: "Arial Narrow", Arial, sans-serif;
   width: auto;

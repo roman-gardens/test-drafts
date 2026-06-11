@@ -30,3 +30,15 @@ function fullscreen(img) {
         d.remove()
     })
 }
+
+async function citeThis(e) {
+    try {
+        const citation = document.querySelector('cite').innerText
+        const clip = new ClipboardItem({ ["text/plain"]: citation })
+        await navigator.clipboard.write([clip])
+        alert("This citation has been copied to your clipboard:\n\n" + citation)
+    }
+    catch (error) {
+        console.log(error)
+    }
+}
