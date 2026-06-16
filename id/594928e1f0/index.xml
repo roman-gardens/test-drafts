@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Regio VI on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/594928e1f0/</link><description>Recent content in Regio VI on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2026 07:34:03 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/594928e1f0/index.xml" rel="self" type="application/rss+xml"/><item><title>Caupona, VI.I.1</title><link>https://roman-gardens.github.io/test-drafts/id/dc6198eba1/</link><pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/dc6198eba1/</guid><description>&lt;h2 id="province"&gt;Province&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Regio VI on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/594928e1f0/</link><description>Recent content in Regio VI on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 13 Jun 2026 14:59:24 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/594928e1f0/index.xml" rel="self" type="application/rss+xml"/><item><title>Caupona, VI.I.1</title><link>https://roman-gardens.github.io/test-drafts/id/dc6198eba1/</link><pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/dc6198eba1/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;79 CE&lt;/p&gt;
+&lt;!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. --&gt;
+&lt;!-- If no date, use "unspecified" --&gt;
+&lt;h2 id="province"&gt;Province&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://roman-gardens.github.io/test-drafts/id/d2e9307e07/"&gt;Italia&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
@@ -83,6 +87,19 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p&gt;VI.I.1&lt;/p&gt;
 &lt;!-- List of gardens in province --&gt;
 &lt;!-- May be left blank for now --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;Just inside the &lt;em&gt;Porta di Ercolano&lt;/em&gt; was a small inn pressed against the city wall that had a garden with a masonry &lt;em&gt;triclinium&lt;/em&gt; (l. &lt;em&gt;medius&lt;/em&gt;, 3.95 m.; &lt;em&gt;l. imus&lt;/em&gt; 4.00; &lt;em&gt;l. summus&lt;/em&gt; 3.75 m.). A vine covered pergola had provided shade to the &lt;em&gt;triclinium&lt;/em&gt; and the sockets in the back wall where the pergola roof supports fitted were visible when this area was excavated in 1787. Rooms upstairs provided overnight accommodations for guests. A cistern opening in the southwest corner of the garden received water from a gutter that ran along the south edge.&lt;/p&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;p&gt;Dyer, pp. 307-308, plan, p. 308 &lt;a href="https://search.worldcat.org/title/944931081" target="_blank"&gt;(worldcat)&lt;/a&gt; &lt;br&gt;
+Fiorelli, &lt;em&gt;Descr.&lt;/em&gt;, p.76 &lt;a href="https://search.worldcat.org/title/1074056884" target="_blank"&gt;(worldcat)&lt;/a&gt; &lt;br&gt;
+Jashemski, &lt;em&gt;Gardens&lt;/em&gt;, 1:168 and fig. 249 on p.168 &lt;a href="https://search.worldcat.org/title/921816405" target="_blank"&gt;(worldcat)&lt;/a&gt; &lt;br&gt;
+Idem, &lt;em&gt;Gardens&lt;/em&gt;, vol. II, p. 119 &lt;a href="https://search.worldcat.org/title/921816405" target="_blank"&gt;(worldcat)&lt;/a&gt; &lt;br&gt;
+Mazois, 2:46, pl. 9, figs. 3, 5 &lt;a href="https://search.worldcat.org/title/874412631" target="_blank"&gt;(worldcat)&lt;/a&gt; &lt;br&gt;
+&lt;em&gt;PAH&lt;/em&gt;, vol. 1, pt.2, p.36 (Mar. 8, 1787) &lt;a href="https://search.worldcat.org/title/568028156" target="_blank"&gt;(worldcat)&lt;/a&gt; &lt;br&gt;
+Soprano, p. 300, no. 13.&lt;/p&gt;
+&lt;!--
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+--&gt;
 &lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -98,23 +115,6 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=gutters"&gt;gutters (building drainage components)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300052565" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300052565&lt;/a&gt;)
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;p&gt;Just inside the &lt;em&gt;Porta di Ercolano&lt;/em&gt; was a small inn pressed against the city wall that had a garden with a masonry &lt;em&gt;triclinium&lt;/em&gt; (l. &lt;em&gt;medius&lt;/em&gt;, 3.95 m.; &lt;em&gt;l. imus&lt;/em&gt; 4.00; &lt;em&gt;l. summus&lt;/em&gt; 3.75 m.). A vine covered pergola had provided shade to the &lt;em&gt;triclinium&lt;/em&gt; and the sockets in the back wall where the pergola roof supports fitted were visible when this area was excavated in 1787. Rooms upstairs provided overnight accommodations for guests. A cistern opening in the southwest corner of the garden received water from a gutter that ran along the south edge.&lt;/p&gt;
-&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;p&gt;79 CE&lt;/p&gt;
-&lt;!-- Format: For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. --&gt;
-&lt;!-- If no date, use "unspecified" --&gt;
-&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
-&lt;p&gt;Dyer, pp. 307-308, plan, p. 308 &lt;a href="https://search.worldcat.org/title/944931081" target="_blank"&gt;(worldcat)&lt;/a&gt; &lt;br&gt;
-Fiorelli, &lt;em&gt;Descr.&lt;/em&gt;, p.76 &lt;a href="https://search.worldcat.org/title/1074056884" target="_blank"&gt;(worldcat)&lt;/a&gt; &lt;br&gt;
-Jashemski, &lt;em&gt;Gardens&lt;/em&gt;, 1:168 and fig. 249 on p.168 &lt;a href="https://search.worldcat.org/title/921816405" target="_blank"&gt;(worldcat)&lt;/a&gt; &lt;br&gt;
-Idem, &lt;em&gt;Gardens&lt;/em&gt;, vol. II, p. 119 &lt;a href="https://search.worldcat.org/title/921816405" target="_blank"&gt;(worldcat)&lt;/a&gt; &lt;br&gt;
-Mazois, 2:46, pl. 9, figs. 3, 5 &lt;a href="https://search.worldcat.org/title/874412631" target="_blank"&gt;(worldcat)&lt;/a&gt; &lt;br&gt;
-&lt;em&gt;PAH&lt;/em&gt;, vol. 1, pt.2, p.36 (Mar. 8, 1787) &lt;a href="https://search.worldcat.org/title/568028156" target="_blank"&gt;(worldcat)&lt;/a&gt; &lt;br&gt;
-Soprano, p. 300, no. 13.&lt;/p&gt;
-&lt;!--
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
 &lt;h2 id="places"&gt;Places&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;

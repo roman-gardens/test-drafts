@@ -416,17 +416,23 @@ table.meta .nowrap {
   text-wrap: nowrap;
 }
 
+ul li {
+  line-height: 1.1em;
+}
+
 h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {
   position: relative;
   margin-left: 0.5em;
   color: #f80;
 }
+/* these were used for troubleshooting
 xh1::after { content: 'h1' }
 xh2::after { content: 'h2' }
 xh3::after { content: 'h3' }
 xh4::after { content: 'h4' }
 xh5::after { content: 'h5' }
 xh6::after { content: 'h6' }
+*/
 
 sup {
   font-size: 75%;
