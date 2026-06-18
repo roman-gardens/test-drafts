@@ -39,6 +39,7 @@ async function citeThis(e) {
         alert("This citation has been copied to your clipboard:\n\n" + citation)
     }
     catch (error) {
+        alert("Sorry, there was an error when generating the citation.")
         console.log(error)
     }
 }
