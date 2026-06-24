@@ -276,6 +276,17 @@ article.list__item em {
   width: 10px ! important;
 }
 
+#map .leaflet-popup-content a {
+  color: #c22d30;
+  font-family: "Candara", Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+#map .leaflet-popup-content a.smallcrumbs {
+  color: #282;
+}
+
 #search-results-summary {
   font-size: 110%;
 }

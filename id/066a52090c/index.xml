@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Oplontis on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/066a52090c/</link><description>Recent content in Oplontis on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2026 07:34:03 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/066a52090c/index.xml" rel="self" type="application/rss+xml"/><item><title>Courtyard Garden</title><link>https://roman-gardens.github.io/test-drafts/id/4203c3c6c8/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/4203c3c6c8/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Oplontis on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/066a52090c/</link><description>Recent content in Oplontis on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 19:40:10 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/066a52090c/index.xml" rel="self" type="application/rss+xml"/><item><title>Courtyard Garden</title><link>https://roman-gardens.github.io/test-drafts/id/4203c3c6c8/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/4203c3c6c8/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
@@ -7,7 +7,7 @@
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -15,7 +15,7 @@
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -23,7 +23,7 @@
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -92,7 +92,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -100,7 +100,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -108,7 +108,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -177,7 +177,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -185,7 +185,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -193,7 +193,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -262,7 +262,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -270,7 +270,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -278,7 +278,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -347,7 +347,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -355,7 +355,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -363,7 +363,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -432,7 +432,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -440,7 +440,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -448,7 +448,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -517,7 +517,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -525,7 +525,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -533,7 +533,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -602,7 +602,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -610,7 +610,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -618,7 +618,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -687,7 +687,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -695,7 +695,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -703,7 +703,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -772,7 +772,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -780,7 +780,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -788,7 +788,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -857,7 +857,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -865,7 +865,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -873,7 +873,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -942,7 +942,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -950,7 +950,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -958,7 +958,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/regio_i_latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/oplontis/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
