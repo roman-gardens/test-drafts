@@ -28,6 +28,10 @@ a.id {
   font-size: 80%;
 }
 
+.post__title a {
+  color: #282;
+}
+
 blockquote {
   border-left: 4px solid #ccc;
   border-right: 4px solid #ccc;
@@ -196,11 +200,11 @@ nav.breadcrumbs {
   font-weight: bold;
   font-size: 130%;
   margin-bottom: 0.5em;
-  color: #282;
+  color: #c22d30;
 }
 
 nav.breadcrumbs a {
-  color: #282;
+  color: #c22d30;
 }
 
 .sublocations {
@@ -268,8 +272,8 @@ article.list__item em {
 }
 
 #map .dot {
-  background: #c22d30;
-  border: 1px solid #e1b2b3;
+  background: #282;
+  border: 0.5px solid #aea;
   border-radius: 50%;
   box-shadow: 1px 2px rgb(0 0 0 / 50%);
   height: 10px ! important;
@@ -277,14 +281,14 @@ article.list__item em {
 }
 
 #map .leaflet-popup-content a {
-  color: #c22d30;
+  color: #282;
   font-family: "Candara", Arial, sans-serif;
   font-size: 1rem;
   font-weight: bold;
 }
 
 #map .leaflet-popup-content a.smallcrumbs {
-  color: #282;
+  color: #c22d30;
 }
 
 #search-results-summary {
@@ -318,7 +322,7 @@ article.list__item em {
 
 .smallcrumbs {
   font-family: "Candara", "Arial", sans-serif;
-  color: #282;
+  color: #c22d30;
   font-size: 100%;
   margin: 0;
   line-height: 1.0;
@@ -406,6 +410,10 @@ table.meta th {
   color: #fff;
 }
 
+table.meta.garden th {
+  background: #282;
+}
+
 table.meta th:hover {
   background: #822d30;
   cursor: pointer;
@@ -413,6 +421,10 @@ table.meta th:hover {
 
 table.meta a {
   color: #c22d30;
+}
+
+table.meta.garden a {
+  color: #282;
 }
 
 table.meta tr.draft {

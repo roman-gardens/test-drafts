@@ -14,15 +14,18 @@
 .basemap {
     display: inline-block; /* todo: flexbox? */
     cursor: pointer;
+    border-color: #fff;
 }
 .basemap.active img {
-    border-color: #c22d30;
-    box-shadow: 2px 2px 4px #000;
+    border-color: #ccc;
 }
 .basemap img {
     width:48px;
-    border: 2px solid #FFF;
+    border: 2px solid #000;
     margin: 0 2px;
     border-radius: 8px;
     box-shadow: 4px 4px 4px #000;
+}
+.basemap img:hover {
+    border-color: #fff;
 }
