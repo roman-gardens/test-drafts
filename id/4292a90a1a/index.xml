@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Insula II on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/4292a90a1a/</link><description>Recent content in Insula II on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/4292a90a1a/index.xml" rel="self" type="application/rss+xml"/><item><title>Casa D'Argo (II.2)</title><link>https://roman-gardens.github.io/test-drafts/id/8661630841/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/8661630841/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Insula II on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/4292a90a1a/</link><description>Recent content in Insula II on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 25 Jun 2026 18:57:03 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/4292a90a1a/index.xml" rel="self" type="application/rss+xml"/><item><title>Casa d'Argo (II.2)</title><link>https://roman-gardens.github.io/test-drafts/id/8661630841/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/8661630841/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;p&gt;1828-1835&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;p&gt;A. The earliest excavations of Herculaneum were done with underground tunnels. Several of these crossed this site and were discovered sixty three years later when further excavation of this patrician house was conducted in 1828-1835. Eight brick columns and one engaged column stood on each of the long sides of the portico that bounded the large peristyle garden (a) on the east, north, and west sides. The north side was supported by four more columns and at the two front corners there was a pillar with an engaged column on each side. In the center of the north side two smaller pillars with one engaged column each framed a garden view from the triclinium. All the supporting members were coated with fine stucco. Gutters ringing the garden conveyed rain water to the cistern.&lt;/p&gt;
-&lt;p&gt;B. A second peristyle garden was located to the west of the first, but has only been partially excavated. It has stuccoed columns and pillars joined by a wall 0.4 m. high painted with plants and flowers.&lt;/p&gt;
+&lt;p&gt;B. A second peristyle garden was located to the west of the first, but has only been partially excavated. It has stuccoed columns and pillars joined by a wall 0.4 m high painted with plants and flowers.&lt;/p&gt;
+&lt;!-- TODO: two gardens --&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -15,8 +16,9 @@
 --&gt;
 &lt;!--
 ## Plans
+TODO: This plan is incorrectly labelled as II.3 instead of II.2, and the north arrow should be rotated more to the west
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/herculaneum/insula_ii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/herculaneum/insula_ii/h_2_2.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -37,7 +39,10 @@
 &lt;li&gt;Breton,E. 1870. &lt;em&gt;Pompeia&lt;/em&gt;. Paris: Gide et Baudry. &lt;a href="https://search.worldcat.org/title/602759412" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Maiuri, A. 1989. &lt;em&gt;Herculaneum&lt;/em&gt;. Roma: La libreria dello stato. &lt;a href="https://search.worldcat.org/title/1107784297" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Maiuri, A. 1958. &lt;em&gt;Ercolano. I nuovi scavi (1927-1958)&lt;/em&gt;. Roma: Istituto poligrafico dello Stato. &lt;a href="https://search.worldcat.org/it/title/859591551" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Marotta, C. 2018. &amp;quot;L’utilisation des données archivistiques dans l’enquête archéologique : nouvelles découvertes sur la casa d’Argo d’Herculanum.&amp;quot; &lt;em&gt;Anabases&lt;/em&gt; 27: 55-65 &lt;a href="https://search.worldcat.org/it/title/10937373130?oclcNum=10937373130" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jashemski, W. 1993. &lt;em&gt;The Gardens of Pompeii, Herculaneum and the Villas destroyed by Vesuvius&lt;/em&gt;. New Rochelle: A.D. Caratzas Pub. &lt;a href="https://search.worldcat.org/it/title/29043557" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Niccolini, F., and Bechi G. 1831. In &lt;em&gt;Real museo borbonico&lt;/em&gt;. Napoli: Stamperia reale &lt;a href="https://search.worldcat.org/title/277993202" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pesando, F. and Guidobaldi, M. P. 2006. &lt;em&gt;Pompei, Oplontis, Ercolano, Stabiae&lt;/em&gt;. Bari: GLF Laterza &lt;a href="https://search.worldcat.org/it/title/1045104432?oclcNum=1045104432" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ruggiero, M. 1885. &lt;em&gt;Storia degli scavi di Ercolano&lt;/em&gt;. Napoli: Tipografia dell'Accademia Reale delle Scienze &lt;a href="https://search.worldcat.org/title/18405521" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
@@ -67,160 +72,64 @@
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Herculaneum" title='search for "Herculaneum" within GRE'&gt;Herculaneum&lt;/a&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=House%20of%20Argus" title='search for "House of Argus" within GRE'&gt;House of Argus&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places"&gt;Pleiades:432873&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/77858278" title="Pleiades gazetteer of ancient places"&gt;Pleiades:77858278&lt;/a&gt;)
 
 
 
 &lt;/li&gt;
-&lt;li&gt;
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Herculaneum%20%28deserted%20settlement%29" title='search for "Herculaneum (deserted settlement)" within GRE'&gt;Herculaneum (deserted settlement)&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7031897" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7031897&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Casadetta del Genio</title><link>https://roman-gardens.github.io/test-drafts/id/a357172ce7/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/a357172ce7/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>Casa detta del Genio (II.3)</title><link>https://roman-gardens.github.io/test-drafts/id/a357172ce7/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/a357172ce7/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-date"&gt;Excavation Date&lt;/h2&gt;
 &lt;p&gt;1829-1830; 1850&lt;/p&gt;
-&lt;h2 id="province"&gt;Province&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://roman-gardens.github.io/test-drafts/id/d2e9307e07/"&gt;Italia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Italia" title='search for "Italia" within GRE'&gt;Italia&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places"&gt;Pleiades:1052&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="location"&gt;Location&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Herculaneum" title='search for "Herculaneum" within GRE'&gt;Herculaneum&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places"&gt;Pleiades:432873&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="location-description"&gt;Location Description&lt;/h2&gt;
-&lt;p&gt;An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in 79 CE. Named as a UNESCO World Heritage Site in 1997.&lt;/p&gt;
-&lt;h2 id="insula"&gt;Insula&lt;/h2&gt;
-&lt;p&gt;II; III&lt;/p&gt;
-&lt;h2 id="house"&gt;House&lt;/h2&gt;
-&lt;p&gt;3; 3&lt;/p&gt;
-&lt;h2 id="garden"&gt;Garden&lt;/h2&gt;
-&lt;p&gt;Casadetta del Genio&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;p&gt;This house was partially excavated in 1829-1830 and again in 1850. The &lt;em&gt;portico&lt;/em&gt; had a floor on the east slightly lower than the sections on the north and south. A pool (a) was located in the center of the garden with a semi-circular extension on the east end and two small marble posts which probably held herms. The pool measured 2.35 m. wide, 0.87 m. deep and was only excavated to a length of 6.50 m.&lt;/p&gt;
-&lt;!-- ## Maps --&gt;
+&lt;p&gt;This house was partially excavated in 1829-1830 and again in 1850. The &lt;em&gt;portico&lt;/em&gt; had a floor on the east slightly lower than the sections on the north and south. A pool (a) was located in the center of the garden with a semi-circular extension on the east end and two small marble posts which probably held herms. The pool measured 2.35 m wide, 0.87 m deep and was only excavated to a length of 6.50 m.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/herculaneum/insula_ii/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
 &lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/herculaneum/insula_ii/h_2_3.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- Plan of Casadetta del Genio&lt;/figcaption&gt;
+ Plan of Casadetta del Genio&lt;div class="credit"&gt;Credit: Maiuri 1958, fig. 307 on p. 376&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h2 id="images"&gt;Images&lt;/h2&gt;
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/herculaneum/insula_ii/herc.ii.3-68.6.57.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- Illustration of Casadetta del Genio&lt;/figcaption&gt;
+ Photo of Casa detta del Genio&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Maiuri, A. 1989. &lt;em&gt;Herculaneum&lt;/em&gt;. Roma: La libreria dello stato. &lt;a href="https://search.worldcat.org/title/1107784297" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Maiuri, A. 1958. &lt;em&gt;Ercolano. I nuovi scavi (1927-1958)&lt;/em&gt;. Roma: Istituto poligrafico dello Stato. &lt;a href="https://search.worldcat.org/it/title/859591551" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jashemski, W. 1993. &lt;em&gt;The Gardens of Pompeii, Herculaneum and the Villas destroyed by Vesuvius&lt;/em&gt;. New Rochelle: A.D. Caratzas Pub. &lt;a href="https://search.worldcat.org/it/title/29043557" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pesando, F. and Guidobaldi, M. P. 2006. &lt;em&gt;Pompei, Oplontis, Ercolano, Stabiae&lt;/em&gt;. Bari: GLF Laterza &lt;a href="https://search.worldcat.org/it/title/1045104432?oclcNum=1045104432" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ruggiero, M. 1885. &lt;em&gt;Storia degli scavi di Ercolano&lt;/em&gt;. Napoli: Tipografia dell'Accademia Reale delle Scienze &lt;a href="https://search.worldcat.org/title/18405521" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles"&gt;peristyles (Roman courtyards)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300080971&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes"&gt;porticoes&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004145&lt;/a&gt;)
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="places"&gt;Places&lt;/h2&gt;
-&lt;ul&gt;
 &lt;li&gt;
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Herculaneum" title='search for "Herculaneum" within GRE'&gt;Herculaneum&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/432873" title="Pleiades gazetteer of ancient places"&gt;Pleiades:432873&lt;/a&gt;)
-
-
-
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pool"&gt;pool&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Herculaneum%20%28deserted%20settlement%29" title='search for "Herculaneum (deserted settlement)" within GRE'&gt;Herculaneum (deserted settlement)&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7031897" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7031897&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Maiuri, &lt;em&gt;Herculaneum&lt;/em&gt;, p. 25 &lt;a href="https://search.worldcat.org/title/1107784297" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Maiuri, &lt;em&gt;Ercolano&lt;/em&gt;, pp. 375-377 and fig. 307 (plan) on p. 376 &lt;a href="https://search.worldcat.org/title/490581395" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Ruggiero, &lt;em&gt;Ercolano&lt;/em&gt;, pp. 562, 566, 574 &lt;a href="https://search.worldcat.org/title/18405521" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;!-- ## Places
+Not found in Pleiades
+--&gt;</description></item></channel></rss>
