@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2026 17:58:08 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/index.xml" rel="self" type="application/rss+xml"/><item><title>Gardens Of Asinius Pollio</title><link>https://roman-gardens.github.io/test-drafts/id/4197402f2f/</link><pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/4197402f2f/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 09 Jul 2026 01:44:14 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/index.xml" rel="self" type="application/rss+xml"/><item><title>Gardens Of Asinius Pollio</title><link>https://roman-gardens.github.io/test-drafts/id/4197402f2f/</link><pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/4197402f2f/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
@@ -178,7 +178,7 @@ places containing this garden will be listed automatically
 ## Plans
 
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/didyma/blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  Plan of the excavations at Aphrodisias&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -205,47 +205,30 @@ places containing this garden will be listed automatically
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=springs"&gt;springs (bodies of water)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008697" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008697&lt;/a&gt;)
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="places"&gt;Places&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
+&lt;!--
+## Places
+- 
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Didyma%2fBranchidai%2fIoustinianopolis" title='search for "Didyma/Branchidai/Ioustinianopolis" within GRE'&gt;Didyma/Branchidai/Ioustinianopolis&lt;/a&gt;
+
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/599593" title="Pleiades gazetteer of ancient places"&gt;Pleiades:599593&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;li&gt;
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
+ &lt;br&gt;
 
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Caria%20%28former%20nation%2fstate%2fempire%29" title='search for "Caria (former nation/state/empire)" within GRE'&gt;Caria (former nation/state/empire)&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7002358" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7002358&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Terrace House 2</title><link>https://roman-gardens.github.io/test-drafts/id/a59bfedb41/</link><pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/a59bfedb41/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+--&gt;</description></item><item><title>Terrace House 2</title><link>https://roman-gardens.github.io/test-drafts/id/a59bfedb41/</link><pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/a59bfedb41/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;1st-3rd century CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;p&gt;1967-1983&lt;/p&gt;
@@ -461,7 +444,7 @@ places containing this garden will be listed automatically
 ## Plans
 
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/attaleia/blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  Plan of the excavations at Aphrodisias&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -490,48 +473,8 @@ places containing this garden will be listed automatically
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions"&gt;inscriptions&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300028702&lt;/a&gt;)
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="places"&gt;Places&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Attaleia" title='search for "Attaleia" within GRE'&gt;Attaleia&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/550472" title="Pleiades gazetteer of ancient places"&gt;Pleiades:550472&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;!--
-- 
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Lydia%2fMaionia%20%28region%29" title='search for "Lydia/Maionia (region)" within GRE'&gt;Lydia/Maionia (region)&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/550701" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:550701&lt;/a&gt;)
-
-
-
-
+## Places
 --&gt;</description></item><item><title>Tomb Garden of Papias son of Adrastos</title><link>https://roman-gardens.github.io/test-drafts/id/4461d53603/</link><pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/4461d53603/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;2nd century BCE&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
@@ -541,7 +484,7 @@ places containing this garden will be listed automatically
 ## Plans
 
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/attouda/blankenheim-hulchrath-plan1-EUR_GI_BlaHul_Rv_carroll.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  Plan of the excavations at Aphrodisias&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -564,47 +507,30 @@ places containing this garden will be listed automatically
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions"&gt;inscriptions&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300028702&lt;/a&gt;)
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="places"&gt;Places&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
+&lt;!--
+## Places
+- 
 
 
 
 
 
 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Attouda" title='search for "Attouda" within GRE'&gt;Attouda&lt;/a&gt;
+
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/638779" title="Pleiades gazetteer of ancient places"&gt;Pleiades:638779&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;li&gt;
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
 
+ &lt;br&gt;
 
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Caria%20%28former%20nation%2fstate%2fempire%29" title='search for "Caria (former nation/state/empire)" within GRE'&gt;Caria (former nation/state/empire)&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7002358" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7002358&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Roger Bagnall</title><link>https://roman-gardens.github.io/test-drafts/people/roger-bagnall/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/people/roger-bagnall/</guid><description>&lt;!-- position title, institution --&gt;
+--&gt;</description></item><item><title>Roger Bagnall</title><link>https://roman-gardens.github.io/test-drafts/people/roger-bagnall/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/people/roger-bagnall/</guid><description>&lt;!-- position title, institution --&gt;
 &lt;p&gt;Emeritus Professor of Ancient History, New York University&lt;/p&gt;
 &lt;p&gt;Leon Levy Director Emeritus, Institute for Study of the Ancient World, NYU&lt;/p&gt;
 &lt;!--
@@ -9364,7 +9290,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/halicarnassus/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -9373,7 +9299,7 @@ places containing this garden will be listed automatically
 ## Plans
 
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/halicarnassus/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  Plan of the precinct of the Mausoleon showing possible planted area and water features.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -9381,7 +9307,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/halicarnassus/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -9411,45 +9337,6 @@ places containing this garden will be listed automatically
 &lt;/ul&gt;
 &lt;!--
 ## Places
-
-- 
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Halicarnassus%2fHalikarnassos" title='search for "Halicarnassus/Halikarnassos" within GRE'&gt;Halicarnassus/Halikarnassos&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/599636" title="Pleiades gazetteer of ancient places"&gt;Pleiades:599636&lt;/a&gt;)
-
-
-
-
-- 
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Caria%20%28former%20nation%2fstate%2fempire%29" title='search for "Caria (former nation/state/empire)" within GRE'&gt;Caria (former nation/state/empire)&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7002358" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7002358&lt;/a&gt;)
-
-
-
-
 --&gt;</description></item><item><title>Opus Sectile With Opus Quadratum</title><link>https://roman-gardens.github.io/test-drafts/id/561f06e9d4/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/561f06e9d4/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
@@ -9912,7 +9799,7 @@ Fig. 1: Plan of the peristyle court in Palace V, after H. Schleif in Nielsen, He
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/samos/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -9920,7 +9807,7 @@ Fig. 1: Plan of the peristyle court in Palace V, after H. Schleif in Nielsen, He
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/samos/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -9928,7 +9815,7 @@ Fig. 1: Plan of the peristyle court in Palace V, after H. Schleif in Nielsen, He
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/samos/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -9952,7 +9839,10 @@ R. Tölle-Kastenbein, Das Kastro Tigani. Samos XIV, Bonn, 1974, pp. 52-54, figs.
 &lt;li&gt;
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards"&gt;courtyards (uncovered spaces)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004095&lt;/a&gt;)
 &lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Rhodes Groves On The Acropolis</title><link>https://roman-gardens.github.io/test-drafts/id/7098066dc8/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/7098066dc8/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;/ul&gt;
+&lt;!--
+## Places
+--&gt;</description></item><item><title>Rhodes Groves On The Acropolis</title><link>https://roman-gardens.github.io/test-drafts/id/7098066dc8/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/7098066dc8/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;Unspecified&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;p&gt;Unexcavated &lt;!--check -Archaeological exploration of the acropolis sector has confirmed the existence of temples to Zeus and to Apollo "--&gt;&lt;/p&gt;
@@ -10146,11 +10036,11 @@ original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartig
 ## Excavation Dates
  --&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;p&gt;The city of Mytilene was located on the island of Lesbos lying off the west coast of Asia Minor. Gardens, vineyards and olive groves in the territory of Mytilene are known from a list on a Roman marble inscription that has survived in several fragments (&lt;a href="https://epigraphy.packhum.org/text/74736?&amp;amp;bookid=19&amp;amp;location=1820" target="_blank"&gt;IG XII.2 76-80&lt;/a&gt;). The inscription records an apparent census of property taken at an unknown date &lt;!--PHI dates inscription to 285-305 CE--&gt;. Although vineyards and olive groves are the dominant type of rural property, several gardens are listed in &lt;a href="https://epigraphy.packhum.org/text/74737?bookid=19&amp;amp;location=1820" target="_blank"&gt;Fragment 78b&lt;/a&gt;, some of them recorded as being near a house, or located in a particular spot, or as belonging to a named individual.&lt;/p&gt;
+&lt;p&gt;Gardens, vineyards and olive groves in the territory of Mytilene are known from a list on a Roman marble inscription that has survived in several fragments (&lt;a href="https://epigraphy.packhum.org/text/74736?&amp;amp;bookid=19&amp;amp;location=1820" target="_blank"&gt;IG XII.2 76-80&lt;/a&gt;). The inscription records an apparent census of property taken at an unknown date &lt;!--PHI dates inscription to 285-305 CE--&gt;. Although vineyards and olive groves are the dominant type of rural property, several gardens are listed in &lt;a href="https://epigraphy.packhum.org/text/74737?bookid=19&amp;amp;location=1820" target="_blank"&gt;Fragment 78b&lt;/a&gt;, some of them recorded as being near a house, or located in a particular spot, or as belonging to a named individual.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/mytilene/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -10158,7 +10048,7 @@ original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartig
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/mytilene/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -10166,7 +10056,7 @@ original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartig
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/mytilene/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -10182,29 +10072,8 @@ original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartig
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
 
 --&gt;
-&lt;h2 id="places"&gt;Places&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Mytilene" title='search for "Mytilene" within GRE'&gt;Mytilene&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/550763" title="Pleiades gazetteer of ancient places"&gt;Pleiades:550763&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;!--
+## Places
 - 
 
 
@@ -10219,7 +10088,7 @@ original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartig
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
@@ -11173,7 +11042,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/hypaipa/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -11181,7 +11050,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/hypaipa/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -11189,7 +11058,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/hypaipa/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -11211,29 +11080,9 @@ places containing this garden will be listed automatically
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=periboloi"&gt;periboloi&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005069" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005069&lt;/a&gt;)
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="places"&gt;Places&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Hypaipa" title='search for "Hypaipa" within GRE'&gt;Hypaipa&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/550585" title="Pleiades gazetteer of ancient places"&gt;Pleiades:550585&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;!--
+## Places
+
 - 
 
 
@@ -11248,7 +11097,7 @@ places containing this garden will be listed automatically
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
 
 
 
@@ -11266,7 +11115,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/thyateira/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -11274,7 +11123,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/thyateira/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -11282,7 +11131,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/thyateira/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -11304,10 +11153,9 @@ places containing this garden will be listed automatically
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs"&gt;tombs&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005926&lt;/a&gt;)
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
@@ -11325,29 +11173,8 @@ places containing this garden will be listed automatically
 
 
 
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Tomb Garden Of P. Paconius Hermeias</title><link>https://roman-gardens.github.io/test-drafts/id/df75e8b245/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/df75e8b245/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Tomb Garden Of P. Paconius Hermeias</title><link>https://roman-gardens.github.io/test-drafts/id/df75e8b245/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/df75e8b245/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;ca. first - second century CE &lt;!--our description says "probably in second century"; TAM II says 1st century--&gt;&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;p&gt;unspecified&lt;/p&gt;
@@ -18236,103 +18063,7 @@ Aix, Jardins de Grassi, House with the large peristyle--&gt;
 
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- this is the TGN ID for Hadrian's Villa, not for this particular garden --&gt;</description></item><item><title>Aphrodisias</title><link>https://roman-gardens.github.io/test-drafts/id/4624d2d32a/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/4624d2d32a/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;p&gt;Unspecified&lt;/p&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;p&gt;Aphrodisias (&lt;em&gt;Lelégōn Pólis, Megálē Pólis, Ninóē, Stauroúpolis&lt;/em&gt;), in Caria, was home to the cult image of Aphrodite of Aphrodisias. Located about 100 miles from the port at Smyrna, the area featured important marble quarries of the Hellenistic and Roman era. An abundance of sculpture has been found during excavations, and inscriptions indicate that the art was placed in landscape as well as architectural settings. An inscription (MAMA VIII, 448) indicates that Artemidorus Pedias, during his term as &lt;em&gt;strategos&lt;/em&gt;, promised to &amp;quot;adorn a palm grove with a statue of Hermes, and a gilded Aphrodite with Erotes holding lamps on either side and a marble Eros in Front&amp;quot; (Roueché, 70). The location of this garden is not specified. Robert suggests, based on the location of the inscription, that it was in the &lt;em&gt;temenos&lt;/em&gt; of Aphrodite (Robert, 257). Roueché conjectures that it perhaps lay on the east side of the &lt;em&gt;agora&lt;/em&gt;, based upon the presence of Hermes Agoraios (MAMA VIII, 406, 445, 446, and CIG 2770). She proposes that the grove was later embellished by the fountain at the &lt;em&gt;agora&lt;/em&gt; gate, where inscriptions (Hell. IV, 131-2) honor the conversion of the gate into a fountain, alluding to the Nymphs of the &amp;quot;place of the palms&amp;quot; (RRR Smith et al. 2018) Roueché notes that this palm-grove, with its walks, statuary, and fountains was clearly an elaborately decorated park. The &lt;em&gt;agora&lt;/em&gt; and &lt;em&gt;temenos&lt;/em&gt; have been identified. The south &lt;em&gt;agora&lt;/em&gt; (215 x 70m) features a long, monumental basin in its center.&lt;/p&gt;
-&lt;!-- ## Maps --&gt;
-&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/south-agora-plan.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- Plan of the South Agora, also called as the Place of Palms at Aphrodisias&lt;div class="credit"&gt;Credit: Mica and Ahmet Ertegün South Agora Pool Project&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;h2 id="images"&gt;Images&lt;/h2&gt;
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/place-of-palms-1.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- Place of Palms, South Agora, 1st century CE (Courtesy R.R.R. Smith et al.-The Mica and Ahmet Ertegün South Agora Pool Project)&lt;div class="credit"&gt;Credit: R.R.R. Smith et al. The Mica and Ahmet Ertegün South Agora Pool Project&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/place-of-palms-2.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- South Agora – Place of Palms (looking west). Conservation rig over pool perimeter at south-east corner.&lt;div class="credit"&gt;Credit: Courtesy R.R.R. Smith et al., 2018.&lt;/div&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Reinach, T. 1906. &amp;quot;Inscriptions d'Aphrodisias&amp;quot; &lt;em&gt;RÉG&lt;/em&gt; 19, 84: 107 &lt;a href="https://search.worldcat.org/title/504802954" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Roueché, C., and J.M. Reynolds. 1989. &lt;em&gt;Aphrodisias in late antiquity: the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim&lt;/em&gt;. London: Society for the Promotion of Roman Studies. &lt;a href="https://search.worldcat.org/title/4669803971" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Wilson, A.I. 2015. &amp;quot;Water, nymphs and a palm grove: monumental water displays at Aphrodisias.&amp;quot; In &lt;em&gt;Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012&lt;/em&gt;, edited by R.R.R. Smith, J. Lenaghan, A. Sokolicek, and K. Welch, 100-135. &lt;em&gt;JRA&lt;/em&gt; Supplement 103. &lt;a href="https://search.worldcat.org/title/950610833" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=agoras"&gt;agoras&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008074" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008074&lt;/a&gt;)
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fountains"&gt;fountains&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006179" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300006179&lt;/a&gt;)
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=nymphs"&gt;nymphs&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300379159" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300379159&lt;/a&gt;)
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=temene"&gt;temene&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000805" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300000805&lt;/a&gt;)
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=marble"&gt;marble (rock)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300011443" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300011443&lt;/a&gt;)
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sculpture"&gt;sculpture (visual works)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300047090" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300047090&lt;/a&gt;)
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=groves"&gt;groves (plant communities)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008884" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008884&lt;/a&gt;)
-&lt;/li&gt;
-&lt;li&gt;
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions"&gt;inscriptions&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300028702&lt;/a&gt;)
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!--
-## Places
-
-- 
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Caria%20%28former%20nation%2fstate%2fempire%29" title='search for "Caria (former nation/state/empire)" within GRE'&gt;Caria (former nation/state/empire)&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7002358" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7002358&lt;/a&gt;)
-
-
-
-
-- 
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Aphrodisias" title='search for "Aphrodisias" within GRE'&gt;Aphrodisias&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/638753" title="Pleiades gazetteer of ancient places"&gt;Pleiades:638753&lt;/a&gt;)
-
-
-
-
---&gt;</description></item><item><title>Arcos I Public Baths</title><link>https://roman-gardens.github.io/test-drafts/id/71ab14ebd1/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/71ab14ebd1/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- this is the TGN ID for Hadrian's Villa, not for this particular garden --&gt;</description></item><item><title>Arcos I Public Baths</title><link>https://roman-gardens.github.io/test-drafts/id/71ab14ebd1/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/71ab14ebd1/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;Unspecified&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;p&gt;These baths are remarkable for their size (55 x 95 m), symmetry, and inclusion of a large garden. At the back of the grand semicircular entrance hall opened the garden, formerly thought to have been a &lt;em&gt;natatio&lt;/em&gt;. On either side then followed a palestra (Fig. 1, P), an apodyterium or changing room (A), a frigidarium (F), and a tepidarium (T). Only the &lt;em&gt;caldarium&lt;/em&gt; (C) was shared between the sexes. The semicircular wall at the northeastern end of the garden area goes quite deep into the ground and was presumably part of a swimming pool. As late as 1994, de Palol thought that most of the central court had been a pool, but subsequent thorough investigation could not find evidence for it except near that wall. The oldest elements go back to Tiberian times as attested by ceramics near the base of the semicircular wall, constituting the oldest finds in Clunia. Two further datable extensions occurred in Flavian and Antonine times.&lt;/p&gt;
@@ -51473,7 +51204,65 @@ Domitianic period&lt;/p&gt;
 
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- ID is for Location (Ostia Antica), not the individual garden --&gt;</description></item><item><title>Pompeii: status update</title><link>https://roman-gardens.github.io/test-drafts/blog/02_20210421_pompeii_update/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/blog/02_20210421_pompeii_update/</guid><description>&lt;p&gt;The Vesuvian sites form nearly half of the entries at the beta launch but we are just getting started!&lt;/p&gt;
+&lt;!-- ID is for Location (Ostia Antica), not the individual garden --&gt;</description></item><item><title>Place of Palms</title><link>https://roman-gardens.github.io/test-drafts/id/4624d2d32a/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/4624d2d32a/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;Unspecified&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;An inscription (MAMA VIII, 448) indicates that Artemidorus Pedias, during his term as &lt;em&gt;strategos&lt;/em&gt;, promised to &amp;quot;adorn a palm grove with a statue of Hermes, and a gilded Aphrodite with Erotes holding lamps on either side and a marble Eros in Front&amp;quot; (Roueché, 70). The location of this garden is not specified. Robert suggests, based on the location of the inscription, that it was in the &lt;em&gt;temenos&lt;/em&gt; of Aphrodite (Robert, 257). Roueché conjectures that it perhaps lay on the east side of the &lt;em&gt;agora&lt;/em&gt;, based upon the presence of Hermes Agoraios (MAMA VIII, 406, 445, 446, and CIG 2770). She proposes that the grove was later embellished by the fountain at the &lt;em&gt;agora&lt;/em&gt; gate, where inscriptions (Hell. IV, 131-2) honor the conversion of the gate into a fountain, alluding to the Nymphs of the &amp;quot;place of the palms&amp;quot; (RRR Smith et al. 2018) Roueché notes that this palm-grove, with its walks, statuary, and fountains was clearly an elaborately decorated park. The &lt;em&gt;agora&lt;/em&gt; and &lt;em&gt;temenos&lt;/em&gt; have been identified. The south &lt;em&gt;agora&lt;/em&gt; (215 x 70m) features a long, monumental basin in its center.&lt;/p&gt;
+&lt;!-- ## Maps --&gt;
+&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/aphrodisias/south-agora-plan.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Plan of the South Agora, also called as the Place of Palms at Aphrodisias&lt;div class="credit"&gt;Credit: Mica and Ahmet Ertegün South Agora Pool Project&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="images"&gt;Images&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/aphrodisias/place-of-palms-1.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Place of Palms, South Agora, 1st century CE (Courtesy R.R.R. Smith et al.-The Mica and Ahmet Ertegün South Agora Pool Project)&lt;div class="credit"&gt;Credit: R.R.R. Smith et al. The Mica and Ahmet Ertegün South Agora Pool Project&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/aphrodisias/place-of-palms-2.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ South Agora – Place of Palms (looking west). Conservation rig over pool perimeter at south-east corner.&lt;div class="credit"&gt;Credit: Courtesy R.R.R. Smith et al., 2018.&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Reinach, T. 1906. &amp;quot;Inscriptions d'Aphrodisias&amp;quot; &lt;em&gt;RÉG&lt;/em&gt; 19, 84: 107 &lt;a href="https://search.worldcat.org/title/504802954" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Roueché, C., and J.M. Reynolds. 1989. &lt;em&gt;Aphrodisias in late antiquity: the late Roman and Byzantine Inscriptions including texts from the excavations conducted at Aphrodisias by Kenan T. Erim&lt;/em&gt;. London: Society for the Promotion of Roman Studies. &lt;a href="https://search.worldcat.org/title/4669803971" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wilson, A.I. 2015. &amp;quot;Water, nymphs and a palm grove: monumental water displays at Aphrodisias.&amp;quot; In &lt;em&gt;Aphrodisias Papers 5: Excavation and Research at Aphrodisias, 2006-2012&lt;/em&gt;, edited by R.R.R. Smith, J. Lenaghan, A. Sokolicek, and K. Welch, 100-135. &lt;em&gt;JRA&lt;/em&gt; Supplement 103. &lt;a href="https://search.worldcat.org/title/950610833" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- See also https://doi.org/10.29091/9783752002416 --&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=agoras"&gt;agoras&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008074" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008074&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fountains"&gt;fountains&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006179" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300006179&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=nymphs"&gt;nymphs&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300379159" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300379159&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=temene"&gt;temene&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000805" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300000805&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=marble"&gt;marble (rock)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300011443" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300011443&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sculpture"&gt;sculpture (visual works)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300047090" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300047090&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=groves"&gt;groves (plant communities)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008884" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008884&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions"&gt;inscriptions&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300028702&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+## Places
+--&gt;</description></item><item><title>Pompeii: status update</title><link>https://roman-gardens.github.io/test-drafts/blog/02_20210421_pompeii_update/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/blog/02_20210421_pompeii_update/</guid><description>&lt;p&gt;The Vesuvian sites form nearly half of the entries at the beta launch but we are just getting started!&lt;/p&gt;
 &lt;p&gt;Our first step is to publish the full text of garden entries that Wilhelmina Jashemski prepared. (Click &lt;a href="https://roman-gardens.github.io/test-drafts/history/"&gt;here&lt;/a&gt; for more information on the history of the project.)&lt;/p&gt;
 &lt;p&gt;Once we accomplish this, we will add gardens discovered in more recent excavations and archive Jashesmki's older entries for those sites. Both versions, however, will remain accessible online.&lt;/p&gt;
 &lt;p&gt;Pompeii and Herculaneum are evolving rapidly ... watch this space!&lt;/p&gt;
@@ -57892,25 +57681,6 @@ Fig. 1: Area outside the Balkerne gate before widening of the town ditch. Detail
 
 
  (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/814448537" title="Pleiades gazetteer of ancient places"&gt;Pleiades:814448537&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;li&gt;
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Kos%2c%20N%c3%adsos%20%28island%29" title='search for "Kos, Nísos (island)" within GRE'&gt;Kos, Nísos (island)&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7012054" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7012054&lt;/a&gt;)
 
 
 
