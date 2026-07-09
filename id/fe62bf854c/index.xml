@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vasada on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/fe62bf854c/</link><description>Recent content in Vasada on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/fe62bf854c/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden Of Quaternios Munneniois</title><link>https://roman-gardens.github.io/test-drafts/id/b12b517e00/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/b12b517e00/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vasada on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/fe62bf854c/</link><description>Recent content in Vasada on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2026 12:20:59 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/fe62bf854c/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden Of Quaternios Munneniois and Valeria Valeriana</title><link>https://roman-gardens.github.io/test-drafts/id/b12b517e00/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/b12b517e00/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;second or third century CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;A grave stele found near Vasada records an epitaph of perhaps second or third century date set up by a veteran secretary of the Roman army (&lt;em&gt;a commentariis&lt;/em&gt;), Quaternius Munnienus, and his wife, Valeria Valeriana, who set up for themselves a tomb and surrounding pleasure garden (&lt;em&gt;paradeisos&lt;/em&gt;). &lt;!--Greek text of inscription (Sterrett, WE 171,280) here: https://inscriptions.packhum.org/text/275873?hs=45-52--&gt;&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -28,16 +28,23 @@
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;J. R. S. Sterrett, “The Wolfe Expedition to Asia Minor,” &lt;em&gt;Papers of the ASCSA 3&lt;/em&gt;, 1884/5 (1888), no. 280. &lt;a href="https://search.worldcat.org/title/4568100" target="_blank"&gt;(worldcat)&lt;/a&gt;; &lt;a href="https://hdl.handle.net/2027/hvd.hn349f" target="_blank"&gt;(Hathi Trust)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;J. Kubińska, &lt;em&gt;Les monuments funéraires dans les inscriptions grecques de l’Asie Mineure&lt;/em&gt;. Warsaw, 1968, p. 143. &lt;a href="https://search.worldcat.org/title/8740190" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions"&gt;inscriptions&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300028702&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs"&gt;tombs&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005926&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=paradise gardens"&gt;paradise gardens&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008112" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008112&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically

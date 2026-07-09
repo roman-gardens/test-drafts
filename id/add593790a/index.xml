@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pergamum on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/add593790a/</link><description>Recent content in Pergamum on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/add593790a/index.xml" rel="self" type="application/rss+xml"/><item><title>Peristyle In The Royal Palace</title><link>https://roman-gardens.github.io/test-drafts/id/22d82e6588/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/22d82e6588/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pergamum on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/add593790a/</link><description>Recent content in Pergamum on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2026 17:15:16 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/add593790a/index.xml" rel="self" type="application/rss+xml"/><item><title>Peristyle In The Royal Palace</title><link>https://roman-gardens.github.io/test-drafts/id/22d82e6588/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/22d82e6588/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;Unspecified&lt;/p&gt;
+&lt;!--
+## Excavation Dates
+--&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;Nielsen has suggested that the peristyle of the Royal palace V, which is unpaved, was possibly a garden, watered by cisterns (Fig. 1).&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -12,8 +13,10 @@
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
+&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
 &lt;!--
-## Plans
+Fig. 1: Plan of the peristyle court in Palace V, after H. Schleif in Nielsen, Hellenistic Palaces, fig. 52)
+
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/asia/pergamum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
@@ -28,10 +31,13 @@
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;M. Carroll-Spillecke, “The Gardens of Greece from Homeric to Roman Times,” Journal of Garden History 12, 1992: 84-101&lt;/li&gt;
+&lt;li&gt;A. Kuttner, “Republican Rome looks at Pergamon” In Harvard Studies in Classical Philology vol. 97, Greece in Rome: Influence, Interaction, Resistance, ed. C.P.Jones, R. Thomas, 1997, pp.157-178&lt;/li&gt;
+&lt;li&gt;C. Ratte, “Pergamon,” Oxford Encyclopedia of Near Eastern Archaeology, 1997, 261-262&lt;/li&gt;
+&lt;li&gt;I. Nielsen, Hellenistic Palaces. Aarhus, 1994, p. 107, catalog no. 15.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
 ## Keywords
 - 
@@ -40,7 +46,7 @@
 --&gt;
 &lt;!--
 ## Places
-places containing this garden will be listed automatically
+
 - 
 
 
@@ -84,34 +90,7 @@ places containing this garden will be listed automatically
  &lt;br&gt;
 
 --&gt;</description></item><item><title>Temple Grove of Nikephorion</title><link>https://roman-gardens.github.io/test-drafts/id/64c43f2f28/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/64c43f2f28/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;p&gt;Unspecified&lt;/p&gt;
-&lt;h2 id="location"&gt;Location&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://roman-gardens.github.io/test-drafts/id/add593790a/"&gt;Pergamum (Pergamon; Bergama, Turkey)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Pergamum" title='search for "Pergamum" within GRE'&gt;Pergamum&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/550812" title="Pleiades gazetteer of ancient places"&gt;Pleiades:550812&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="location-description"&gt;Location Description&lt;/h2&gt;
-&lt;p&gt;Pergamum, a fortress site in Mysia near the Aegean coast, was transformed into an architectural center under the Attalid dynasty (282-133 BCE). Attalus the III wrote treatises on gardens, raised poisonous plants, made wax models (Plut. Demet. 20.2), and upon his death, left the kingdom of Mysia to the Romans. It became one of the most important Roman cities of Asia, and current scholarship has revealed its significance as an influence on the art and architecture of Rome. The range of designed open spaces includes sanctuaries, gymnasia, palaestra, and agoras, all of which were renovated during the Roman period. No archaeological remains of planting features have been reported, but an inscription records a law prohibiting the deliberate planting of trees near walls (SEG XIII 521.11.158-61).&lt;/p&gt;
-&lt;h2 id="garden"&gt;Garden&lt;/h2&gt;
-&lt;p&gt;Temple Grove of Nikephorion&lt;/p&gt;
+&lt;p&gt;ca. 3rd - 2nd centuries BCE&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;p&gt;King Eumenes II of Pergamum employed a gardener to plant new trees and nurse damaged ones back to health in the grove of the Nikephorion, following an attack on the city by Philip V of Macedon in 201 BCE, during which Philip V ordered his troops to cut down trees in the sanctuary (Polybios 16.1.6).&lt;/p&gt;
 &lt;!-- ## Maps --&gt;
