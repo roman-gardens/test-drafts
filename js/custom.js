@@ -43,3 +43,18 @@ async function citeThis(e) {
         console.log(error)
     }
 }
+
+function detectGreek() {
+    document.querySelectorAll('em').forEach((em) => {
+        let t = em.innerText
+        for (let i=0; i < t.length; i++) {
+            let c = t.codePointAt(i)
+            if (c >= 0x370 && c <= 0x3ff) {
+                em.lang = 'el'
+                break
+            }
+        }
+    })
+}
+
+detectGreek()

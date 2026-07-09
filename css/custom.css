@@ -460,3 +460,11 @@ xh6::after { content: 'h6' }
 sup {
   font-size: 75%;
 }
+
+/* greek letters detected via detectGreek() in custom.js */
+*:lang(el) {
+  color: #850;
+  font-weight: bold;
+  font-family: "Arial", sans-serif;
+  font-style: normal;
+}
