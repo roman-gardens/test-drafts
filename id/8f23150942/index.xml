@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cirta on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/8f23150942/</link><description>Recent content in Cirta on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/8f23150942/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden Of An Anonymous</title><link>https://roman-gardens.github.io/test-drafts/id/a67a113e82/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/a67a113e82/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cirta on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/8f23150942/</link><description>Recent content in Cirta on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 09 Jul 2026 18:11:35 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/8f23150942/index.xml" rel="self" type="application/rss+xml"/><item><title>Tomb Garden Of An Anonymous</title><link>https://roman-gardens.github.io/test-drafts/id/a67a113e82/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/a67a113e82/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;ca. 1853 &lt;!--CIL--&gt;&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;A partially preserved stone plaque now in the museum at Cirta and originally found nearby records in passable hexameters an idyllic description of the anonymous author's monument: &amp;amp; the little Attic bird [probably mistakenly, for bee] comes often to my tomb and, sated with thyme, leaves dripping honey; here birds sing sweetly to me in verdant grottoes; here the Delian laurel blossoms near my tomb, and grapes hang like gold upon the vines (&lt;em&gt;[saep]e meis tumulis avis Attica parvula venit / et satiata thymo stillantia mella relinquit, / mi volucres hic dulce canent viridantibus antris, / hic viridat tumulis laurus prope Delia nostris / et auro similes pendunt in vitibus [uva]e&lt;/em&gt;).&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -28,10 +28,11 @@
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CIL VIII, 7854 &lt;a href="http://arachne.uni-koeln.de/item/buchseite/597217" target="_blank"&gt;(Arachne)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CLE 468 &lt;a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015066034086&amp;amp;seq=228&amp;amp;q1=468" target="_blank"&gt;(HathiTrust)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
 ## Keywords
 - 

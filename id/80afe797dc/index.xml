@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Upper Nile on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/80afe797dc/</link><description>Recent content in Upper Nile on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/80afe797dc/index.xml" rel="self" type="application/rss+xml"/><item><title>Aphrodite</title><link>https://roman-gardens.github.io/test-drafts/id/eb6cba0868/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/eb6cba0868/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Upper Nile on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/80afe797dc/</link><description>Recent content in Upper Nile on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2026 15:53:37 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/80afe797dc/index.xml" rel="self" type="application/rss+xml"/><item><title>Garden in Panopolis</title><link>https://roman-gardens.github.io/test-drafts/id/7fd4cfb8d2/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/7fd4cfb8d2/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;Located near the temple of Apollo (or Horos?) at Panopolis. Size not known. Known from inscriptions in verse set up by the owner, Ptolemagrios, a veteran of the Roman army, with dedications to Ares, Poseidon, Zeus, and probably Hades. Mentions persea and date palms. Owner seems to stress that he and his sons have worked themselves on the garden.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -28,16 +28,89 @@
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Welles, C.B. &amp;quot;The Garden of Ptolemagrius at Panopolis&amp;quot; in &lt;em&gt;Transactions and Proceedings of the American Philological Association&lt;/em&gt;, Vol. 77 (1946), pp. 192-206. &lt;a href="https://www.jstor.org/stable/283456" target="_blank"&gt;(JStor)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions"&gt;inscriptions&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300028702&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Panopolis%2fSchmin" title='search for "Panopolis/Schmin" within GRE'&gt;Panopolis/Schmin&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/756613" title="Pleiades gazetteer of ancient places"&gt;Pleiades:756613&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Garden in village of Aphrodite</title><link>https://roman-gardens.github.io/test-drafts/id/eb6cba0868/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/eb6cba0868/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;6th century CE&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;Vineyard, reed plantation, orchard, olive grove, date-palm grove, mulberry grove, acacia grove, and garden, located in the western plain of the village of Aphrodite. Size not given. Leased in the 6th century for 4 years. Furnished with two cisterns (&lt;em&gt;λάκκοι&lt;/em&gt;), a tower, a field lodge, a stable, a chaff storehouse. Surrounded by an unknown quantity of arable land to be planted. Rent of cash, wheat, and half-shares of the other produce: wine, citrons, olives, dates, and vegetables, not set out in detail.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
 --&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Mich&lt;/em&gt;.13.666. &lt;a href="https://papyri.info/hgv/21378" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vineyards"&gt;vineyards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000248" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300000248&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=orchards"&gt;orchards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008890" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008890&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=olive trees"&gt;olive trees&lt;/a&gt; (&lt;a class="id" target="_blank" href="https://powo.science.kew.org/taxon/610675-1" title="Plants of the World Online (Kew)"&gt;POWO:610675-1&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cisterns"&gt;cisterns (plumbing components)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300052558" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300052558&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=stables"&gt;stables (animal housing)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005015" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005015&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -83,12 +156,12 @@ places containing this garden will be listed automatically
 
  &lt;br&gt;
 
---&gt;</description></item><item><title>Aphrodite Orchard</title><link>https://roman-gardens.github.io/test-drafts/id/dba6ef61c4/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/dba6ef61c4/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+--&gt;</description></item><item><title>Vineyard and orchard in village of Aphrodite</title><link>https://roman-gardens.github.io/test-drafts/id/dba6ef61c4/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/dba6ef61c4/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;after 550 CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;Located in the western plain of the village. Size not given. Leased after 550 CE for an unknown period. Furnished with a palisade, open-air drying shed, chaff storehouse, and two wooden sakiyas. Includes palms, fruit orchard (&lt;em&gt;πωμάριον&lt;/em&gt;), and olive orchard. Document is fragmentary and no doubt other things were mentioned.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -113,101 +186,25 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Panopolis</title><link>https://roman-gardens.github.io/test-drafts/id/7fd4cfb8d2/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/7fd4cfb8d2/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Hamb&lt;/em&gt;.1.68. &lt;a href="https://papyri.info/ddbdp/p.hamb;1;68" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=orchards"&gt;orchards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008890" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008890&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=storerooms"&gt;storerooms&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004479" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004479&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=olive trees"&gt;olive trees&lt;/a&gt; (&lt;a class="id" target="_blank" href="https://powo.science.kew.org/taxon/610675-1" title="Plants of the World Online (Kew)"&gt;POWO:610675-1&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vinyards"&gt;vinyards&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fayum on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/c836f8985e/</link><description>Recent content in Fayum on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/c836f8985e/index.xml" rel="self" type="application/rss+xml"/><item><title>Arsinoite Nome</title><link>https://roman-gardens.github.io/test-drafts/id/84843629fd/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/84843629fd/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fayum on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/c836f8985e/</link><description>Recent content in Fayum on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2026 15:53:37 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/c836f8985e/index.xml" rel="self" type="application/rss+xml"/><item><title>Vegetable garden at Dionysias</title><link>https://roman-gardens.github.io/test-drafts/id/11032f45a7/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/11032f45a7/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;161 to 169 CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;Two arouras (.56 ha.). Quarter share given in a &lt;em&gt;donatio mortis causa&lt;/em&gt; by a metropolitan woman to her daughter in 161-169 CE.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -28,67 +28,43 @@
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Stras&lt;/em&gt;.2.122 (cf. BL 4.93). &lt;a href="http://papyri.info/ddbdp/p.stras;2;122" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vegetable gardens"&gt;vegetable gardens&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008142" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008142&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Dionysias" title='search for "Dionysias" within GRE'&gt;Dionysias&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/736904" title="Pleiades gazetteer of ancient places"&gt;Pleiades:736904&lt;/a&gt;)
 
 
 
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Dionysias</title><link>https://roman-gardens.github.io/test-drafts/id/11032f45a7/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/11032f45a7/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Vegetable garden at Euhemeria</title><link>https://roman-gardens.github.io/test-drafts/id/0ea548bb0d/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0ea548bb0d/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;239 CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;1 1/8 arouras (.31 ha.). Leased for 3 years in 239 CE. Furnished with well and sakiya. Rent in cash payable in two installments each year.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -113,67 +89,47 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Flor&lt;/em&gt;.1.16. &lt;a href="http://papyri.info/ddbdp/p.flor;1;16" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rathbone, Dominic (1991), 186. &lt;em&gt;Economic Rationalism and Rural Society in Third-Century Egypt&lt;/em&gt;. Cambridge. &lt;a href="https://search.worldcat.org/title/23969932" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vegetable gardens"&gt;vegetable gardens&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008142" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008142&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water wells"&gt;water wells&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300152327" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300152327&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Euhemereia" title='search for "Euhemereia" within GRE'&gt;Euhemereia&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/736909" title="Pleiades gazetteer of ancient places"&gt;Pleiades:736909&lt;/a&gt;)
 
 
 
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Euhemeria</title><link>https://roman-gardens.github.io/test-drafts/id/0ea548bb0d/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0ea548bb0d/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Vegetable garden in Arsinoite nome</title><link>https://roman-gardens.github.io/test-drafts/id/84843629fd/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/84843629fd/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;seventh century CE (after 641)&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;In an unknown village; size not stated, part of larger tract of 10.5 arouras. Leased by an Arsinoite notable to his cowherd in the seventh century CE (after 641). Contains date palms, sycamores, and perhaps other trees.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -198,67 +154,46 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CPR.8.71. &lt;a href="http://papyri.info/ddbdp/cpr;8;71" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vegetable gardens"&gt;vegetable gardens&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008142" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008142&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=trees"&gt;trees (woody plants)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300132410" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300132410&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Arsinoites%2fKrokodeilopolites%20Nomos" title='search for "Arsinoites/Krokodeilopolites Nomos" within GRE'&gt;Arsinoites/Krokodeilopolites Nomos&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/736893" title="Pleiades gazetteer of ancient places"&gt;Pleiades:736893&lt;/a&gt;)
 
 
 
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Vineyard 1 Theadelphia</title><link>https://roman-gardens.github.io/test-drafts/id/408d429c37/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/408d429c37/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Vineyard 1 at Theadelphia</title><link>https://roman-gardens.github.io/test-drafts/id/408d429c37/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/408d429c37/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;69 CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;One-half aroura (.14 ha.). Leased in 69 CE for 3 years. Includes fruit trees of unspecified type (&lt;em&gt;ἀκρόδρυα&lt;/em&gt;), up which vines are trained; vineyard is described as anadendradic. Requires dung and &lt;em&gt;ammos&lt;/em&gt; (sand).&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -283,67 +218,43 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Soter&lt;/em&gt;.1. &lt;a href="https://papyri.info/hgv/13123" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vineyards"&gt;vineyards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000248" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300000248&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Theadelpheia" title='search for "Theadelpheia" within GRE'&gt;Theadelpheia&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/737081" title="Pleiades gazetteer of ancient places"&gt;Pleiades:737081&lt;/a&gt;)
 
 
 
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Vineyard 2 Theadelphia</title><link>https://roman-gardens.github.io/test-drafts/id/c6652f08ae/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/c6652f08ae/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Vineyard 2 at Theadelphia</title><link>https://roman-gardens.github.io/test-drafts/id/c6652f08ae/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/c6652f08ae/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;71 CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;One-half aroura (.14 ha.). Leased on 71 CE for 3 years. Includes fruit trees (apple, perhaps others), up which vines are trained; vineyard is described as anadendradic. Surrounded by mud-brick wall (&lt;em&gt;πλαστή&lt;/em&gt;). Rent of wine plus 1000 apples and amounts of thyme.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -368,59 +279,38 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Soter&lt;/em&gt;.2. &lt;a href="https://papyri.info/ddbdp/p.soter;;2" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vinyards"&gt;vinyards&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=walls"&gt;walls&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300002469" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300002469&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Theadelpheia" title='search for "Theadelpheia" within GRE'&gt;Theadelpheia&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/737081" title="Pleiades gazetteer of ancient places"&gt;Pleiades:737081&lt;/a&gt;)
 
 
 
-
- &lt;br&gt;
-
---&gt;</description></item></channel></rss>
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

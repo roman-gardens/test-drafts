@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Middle Nile on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/9c2c18ad7a/</link><description>Recent content in Middle Nile on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/9c2c18ad7a/index.xml" rel="self" type="application/rss+xml"/><item><title>Oxyrhynchos</title><link>https://roman-gardens.github.io/test-drafts/id/6d6895c85e/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/6d6895c85e/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Middle Nile on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/9c2c18ad7a/</link><description>Recent content in Middle Nile on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2026 15:53:37 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/9c2c18ad7a/index.xml" rel="self" type="application/rss+xml"/><item><title>Garden at Oxyrhynchos</title><link>https://roman-gardens.github.io/test-drafts/id/6d6895c85e/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/6d6895c85e/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;258 CE &lt;!--(https://papyri.info/ddbdp/p.coll.youtie;2;66)--&gt;&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;Described as a garden of the city inside its walls (&lt;em&gt;κῆπον τῆς πόλεως ἔνδον τειχῶν ὄντα&lt;/em&gt;, 63), called the Paradeisos of Diktynos, with the plants and water for irrigation in it by the grammarian to whom it had been given as a source of income (it earned 2400 drachmas a year). Mentioned in a petition to the emperors&lt;!--Valerian and Gallienus--&gt;.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -28,67 +28,43 @@
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Coll.Youtie&lt;/em&gt;.2.66; &lt;em&gt;P.Oxy&lt;/em&gt;.47.3366. &lt;a href="https://papyri.info/ddbdp/p.coll.youtie;2;66" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=walls"&gt;walls&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300002469" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300002469&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Oxyrhynchos" title='search for "Oxyrhynchos" within GRE'&gt;Oxyrhynchos&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/736983" title="Pleiades gazetteer of ancient places"&gt;Pleiades:736983&lt;/a&gt;)
 
 
 
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Tanais</title><link>https://roman-gardens.github.io/test-drafts/id/cb3d3aa992/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/cb3d3aa992/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Vineyard 1 in Oxyrhynchite nome</title><link>https://roman-gardens.github.io/test-drafts/id/aef6743f30/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/aef6743f30/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;137 CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;Location unknown and size lost. Subleased in 137 CE for 4 years. Includes reed plantation (&lt;em&gt;καλαμεῖα&lt;/em&gt;) and rose garden (&lt;em&gt;ῥοδών&lt;/em&gt;). Surrounded by dikes and a palisade. Furnished with a sakiya (&lt;em&gt;μηχανή&lt;/em&gt;) operated by &lt;em&gt;hydroparochoi&lt;/em&gt; and using 5 oxen and 3 young cattle, a cistern (&lt;em&gt;ὑδροδοχεῖον&lt;/em&gt;) and with an open-air drying shed (&lt;em&gt;ἡλιαστήριον&lt;/em&gt;). Requires applications of &lt;em&gt;χοῦς&lt;/em&gt; and pigeon dung.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -113,67 +89,49 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Oxy&lt;/em&gt;.4.729. &lt;a href="https://papyri.info/hgv/20429" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water supply systems"&gt;water supply systems&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008618" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008618&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water wells"&gt;water wells&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300152327" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300152327&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vinyards"&gt;vinyards&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Oxyrhynchos" title='search for "Oxyrhynchos" within GRE'&gt;Oxyrhynchos&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/736983" title="Pleiades gazetteer of ancient places"&gt;Pleiades:736983&lt;/a&gt;)
 
 
 
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Vineyard 1 Oxyrhynchite Nome</title><link>https://roman-gardens.github.io/test-drafts/id/aef6743f30/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/aef6743f30/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Vineyard 2 in Oxyrhynchite nome</title><link>https://roman-gardens.github.io/test-drafts/id/85f9f30605/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/85f9f30605/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;141 CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;A reed plantation, orchard, and garden; location not preserved. Leased in 141 CE for a number of years now lost. Furnished with a sakiya, a small watchtower, and a walled animal enclosure. Requires applications of &lt;em&gt;χοῦς&lt;/em&gt; and dung. Rent includes cash, wine, fresh grapes, fresh and pressed dry dates, green and black olives, pomegranates, peaches, figs, myxes, two types of gourds, and vegetables (&lt;em&gt;λάχανα&lt;/em&gt;) according to season.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -198,67 +156,49 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Ross.Georg&lt;/em&gt;.2.19. &lt;a href="https://papyri.info/ddbdp/p.ross.georg;2;19" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=orchards"&gt;orchards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008890" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008890&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vineyards"&gt;vineyards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000248" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300000248&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=stables"&gt;stables (animal housing)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005015" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005015&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Oxyrhynchos" title='search for "Oxyrhynchos" within GRE'&gt;Oxyrhynchos&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/736983" title="Pleiades gazetteer of ancient places"&gt;Pleiades:736983&lt;/a&gt;)
 
 
 
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Vineyard 2 Oxyrhynchite Nome</title><link>https://roman-gardens.github.io/test-drafts/id/85f9f30605/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/85f9f30605/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Vineyard, orchard, and reed plantation near Tanais</title><link>https://roman-gardens.github.io/test-drafts/id/cb3d3aa992/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/cb3d3aa992/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;280 CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;Near the village of Tanais, Oxyrhynchite nome. Size not stated. Work leased out in 280 CE. Orchard includes date palms and fruit trees (&lt;em&gt;ἀκρόδρυα&lt;/em&gt;). Surrounded by a mud-brick wall (&lt;em&gt;πλαστή&lt;/em&gt;). Furnished with an open-air drying shed. Watering required. Rent includes wine and various fruits: fresh and pressed dates, &lt;em&gt;καρυωτός&lt;/em&gt; dates, black olives, peaches (&lt;em&gt;περσικά&lt;/em&gt;), citrons (&lt;em&gt;κίτρια&lt;/em&gt;), summer and winter figs, and large white melons.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -283,19 +223,25 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Oxy&lt;/em&gt;.14.1631. &lt;a href="https://papyri.info/ddbdp/p.oxy;14;1631" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vineyards"&gt;vineyards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000248" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300000248&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=orchards"&gt;orchards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008890" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008890&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=walls"&gt;walls&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300002469" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300002469&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
 ## Places
-places containing this garden will be listed automatically
+NOTE: this is presumably not the "Tanis" that is closer to Cairo
 - 
 
 

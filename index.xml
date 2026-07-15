@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 09 Jul 2026 06:24:46 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/index.xml" rel="self" type="application/rss+xml"/><item><title>Gardens Of Asinius Pollio</title><link>https://roman-gardens.github.io/test-drafts/id/4197402f2f/</link><pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/4197402f2f/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/</link><description>Recent content on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2026 15:53:37 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/index.xml" rel="self" type="application/rss+xml"/><item><title>Gardens Of Asinius Pollio</title><link>https://roman-gardens.github.io/test-drafts/id/4197402f2f/</link><pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/4197402f2f/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
@@ -7406,262 +7406,7 @@ Check Amplissimae.
 
  &lt;br&gt;
 
-&lt;!-- Description --&gt;</description></item><item><title>Aphrodite</title><link>https://roman-gardens.github.io/test-drafts/id/eb6cba0868/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/eb6cba0868/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Aphrodite Orchard</title><link>https://roman-gardens.github.io/test-drafts/id/dba6ef61c4/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/dba6ef61c4/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Arsinoite Nome</title><link>https://roman-gardens.github.io/test-drafts/id/84843629fd/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/84843629fd/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Barat De Vin</title><link>https://roman-gardens.github.io/test-drafts/id/aeaee1dfc9/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/aeaee1dfc9/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- Description --&gt;</description></item><item><title>Barat De Vin</title><link>https://roman-gardens.github.io/test-drafts/id/aeaee1dfc9/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/aeaee1dfc9/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
@@ -7687,91 +7432,6 @@ places containing this garden will be listed automatically
 ## Images
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/sorde-l_abbaye/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Dionysias</title><link>https://roman-gardens.github.io/test-drafts/id/11032f45a7/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/11032f45a7/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -7916,16 +7576,16 @@ places containing this garden will be listed automatically
 
  &lt;br&gt;
 
---&gt;</description></item><item><title>Euhemeria</title><link>https://roman-gardens.github.io/test-drafts/id/0ea548bb0d/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0ea548bb0d/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+--&gt;</description></item><item><title>Garden at Kanopos</title><link>https://roman-gardens.github.io/test-drafts/id/05b24acec3/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/05b24acec3/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;22 BCE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;This garden was in wetlands (&lt;em&gt;tenagos&lt;/em&gt;) by the Strip (&lt;em&gt;tainias&lt;/em&gt;, a ridge) (cf. Fraser 1972: II, 253-54 n. 96). Size lost. Leased in 22 BCE for one year, rent part in cash and part in produce. Crops mentioned in the &lt;a href="https://papyri.info/hgv/18560" target="_blank"&gt;preserved text&lt;/a&gt; are: garden lettuce (&lt;em&gt;θρίδακας κηπουριακὰς&lt;/em&gt;); wild lettuce; fresh grapes; gourds; plantains; beetroot; leeks (headed and sweet); a member of the cabbage family (probably cauliflower); and land snails.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/alexandria/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -7933,7 +7593,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/alexandria/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -7941,21 +7601,216 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/alexandria/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;BGU.4.1118 (with corr. in BL 1.97). &lt;a href="https://papyri.info/hgv/18560" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vegetable gardens"&gt;vegetable gardens&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008142" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008142&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Canopus" title='search for "Canopus" within GRE'&gt;Canopus&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/727097" title="Pleiades gazetteer of ancient places"&gt;Pleiades:727097&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Garden at Oxyrhynchos</title><link>https://roman-gardens.github.io/test-drafts/id/6d6895c85e/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/6d6895c85e/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;258 CE &lt;!--(https://papyri.info/ddbdp/p.coll.youtie;2;66)--&gt;&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;Described as a garden of the city inside its walls (&lt;em&gt;κῆπον τῆς πόλεως ἔνδον τειχῶν ὄντα&lt;/em&gt;, 63), called the Paradeisos of Diktynos, with the plants and water for irrigation in it by the grammarian to whom it had been given as a source of income (it earned 2400 drachmas a year). Mentioned in a petition to the emperors&lt;!--Valerian and Gallienus--&gt;.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
 &lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
 --&gt;
 &lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
 --&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Coll.Youtie&lt;/em&gt;.2.66; &lt;em&gt;P.Oxy&lt;/em&gt;.47.3366. &lt;a href="https://papyri.info/ddbdp/p.coll.youtie;2;66" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=walls"&gt;walls&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300002469" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300002469&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Oxyrhynchos" title='search for "Oxyrhynchos" within GRE'&gt;Oxyrhynchos&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/736983" title="Pleiades gazetteer of ancient places"&gt;Pleiades:736983&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Garden in Panopolis</title><link>https://roman-gardens.github.io/test-drafts/id/7fd4cfb8d2/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/7fd4cfb8d2/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;unspecified&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;Located near the temple of Apollo (or Horos?) at Panopolis. Size not known. Known from inscriptions in verse set up by the owner, Ptolemagrios, a veteran of the Roman army, with dedications to Ares, Poseidon, Zeus, and probably Hades. Mentions persea and date palms. Owner seems to stress that he and his sons have worked themselves on the garden.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Welles, C.B. &amp;quot;The Garden of Ptolemagrius at Panopolis&amp;quot; in &lt;em&gt;Transactions and Proceedings of the American Philological Association&lt;/em&gt;, Vol. 77 (1946), pp. 192-206. &lt;a href="https://www.jstor.org/stable/283456" target="_blank"&gt;(JStor)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions"&gt;inscriptions&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300028702&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Panopolis%2fSchmin" title='search for "Panopolis/Schmin" within GRE'&gt;Panopolis/Schmin&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/756613" title="Pleiades gazetteer of ancient places"&gt;Pleiades:756613&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Garden in village of Aphrodite</title><link>https://roman-gardens.github.io/test-drafts/id/eb6cba0868/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/eb6cba0868/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;6th century CE&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;Vineyard, reed plantation, orchard, olive grove, date-palm grove, mulberry grove, acacia grove, and garden, located in the western plain of the village of Aphrodite. Size not given. Leased in the 6th century for 4 years. Furnished with two cisterns (&lt;em&gt;λάκκοι&lt;/em&gt;), a tower, a field lodge, a stable, a chaff storehouse. Surrounded by an unknown quantity of arable land to be planted. Rent of cash, wheat, and half-shares of the other produce: wine, citrons, olives, dates, and vegetables, not set out in detail.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Mich&lt;/em&gt;.13.666. &lt;a href="https://papyri.info/hgv/21378" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vineyards"&gt;vineyards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000248" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300000248&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=orchards"&gt;orchards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008890" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008890&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=olive trees"&gt;olive trees&lt;/a&gt; (&lt;a class="id" target="_blank" href="https://powo.science.kew.org/taxon/610675-1" title="Plants of the World Online (Kew)"&gt;POWO:610675-1&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=cisterns"&gt;cisterns (plumbing components)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300052558" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300052558&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=stables"&gt;stables (animal housing)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005015" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005015&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -8936,176 +8791,6 @@ places containing this garden will be listed automatically
 
  &lt;br&gt;
 
---&gt;</description></item><item><title>Ibrahimiya</title><link>https://roman-gardens.github.io/test-drafts/id/16c4ab940e/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/16c4ab940e/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/alexandria/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/alexandria/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/alexandria/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Kanopos</title><link>https://roman-gardens.github.io/test-drafts/id/05b24acec3/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/05b24acec3/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/alexandria/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/alexandria/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/alexandria/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
 --&gt;</description></item><item><title>Lindos Grove</title><link>https://roman-gardens.github.io/test-drafts/id/0cce51bdc8/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0cce51bdc8/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;ca. 1st - 3rd centuries CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
@@ -9196,11 +8881,13 @@ places containing this garden will be listed automatically
  &lt;br&gt;
 
 --&gt;</description></item><item><title>Little Circus</title><link>https://roman-gardens.github.io/test-drafts/id/506c8bf97f/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/506c8bf97f/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unspecified &lt;!--probably early 70s--&gt;&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;The &lt;!--nearby--&gt; Villa of the Little Circus rose on a high promontory two kilometers to the east of the Maritime Odeon. It overlooked the end of a long, sandy and curving beach. This once imposing residence had a 300 meter front on the sea. At the rear of the building, an area free of masonry was probably occupied by ornamental bushes and trees [A], while in the eastern part of the villa, a square peristyle, with the remains of a basin necessary for irrigation, was certainly a garden [B] and so must have been also the nearby central courtyard [C].&lt;/p&gt;
+&lt;p&gt;However the most interesting garden of this villa was located on the extreme western and higher part of the promontory. Here a long, narrow enclosure [D], shaped like a circus, occupied an area 85 meters long and 15 meters wide. Two walls enclosed its length. In its center we can still see the remains of a flowerbed, 60 meters long and 6 meters wide, shaped like the spina of a circus. Two semicircular basins of water, set at each end, stood at the places which, in a real circus, would have been occupied by the metae. A square basin [d] divided the flowerbed into two unequal parts. Viewed from a tower triclinium which stood at the western end [E], this inequality created the optical illusion of a much longer garden than the space on the top of the cliff would permit, as shown in Fig. 5.&lt;/p&gt;
+&lt;p&gt;Gardens shaped like a circus, a stadium or a hippodrome came into fashion around the end of the 1st century CE (Pliny. &lt;em&gt;Epist&lt;/em&gt;. 5.6.32-40). The list of other gardens of this includes the hippodrome of Pliny the Younger's Tuscany villa; the Stadium in Domitian's Domus Flavia on the Palatine hill; the one in this emperor's country residence of villa Albana (Lugli 1918); and the so-called Stadium of Hadrian's Villa (Hoffman 1980).&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -9225,10 +8912,32 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;S. Aurigemma, Antichità della regione di Gurgi (Tripoli) , Notiziario archeologico 3 (1922), pp. 35-38&lt;/li&gt;
+&lt;li&gt;R. Bartoccini, Ville e terme romane a Misurata Marina , Africa Italiana 1 (1927), pp. 214-225&lt;/li&gt;
+&lt;li&gt;R. Bartoccini, Villa romana presso l ex cimitero israelitico di Homs , Africa Italiana 1 (1927), pp. 226-232&lt;/li&gt;
+&lt;li&gt;R. Bartoccini, Villa romana con mosaici a Gurgi (Tripoli) , Africa Italiana 2 (1928-29), pp. 95-101&lt;/li&gt;
+&lt;li&gt;R. Bartoccini, Il porto romano di Leptis Magna , Supplemento al Bollettino del Centro Studi per la Storia dell Architettura 13 (1958), pp. 1-222&lt;/li&gt;
+&lt;li&gt;M. Cagiano de Azevedo, La data dei mosaici di Zliten, Bruxelles 1962&lt;/li&gt;
+&lt;li&gt;A. Di Vitta, La villa della Gara delle Nereidi , in Supplements of Libya antiqua, Roma 1966&lt;/li&gt;
+&lt;li&gt;R. G. Goodchil, Tabula Imperii Romani - Leptis Magna, Oxford 1954&lt;/li&gt;
+&lt;li&gt;G. Guidi, La villa del Nilo a Leptis Magna , Africa Italiana 5 (1933), pp. 1-56&lt;/li&gt;
+&lt;li&gt;A. Hoffman, Das Gartenstadion in der Villa Hadriana, Mainz am Rhein 1980&lt;/li&gt;
+&lt;li&gt;G. Lugli, La villa di Domiziano sui Colli Albani, II parte , BullCom 46 (1918), pp. 64-65&lt;/li&gt;
+&lt;li&gt;L. Mariani, Musaici di Zliten , RendLinc 23 (1914), pp. 42-00&lt;/li&gt;
+&lt;li&gt;L. Mariani, Nuove ricerche a Zliten in Tripolitania , RendLinc 23 (1914), pp. 69-00&lt;/li&gt;
+&lt;li&gt;L. Mariani, Nuove scoperte di musaici a Zliten , RendLinc 23 (1914), pp. 405-000&lt;/li&gt;
+&lt;li&gt;P. Romanelli, Studi e ricerche archeologiche in Tripolitania nei primi quattro anni di occupazione italiana , Nuova antologia 1916, pp. 5-23&lt;/li&gt;
+&lt;li&gt;P. Romanelli, Dieci anni di esplorazioni archeologiche in Tripolitania , Aegyptus 3 (1922), pp. 295-314&lt;/li&gt;
+&lt;li&gt;P. Romanelli, La vita agricola in Tripolitania attraverso le rappresentazioni figurate, Africa Italiana 2 (1929-30), pp. 53-75&lt;/li&gt;
+&lt;li&gt;E. Salza Prina Ricotti, Ville Marittime e residenziali del Nord Africa , in Colloquii del Sodalizio 2 (1968-1970), pp. 21-32, tavv. I-III&lt;/li&gt;
+&lt;li&gt;E. Salza Prina Ricotti, Le Ville di Silin , RendPontAcc 43 (1970-71), pp.135-163&lt;/li&gt;
+&lt;li&gt;E. Salza Prina Ricotti, I porti della zona di Leptis Magna , RendPontAcc 45 (1972-73), pp. 75-103&lt;/li&gt;
+&lt;li&gt;D. Scagiarini, E. Salza Prina Ricotti, Enciclopedia dell Arte antica classica e orientale, Supplemento 1970, s. v. Villa , pp. 911-916&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--*from doc: "For the other villas of the Libyan coast and representations of country life on mosaics see: 
+Mariani 1914; Mariani 1914a; Mariani 1914b; Romanelli 1922; Bartoccini 1927a; Bartoccini 1928-29; Cagiano de Azevedo 1962"--&gt;
 &lt;!--
 ## Keywords
 - 
@@ -9422,91 +9131,6 @@ places containing this garden will be listed automatically
 
  &lt;br&gt;
 
---&gt;</description></item><item><title>Oxyrhynchos</title><link>https://roman-gardens.github.io/test-drafts/id/6d6895c85e/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/6d6895c85e/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
 --&gt;</description></item><item><title>Palaestra</title><link>https://roman-gardens.github.io/test-drafts/id/76fb8a654b/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/76fb8a654b/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;1st century CE - late 5th/6th centuries CE&lt;/p&gt;
 &lt;!--main development 3rd cent CE--&gt;
@@ -9592,91 +9216,6 @@ places containing this garden will be listed automatically
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Panopolis</title><link>https://roman-gardens.github.io/test-drafts/id/7fd4cfb8d2/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/7fd4cfb8d2/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
 - 
 
 
@@ -10096,11 +9635,11 @@ original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartig
  &lt;br&gt;
 
 --&gt;</description></item><item><title>Silin</title><link>https://roman-gardens.github.io/test-drafts/id/ae6dc15559/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/ae6dc15559/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;late 1960s - early 1970s&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;The villa of the Maritime Odeon was surveyed and mapped by Salza Prina Ricotti in the late 1960's and early 1970's. It is an ample and luxurious residence with a large area (Fig. 1, A) at its rear where there is no evident trace of masonry. It was probably the residence's traditional garden. As a matter of fact, everywhere near the seacoasts, gardens were placed at the back of the buildings to protect them from salt-laden winds. When the villa of the Maritime Odeon was active, this area must have been a green refreshing place shaded by local trees and ornamental plants, like date palms, olive trees and some North-African flowering bushes. However the most striking open-air feature of this villa was the arrangement of its sea front where no vegetation would ever have survived. There was what we can very well call a stone-garden, an original landscaping planned for open-air life and leisurely strolls. Here a small theater [B] cut in the sandstone and flanked by two long flights of steps looked out toward a mass of rock - today much eroded - which formed a dramatic background against the blue Mediterranean Sea. A porch and a cryptoporticus behind it ran along the front of the house. They offered to the villa's owners a place to exercise in the portico exposed to the fresh northern winds, or to walk sheltered from the heat in the dusky gallery enclosed by walls which, shaded by the portico in front of it, were never touched by the flaming rays of the African sun.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -10125,10 +9664,10 @@ original citation : D. Dreliossi-Herakleidou, “Späthellenistische palastartig
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Eugenia Salza Prina Ricotti, 1968-70, 1970, and 1970-71.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
 ## Keywords
 - 
@@ -10180,97 +9719,12 @@ places containing this garden will be listed automatically
 
  &lt;br&gt;
 
---&gt;</description></item><item><title>Tanais</title><link>https://roman-gardens.github.io/test-drafts/id/cb3d3aa992/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/cb3d3aa992/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+--&gt;</description></item><item><title>Three tomb gardens at Kanopos</title><link>https://roman-gardens.github.io/test-drafts/id/f69029472c/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/f69029472c/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;5 BCE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Three Tomb Gardens</title><link>https://roman-gardens.github.io/test-drafts/id/f69029472c/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/f69029472c/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;These were “in the so-called Palm Grove.” Size not given. Leased in 5 BCE for five years. Walled with a &lt;em&gt;peribolos&lt;/em&gt;. Rent part in cash and part in produce. Crops mentioned in preserved text are: asparagus; fresh grapes; mixed plantains; beetroot; leeks (headed and sweet); members of the cabbage family (probably including cauliflower); figs; round gourds; great jujubes; palm-leaf dusters; mistletoe; kitchen vegetables; and land snails.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -10295,62 +9749,41 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;BGU.4.1120 &lt;a href="https://papyri.info/hgv/18562" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=periboloi"&gt;periboloi&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005069" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005069&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vegetable gardens"&gt;vegetable gardens&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008142" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008142&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Canopus" title='search for "Canopus" within GRE'&gt;Canopus&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/727097" title="Pleiades gazetteer of ancient places"&gt;Pleiades:727097&lt;/a&gt;)
 
 
 
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Tomb Garden</title><link>https://roman-gardens.github.io/test-drafts/id/874c1ce568/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/874c1ce568/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Tomb Garden</title><link>https://roman-gardens.github.io/test-drafts/id/874c1ce568/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/874c1ce568/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;p&gt;unspecified&lt;/p&gt;
@@ -10444,97 +9877,12 @@ places containing this garden will be listed automatically
 
  &lt;br&gt;
 
---&gt;</description></item><item><title>Tomb Garden Cicero Thabudeiensis</title><link>https://roman-gardens.github.io/test-drafts/id/3b37043a57/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/3b37043a57/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
 --&gt;</description></item><item><title>Tomb Garden Of An Anonymous</title><link>https://roman-gardens.github.io/test-drafts/id/a67a113e82/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/a67a113e82/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;ca. 1853 &lt;!--CIL--&gt;&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;A partially preserved stone plaque now in the museum at Cirta and originally found nearby records in passable hexameters an idyllic description of the anonymous author's monument: &amp;amp; the little Attic bird [probably mistakenly, for bee] comes often to my tomb and, sated with thyme, leaves dripping honey; here birds sing sweetly to me in verdant grottoes; here the Delian laurel blossoms near my tomb, and grapes hang like gold upon the vines (&lt;em&gt;[saep]e meis tumulis avis Attica parvula venit / et satiata thymo stillantia mella relinquit, / mi volucres hic dulce canent viridantibus antris, / hic viridat tumulis laurus prope Delia nostris / et auro similes pendunt in vitibus [uva]e&lt;/em&gt;).&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -10559,10 +9907,11 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CIL VIII, 7854 &lt;a href="http://arachne.uni-koeln.de/item/buchseite/597217" target="_blank"&gt;(Arachne)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CLE 468 &lt;a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015066034086&amp;amp;seq=228&amp;amp;q1=468" target="_blank"&gt;(HathiTrust)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
 ## Keywords
 - 
@@ -11174,7 +10523,96 @@ places containing this garden will be listed automatically
 
 
 &lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Tomb Garden Of P. Paconius Hermeias</title><link>https://roman-gardens.github.io/test-drafts/id/df75e8b245/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/df75e8b245/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>Tomb Garden of Cicero Thabudeiensis</title><link>https://roman-gardens.github.io/test-drafts/id/3b37043a57/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/3b37043a57/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;second or third century CE&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;1955&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;An inscription found near Timgad (Algeria) in 1955 records the epitaph of Cicero Thabudeiensis, “a man of honorable reputation, evidently from Thabudeos (modern Thouda, near Biskra), set up some time in the second or third century CE by C. Iul(ius) Silv[anus], who dedicated a tomb garden (&lt;em&gt;cepotap[hium]&lt;/em&gt;) to Cicero and to his own descendants, on account of the memory of (his) future kindness to him (&lt;em&gt;ob memoriam futurae in se b[enevolentiae]&lt;/em&gt;). Perhaps Cicero had granted Silv[anus] manumission and a legacy upon the completion of certain &lt;em&gt;operae&lt;/em&gt;, for which Silv[anus] expresses his gratitude in advance through funerary commemoration.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/numidia/thamugadi/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Libyca. Archéologie Épigraphie 4.1 (1956) 119-21, no. 29 &lt;a href="https://search.worldcat.org/title/804663679" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AE 1957, 185.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions"&gt;inscriptions&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300028702&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs"&gt;tombs&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005926&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+## Places
+places containing this garden will be listed automatically
+- 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
+
+
+
+
+ &lt;br&gt;
+
+- 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+
+
+
+
+ &lt;br&gt;
+
+--&gt;</description></item><item><title>Tomb Garden Of P. Paconius Hermeias</title><link>https://roman-gardens.github.io/test-drafts/id/df75e8b245/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/df75e8b245/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;ca. first - second century CE &lt;!--our description says "probably in second century"; TAM II says 1st century--&gt;&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;p&gt;unspecified&lt;/p&gt;
@@ -11543,7 +10981,286 @@ places containing this garden will be listed automatically
 
  &lt;br&gt;
 
---&gt;</description></item><item><title>Villa At Glesia</title><link>https://roman-gardens.github.io/test-drafts/id/0b91f82087/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0b91f82087/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+--&gt;</description></item><item><title>Tomb garden probably in Ibrahimiya</title><link>https://roman-gardens.github.io/test-drafts/id/16c4ab940e/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/16c4ab940e/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;first century CE&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;Ibrahimiya was an eastern suburban necropolis of Alexandria. Size not given. Constructed in the first century CE by Pomponia Mousa for her son, husband, freedmen and freedwomen; object of litigation before the Idios Logos ca. 90 CE. No information given about what was planted in it; a &lt;em&gt;καρπιστής&lt;/em&gt; mentioned is probably owner of rights to harvest the produce.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/alexandria/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/alexandria/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/alexandria/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fraser, P. M. and B. Nicholas (1958). The Funerary Garden of Mousa, &lt;em&gt;Journal of Roman Studies&lt;/em&gt; 48: 117-29. &lt;a href="https://search.worldcat.org/title/8271419609" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;J. and L. Robert, &lt;em&gt;Revue des Études Grecques&lt;/em&gt; 72 (1959) 272-73.&lt;!--no. 498--&gt; &lt;a href="https://www.persee.fr/doc/reg_0035-2039_1959_num_72_339_3579" target="_blank"&gt;(Persée)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Supplementum Epigrapicum Graecum&lt;/em&gt;, 18.646. &lt;a href="https://scholarlyeditions.brill.com/sego/" target="_blank"&gt;(SEG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=inscriptions"&gt;inscriptions&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300028702" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300028702&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tombs"&gt;tombs&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005926" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005926&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+## Places
+- 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
+
+
+
+
+ &lt;br&gt;
+
+- 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+
+
+
+
+ &lt;br&gt;
+
+--&gt;</description></item><item><title>Vegetable garden at Dionysias</title><link>https://roman-gardens.github.io/test-drafts/id/11032f45a7/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/11032f45a7/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;161 to 169 CE&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;Two arouras (.56 ha.). Quarter share given in a &lt;em&gt;donatio mortis causa&lt;/em&gt; by a metropolitan woman to her daughter in 161-169 CE.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Stras&lt;/em&gt;.2.122 (cf. BL 4.93). &lt;a href="http://papyri.info/ddbdp/p.stras;2;122" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vegetable gardens"&gt;vegetable gardens&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008142" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008142&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Dionysias" title='search for "Dionysias" within GRE'&gt;Dionysias&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/736904" title="Pleiades gazetteer of ancient places"&gt;Pleiades:736904&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Vegetable garden at Euhemeria</title><link>https://roman-gardens.github.io/test-drafts/id/0ea548bb0d/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0ea548bb0d/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;239 CE&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;1 1/8 arouras (.31 ha.). Leased for 3 years in 239 CE. Furnished with well and sakiya. Rent in cash payable in two installments each year.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Flor&lt;/em&gt;.1.16. &lt;a href="http://papyri.info/ddbdp/p.flor;1;16" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rathbone, Dominic (1991), 186. &lt;em&gt;Economic Rationalism and Rural Society in Third-Century Egypt&lt;/em&gt;. Cambridge. &lt;a href="https://search.worldcat.org/title/23969932" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vegetable gardens"&gt;vegetable gardens&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008142" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008142&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water wells"&gt;water wells&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300152327" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300152327&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Euhemereia" title='search for "Euhemereia" within GRE'&gt;Euhemereia&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/736909" title="Pleiades gazetteer of ancient places"&gt;Pleiades:736909&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Vegetable garden in Arsinoite nome</title><link>https://roman-gardens.github.io/test-drafts/id/84843629fd/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/84843629fd/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;seventh century CE (after 641)&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;In an unknown village; size not stated, part of larger tract of 10.5 arouras. Leased by an Arsinoite notable to his cowherd in the seventh century CE (after 641). Contains date palms, sycamores, and perhaps other trees.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CPR.8.71. &lt;a href="http://papyri.info/ddbdp/cpr;8;71" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vegetable gardens"&gt;vegetable gardens&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008142" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008142&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=trees"&gt;trees (woody plants)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300132410" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300132410&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Arsinoites%2fKrokodeilopolites%20Nomos" title='search for "Arsinoites/Krokodeilopolites Nomos" within GRE'&gt;Arsinoites/Krokodeilopolites Nomos&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/736893" title="Pleiades gazetteer of ancient places"&gt;Pleiades:736893&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Villa At Glesia</title><link>https://roman-gardens.github.io/test-drafts/id/0b91f82087/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0b91f82087/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
@@ -12988,12 +12705,73 @@ places containing this garden will be listed automatically
 
  &lt;br&gt;
 
---&gt;</description></item><item><title>Vineyard 1 Oxyrhynchite Nome</title><link>https://roman-gardens.github.io/test-drafts/id/aef6743f30/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/aef6743f30/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+--&gt;</description></item><item><title>Vineyard 1 at Theadelphia</title><link>https://roman-gardens.github.io/test-drafts/id/408d429c37/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/408d429c37/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;69 CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;One-half aroura (.14 ha.). Leased in 69 CE for 3 years. Includes fruit trees of unspecified type (&lt;em&gt;ἀκρόδρυα&lt;/em&gt;), up which vines are trained; vineyard is described as anadendradic. Requires dung and &lt;em&gt;ammos&lt;/em&gt; (sand).&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Soter&lt;/em&gt;.1. &lt;a href="https://papyri.info/hgv/13123" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vineyards"&gt;vineyards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000248" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300000248&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Theadelpheia" title='search for "Theadelpheia" within GRE'&gt;Theadelpheia&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/737081" title="Pleiades gazetteer of ancient places"&gt;Pleiades:737081&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Vineyard 1 in Oxyrhynchite nome</title><link>https://roman-gardens.github.io/test-drafts/id/aef6743f30/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/aef6743f30/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;137 CE&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;Location unknown and size lost. Subleased in 137 CE for 4 years. Includes reed plantation (&lt;em&gt;καλαμεῖα&lt;/em&gt;) and rose garden (&lt;em&gt;ῥοδών&lt;/em&gt;). Surrounded by dikes and a palisade. Furnished with a sakiya (&lt;em&gt;μηχανή&lt;/em&gt;) operated by &lt;em&gt;hydroparochoi&lt;/em&gt; and using 5 oxen and 3 young cattle, a cistern (&lt;em&gt;ὑδροδοχεῖον&lt;/em&gt;) and with an open-air drying shed (&lt;em&gt;ἡλιαστήριον&lt;/em&gt;). Requires applications of &lt;em&gt;χοῦς&lt;/em&gt; and pigeon dung.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -13018,16 +12796,223 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Oxy&lt;/em&gt;.4.729. &lt;a href="https://papyri.info/hgv/20429" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water supply systems"&gt;water supply systems&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008618" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008618&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water wells"&gt;water wells&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300152327" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300152327&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vinyards"&gt;vinyards&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Oxyrhynchos" title='search for "Oxyrhynchos" within GRE'&gt;Oxyrhynchos&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/736983" title="Pleiades gazetteer of ancient places"&gt;Pleiades:736983&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Vineyard 2 at Theadelphia</title><link>https://roman-gardens.github.io/test-drafts/id/c6652f08ae/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/c6652f08ae/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;71 CE&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;One-half aroura (.14 ha.). Leased on 71 CE for 3 years. Includes fruit trees (apple, perhaps others), up which vines are trained; vineyard is described as anadendradic. Surrounded by mud-brick wall (&lt;em&gt;πλαστή&lt;/em&gt;). Rent of wine plus 1000 apples and amounts of thyme.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
 --&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Soter&lt;/em&gt;.2. &lt;a href="https://papyri.info/ddbdp/p.soter;;2" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vinyards"&gt;vinyards&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=walls"&gt;walls&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300002469" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300002469&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Theadelpheia" title='search for "Theadelpheia" within GRE'&gt;Theadelpheia&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/737081" title="Pleiades gazetteer of ancient places"&gt;Pleiades:737081&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Vineyard 2 in Oxyrhynchite nome</title><link>https://roman-gardens.github.io/test-drafts/id/85f9f30605/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/85f9f30605/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;141 CE&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;A reed plantation, orchard, and garden; location not preserved. Leased in 141 CE for a number of years now lost. Furnished with a sakiya, a small watchtower, and a walled animal enclosure. Requires applications of &lt;em&gt;χοῦς&lt;/em&gt; and dung. Rent includes cash, wine, fresh grapes, fresh and pressed dry dates, green and black olives, pomegranates, peaches, figs, myxes, two types of gourds, and vegetables (&lt;em&gt;λάχανα&lt;/em&gt;) according to season.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Ross.Georg&lt;/em&gt;.2.19. &lt;a href="https://papyri.info/ddbdp/p.ross.georg;2;19" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=orchards"&gt;orchards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008890" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008890&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vineyards"&gt;vineyards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000248" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300000248&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=stables"&gt;stables (animal housing)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005015" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005015&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Oxyrhynchos" title='search for "Oxyrhynchos" within GRE'&gt;Oxyrhynchos&lt;/a&gt;
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/736983" title="Pleiades gazetteer of ancient places"&gt;Pleiades:736983&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Vineyard and orchard in village of Aphrodite</title><link>https://roman-gardens.github.io/test-drafts/id/dba6ef61c4/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/dba6ef61c4/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;after 550 CE&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;Located in the western plain of the village. Size not given. Leased after 550 CE for an unknown period. Furnished with a palisade, open-air drying shed, chaff storehouse, and two wooden sakiyas. Includes palms, fruit orchard (&lt;em&gt;πωμάριον&lt;/em&gt;), and olive orchard. Document is fragmentary and no doubt other things were mentioned.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/upper_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Hamb&lt;/em&gt;.1.68. &lt;a href="https://papyri.info/ddbdp/p.hamb;1;68" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=orchards"&gt;orchards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008890" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008890&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=storerooms"&gt;storerooms&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004479" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004479&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=olive trees"&gt;olive trees&lt;/a&gt; (&lt;a class="id" target="_blank" href="https://powo.science.kew.org/taxon/610675-1" title="Plants of the World Online (Kew)"&gt;POWO:610675-1&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vinyards"&gt;vinyards&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -13073,16 +13058,16 @@ places containing this garden will be listed automatically
 
  &lt;br&gt;
 
---&gt;</description></item><item><title>Vineyard 1 Theadelphia</title><link>https://roman-gardens.github.io/test-drafts/id/408d429c37/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/408d429c37/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+--&gt;</description></item><item><title>Vineyard, orchard, and reed plantation near Tanais</title><link>https://roman-gardens.github.io/test-drafts/id/cb3d3aa992/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/cb3d3aa992/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;280 CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;Near the village of Tanais, Oxyrhynchite nome. Size not stated. Work leased out in 280 CE. Orchard includes date palms and fruit trees (&lt;em&gt;ἀκρόδρυα&lt;/em&gt;). Surrounded by a mud-brick wall (&lt;em&gt;πλαστή&lt;/em&gt;). Furnished with an open-air drying shed. Watering required. Rent includes wine and various fruits: fresh and pressed dates, &lt;em&gt;καρυωτός&lt;/em&gt; dates, black olives, peaches (&lt;em&gt;περσικά&lt;/em&gt;), citrons (&lt;em&gt;κίτρια&lt;/em&gt;), summer and winter figs, and large white melons.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -13090,7 +13075,7 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -13098,24 +13083,30 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;P.Oxy&lt;/em&gt;.14.1631. &lt;a href="https://papyri.info/ddbdp/p.oxy;14;1631" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vineyards"&gt;vineyards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000248" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300000248&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=orchards"&gt;orchards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008890" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008890&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=walls"&gt;walls&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300002469" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300002469&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
 ## Places
-places containing this garden will be listed automatically
+NOTE: this is presumably not the "Tanis" that is closer to Cairo
 - 
 
 
@@ -13158,182 +13149,12 @@ places containing this garden will be listed automatically
 
  &lt;br&gt;
 
---&gt;</description></item><item><title>Vineyard 2 Oxyrhynchite Nome</title><link>https://roman-gardens.github.io/test-drafts/id/85f9f30605/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/85f9f30605/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+--&gt;</description></item><item><title>Vineyards, rose, and bean gardens at Kanopos</title><link>https://roman-gardens.github.io/test-drafts/id/a6318547b4/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/a6318547b4/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;5 BCE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;unexcavated&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/middle_nile/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Vineyard 2 Theadelphia</title><link>https://roman-gardens.github.io/test-drafts/id/c6652f08ae/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/c6652f08ae/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/aegyptus/fayum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Vineyards</title><link>https://roman-gardens.github.io/test-drafts/id/a6318547b4/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/a6318547b4/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;These vineyards (&lt;em&gt;ἄμπελοι&lt;/em&gt;) with a rose garden (&lt;em&gt;ῥοδεών&lt;/em&gt;) and fava bean gardens (&lt;em&gt;κυαμῶνες&lt;/em&gt;) were in in wetlands on the Strip (cf. &lt;a href="https://roman-gardens.github.io/test-drafts/id/05b24acec3/"&gt;Garden at Kanopos&lt;/a&gt;). Size: 4.5 ar. (1.24 ha.)&lt;!-- check units --&gt; in two parcels, of which lessors own two-thirds share. Leased in 5 BCE for 5 years.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -13358,67 +13179,54 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;BGU.4.1119. &lt;a href="https://papyri.info/ddbdp/bgu;4;1119" target="_blank"&gt;(papyri.info)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=vineyards"&gt;vineyards&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000248" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300000248&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=flower gardens"&gt;flower gardens&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008135" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008135&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
 
 
 
-
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Canopus" title='search for "Canopus" within GRE'&gt;Canopus&lt;/a&gt;
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/727097" title="Pleiades gazetteer of ancient places"&gt;Pleiades:727097&lt;/a&gt;)
 
 
 
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Wadi Iala</title><link>https://roman-gardens.github.io/test-drafts/id/e4745ac5de/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/e4745ac5de/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Wadi Iala</title><link>https://roman-gardens.github.io/test-drafts/id/e4745ac5de/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/e4745ac5de/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;ca. 2nd century CE - early 3rd century CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;1970s - 1980s&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;!--TODO (From doc): This entry makes many references to numbers and letters on the plan that are not on it.--&gt;
+&lt;!--TODO: Add images/plans (on doc)--&gt;
+&lt;p&gt;The villa was excavated and restored in the 1970s and 1980s by the Libyan Department of Antiquities, under the then superintendent for Leptis Magna, Omar al-Mahjub. The complex is not conserved in its entirety (Fig. 1). Marine erosion has removed the northern part of teh peristyle, that is, the ends of the two side-wings, and the entire north wing, which would have closed the peristyle on the shoe side. The peristyle [0], fronting dramatically onto the sea, served as the focal point of the villa's reception area (Fig. 2). The portico, with plastered sandstone columns, was articulated around a central garden. At the rear, some of the building's more important rooms opened onto two grand &lt;em&gt;viridaria&lt;/em&gt; to the south of the complex. The first (b) was bounded to the south by a curved wall (Fig. 4) and to the north by a portico, onto which faced the &lt;em&gt;tablinum&lt;/em&gt; [2] and another of the villa's reception rooms [3]. The identification of this open area as a garden was confirmed by the discovery during the excavation of a least five terracotta flowerpots, each with holes in the base to enable the roots to grow out (Fig. 3).&lt;/p&gt;
+&lt;p&gt;The second garden (c) was considerably larger, and rectangular in form (Fig. 1 and 4). A trellis must have bounded the north side, flanking the rear of the sea-peristyle's southern wing. From west to east, this wing consisted of: two diaetae (10-11); a large triclinium, sumptuously decorated with columns and marble floor and wall revetment (12); a corridor of communication between the peristyle and the rear part of the villa (13); and the master-bedroom (14).&lt;/p&gt;
+&lt;p&gt;For the originality of its plan, however, the most interesting garden sector is that to the east of the villa [d] (Fig. 5). The arrangement of this vast open area as a garden dates in all probability to the end of the second century CE - that is, after the construction and decoration of the peristyle sector of the villa and its contemporary circular bath-block. Due to marine erosion, much of the northern portion and the eastern boundary of the garden has not survived. The garden's original layout should be seen in relation to the construction of the &lt;em&gt;oecus&lt;/em&gt; [21], backing onto the bath rotunda (cf. Fig. 1), and with the reorganization of this sector of the complex as a residential area.&lt;/p&gt;
+&lt;p&gt;Of the original garden layout four trenches survive, 30 em deep and 1.5 meters - 3 meters wide, running parallel to the shoreline. They are divided lengthwise by long, low walls. At east, the layout is only partially preserved. The tops of the trench walls are decorated with polychrome mosaics of acanthus scrolls enclosing fruit and animals (Fig. 6). Fragments of a painted frieze with Nilotic scenes hae been detached from the sides and southernmost of the two longer trenches (Fig. 1).&lt;/p&gt;
+&lt;p&gt;During the latest phase, dating most probably to the Severan or late Severan period, the southernmost trench at least must have been destroyed for the construction of the portico with adjacent scales-mosaic pavement, which bounded the garden's southern side and which abutted one of the trench walls. The construction of the portico represents the last building phase of the villa and had the function of screening off the service-quarters behind it (cf. Fig. 5).&lt;/p&gt;
+&lt;p&gt;Continued excavation is impossible because of the re-arrangement of the entire area as a new garden; we can therefore only advance hypotheses regarding the original purpose of these trenches (Fig. 8). It is conceivable that they functioned as an alternate sequence of paths (the trench with painted Nilotic decoration, for example) and flower-beds. The ancient predilection for symmetrical planning most likely influenced the layout of our trenches. One could suggest a reconstruction of nine trenches: three central ones, of greater dimensions and extending further to the west (two of this kind are conserved in fragmentary state); and six minor ones, symmetrically arranged with three on each side of the central group (two remain to the south; the group to the north has vanished completely, but can be reconstructed by virtue of their symmetry) (Fig.9). In the absence of clear excavation data, the reconstruction of one or more of the trenches as water-channels (euripi) remains highly speculative (as in Fig.10).&lt;/p&gt;
+&lt;p&gt;The whole arrangement, even in terms of its apparent novelty, can be traced back to prototypes favored by imperial patronage: one should not rule out the possibility that, taking into account the necessary adaptations, our plan belonged to a typology very much in fashion at that time as, for instance, the so-called Stadium at Hadrian's villa near Tivoli, in which in the garden in front of the Northern Hall, the pool (or &lt;em&gt;euripus&lt;/em&gt;) is symmetrically flanked by flower-beds.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -13443,10 +13251,17 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Omar Al Mahjub, &amp;quot;I mosaici delia villa romana di Silin&amp;quot;, ll Colloquio intemazionale suI mosaico antico, Ravenna 1980, ed. Raffaella Ferioli Campanati, vol. 1, 299-306. Ravenna, 1983&lt;/li&gt;
+&lt;li&gt;Omar Al Mahjub, 1978-1979 (1987). &amp;quot;1 mosaici della villa romana di Silin&amp;quot;, Libya Antiqua , 15-16 (1987), p. 69-74; Hoffinann, Adolf, Das Gartenstadion in der Villa Hadriana. Mainz am Rhein., 1980&lt;/li&gt;
+&lt;li&gt;Luisa Musso, &amp;quot;Leptis Magna&amp;quot;, Enciclopedia dell'Arte Antica, Classica e Orientale, 11 Supplemento, 1971-1994, vol. III, 333-347, Roma, 1995&lt;/li&gt;
+&lt;li&gt;Luisa Musso, &amp;quot;Leptis Magna e i1 suo territorio: suburbio, ville marittime, necropoli, mausolei&amp;quot;, La ricerca archeologica, antropologica, etnologica, 203-208, Roma, 1997, Ministero degli Affari Esteri. Direzione Generali delle Relazioni Culturali. Missioni Archeologiche Italiane&lt;/li&gt;
+&lt;li&gt;Eugenia Salza Prina Ricotti, &amp;quot;Ville marittime residenziali nel Nord Africa&amp;quot;, Colloqui del Sodalizio s. 2a, 2: 21-32, 1968-1970&lt;/li&gt;
+&lt;li&gt;Eugenia Salza Prina Ricott, &amp;quot;Le ville marittime di Silin (Leptis Magna)&amp;quot;, Atti della Pontificia Accademia Romana di Archeologia. Rendiconti 43: 135-163, 1970-1971&lt;/li&gt;
+&lt;li&gt;Eugenia Salza Prina Ricotti, &amp;quot;1 porti della zona di Leptis Magna&amp;quot;, Atti della Pontificia Accademia Romana diArcheologia. Rendiconti 45: 75-103, 1972-1973.&lt;/li&gt;
+&lt;li&gt;La villa di Silin. Architettura, pittura e mosaici di una residenza marittima di eta romana in Tripolitania, forthcoming (Suppl. to Libya Antiqua). Tripoli - Roma.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
 ## Keywords
 - 
@@ -52221,35 +52036,39 @@ A rather large sewer collector (30 x 40 cm in section) took the rainwater of the
 &lt;/ul&gt;</description></item><item><title>Ramat Hanadiv</title><link>https://roman-gardens.github.io/test-drafts/id/84fc60f497/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/84fc60f497/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;15 BCE - 60 CE&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;p&gt;Probable garden soils have been identified in a partially excavated palatial complex from the Herodian period. (Fig. 1) The fortified residential complex is a huge square covering an area of over 5,000 square meters. Towers stood in the four corners of the precinct, which thus appears to have been what was called in the Hellenistic period a tetrapyrgion- type palace. Josephus also uses the term in describing the palace at Masada (Wars 7, 289). This is the best preserved example known to date in Palestine. The palace's inhabitants were probably members of Jewish elite during and after Herod's reign, as the complex was abandoned during the great Revolt.&lt;/p&gt;
+&lt;p&gt;Probable garden soils have been identified in a partially excavated palatial complex from the Herodian period. (Fig. 1) The fortified residential complex is a huge square covering an area of over 5,000 square meters. Towers stood in the four corners of the precinct, which thus appears to have been what was called in the Hellenistic period a &lt;em&gt;tetrapyrgion&lt;/em&gt;-type palace. Josephus also uses the term in describing the palace at Masada (&lt;em&gt;Wars&lt;/em&gt; 7, 289). This is the best preserved example known to date in Palestine. The palace's inhabitants were probably members of Jewish elite during and after Herod's reign, as the complex was abandoned during the great Revolt.&lt;/p&gt;
 &lt;p&gt;The villa shows the range of indications of Hellenistic and Roman cultural influences of Herod's time: a columbarium, areas of cultivated soils near the building, water channels, and a heated bathhouse of the Roman style. Amended cultivated soils have also been noted in other areas of the palace building complex, which will be investigated in future seasons.&lt;/p&gt;
 &lt;!-- ## Maps --&gt;
-&lt;!--
-
-## Plans
-
+&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/judaea/ramat_hanadiv/Latimer_fig_14_or_10.1a.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  Fig. 1: Plan of the residential building (A) with excavated bedding trenches (b) in its garden courtyard (G).&lt;div class="credit"&gt;Credit: Adapted from Branigan 1971, fig. 20.&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-
-## Images
-
+&lt;h2 id="images"&gt;Images&lt;/h2&gt;
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/judaea/ramat_hanadiv/Latimer_fig_15_or_10.1b.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  Fig. 2: Reconstruction of the house and garden.&lt;div class="credit"&gt;Credit: Courtesy of K. Branigan.&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
---&gt;
 &lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Y. Hirschfeld, Ramat Hanadiv Excavations, Jerusalem 2000; S.T.A.M. Mols, Wooden Furniture in Herculaneum, Amsterdam (1999):139-40. &lt;a href="https://search.worldcat.org/title/44755201" target="_blank"&gt;worldcat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Y. Hirschfeld, &lt;em&gt;Ramat Hanadiv Excavations&lt;/em&gt;. Jerusalem, 2000. &lt;a href="https://search.worldcat.org/title/44755201" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;S.T.A.M. Mols, Wooden Furniture in Herculaneum, Amsterdam (1999):139-40. &lt;a href="https://search.worldcat.org/title/1443362766" target="_blank"&gt;(worldcat)&lt;/a&gt; &lt;!--is this supposed to be here?--&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villae rusticae"&gt;villae rusticae&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005518" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005518&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=palaces"&gt;palaces (official residences)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005734" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005734&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=soil"&gt;soil&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300014330" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300014330&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=bathhouses"&gt;bathhouses (water recreation structures)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300007347" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300007347&lt;/a&gt;)
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="places"&gt;Places&lt;/h2&gt;
@@ -79522,7 +79341,7 @@ This multi-family dwelling was excavated in 1927-1929. There was a small paved c
 &lt;p&gt;Casa con Giardino&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;p&gt;553.V.33
-This humble house had a huge garden (a) which was entered from the long fauceson the north. Most likely used to grow produce, Maiuri speculated that the garden may have belonged to the larger houses to the west at one time.&lt;/p&gt;
+This humble house had a huge garden (a) which was entered from the long &lt;em&gt;fauces&lt;/em&gt; on the north. Most likely used to grow produce, Maiuri speculated that the garden may have belonged to the larger houses to the west at one time.&lt;/p&gt;
 &lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/herculaneum/insula_v/H_3_3-17.jpg" alt="" onclick="fullscreen(this)"&gt;
@@ -79578,8 +79397,8 @@ This humble house had a huge garden (a) which was entered from the long fauceson
 &lt;/ul&gt;
 &lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Maiuri,Herculaneum, p. 52&lt;/li&gt;
-&lt;li&gt;Maiuri, Ercolano, p. 431 and fig. 374 (plan) on p. 431&lt;/li&gt;
+&lt;li&gt;Maiuri, &lt;em&gt;Herculaneum&lt;/em&gt;, p. 52&lt;/li&gt;
+&lt;li&gt;Maiuri, &lt;em&gt;Ercolano&lt;/em&gt;, p. 431 and fig. 374 (plan) on p. 431&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Casa d'Argo (II.2)</title><link>https://roman-gardens.github.io/test-drafts/id/8661630841/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/8661630841/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
@@ -79859,7 +79678,7 @@ B. and C. On either side of the &lt;em&gt;pergola&lt;/em&gt; was a small garden 
 &lt;p&gt;Casa del bel Cortile&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;p&gt;Appendix II. 110.V.8.
-The illusion of a gardentrellis was created in this house withno garden by painting the archway under a flight of stairs in the courtyard with climbing vines and flowering oleanders&lt;/p&gt;
+The illusion of a garden trellis was created in this house with no garden by painting the archway under a flight of stairs in the courtyard with climbing vines and flowering oleanders.&lt;/p&gt;
 &lt;!-- ## Maps --&gt;
 &lt;!-- the following images are not in gre-images...insula_v (but are in insula_iii) --&gt;
 &lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
@@ -79929,8 +79748,8 @@ The illusion of a gardentrellis was created in this house withno garden by paint
 &lt;/ul&gt;
 &lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Maiuri,Herculaneum,p. 46&lt;/li&gt;
-&lt;li&gt;Idem, Ercolano,p. 338&lt;/li&gt;
+&lt;li&gt;Maiuri, &lt;em&gt;Herculaneum&lt;/em&gt;, p. 46.&lt;/li&gt;
+&lt;li&gt;Idem, &lt;em&gt;Ercolano&lt;/em&gt;, p. 338.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Casa del Bicentenario</title><link>https://roman-gardens.github.io/test-drafts/id/cd4ec5400c/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/cd4ec5400c/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-date"&gt;Excavation Date&lt;/h2&gt;
@@ -79990,7 +79809,7 @@ The illusion of a gardentrellis was created in this house withno garden by paint
 &lt;p&gt;Casa del Bicentenario&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;p&gt;551.V.15-16.
-Two hundred years after the first excavation efforts started at Herculaneum in 1738, this house was excavated and the restoration finished, thereby receiving its name. A passageway with windows bordered the garden (a) on the west and a &lt;em&gt;portico&lt;/em&gt; with seven columns joined by a low wall stood on the east and north of this garden measuring 9.90 x 4.90 meters. A wide water channel encircled the garden on three sides and there were two entrances, one opposite the &lt;em&gt;tablinium&lt;/em&gt; on the north and the other at the southeast corner of the garden. The neck of a large &lt;em&gt;dolium&lt;/em&gt; formed the mouth of a well with a heavy masonry &lt;em&gt;puteal&lt;/em&gt; located in the center of the garden&lt;/p&gt;
+Two hundred years after the first excavation efforts started at Herculaneum in 1738, this house was excavated and the restoration finished, thereby receiving its name. A passageway with windows bordered the garden (a) on the west and a &lt;em&gt;portico&lt;/em&gt; with seven columns joined by a low wall stood on the east and north of this garden measuring 9.90 x 4.90 meters. A wide water channel encircled the garden on three sides and there were two entrances, one opposite the &lt;em&gt;tablinium&lt;/em&gt; on the north and the other at the southeast corner of the garden. The neck of a large dolium formed the mouth of a well with a heavy masonry &lt;em&gt;puteal&lt;/em&gt; located in the center of the garden.&lt;/p&gt;
 &lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/herculaneum/insula_v/H_3_3-17.jpg" alt="" onclick="fullscreen(this)"&gt;
@@ -80055,9 +79874,9 @@ Two hundred years after the first excavation efforts started at Herculaneum in 1
 &lt;/ul&gt;
 &lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Jashemski, Gardens, vol.II, p. 371&lt;/li&gt;
-&lt;li&gt;Maiuri, Herculaneum,p. 48;&lt;/li&gt;
-&lt;li&gt;Maiuri, Ercolano, pp.51, 233 and fig. 174 (plan) on p. 222&lt;/li&gt;
+&lt;li&gt;Jashemski, &lt;em&gt;Gardens&lt;/em&gt;, vol.II, p. 371.&lt;/li&gt;
+&lt;li&gt;Maiuri, &lt;em&gt;Herculaneum&lt;/em&gt;, p. 48.&lt;/li&gt;
+&lt;li&gt;Maiuri, &lt;em&gt;Ercolano&lt;/em&gt;, pp. 51, 233 and fig. 174 (plan) on p. 222&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Casa del Gran Portale</title><link>https://roman-gardens.github.io/test-drafts/id/3d961bf684/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/3d961bf684/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-date"&gt;Excavation Date&lt;/h2&gt;
@@ -80117,7 +79936,7 @@ Two hundred years after the first excavation efforts started at Herculaneum in 1
 &lt;p&gt;Casa con Giardino&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;p&gt;554.V.35.
-Just to the west of the entrance to this house was a small, raised courtyard (a) which supplied light and air to the residence. This area collected rain water from the roof and directed it into the cistern which had a covered overflow emptying onto the street. Garden paintings in this courtyard gave the impression of beingin a garden.A red background was covered with flowering oleanders, a lattice fence in front and a vase-shaped fountain in the center of one panel. The wall towards the street may have had similar decoration with a pilaster in relief dividing the wall into two panels according to Maiuri, however nothing remains on this wall.&lt;/p&gt;
+Just to the west of the entrance to this house was a small, raised courtyard (a) which supplied light and air to the residence. This area collected rain water from the roof and directed it into the cistern which had a covered overflow emptying onto the street. Garden paintings in this courtyard gave the impression of being in a garden. A red background was covered with flowering oleanders, a lattice fence in front and a vase-shaped fountain in the center of one panel. The wall towards the street may have had similar decoration with a pilaster in relief dividing the wall into two panels according to Maiuri, however nothing remains on this wall.&lt;/p&gt;
 &lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/herculaneum/insula_v/H_3_3-17.jpg" alt="" onclick="fullscreen(this)"&gt;
@@ -80167,9 +79986,9 @@ Just to the west of the entrance to this house was a small, raised courtyard (a)
 &lt;/ul&gt;
 &lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Jashemski, Gardens, vol.II, p. 371&lt;/li&gt;
-&lt;li&gt;Maiuri,Herculaneum, p. 53&lt;/li&gt;
-&lt;li&gt;Maiuri, Ercolano, pp. 378-379 and fig. 308 (plan) on p. 378&lt;/li&gt;
+&lt;li&gt;Jashemski, &lt;em&gt;Gardens&lt;/em&gt;, vol.II, p. 371.&lt;/li&gt;
+&lt;li&gt;Maiuri, &lt;em&gt;Herculaneum&lt;/em&gt;, p. 53.&lt;/li&gt;
+&lt;li&gt;Maiuri, &lt;em&gt;Ercolano&lt;/em&gt;, pp. 378-379 and fig. 308 (plan) on p. 378.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Casa del Mobilio Carbonizzato</title><link>https://roman-gardens.github.io/test-drafts/id/902575a3a3/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/902575a3a3/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-date"&gt;Excavation Date&lt;/h2&gt;
@@ -80312,9 +80131,9 @@ Visible from the &lt;em&gt;fauces&lt;/em&gt;, this little courtyard (a) had an e
 &lt;/ul&gt;
 &lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Jashemski, Gardens, vol.II, p. 370-371&lt;/li&gt;
-&lt;li&gt;Maiuri, Herculaneum,p. 44&lt;/li&gt;
-&lt;li&gt;Maiuri, Ercolano, pp.260-261 and fig. 203 (plan) on p. 256.&lt;/li&gt;
+&lt;li&gt;Jashemski, &lt;em&gt;Gardens&lt;/em&gt;, vol.II, p. 370-371.&lt;/li&gt;
+&lt;li&gt;Maiuri, &lt;em&gt;Herculaneum&lt;/em&gt;, p. 44.&lt;/li&gt;
+&lt;li&gt;Maiuri, &lt;em&gt;Ercolano&lt;/em&gt;, pp. 260-261 and fig. 203 (plan) on p. 256.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Casa del Mosaico di Nettuno e di Anfitrite</title><link>https://roman-gardens.github.io/test-drafts/id/5cb15906f2/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/5cb15906f2/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-date"&gt;Excavation Date&lt;/h2&gt;
@@ -80374,7 +80193,7 @@ Visible from the &lt;em&gt;fauces&lt;/em&gt;, this little courtyard (a) had an e
 &lt;p&gt;Casa del Mosaico di Nettuno e di Anfitrite&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;p&gt;550.V.6/7
-To the very back of this house, excavated in 1932-1936, there was a small courtyard (a) that served as a garden having a summer &lt;em&gt;triclinium&lt;/em&gt; and garden paintings on the walls. It was converted into a beautiful &lt;em&gt;nymphaeum&lt;/em&gt; and at that time a mosaic panel was created featuring Neptune and Amphitrite positioned on the rear wall where it could be seen immediately upon entering the house. On either side of the mosaic a garden painting on a red background featured the typical lattice fence forming an apse in which a round fountain stands on a pedestal. In the right side panel there is a large tree growing in the center of the background surrounded by oleanders and myrtles with petite white flowers. Many birds are seen flying, perched on the rim of the fountain or walking along the top of the fence. A garland of ivy frames the top of the panel. The panel on the left sustained extensive damage but enough plaster survived to suggest this panel was similar. The garden painting continues on the adjacent south wall for a short length. Two other garden panels were located on the north end of the west wall and on the adjacent north wall. These contained the same lattice fence painted on a blue-green background with a red border. Any further detail had been ruined by the time of excavation. The architectural façade of a detailed &lt;em&gt;nymphaeum&lt;/em&gt; was built on the north wall and decorated with shells and mosaics. A small rectangular niche on either side of the central arched niche had a small column of cipolin (marble)which could have held lamps standing on a base of red marble. The central niche had a base which would have likely been for a fountain statuette, although no evidence of piping was found. Above each of the rectangular niches there is a mosaic panel of a deer being chased by a hound with a peacock perched on a robust garland overhead. Above these panels are two tragic masks on the outsides and a comic mask in the center, and a head of Silenus on the wall above all else. The &lt;em&gt;triclinium&lt;/em&gt; in the center of the courtyard is very low and had white marble facing on the couches and marble paving between them. A small column decorated with ivy leaves and berries stood between the couches with a channel for a water pipe in the center. This could have held a bowl for a fountain, as Maiuri observed the same was painted on the east wall. A marble slab closed the mouth of a cistern with the neck of an &lt;em&gt;amphora&lt;/em&gt;, with a terra-cotta stopper, installed to drain off any excess water.&lt;/p&gt;
+To the very back of this house, excavated in 1932-1936, there was a small courtyard (a) that served as a garden having a summer &lt;em&gt;triclinium&lt;/em&gt; and garden paintings on the walls. It was converted into a beautiful &lt;em&gt;nymphaeum&lt;/em&gt; and at that time a mosaic panel was created featuring Neptune and Amphitrite positioned on the rear wall where it could be seen immediately upon entering the house. On either side of the mosaic a garden painting on a red background featured the typical lattice fence forming an apse in which a round fountain stands on a pedestal. In the right side panel there is a large tree growing in the center of the background surrounded by oleanders and myrtles with petite white flowers. Many birds are seen flying, perched on the rim of the fountain or walking along the top of the fence. A garland of ivy frames the top of the panel. The panel on the left sustained extensive damage but enough plaster survived to suggest this panel was similar. The garden painting continues on the adjacent south wall for a short length. Two other garden panels were located on the north end of the west wall and on the adjacent north wall. These contained the same lattice fence painted on a blue-green background with a red border. Any further detail had been ruined by the time of excavation. The architectural façade of a detailed &lt;em&gt;nymphaeum&lt;/em&gt; was built on the north wall and decorated with shells and mosaics. A small rectangular niche on either side of the central arched niche had a small column of cipolin (marble) which could have held lamps standing on a base of red marble. The central niche had a base which would have likely been for a fountain statuette, although no evidence of piping was found. Above each of the rectangular niches there is a mosaic panel of a deer being chased by a hound with a peacock perched on a robust garland overhead. Above these panels are two tragic masks on the outsides and a comic mask in the center, and a head of Silenus on the wall above all else. The &lt;em&gt;triclinium&lt;/em&gt; in the center of the courtyard is very low and had white marble facing on the couches and marble paving between them. A small column decorated with ivy leaves and berries stood between the couches with a channel for a water pipe in the center. This could have held a bowl for a fountain, as Maiuri observed the same was painted on the east wall. A marble slab closed the mouth of a cistern with the neck of an &lt;em&gt;amphora&lt;/em&gt;, with a terra-cotta stopper, installed to drain off any excess water.&lt;/p&gt;
 &lt;!-- ## Maps --&gt;
 &lt;!-- the following images are not in gre-images...insula_v (but are in insula_iii) --&gt;
 &lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
@@ -80454,11 +80273,12 @@ To the very back of this house, excavated in 1932-1936, there was a small courty
 &lt;/ul&gt;
 &lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Jashemski, Gardens, 1:67-68 and fig. 109 on p. 68&lt;/li&gt;
-&lt;li&gt;Jashemski, Gardens, vol.II, p. 371&lt;/li&gt;
-&lt;li&gt;Maiuri, Herculaneum,pp. 45-46&lt;/li&gt;
-&lt;li&gt;Maiuri, Ercolano, pp. 397-401 and fig. 330 (plan) on p. 394&lt;/li&gt;
-&lt;li&gt;Michel, pp. 402-403;Neuerburg, p. 136, no. 41&lt;/li&gt;
+&lt;li&gt;Jashemski, &lt;em&gt;Gardens&lt;/em&gt;, 1:67-68 and fig. 109 on p. 68.&lt;/li&gt;
+&lt;li&gt;Jashemski, &lt;em&gt;Gardens&lt;/em&gt;, vol.II, p. 371.&lt;/li&gt;
+&lt;li&gt;Maiuri, &lt;em&gt;Herculaneum&lt;/em&gt;, pp. 45-46.&lt;/li&gt;
+&lt;li&gt;Maiuri, &lt;em&gt;Ercolano&lt;/em&gt;, pp. 397-401 and fig. 330 (plan) on p. 394.&lt;/li&gt;
+&lt;li&gt;Michel, pp. 402-403.&lt;/li&gt;
+&lt;li&gt;Neuerburg, p. 136, no. 41.&lt;/li&gt;
 &lt;li&gt;Sear, pp. 95-96.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Casa del Paprio Dipinto</title><link>https://roman-gardens.github.io/test-drafts/id/39e0336d94/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/39e0336d94/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;unspecified&lt;/p&gt;
@@ -80719,7 +80539,7 @@ There was a courtyard (a) in the center of this house which was apparently attac
 &lt;/ul&gt;
 &lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Maiuri, &lt;em&gt;Ercolano&lt;/em&gt;, p. 430 and fig. 370 (plan) on p. 427&lt;/li&gt;
+&lt;li&gt;Maiuri, &lt;em&gt;Ercolano&lt;/em&gt;, p. 430 and fig. 370 (plan) on p. 427.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Casa del Tramezzo di Legno</title><link>https://roman-gardens.github.io/test-drafts/id/d0a13c750c/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/d0a13c750c/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
@@ -81322,7 +81142,7 @@ A windowed &lt;em&gt;portico&lt;/em&gt; surrounded this garden (a) on the north,
 &lt;p&gt;Casa dell'Atrio Corontio&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;p&gt;552.V.30.
-A shallow cruciform-shaped &lt;em&gt;impluvium&lt;/em&gt; was the central feature in the rectangular &lt;em&gt;atrium&lt;/em&gt; of this house excavated in 1933-1934. The &lt;em&gt;atrium&lt;/em&gt; gave the impression of a &lt;em&gt;peristyle&lt;/em&gt; garden by way of the fountain centered in the &lt;em&gt;impluvium&lt;/em&gt;, the plantings on either side and three tuffa columns on either side, fluted white stucco on the top and painted red at the base. These were connected by a low wall with plantings on the top creating a lush green atmosphere to the total effect. This arrangement was the result of the aqueduct supplying an abundance of water and reducing the demand on the cistern, which was found in the northeast corner of the garden, and the ancient well incorporated into the low wall. This house was noted by Maiuri as an elegant example of the transformation of the &lt;em&gt;impluvium&lt;/em&gt; basin into a fountain and &lt;em&gt;viridarium&lt;/em&gt;.&lt;/p&gt;
+A shallow cruciform-shaped &lt;em&gt;impluvium&lt;/em&gt; was the central feature in the rectangular &lt;em&gt;atrium&lt;/em&gt; of this house excavated in 1933-1934. The &lt;em&gt;atrium&lt;/em&gt; gave the impression of a peristyle garden by way of the fountain centered in the &lt;em&gt;impluvium&lt;/em&gt;, the plantings on either side and three tuffa columns on either side, fluted white stucco on the top and painted red at the base. These were connected by a low wall with plantings on the top creating a lush green atmosphere to the total effect. This arrangement was the result of the aqueduct supplying an abundance of water and reducing the demand on the cistern, which was found in the northeast corner of the garden, and the ancient well incorporated into the low wall. This house was noted by Maiuri as an elegant example of the transformation of the &lt;em&gt;impluvium&lt;/em&gt; basin into a fountain and &lt;em&gt;viridarium&lt;/em&gt;.&lt;/p&gt;
 &lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/italia/latium_et_campania/herculaneum/insula_v/H_3_3-17.jpg" alt="" onclick="fullscreen(this)"&gt;
@@ -81387,9 +81207,9 @@ A shallow cruciform-shaped &lt;em&gt;impluvium&lt;/em&gt; was the central featur
 &lt;/ul&gt;
 &lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Jashemski, Gardens, vol.1, fig. 90 on p. 52&lt;/li&gt;
-&lt;li&gt;Maiuri,Herculaneum,p. 51&lt;/li&gt;
-&lt;li&gt;Idem, Ercolano, pp.51, 263-264 and fig. 209 (plan) on p. 261&lt;/li&gt;
+&lt;li&gt;Jashemski, &lt;em&gt;Gardens&lt;/em&gt;, vol.1, fig. 90 on p. 52.&lt;/li&gt;
+&lt;li&gt;Maiuri, &lt;em&gt;Herculaneum&lt;/em&gt;, p. 51.&lt;/li&gt;
+&lt;li&gt;Idem, &lt;em&gt;Ercolano&lt;/em&gt;, pp. 51, 263-264 and fig. 209 (plan) on p. 261.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Casa Delle Origini di Roma; House of M. Fabius Secundus (V.iv.13.)</title><link>https://roman-gardens.github.io/test-drafts/id/03dd007afd/</link><pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/03dd007afd/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;Unspecified&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
