@@ -31,6 +31,9 @@ a.id {
 .post__title a {
   color: #282;
 }
+.post__title a.draft {
+  color: #d70;
+}
 
 blockquote {
   border-left: 4px solid #ccc;
@@ -273,22 +276,30 @@ article.list__item em {
 
 #map .dot {
   background: #282;
-  border: 0.5px solid #aea;
+  border: 0.5px solid #eee;
   border-radius: 50%;
   box-shadow: 1px 2px rgb(0 0 0 / 50%);
   height: 10px ! important;
   width: 10px ! important;
 }
+#map .dot.draft {
+  background:#f80;
+}
+
+#map .leaflet-popup-content {
+  font-family: "Candara", Arial, sans-serif;
+  font-size: 1rem;
+}
 
 #map .leaflet-popup-content a {
   color: #282;
-  font-family: "Candara", Arial, sans-serif;
   font-size: 1rem;
   font-weight: bold;
 }
 
-#map .leaflet-popup-content a.smallcrumbs {
+#map .leaflet-popup-content .smallcrumbs {
   color: #c22d30;
+  font-size: 0.8rem;
 }
 
 #search-results-summary {
@@ -320,10 +331,28 @@ article.list__item em {
   margin-top: 1em;
 }
 
+.people-gardens a {
+  color: #282;
+}
+
+.people-gardens li.place a {
+  color: #c22d30;
+}
+
+span.draft {
+  background: #f80;
+  color: #fff;
+  font-family: "Arial", sans-serif;
+  font-size: 70%;
+  font-weight: normal;
+  padding: 0 0.5em;
+  border-radius: 0.5em;
+}
+
 .smallcrumbs {
   font-family: "Candara", "Arial", sans-serif;
   color: #c22d30;
-  font-size: 100%;
+  font-size: 1rem;
   margin: 0;
   line-height: 1.0;
 }
@@ -349,7 +378,7 @@ article.list__item em {
   text-align: right;
 }
 
-.draft {
+article.draft {
   background: #fff2e7;
 }
 
@@ -459,18 +488,6 @@ xh6::after { content: 'h6' }
 
 sup {
   font-size: 75%;
-}
-
-.embed-place-description.hidden {
-  display: none;
-}
-
-.dev {
-  color:#0f0;
-  background: #000;
-  font-family: Arial, sans-serif;
-  font-size: 75%;
-  padding: 3px;
 }
 
 /* Greek letters detected via detectGreek() in custom.js */
