@@ -504,14 +504,11 @@ sup {
 .embed-place-description {
   display: -webkit-box;
   overflow: hidden;
-  -webkit-line-clamp: 3;
-  line-clamp: 3;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
   -webkit-box-orient: vertical;
   margin: 0;
   padding: 0;
-  xbackground: #eee;
-  xborder: 2px dashed #000;
-  xpadding: 0 0.5em;
 }
 .embed-place-description.expanded {
   display: block;
