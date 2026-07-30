@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>House 2 on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/f0b5faa649/</link><description>Recent content in House 2 on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/f0b5faa649/index.xml" rel="self" type="application/rss+xml"/><item><title>II.ii.2b</title><link>https://roman-gardens.github.io/test-drafts/id/0295608e5e/</link><pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0295608e5e/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>House 2 on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/f0b5faa649/</link><description>Recent content in House 2 on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 29 Jul 2026 20:41:15 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/f0b5faa649/index.xml" rel="self" type="application/rss+xml"/><item><title>II.ii.2b</title><link>https://roman-gardens.github.io/test-drafts/id/0295608e5e/</link><pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0295608e5e/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
@@ -253,58 +253,14 @@ places containing this garden will be listed automatically
 
  &lt;br&gt;
 
---&gt;</description></item><item><title>II.ii.2 (House of D. Octavius Quartio)</title><link>https://roman-gardens.github.io/test-drafts/id/db7d29c09a/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/db7d29c09a/</guid><description>&lt;!-- split this into separate gardens a b c d --&gt;
-&lt;h2 id="province"&gt;Province&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://roman-gardens.github.io/test-drafts/id/f4eb33ed90/"&gt;Italia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Italia" title='search for "Italia" within GRE'&gt;Italia&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/1052" title="Pleiades gazetteer of ancient places"&gt;Pleiades:1052&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="location"&gt;Location&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://roman-gardens.github.io/test-drafts/id/97a803248e/"&gt;Pompeii&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Pompeii" title='search for "Pompeii" within GRE'&gt;Pompeii&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/433032" title="Pleiades gazetteer of ancient places"&gt;Pleiades:433032&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="location-description"&gt;Location Description&lt;/h2&gt;
-&lt;p&gt;An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in CE 79, Pompeii was named as a UNESCO World Heritage Site in 1997.&lt;/p&gt;
-&lt;h2 id="sublocation"&gt;Sublocation&lt;/h2&gt;
-&lt;h2 id="insula"&gt;Insula&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://roman-gardens.github.io/test-drafts/id/f0b5faa649/"&gt;Insula II&lt;/a&gt;&lt;/p&gt;
+--&gt;</description></item><item><title>II.ii.2 (House of D. Octavius Quartio)</title><link>https://roman-gardens.github.io/test-drafts/id/db7d29c09a/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/db7d29c09a/</guid><description>&lt;!-- ## Dates --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;1916, 1918, 1921, 1933-35 and 1973&lt;/p&gt;
+&lt;h2 id="house"&gt;House&lt;/h2&gt;
+&lt;p&gt;House of M. Loreius Tiburtinus [Della Corte]; of D. Octavius Quartio [Spinazzola]&lt;/p&gt;
+&lt;h2 id="garden"&gt;Garden&lt;/h2&gt;
+&lt;!-- TODO: split this into separate gardens a b c d --&gt;
+&lt;p&gt;Large garden planted with trees and decorated with a water channel (euripus), garden paintings, garden statues, and a &lt;a href="http://vocab.getty.edu/page/aat/300170371" target="_blank"&gt;biclinium&lt;/a&gt; and triclinium](&lt;a href="http://vocab.getty.edu/page/aat/300004359%29" target="_blank"&gt;http://vocab.getty.edu/page/aat/300004359)&lt;/a&gt;. Inside, a spacious &lt;a href="http://vocab.getty.edu/page/aat/300004029" target="_blank"&gt;peristyles (Roman courtyards)&lt;/a&gt; with &lt;a href="http://vocab.getty.edu/page/aat/300006179" target="_blank"&gt;fountains&lt;/a&gt; was decorated with flowers in planting boxes and ornamentals.&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;p&gt;A. The spacious Tuscan &lt;a href="http://vocab.getty.edu/page/aat/300004097" target="_blank"&gt;atrium&lt;/a&gt; of this luxurious house excavated in 1918-1921 was a lavish garden. A low, double masonry wall, faced with marble on the outside, bordered the &lt;a href="http://vocab.getty.edu/page/aat/300129867" target="_blank"&gt;impluvium&lt;/a&gt; and according to Spinazzola, the space between the walls had been lined with wood to form a planting box for flowers and ornamentals. The pool had a &lt;a href="http://vocab.getty.edu/page/aat/300006179" target="_blank"&gt;fountain&lt;/a&gt; base, which may have held a statuette, and bases in the center of each side may have held additional statuary. On the north side of the &lt;a href="http://vocab.getty.edu/page/aat/300129867" target="_blank"&gt;impluvium&lt;/a&gt; pipe remains, as well as the cavity where the pipe emerged from under the south base, were excavated. Bombing during WWII extensively damaged the other two sides but these have since been restored.&lt;/p&gt;
 &lt;p&gt;B. At the rear of the atrium a modest &lt;a href="http://vocab.getty.edu/page/aat/300004029" target="_blank"&gt;peristyles (Roman courtyards)&lt;/a&gt; garden was enclosed by a &lt;a href="http://vocab.getty.edu/page/aat/300004145" target="_blank"&gt;portico&lt;/a&gt; on the east, north and west sides. The supporting columns were smooth and colored red at the base, and fluted and white at the top. A very low wall joined all of the columns. Two circular beds in the center of the garden and a bed bordering the edges with a path between, entered from the south, were shown on the large plan by Spinazzola (see p.376). Although a dot in the center of each circular bed could represent a root cavity, no mention is made of soil contours or root cavities. A glazed terra-cotta statuette of Bes, the Egyptian deity (Pompeii inv. no. 2897) and of a pharaoh (Pompeii inv. no. 2898) were found but indications were that many other statuettes from this garden had been carried away by ancient excavators.&lt;/p&gt;
@@ -369,50 +325,6 @@ Paul Zanker, 1998, &lt;em&gt;Pompeii: Public and Private Life, pp.477-480.&lt;/e
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=fountains"&gt;fountains&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300006179" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300006179&lt;/a&gt;)
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="house"&gt;House&lt;/h2&gt;
-&lt;p&gt;House of M. Loreius Tiburtinus [Della Corte]; of D. Octavius Quartio [Spinazzola]&lt;/p&gt;
-&lt;h2 id="garden"&gt;Garden&lt;/h2&gt;
-&lt;p&gt;Large garden planted with trees and decorated with a water channel (euripus), garden paintings, garden statues, and a &lt;a href="http://vocab.getty.edu/page/aat/300170371" target="_blank"&gt;biclinium&lt;/a&gt; and triclinium](&lt;a href="http://vocab.getty.edu/page/aat/300004359%29" target="_blank"&gt;http://vocab.getty.edu/page/aat/300004359)&lt;/a&gt;. Inside, a spacious &lt;a href="http://vocab.getty.edu/page/aat/300004029" target="_blank"&gt;peristyles (Roman courtyards)&lt;/a&gt; with &lt;a href="http://vocab.getty.edu/page/aat/300006179" target="_blank"&gt;fountains&lt;/a&gt; was decorated with flowers in planting boxes and ornamentals.&lt;/p&gt;
-&lt;h2 id="places"&gt;Places&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Regio%20II%2c%20Pompeii" title='search for "Regio II, Pompeii" within GRE'&gt;Regio II, Pompeii&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/456321707" title="Pleiades gazetteer of ancient places"&gt;Pleiades:456321707&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;li&gt;
-
-
-
-
-
-
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Pompeii%20%28deserted%20settlement%29" title='search for "Pompeii (deserted settlement)" within GRE'&gt;Pompeii (deserted settlement)&lt;/a&gt;
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7004658" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7004658&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;p&gt;1916, 1918, 1921, 1933-35 and 1973&lt;/p&gt;</description></item></channel></rss>
+&lt;!--
+## Places
+--&gt;</description></item></channel></rss>
