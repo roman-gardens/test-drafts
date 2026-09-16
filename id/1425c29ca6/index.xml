@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tolouse on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/1425c29ca6/</link><description>Recent content in Tolouse on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/1425c29ca6/index.xml" rel="self" type="application/rss+xml"/><item><title>Domus under the Hôtel d'Assézat</title><link>https://roman-gardens.github.io/test-drafts/id/0d54548d75/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0d54548d75/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tolouse on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/1425c29ca6/</link><description>Recent content in Tolouse on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 29 Jul 2026 21:56:43 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/1425c29ca6/index.xml" rel="self" type="application/rss+xml"/><item><title>Domus under the Hôtel d'Assézat</title><link>https://roman-gardens.github.io/test-drafts/id/0d54548d75/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0d54548d75/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities.&lt;/p&gt;
 &lt;h2 id="province"&gt;Province&lt;/h2&gt;
 &lt;ul&gt;
@@ -53,6 +53,23 @@
 &lt;p&gt;&lt;a href="#"&gt;Domus under the Hôtel d'Assézat&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id="house"&gt;House&lt;/h2&gt;
 &lt;p&gt;Domus under the Hôtel d'Assézat&lt;/p&gt;
+&lt;h2 id="house-description"&gt;House Description&lt;/h2&gt;
+&lt;p&gt;The Hôtel d'Assézat is a Renaissance palace which now houses the art collection of &lt;a href="https://fr.wikipedia.org/wiki/Georges_Bemberg" target="_blank"&gt;Georges Bemberg&lt;/a&gt;. In the heart of Toulouse, it is about 150 meters east of the &lt;a href="https://en.wikipedia.org/wiki/Pont_Neuf" target="_blank"&gt;Pont Neuf&lt;/a&gt;, in &lt;a href="https://fr.wikipedia.org/wiki/Rue_de_Metz_%28Paris%29" target="_blank"&gt;rue de Metz&lt;/a&gt;. After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities. After a first phase dating from CE 1-15, of which remain some painted plaster found in the trenches, there developed in the reign of &lt;a href="https://en.wikipedia.org/wiki/Tiberius" target="_blank"&gt;Tiberius&lt;/a&gt;, between 15 and 30, a residence with rooms ornamented with carefully executed mosaics. They were organized around a courtyard for household work, as indicated by a fireplace and a sinkhole for waste water. The surface was tamped earth repaired three times – to judge from the surviving strips – with a new layer of clay.&lt;/p&gt;
+&lt;p&gt;In a new phase, the house was completely remodeled with larger rooms sometime between 40 and 80. It took on a more coherent plan: the open space was transformed into a peristyle with a central garden. It was bordered on the three known sides with porticoes; strangely, no trace of the colonnade of the portico has been found. A shallow, U-shaped pool, of which the long arm on the south was at least 17 meters, runs along three of the sides. The garden side of the frame of the pool, the inside of the U, was marked off rhythmically by a little apse on the west side (the bottom of the U) and a rectangular notch on the northern arm, presumably matched by one on the south, though the poor condition of the remains makes any interpretation risky. The central part of the U remained free of any construction and is considered the garden. The bottom of the 90- centimeter-wide channels that formed the pool was hydraulic cement. Since they were 50 centimeters below the floor of the porticoes, these channels must have served to catch rain water as well as to embellish the garden. In a later phase, the bottom of the channels was covered with marble flagstones, which left their imprint in the mortar.
+The domus must have continued to exist beyond the first century, but no precise evidence of change has been detected before the great modifications of the holding which came in the fifth century.&lt;/p&gt;
+&lt;!-- ## Maps --&gt;
+&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/tolouse/domus_under_the_hotel_d_assezat.png" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Plan of Domus under the Hôtel d'Assézat&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Jean. Catalo, Urbanisme antique et médiéval au 4, rue Clémence Isaure In &lt;em&gt;Mémoire de la Société Archéologique du Midi de la France&lt;/em&gt;, 56, 1996, p. 51-74.&lt;a href="WORLDCAT_LINK_URL"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jean. Catalo, Toulouse, 4, av. clémence Isaure/extension de l'hôtel d'Assézat (1993-1994), Archéologie toulousaine, catalogue d'exposition, Musée Saint-Raymond, Toulouse, 1995, p. 184-6.&lt;a href="WORLDCAT_LINK_URL"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jean-Marie Pailler, l'habitat privé &lt;em&gt;Mémoire de la Société Archéologique du Midi de la France&lt;/em&gt;,coll. Ecole Française de Rome 281, 2003, p. 252-54.&lt;a href="WORLDCAT_LINK_URL"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -70,23 +87,6 @@
 &lt;li&gt;
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes"&gt;porticoes&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004145&lt;/a&gt;)
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="house-description"&gt;House Description&lt;/h2&gt;
-&lt;p&gt;The Hôtel d'Assézat is a Renaissance palace which now houses the art collection of &lt;a href="https://fr.wikipedia.org/wiki/Georges_Bemberg" target="_blank"&gt;Georges Bemberg&lt;/a&gt;. In the heart of Toulouse, it is about 150 meters east of the &lt;a href="https://en.wikipedia.org/wiki/Pont_Neuf" target="_blank"&gt;Pont Neuf&lt;/a&gt;, in &lt;a href="https://fr.wikipedia.org/wiki/Rue_de_Metz_%28Paris%29" target="_blank"&gt;rue de Metz&lt;/a&gt;. After original finds in 1979, further vestiges of a domus came to light during salvage excavations in 1993-1994 in connection with expansion of facilities. After a first phase dating from CE 1-15, of which remain some painted plaster found in the trenches, there developed in the reign of &lt;a href="https://en.wikipedia.org/wiki/Tiberius" target="_blank"&gt;Tiberius&lt;/a&gt;, between 15 and 30, a residence with rooms ornamented with carefully executed mosaics. They were organized around a courtyard for household work, as indicated by a fireplace and a sinkhole for waste water. The surface was tamped earth repaired three times – to judge from the surviving strips – with a new layer of clay.&lt;/p&gt;
-&lt;p&gt;In a new phase, the house was completely remodeled with larger rooms sometime between 40 and 80. It took on a more coherent plan: the open space was transformed into a peristyle with a central garden. It was bordered on the three known sides with porticoes; strangely, no trace of the colonnade of the portico has been found. A shallow, U-shaped pool, of which the long arm on the south was at least 17 meters, runs along three of the sides. The garden side of the frame of the pool, the inside of the U, was marked off rhythmically by a little apse on the west side (the bottom of the U) and a rectangular notch on the northern arm, presumably matched by one on the south, though the poor condition of the remains makes any interpretation risky. The central part of the U remained free of any construction and is considered the garden. The bottom of the 90- centimeter-wide channels that formed the pool was hydraulic cement. Since they were 50 centimeters below the floor of the porticoes, these channels must have served to catch rain water as well as to embellish the garden. In a later phase, the bottom of the channels was covered with marble flagstones, which left their imprint in the mortar.
-The domus must have continued to exist beyond the first century, but no precise evidence of change has been detected before the great modifications of the holding which came in the fifth century.&lt;/p&gt;
-&lt;!-- ## Maps --&gt;
-&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/tolouse/domus_under_the_hotel_d_assezat.png" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- Plan of Domus under the Hôtel d'Assézat&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Jean. Catalo, Urbanisme antique et médiéval au 4, rue Clémence Isaure In &lt;em&gt;Mémoire de la Société Archéologique du Midi de la France&lt;/em&gt;, 56, 1996, p. 51-74.&lt;a href="WORLDCAT_LINK_URL"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Jean. Catalo, Toulouse, 4, av. clémence Isaure/extension de l'hôtel d'Assézat (1993-1994), Archéologie toulousaine, catalogue d'exposition, Musée Saint-Raymond, Toulouse, 1995, p. 184-6.&lt;a href="WORLDCAT_LINK_URL"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Jean-Marie Pailler, l'habitat privé &lt;em&gt;Mémoire de la Société Archéologique du Midi de la France&lt;/em&gt;,coll. Ecole Française de Rome 281, 2003, p. 252-54.&lt;a href="WORLDCAT_LINK_URL"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="places"&gt;Places&lt;/h2&gt;
 &lt;ul&gt;
