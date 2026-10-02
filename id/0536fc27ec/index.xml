@@ -1,31 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blankenheim-Hulchrath on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/0536fc27ec/</link><description>Recent content in Blankenheim-Hulchrath on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/0536fc27ec/index.xml" rel="self" type="application/rss+xml"/><item><title>Rustic villa at Blankenheim-Hülchrath</title><link>https://roman-gardens.github.io/test-drafts/id/26e9d8a183/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/26e9d8a183/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blankenheim-Hulchrath on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/0536fc27ec/</link><description>Recent content in Blankenheim-Hulchrath on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2026 02:40:49 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/0536fc27ec/index.xml" rel="self" type="application/rss+xml"/><item><title>Rustic villa at Blankenheim-Hülchrath</title><link>https://roman-gardens.github.io/test-drafts/id/26e9d8a183/</link><pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/26e9d8a183/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;Unspecified&lt;/p&gt;
-&lt;h2 id="location"&gt;Location&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://roman-gardens.github.io/test-drafts/id/0536fc27ec/"&gt;Blankenheim-Hülchrath&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-
-
-
-
-
-
-
- Blankenheim-Hülchrath
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/981524" title="Pleiades gazetteer of ancient places"&gt;Pleiades:981524&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="garden"&gt;Garden&lt;/h2&gt;
-&lt;p&gt;Rustic villa at Blankenheim-Hülchrath&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;p&gt;This &lt;em&gt;villa rustica&lt;/em&gt; was built on a slope so that the residential building (A on Plan 1) overlooked the rest of the lower lying farmyard (Image 1). The entire complex covered an area 120 m. in width and 250 m. in length (3 hectares). The house was separated from a large open area behind and to the southwest of it by a wall. This has been interpreted as a utilitarian garden (G on Plan 1), and it may well be that an orchard and a vegetable garden were located here near the house.&lt;/p&gt;
 &lt;p&gt;To the northeast of the house was an open courtyard flanked by outbuildings and separated from the service area of the farm by a terrace wall. This open courtyard may have been a garden (G on Plan 1), perhaps of a more decorative nature. Without any physical evidence for gardens, however, this remains speculation.&lt;/p&gt;
@@ -36,6 +10,7 @@
  &lt;figcaption&gt;
  Plan 1: Plan of the rural villa (A) with possible gardens (G) in the courtyard adjacent to the house and in the enclosed area southwest of it.&lt;div class="credit"&gt;Credit: Adapted from Horn 1987, fig. 306.&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;!-- TODO: No color block for garden --&gt;
 &lt;!-- ## Images --&gt;
 &lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
 &lt;ul&gt;
@@ -51,46 +26,4 @@
 &lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villae rusticae"&gt;villae rusticae&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005518" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005518&lt;/a&gt;)
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="places"&gt;Places&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-
-
-
-
-
-
-
- Blankenheim-Hülchrath
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/108810" title="Pleiades gazetteer of ancient places"&gt;Pleiades:108810&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;li&gt;
-
-
-
-
-
-
-
- Blankenheim (inhabited place)
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/1038549" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:1038549&lt;/a&gt;)
-
-
-
-&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;!-- ## Places --&gt;</description></item></channel></rss>
