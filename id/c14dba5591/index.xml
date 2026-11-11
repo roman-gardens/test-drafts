@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gilly Sur Isere on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/c14dba5591/</link><description>Recent content in Gilly Sur Isere on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/c14dba5591/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa Du Grand Verger</title><link>https://roman-gardens.github.io/test-drafts/id/5dc6c8cfb0/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/5dc6c8cfb0/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gilly Sur Isere on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/c14dba5591/</link><description>Recent content in Gilly Sur Isere on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2026 14:48:52 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/c14dba5591/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa Du Grand Verger</title><link>https://roman-gardens.github.io/test-drafts/id/5dc6c8cfb0/</link><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/5dc6c8cfb0/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;Occupied from the first to the third century, underwent several series of modifications during the second and third centuries&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;Found in 1937 and excavated 1975-1984&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;In Nant des Martins, to the west of this settlement, there was found in 1937-38, on the Pilotaz property, a villa with a level of luxury – 23 rooms, four with mosaics, one with an &lt;em&gt;opus sectile&lt;/em&gt; and a bath complex. The villa, occupied from the first to the third century, underwent several series of modifications and reached its peak during the second and third centuries. It was methodically excavated from 1975 to 1984. The plan was approximately square around a courtyard or garden [1] (11 x 18 m) with a colonnade, open on one side (25 x 18 m), with concrete floors on three sides. The Tuscan columns rested on socles planted directly into the ground rather than resting on a unifying stylobate.&lt;/p&gt;
+&lt;p&gt;In room C and especially in room L were found leguminous seeds carbonized at the time of destruction of the villa. They were in a 2 centimeter thick layer spread over five or six square meters. Several dozen kilograms were “spread out on the upper floor of a granary with a concrete floor.” According to H. Barthélémy, these grains are “&lt;em&gt;vicia faba pliniana&lt;/em&gt;, close relatives of the chick pea, an open field bean well known to the Roman world.” (Presumably the beans are simply &lt;em&gt;vicia faba&lt;/em&gt;.) There was also found, thrown into a dump, a fragmentary sundial, a quarter of a sphere on a pedestal (0.25 x 0.45 m) still showing the divisions marking the middle six hours.&lt;/p&gt;
+&lt;!-- TODO: Ask Eric what Rooms C and L are--&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -28,20 +30,38 @@
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Barthélémy, H. 1986. “Un Site Gallo-Romain Alpin: Gilly (Savoie).” &lt;em&gt;Révue Archéologique de Narbonnaise&lt;/em&gt; 19:211–44. &lt;a href="https://search.worldcat.org/title/4797757924?oclcNum=4797757924" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lavagne, H. 1967. &lt;em&gt;Recueil Général des Mosaïques de la Gaule. III: Province de Narbonnaise.&lt;/em&gt; Volume 3, 43–54 (n° 480-483). Paris: Éditions du CNRS. &lt;a href="WORLDCAT_LINK_URL"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- TODO: Find worldcat link--&gt;
+&lt;ul&gt;
+&lt;li&gt;Remy, B., F. Ballet, and F. Ferber. 1996. &lt;em&gt;Carte Archéologique de la Gaule&lt;/em&gt; 73(124):168–68. &lt;a href="WORLDCAT_LINK_URL"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- TODO: Find worldcat link--&gt;
+&lt;ul&gt;
+&lt;li&gt;Bouet, A. 2003. &lt;em&gt;Les Thermes Privés e Publics en Gaule Narbonnaise.&lt;/em&gt; Volume 2 (catalogue, coll.), 126–28, fig. 83–4. Rome: École Française de Rome. &lt;a href="https://search.worldcat.org/title/56614425" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Opus sectile"&gt;Opus sectile&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=colonnades"&gt;colonnades&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300002613" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300002613&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=stylobates"&gt;stylobates&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000986" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300000986&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=sundials"&gt;sundials&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300041614" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300041614&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;p&gt;places containing this garden will be listed automatically&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
@@ -61,8 +81,8 @@ places containing this garden will be listed automatically
 
 
  &lt;br&gt;
-
-- 
+&lt;/li&gt;
+&lt;li&gt;
 
 
 
@@ -82,5 +102,5 @@ places containing this garden will be listed automatically
 
 
  &lt;br&gt;
-
---&gt;</description></item></channel></rss>
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

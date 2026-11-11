@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vesunna on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/ca2abe167e/</link><description>Recent content in Vesunna on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/ca2abe167e/index.xml" rel="self" type="application/rss+xml"/><item><title>Domus Campniac</title><link>https://roman-gardens.github.io/test-drafts/id/d4f07e2578/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/d4f07e2578/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vesunna on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/ca2abe167e/</link><description>Recent content in Vesunna on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2026 13:32:13 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/ca2abe167e/index.xml" rel="self" type="application/rss+xml"/><item><title>Domus Campniac</title><link>https://roman-gardens.github.io/test-drafts/id/d4f07e2578/</link><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/d4f07e2578/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;Excavated and explored in 1908-1909 by Charles Durand.&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;This rich domus covering 2500 square meters was called at the time of its discovery the “House of the Polylobed Impluvium” because of the form of the pool which covered much of the court of the peristyle. Its final state, the only one thoroughly known, goes back to the beginning of the third century, though old probes indicated that there were without doubt earlier phases.
+The courtyard is fully occupied by two pools, one within the other but separated by a masonry structure of elaborate outline. The inner pool (5.4 x 8 m) had three semicircular apses on the long (north and south) sides and two on short (east and west) sides. The outside walls of the masonry structure were straight on the long sides but marked off rhythmically on the short side by three apses of the same dimension as those of the inner pool. (All apses are concave when seen from the water they touch.) The interior and exterior walls were made of brick and lined, like the bottom, with a soft limestone called Chancelade. The core of the masonry mass was mortared rubble. The central pool was probably fed by a lead pipe which must have come in from the southwest corner which has been destroyed. The drainage is unknown. The surrounding pool was connected to two channels, one going off to the west near the northwest corner and the other to the north near the northeast corner. According to the excavator, they served, respectively, to drain and fill the pool. The low wall supporting the colonnade was covered with stone plates held in place by a layer of red, possibly hydraulic, cement. What we have called the “central” pool was, in fact, not precisely in the center; the limb of the outer pool on the south side is about a meter wider than that on the north.
+One can well imagine, following a hypothesis proposed after excavation, planters or space for plantings on the upper part of the masonry mass between the two pools.
+Onto this courtyard totally devoted to water there opened on the south a large reception room [D] with a semicircular apse at its southern end. Its entrance was flanked by two symmetric rooms. On the north side of the courtyard, room [G] had a luxurious marble floor. The mosaics are datable to the Severin period.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -20,6 +26,7 @@
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
+&lt;!--TODO: add file, add image credit&gt;
 &lt;!--
 ## Images
 &lt;figure&gt;
@@ -27,21 +34,31 @@
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
+--&gt; 
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Durand, C. 1911. &lt;em&gt;Fouilles de Vésone: Compte-Rendu de 1909&lt;/em&gt;, 3–42; pl. I–III. Périgueux: Imprimerie D. Joucla. Girardy-Caillat, C. 1998. &lt;em&gt;Périgueux Antique&lt;/em&gt;. Guides Archéologiques de la France. Paris: Éditions du Patrimoine.
+Balmelle, C. 1992. “L’Habitat dans le Sud-Ouest de la Gaule Romaine.” In &lt;em&gt;Villes et Agglomérations Urbaines Antiques du Sud-Ouest de la Gaule: Histoire et Archéologie. Deuxième Colloque Aquitania, 13–15 Septembre 1990. Aquitania&lt;/em&gt; 6th suppl.:342–345.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[(worldcat)](&lt;a href="https://search.worldcat.org/title/461395992" target="_blank"&gt;https://search.worldcat.org/title/461395992&lt;/a&gt;
+&lt;a href="https://search.worldcat.org/title/40173502" target="_blank"&gt;https://search.worldcat.org/title/40173502&lt;/a&gt;
+&lt;a href="https://search.worldcat.org/title/28708086" target="_blank"&gt;https://search.worldcat.org/title/28708086&lt;/a&gt;)&lt;/p&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pool"&gt;pool&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=dome"&gt;dome&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=central"&gt;central&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;p&gt;places containing this garden will be listed automatically&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
@@ -61,8 +78,8 @@ places containing this garden will be listed automatically
 
 
  &lt;br&gt;
-
-- 
+&lt;/li&gt;
+&lt;li&gt;
 
 
 
@@ -82,29 +99,36 @@ places containing this garden will be listed automatically
 
 
  &lt;br&gt;
-
---&gt;</description></item><item><title>House Of The Visitation</title><link>https://roman-gardens.github.io/test-drafts/id/b90729e0a1/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/b90729e0a1/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>House Of The Visitation</title><link>https://roman-gardens.github.io/test-drafts/id/b90729e0a1/</link><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/b90729e0a1/</guid><description>&lt;!-- TODO: authorship unclear--&gt;
+&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;First Century - End of Third Century&lt;/p&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;!--Annotation: Dates were sourced directly from the garden description. More research necessary to find exact timeline.--&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;1983-1987&lt;/p&gt;
+&lt;!--Source: Girardy, C. 1987. “Le Couvent de la Visitation.” Archéologie en Aquitaine 6: 19–25.--&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;In its first-century form, this rather luxurious house was organized around a courtyard with porticoes. The reception room was in the north gallery, its entrance from the gallery flanked by a pilaster on either side. The garden, in the center of the courtyard, measured at least 12 meters on a side and had a well. A rectangular pool, still incompletely exposed, ran along this north gallery and hooked around to run along the west gallery for several meters. Symmetry would suggest that it did the same on the east, but that is not presently known for certain. A large apse opens in front of the reception room.
+At the end of the first century, the house underwent architectural modifications, but it was not raised to compensate for the rise in the level of the nearby street. The apse of the pool was filled in, while a small pool was added in the center of the garden. A new gallery was added on the west side of the courtyard. The house seems to have been destroyed by fire and abandoned from the end of the third century. By the second half of the fourth century, its site had become a quarry for materials.&lt;/p&gt;
 &lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="Topographical map of ancient Vesunna showing the Roman street grid and urban layout of Périgueux with numbered and lettered site markers." onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- &lt;/figcaption&gt;
+ AQU 18.3.1: Périgueux, Domus Campniac.&lt;/figcaption&gt;
 &lt;/figure&gt;
---&gt;
+TODO: add file, add image credit --&gt;
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="Architectural floor plan of the House of the Visitation in Périgueux showing a central peristyle courtyard with a pool surrounded by rooms." onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- &lt;/figcaption&gt;
+ AQU 18.2.1: Périgueux, House of the Visitation.&lt;div class="credit"&gt;Credit: Plan from Balmelle, Villes et agglomérations urbaines antiques du Sud-Ouest de la France.&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
---&gt;
+TODO: add file --&gt;
 &lt;!--
 ## Images
 &lt;figure&gt;
@@ -113,20 +137,38 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Balmelle, C. 1992. “L’Habitat dans le Sud-Ouest de la Gaule Romaine.” In &lt;em&gt;Villes et Agglomérations Urbaines Antiques du Sud-Ouest de la Gaule: Histoire et Archéologie. Deuxième Colloque Aquitania, 13–15 Septembre 1990. Aquitania&lt;/em&gt; 6th suppl.:342–345.
+&lt;a href="https://search.worldcat.org/title/1570318706" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Girardy, C. 1987. “Le Couvent de la Visitation.” &lt;em&gt;Archéologie en Aquitaine&lt;/em&gt; 6: 19–25. &lt;!--NOTE: no worldcat link found --&gt;&lt;/li&gt;
+&lt;li&gt;Girardy-Caillat, C. 1998. &lt;em&gt;Périgueux Antique&lt;/em&gt;. Guides Archéologiques de la France, p.***. 54. Paris: Éditions du Patrimoine. &lt;a href="https://search.worldcat.org/title/40173502" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=apses"&gt;apses&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004607" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004607&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes"&gt;porticoes&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004145&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pilasters"&gt;pilasters (wall components)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300002737" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300002737&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water wells"&gt;water wells&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300152327" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300152327&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools"&gt;pools (bodies of water)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008692&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards"&gt;courtyards (uncovered spaces)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004095&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;!--places containing this garden will be listed automatically--&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
@@ -146,8 +188,8 @@ places containing this garden will be listed automatically
 
 
  &lt;br&gt;
-
-- 
+&lt;/li&gt;
+&lt;li&gt;
 
 
 
@@ -167,13 +209,25 @@ places containing this garden will be listed automatically
 
 
  &lt;br&gt;
-
---&gt;</description></item><item><title>House Of Vesunna</title><link>https://roman-gardens.github.io/test-drafts/id/72df5e2f65/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/72df5e2f65/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>House Of Vesunna</title><link>https://roman-gardens.github.io/test-drafts/id/72df5e2f65/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/72df5e2f65/</guid><description>&lt;!--TODO: authorship unclear--&gt;
+&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;estimated middle of the first century CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;1959-2000&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;The house was constructed around the middle of the first century on the remains of a building from the beginning of the history of the town in the Augustan age. It went through three principal phases and reached, at its maximum extent, an area of 4200 square meters. (We will follow the evolution and chronology proposed by Claudine Girady in &lt;em&gt;Aquitania&lt;/em&gt; 2003.) In all phases, the entrance was from a portico-bordered &lt;em&gt;decumanus&lt;/em&gt; on the north. The zone along this route is known only partially and cannot be precisely followed through the phases.
+Phase I. The first phase was a vast domus organized around a court or garden of 970 square meters closed on the south by a wall and bordered on the three other sides by porticoes 3.3 meters wide. Counting the porticoes, the space was 37.5 x 37.0 meters. The rooms, including a large reception room [10], wrapped in an L around the north and east sides. At least the east portico was paved, for the imprint of the stones was found. There were numerous graffiti on the paintings on the walls of the porticoes [6] around the courtyard or garden. Isolated letters, words, and even texts of several lines accompanied scenes of gladiatorial combats and contests between men and beasts.&lt;/p&gt;
+&lt;p&gt;Phase II. Towards the end of the first century, the enclosing wall on the south was torn down to be rebuilt. Rooms were added along the west side, encroaching on the garden, which was reduced to 760 square meters. Possibly, but not probably, there were rooms added on the south as well. From fragments, we know that the decoration of this period included a life-sized scene of gladiatorial combats with at least a dozen human figures plus a number of animals, probably from scenes of hunting in the arena. The pictures were accompanied by inscriptions. A. Barbet, who has recently published this material, believes that the whole painting was some five meters high, with figures arranged in two or three bands. The painting must date from before the middle of the second century, when this phase of the house was destroyed. It is not totally clear where this grand composition was, for we know it only from fragments. Based on some Pompeian examples, however, Barbet tentatively places it on the south wall of the garden, a location which would preclude rooms having been added there in this phase.&lt;/p&gt;
+&lt;p&gt;In the northern part of the house, two new courtyards with peristyles [62] and [32] were built. In the first was a large, 80-square-meter, rectangular pool, which one could enter by a large stairs. The courtyard was surrounded by a gallery 2.5 meters wide. On the south side was found a 1.5-meter-high base of a monument and steps going down to a well. In the pool were discovered the lower part of a statue of the mother goddess and two fragmentary altars, so that some have suggested a religious function for this part of the house. The smaller courtyard [32] with porticoes in a U had columns ornamented with foliage or shells.&lt;/p&gt;
+&lt;p&gt;Baths of modest proportions were constructed at the south end of the west wing. Two rooms of the east wing got hypocaust heating systems. The central garden was reduced to make room for a monumental south wing organized around a huge rectangular reception room [56] (8,25 x 7,15 m) on the central axis of the garden. In front of it, a platform projected into the garden and the room itself advanced across the portico. One entered from the portico by doors in the side of the room. The central bay opened onto the platform projecting into the garden; steps went down from the sides of the platform into the garden. A porch with two columns lent a monumental aspect to the room. It was flanked by two smaller rooms, [57] and [59].&lt;/p&gt;
+&lt;p&gt;The central garden was a slightly non-rectangular quadrilateral (23.60 x 20.60 m maximum) containing 460 square meters. It was 1.3 meters below the level of the stylobate of the galleries with Tuscan columns.connected by rails which surrounded it. In front on the platform on the south side was a well; another was in the north. In the center of the garden was a wall 60 centimeters thick enclosing a 15 x 11 meter rectangle. At its highest surviving point it stands 90 centimeters high, but is estimated to have been cut down by 30 centimeters. According to Claude Barrière, the first excavator, it had a top of limestone and an interior covering of the same material. He interpreted the wall as the outside of an ornamental pool. This interpretation accords well with the final phase of paintings on the outside of the wall, which shows carefully executed scenes of fish, crustaceans, and seashells.&lt;/p&gt;
+&lt;p&gt;But gradually doubts about this interpretation arose. The absence of water supply or drainage is surprising for so large a pool. Barrière indicated on a cross-section drawing traces of an internal paving with limestone. along the inside of the wall. But was it really the bottom of the pool or was it perhaps the base of walkway? Why was there no hydraulic cement and no opus signinum? Moreover, the footings of the wall were shallow. The disappearance of a proper bottom for a pool cannot really be explained by the later installation of the circular pool in the middle. That pool, by the way, had a more than adequate bottom.&lt;/p&gt;
+&lt;p&gt;A new interpretation sees the structure filled with earth and functioning as a sort of huge raised bed for a garden. Later, a circular pool with an exterior diameter of 7.6 meters and deep foundations was installed in the center. This is the interpretation and state reflected in our plan of this phase. At the southeast corner of the rectangle there is block which could have supported steps leading up to the garden level. It must be noted, however, that this block concealed paintings on the wall, which must, therefore, have been done before the block was put there.&lt;/p&gt;
+&lt;p&gt;The décor of the walls of the garden were renewed several times; three phases of paintings on the central part correspond to three successive levels of the ground in the garden. Three phases have also been detected in the paintings which decorated the walls around the outside of the garden. It was possible to remove the paintings from one wall at the time of the discovery; meticulous study by Alix Barbet and her group have yielded a true understanding of these very fragmentary remains. The other three walls of the garden were discovered in very unequal condition. The paintings, conserved up to a maximum height of 1.54 meters, show an alteration of herms and krater-fountains placed in semicircular excedras. (Five herms and four kraters are presumed.) Les hermès, dont les gaines sont bien lisibles, portaient peut-être des plateaux, selon un schéma connu par ailleurs (cf Pompéi, maison de Romulus et Rémus, VII, 7, 10 par exemple). The white marble vases imitate luxurious models. The underlying ocre-yellow plinth blend with the garden soil. It is bordered, according to Barbet, by a thick garland of green and black leaves -- or rather, according to me, by a low hedge of foliage which underlines the base of the depicted low wall. This décor is datable, according to Barbet, to the second half of the second century at the latest.&lt;/p&gt;
+&lt;p&gt;At a later time still not well dated but probably in the course of the third century, the rectangular structure was trimmed down in height. The fragments of the paintings of the cut-off portion were left lying on the ground, and the area between the rectangle and the outer wall of the garden was filled in. Barrière showed that this filling occurred in two steps. After the second filling operation, the steps leading down from the platform on the south side had disappeared under the earth, and the rectangular wall was buried.&lt;/p&gt;
+&lt;p&gt;At about the time of these last transformations in the third century, the baths also went out of use. It was abandoned at the end of the third century at the time of building the rampart and was pillaged for that construction. In particular, any stonework connected with the circular pool was carried away, leaving only its cement base with the imprint of the stones which were once above it. There are traces of a brief occupation in the fourth century.&lt;/p&gt;
+&lt;p&gt;To exhibit the remains to best advantage, the Museum of Vesunna has to show a condition which never actually existed. The rectangular wall has been shown exposed on both sides, while in the center the cement base of the circular pool is visible.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -185,54 +239,133 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="Map of domus plans, phase 1" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- &lt;/figcaption&gt;
+ AQU 18.1.2: Périgueux, House of Vesunna, phase 1.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="Map of domus plans, plase 2" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ AQU 18.1.3: Périgueux, House of Vesunna, phase 2.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="Map of domus plans, as displayed in the museum" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ AQU 18.1.5: Perigueux, House of Vesunna, as displayed in the museum.&lt;div class="credit"&gt;Credit: Photo C.A. 2006.&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="Plans for the domus as a whole" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Périguex: *domus* de Vésone (ou de la rue des Bouquets)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="Domus plans, phase 2" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ *Fig. 23: Plan de la* domus *au deuxiéme état*&lt;div class="credit"&gt;Credit: Dessin C.Girardy-Caillat&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="Domus and garden plans, phase 3" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ *Fig. 24. Plan de la* domus *au troisième état et parterre du jardin*&lt;div class="credit"&gt;Credit: Dessin C. Gueny Caillat et relevé A. Barbet, dessin J.-F. Lefèvre&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="Garden plans for the West portion of the South wall" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 26a. Jardin, peinture du mur sud, côté ouest&lt;div class="credit"&gt;Credit: relevé A. Barbet, dessin J.-F. Lefèvre&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="Partial reconstruction of the South wall mural" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 26b. Restitution partielle de la peinture du mur sud du jardin.&lt;div class="credit"&gt;Credit: dessin J.-F. Lefèvre, F. Ory&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
 &lt;!--
 ## Images
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="Photo of domus remains, as displayed in the museum" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- &lt;/figcaption&gt;
+ AQU 18.1.4: Périgueux, House of Vesunna, phase 3.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="Picture of the domus roof from above" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Pl. E1. Maquette du 3ème état avec hypothèse d'un jardin&lt;div class="credit"&gt;Credit: (cl. A.B.)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="Picture of the domus pool remains" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Pl. E2. Vue du bassin avec les poissons en place&lt;div class="credit"&gt;Credit: (cl. A.B.)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/vesunna/filename.jpg" alt="South wall, central and left sections" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Pl. E3. Bassin, murat sud, partie centrale et gauche&lt;div class="credit"&gt;Credit: (cl. A.B.)&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
+&lt;!--TO DO: add file, add image credit--&gt;
+&lt;!--TODO: Some of the French titles were a little blurry in the provided pictures. The French may therefore have misspellings or missing accents. I did the best I was able to interpret.--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Barrière, C. 1996. &lt;em&gt;“Domus Pompeia”: Fouilles de la Villa des Bouquets à Périgueux.&lt;/em&gt; 2nd suppl. Périgueux: Document d’Archéologie et d’Histoire Périgourdines. &lt;a href="https://search.worldcat.org/title/466922983" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bouet, A. 2001. “Les Collèges dans la Ville Antique: Le Cas des &lt;em&gt;Subaediani.” Revue Archéologique&lt;/em&gt; 2/2001:227–78. &lt;a href="https://search.worldcat.org/title/7481160760" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Barbet, A. C. Girardy-Caillat, and J.-P. Bost. 2003. “Peintures de Périgueux. Édifice de la Rue des Bouquets ou de la Domus de Vésone.” &lt;em&gt;Aquitania&lt;/em&gt; 19:81–126. &lt;a href="https://search.worldcat.org/title/9359457865" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Barbet, A., F. Monier, J.-P. Bost, M. Sterneberg et al. 2004. “Peintures de Périgueux. Édifice de la Rue des Bouquets ou la Domus de Vésone II: Les Peintures Fragmentaires.&amp;quot; &lt;em&gt;Aquitania&lt;/em&gt; 20:149–219.&lt;a href="https://search.worldcat.org/title/9359467734" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Girardy-Caillat, C. 1998. &lt;em&gt;Périgueux Antique.&lt;/em&gt; Guides Archéologiques de la France. Paris: Éditions du Patrimoine. &lt;a href="https://search.worldcat.org/title/40173502" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Girardy-Caillat, C. 1996. “Périgueux.” In P. Garmy and L. Maurin, &lt;em&gt;Enceintes Romaines d'Aquitaine: Bordeaux, Dax, Périgueux, Bazas,&lt;/em&gt; edited by P. Garmy and L. Maurin, 128–54. Documents d'Archéologie Française 53. Paris: Éditions de la Mison des Sciences de l’Homme. &lt;a href="https://search.worldcat.org/title/1366494504" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--TODO: identify reference--&gt;
+&lt;!--TODO: For each of these references, I chose the edition of the book with the correct date and first author. Some of the listed titles for these books on Worldcat were very similar.--&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus"&gt;domus&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005506&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=decumani"&gt;decumani&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008264" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008264&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles"&gt;peristyles (Roman courtyards)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300080971&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=graffiti"&gt;graffiti (casual notations)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300015613" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300015613&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;p&gt;places containing this garden will be listed automatically&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
 
 
 
 
 
 
-
+ Vesunna
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/138650" title="Pleiades gazetteer of ancient places"&gt;Pleiades:138650&lt;/a&gt;)
 
 
 
-
- &lt;br&gt;
-
-- 
+&lt;/li&gt;
+&lt;li&gt;
 
 
 
@@ -252,5 +385,6 @@ places containing this garden will be listed automatically
 
 
  &lt;br&gt;
-
---&gt;</description></item></channel></rss>
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--TODO: I have not filled out an id for TGN because I am unsure what this reference site is.--&gt;</description></item></channel></rss>

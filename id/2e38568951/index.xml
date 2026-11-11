@@ -1,4 +1,487 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vienne on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/2e38568951/</link><description>Recent content in Vienne on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/2e38568951/index.xml" rel="self" type="application/rss+xml"/><item><title>House Head Of Ivory</title><link>https://roman-gardens.github.io/test-drafts/id/0a131c2719/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0a131c2719/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vienne on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/2e38568951/</link><description>Recent content in Vienne on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2026 13:03:39 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/2e38568951/index.xml" rel="self" type="application/rss+xml"/><item><title>House Of Orpheus</title><link>https://roman-gardens.github.io/test-drafts/id/f46f30a755/</link><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/f46f30a755/</guid><description>&lt;!-- latlon is approximate&gt;
+&lt;!--TODO: authorship unclear&gt;
+
+## Dates
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;1859-1880&lt;/p&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;This house in the Champ de Mars was partially excavated between 1859 and 1880 and is known only from reports of that time. It is organized in two blocks of building on either side of a peristyle [1] with a garden presumably in the center. A channel pool bordered the three known sides of the peristyle and may have run along the last side as well. The west side of this pool was ornamented with an apse off center towards the north. It was perhaps lined up with the opening of the reception area [6]. To the east, the large room [10] opened through a bay 3.2 meters wide. This room, decorated with the mosaic of Orpheus, has been interpreted by A. Pelletier as a &lt;em&gt;frigidarium&lt;/em&gt; with a bath but by A. Bouet as a &lt;em&gt;triclinium&lt;/em&gt;. For André Pelletier, this house was only part of a larger house extending to the south.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+There is no caption or credit for the image
+TODO: add file--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bouet, A. 2003. &lt;em&gt;Les Thermes Privés e Publics en Gaule Narbonnaise&lt;/em&gt;. Volume 2 (catalogue, coll.), 352–53. Rome: École Française de Rome. &lt;a href="https://search.worldcat.org/title/743065630" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lancha, J. 1981. &lt;em&gt;Recueil des Mosaïques de la Gaule. III, Province de Narbonnaise 2&lt;/em&gt;, 89–96. &lt;em&gt;Gallia&lt;/em&gt; suppl. 10. Paris: Éditions du CNRS. &lt;a href="https://search.worldcat.org/title/793248394" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Leblanc, J. 1881. “Rapport sur les Fouilles Archéologiques Faites à Vienne en 1879–1880.” &lt;em&gt;Bulletin Épigraphique de la Gaule&lt;/em&gt; 1:231–36. &lt;a href="https://search.worldcat.org/title/32053469" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pelletier, A. 1982. &lt;em&gt;Vienne Antique: De la Conquête Romaine aux Invasions Alamanniques (IIe Siècle Avant–IIIe Siècle Après J.-C.)&lt;/em&gt;, 184–88. Roanne: Editions Horvath. &lt;a href="https://search.worldcat.org/title/963379001" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics"&gt;mosaics (visual works)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300015342&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=apses"&gt;apses&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004607" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004607&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles"&gt;peristyles (Roman courtyards)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300080971&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools"&gt;pools (bodies of water)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008692&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+
+
+
+
+ &lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Nympheas House Of The Atrium Phase 2</title><link>https://roman-gardens.github.io/test-drafts/id/3a5fde991b/</link><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/3a5fde991b/</guid><description>&lt;!-- TODO: authorship unclear--&gt;
+&lt;!-- TODO: examine titles of "Nympheas House of the Atrium." There is currently two garden entries, "Phase 1" and "Phase 2" for this garden. The text associated with this one, however, details all three phases, saying the garden was only definitely within the third phase. I commented out the description for Phase 1 in this entry, since there is a seperate entry for that. However I included both Phase 2 and Phase 3 in this entry, since I believe both are valuable to the history of the structure and garden and ommiting Phase 3 would eliminate key information. It could be considered to split this entry into two, one for Phase 2 and one for Phase 3, or to name this "Nympheas House of the Atrium Phase 2 and 3" to more accurately describe the contents of this entry and the history of this garden. --&gt;
+&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;!--Phase 1: the first phase of construction began in the Augustan age. The 
+paintings of the stilts were originally thought to have been done in the Tiberian-Claudian age, (30 to 40 A.D.) in surroundings of the Pompeian third style. New comparisons, especially of the details of the candelabra, would place them more probably in the fourth style and thus in the middle of the century. --&gt;
+&lt;p&gt;Phase 2: Construction placed by A. Pelletier in the decade of the 70's.&lt;/p&gt;
+&lt;p&gt;Phase 3: A. Pelletier tends to place the third phase between at the end of the first or beginning of the second century, but Alix Barbet assigns the painting of the stilt on red background to the epoch of Vespasian.&lt;/p&gt;
+&lt;p&gt;Abandoned: The site was apparently abandoned at the end of the second century.&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;1977 (Salvage Excavation)&lt;/p&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;This house was south of the ancient city, 250 meters outside the ramparts but north of the circus. In 1977, during salvage excavations before the construction of a building on the rue du 11 Novembre to be called “Les Nymphéas” (The Waterlilies), about 700 square meters were explored. To the west, the insula was bordered by a street next to the river. The vestiges belonged to several &lt;em&gt;domus&lt;/em&gt; which went through three principal phases.&lt;/p&gt;
+&lt;!-- According to A. Pelletier, in the first phase (NAR 21.2.2) the remains could belong to just one house, but with good reason A. Bouet believes the south part to be a different house, organized around a central corridor. Indeed, a 31-meter long wall seems to completely separate the two structures. The north house had a peristyle [1] of which three galleries are known. The center was entirely occupied by a rectangular pool [2] (4.50 x 2.85 m) bordered by a high wall that could have had windows. According to the excavator, there was a second pool, only slightly smaller (4.50 x 2.45 m) enclosed by the first. In our opinion, the same structure might well be interpreted as a raised border of the pool. The floors of the house were all covered with *opus signinum* save in the east gallery of the peristyle, where the floor was pounded earth. 
+
+Paintings decorated the south wall. Up to a height of about one meter, they survived in place for a length of 7.68 meters. Above an ochre yellow base 25 centimeters high was a dark band about of 60 centimeters width divided into panels by narrow, white lines. In the panels, a total of six all-white stilts (wading birds) alternate with tufts of foliage and flowers, perhaps iris. Fragmentary remains of painted plaster from this or another wing of the peristyle show, above the same composition at the bottom, a middle zone partitioned by candelabras, some with a feminine figure or winged genie at the top. 
+
+To judge from sample pits, the first phase of construction began in the Augustan age. The 
+paintings of the stilts were originally thought to have been done in the Tiberian-Claudian age, (30 to 40 A.D.) in surroundings of the Pompeian third style. New comparisons, especially of the details of the candelabra, would place them more probably in the fourth style and thus in the middle of the century. (Communication from A. Barbet.)--&gt;
+&lt;p&gt;In a second phase, the north house was reworked. Its peristyle was enlarged to 11 x 8.5 meters for the known parts, by pushing back the the north and west sides. A channel pool or rill 70 centimeters wide and 60 centimeters deep, known along the south and east sides, was laid along the porticoes. In the south house, the rooms were re-arranged around a large courtyard (9bis). This transformation is placed by A. Pelletier in the decade of the 70's. In a third phase (NAR 21.2.5), the north house seems almost unchanged, keeps its passageways in &lt;em&gt;opus signinum&lt;/em&gt;, but adds an &lt;em&gt;emblema&lt;/em&gt; of fish and duck in one of the rooms opening onto the peristyle. The south house, on the other hand, was profoundly altered. It seems to have been raised some fifty centimeters. The previous court [9bis] had become definite a garden [9ter] about six meters on a side. It is surrounded on three sides by galleries two meters wide and paved with stone. Against the west gallery, in front of the reception room, was placed a rectangular pool (4.4 x1.0 m, 40 cm deep). Drainage from the northwest corner connected to a sewer which led to the street on the west, river side. The whole house, trapezoidal in plan, covered 391 square meters.&lt;/p&gt;
+&lt;p&gt;A painting of a stilt walking on a red ochre ground amid plants was found on the south wall of the garden. This type of décor is usual on the internal walls of a peristyle. The painting had a height of at least 72.5 centimeters, but the passageways around [9ter] are not well known. This painting encroaches on the space of room [8], which kept its simple preexistent decor.&lt;/p&gt;
+&lt;p&gt;A. Pelletier tends to place the third phase between at the end of the first or beginning of the second century, but Alix Barbet assigns the painting of the stilt on red background to the epoch of Vespasian.
+The site was apparently abandoned at the end of the second century.&lt;/p&gt;
+&lt;!--There is lots of debate about not only the description of the structure and garden but also the dates of contstruction for each phase. I wanted to ensure the debate is preserved, so future researchers or viewers understand the conversation is still ongoing and nothing can be known for fact, only educated guesses can be made. Choosing between sides or watering down opinions from my non expert perspective would be irresponsible, so all wording was kept exact and intact, even if its self contradicting. --&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="A black and whtie plan with numbered sections of the first and second structures seperately with a small map, north marker and a scale." onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 26.2 - Vienne, Les Nymphéas 1977: plan des éstas 1 et 2&lt;div class="credit"&gt;Credit: (d'après Pelletier 1981, 24 et 29)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="A black and white plan with each room labeled with numbers and a separate north marker." onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 10. - Plan des vestiges&lt;div class="credit"&gt;Credit: (2^e état)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="The top is a black and white plan with numbered sections and a North marker and a scale as well as points marked A and B. The bottom is a black and white graph, showing the height of the structure from point A on the left to point B on the right, spanning 35 m in total with a shaded key and various labels." onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 13. - Plan des vestiges. Fig. 14. - Coupe selon A B.&lt;div class="credit"&gt;Credit: (3^e état)&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt; 
+&lt;!-- TODO: add file for all three plans--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Barbet, A. 1981. “Les Peintures Murales en Place aux Nymphéas.&amp;quot; &lt;em&gt;Monuments et Mémoires de la Fondation Eugène Piot&lt;/em&gt; 64:48–83.
+&lt;a href="https://search.worldcat.org/title/5549458222" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bouet, A. 2003. &lt;em&gt;Les Thermes Privés e Publics en Gaule Narbonnaise.&lt;/em&gt; Volume 2 (catalogue, coll.), 354–56, fig. 262–63. Rome: École Française de Rome.
+&lt;a href="https://search.worldcat.org/title/743065630" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lancha, J. 1981. “Les Pavements du Site des Nymphéas.” &lt;em&gt;Monuments et Mémoires de la Fondation Eugène Piot&lt;/em&gt; 64:84–103.
+&lt;a href="https://search.worldcat.org/title/5549458225" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pelletier, A. 1981. “Chantier des Nymphéas: Les Fouilles.” &lt;em&gt;Monuments et Mémoires de la Fondation Eugène Piot&lt;/em&gt; 64:17–41.
+&lt;a href="https://search.worldcat.org/title/5549458222" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus"&gt;domus&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005506&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles"&gt;peristyles (Roman courtyards)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300080971&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes"&gt;porticoes&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004145&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools"&gt;pools (bodies of water)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008692&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mural paintings"&gt;mural paintings (visual works)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300033644" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300033644&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- "opus siginum" also felt like a potential keyword, but it is not on the GRE meta list. I had to look up the defintion while reading, and it has two mentions in my description, so a keyword link to AAT may be valuable. Also since it was a common floor technique during this time, it may overlap with other garden entries. I picked the other keywords since I saw them pop up in other garden entries I looked through, so having them as keywords can introduce potential connections between gardens or areas that were not noticed before, or just aid in general research and understanding. --&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;!--
+places containing this garden will be listed automatically
+- 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
+
+
+
+
+ &lt;br&gt;
+
+- 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+
+
+
+
+ &lt;br&gt;
+
+--&gt;
+&lt;!--No pleiades entry. To approximate location I followed multiple steps. Using the local Hugo generated map, I found Vienne (the "ancient city" refrenced in my entry). I then found the street (in south Vienne) named "Rue Du 11 Novembre" included in my entry. From there, I found "Pyramide de Vienne" which, from outside research, I found to be the obelisk centered in the midle of the circus (as described in my entry) I then went roughly 250 meters upwards (north), near house "10" on the map and copied those coordinates. It matches the description of "insula was bordered by a street next to the river" since to the west it's about a city block away from the river through Vienne. --&gt;
+&lt;!-- It could be argued that linking the Pleiades entry for Vienne is helpful here, as it is the closest location available for this garden. --&gt;</description></item><item><title>Maison Au Nord De La Place Des Capucins</title><link>https://roman-gardens.github.io/test-drafts/id/cd4e9b17fe/</link><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/cd4e9b17fe/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;In 1748 CE, north of the Place des Capucins, L. Charvet found ruins of a building within the Roman city walls. Later, in 1778 CE, several mosaics were discovered in the vincinity confirming the precense of one or more dwelings featuring high-quality ornamentation.&lt;/p&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;1748 CE, and again in 1778 CE.&lt;/p&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;In 1748, north of Place des Capucins, inside the ancient roman walls, ruins of a building were found that L. Charvet describes as ancient baths, which, from his description and without a known or surviving plan, appears to be the remains of a peristyle domus. A rectangular basin measuring 11 by 3 meters featured exedrae extending from three of its sides: it adorned a peristyle with 4-meter-wide porticoes, lined with columns of violet marble. Access to the garden is through two-stepped stairs situated in front of the porticoe. In 1778, multiple mosaics were found in the surrounding environment that confirmed the precense of one or more dwellings featuring high-quality decor.&lt;/p&gt;
+&lt;p&gt;During the excavation, traces of a violent fire on the walls of the basin and among the unearthed remains (mosaic fragments, charcoal, scorched stones, molten lead) were found. However, no dating of the site is given.&lt;/p&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Charvet, L. (or C.?). &lt;em&gt;L’Histoire de Vienne et de son Église Racontée à mes Jeunes Compatriotes&lt;/em&gt;, 166–69. Unpublished manuscript. &lt;!-- TODO: Not in worldcat --&gt;&lt;/li&gt;
+&lt;li&gt;Lancha, J. 1981. &lt;em&gt;Recueil des mosaïques de la Gaule. III, Province de Narbonnaise 2&lt;/em&gt;, 79. Gallia suppl. 10. Paris: Éditions du CNRS. &lt;a href="https://search.worldcat.org/title/793248394" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pelletier, A. 1982. &lt;em&gt;Vienne Antique: De la Conquête Romaine aux Invasions Alamanniques (IIe Siècle Avant–IIIe Siècle Après J.-C.)&lt;/em&gt;, 180. Roanne: Éditions Horvath. &lt;a href="https://search.worldcat.org/title/1176929828" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=basins"&gt;basins (vessels)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300045614" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300045614&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles"&gt;peristyles (Roman courtyards)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300080971&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics"&gt;mosaics (visual works)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300015342&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=marble"&gt;marble (rock)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300011443" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300011443&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=exedrae"&gt;exedrae (site elements)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300081589" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300081589&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;p&gt;places containing this garden will be listed automatically&lt;/p&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
+
+
+
+
+ &lt;br&gt;
+--&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+
+
+
+
+ &lt;br&gt;
+--&gt;</description></item><item><title>Maison Au Nord De La Place Des Capucins (A)</title><link>https://roman-gardens.github.io/test-drafts/id/cd4e9b17fa/</link><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/cd4e9b17fa/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;1974
+1981
+A.D. 10-20&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;Not specified&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- Situated in the Place Camille Jouffray just south of the railway station, this group of residential structures was dug out between 1974 and 1981. Where artisans’ shops had been in Augustan and pre-Augustan times, a house was built around A.D. 10-20. It was subsequently replaced by a building with a courtyard. In the time of Hadrian, two neighboring houses were built which lasted to the middle of the third century. The one on the east had a peristyle court [12] surrounded by a channel pool with an apse in the center of the south side. The one on the west had a courtyard with a rectangular pool and an apse facing a reception room [7]. Gardens were presumably planted in both courtyards. In the second half of the second century, the two houses were reunited and the peristyle [12] disappeared. --&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lauxerois, R., and J. Tardieu. 1983. “Dernières Découvertes dans la Ville Antique. Dossiers de l’Archéologie 78:36–8. &lt;a href="WORLDCAT_LINK_URL"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Coutyard
+Two houses
+Hadrian
+Channel pool
+apse
+peristyle court
+south side&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;p&gt;places containing this garden will be listed automatically&lt;/p&gt;</description></item><item><title>Nympheas House Of The Atrium Phase 1</title><link>https://roman-gardens.github.io/test-drafts/id/f531910fe5/</link><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/f531910fe5/</guid><description>&lt;!-- TODO: confirm coordinates since only an estimate --&gt;
+&lt;!-- TODO: authorship unclear --&gt;
+&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;p&gt;unspecified&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;1985 excavation&lt;/p&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;The elongated plan began from the east with rooms around an atrium [2] (7.5 x 6.5 m) with a square central pool. Straight ahead to the west was a peristyle [46] and on beyond a second built up area. The courtyard (15 x 9.5 m) was certainly a garden. It was surrounded on four sides by porticoes; the floor of the one on the west side was up a step from the others. The brick columns of the northern portico were covered with fluted white stucco. The peristyle had a well in the center of the east side and a rectangular pool [47] (8 x 1.5 m) with a central apse one meter in diameter at the west end in front of the reception room [33]. It could be drained by a gutter running to the east. Inside the garden, a U-shaped structure with rhythmically placed pilasters could have supported a pergola.
+Further to the west, on the axis of the pool, was a reception room (9 x 6 m) [33]. To the north and south of the peristyle spread out structures which may or may not have belonged to the house. In a trapezoidal area north of the western end of the peristyle, a second garden [29], perhaps ornamented with a pool, may have already been planted.
+The house entered a second phase in the last quarter of the second century and was occupied another forty to fifty years. In the peristyle, the pool was reduced in size but embellished with water jets, the arbor was removed, and the well remodeled. The trapezoidal area [29] was now definitely a second garden. A summer triclinium (5.5 x 3 m) surrounded a semicircular pool 1.5 meters in diameter.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;p&gt;#&lt;!-- TODO: identify and find the orgin of the house plane →--&gt;&lt;/p&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Bibliography
+- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+--&gt; Boucher, J.-P. 1980. “Cironcscription de Rhône-Alpes,” 513–17. Gallia 38(2):507–34. 
+&lt;p&gt;Maison 1996, t.II, p. 418-420 ;&lt;/p&gt;
+&lt;!-- TODO: authorship unclear→--&gt;
+&lt;p&gt;Gros, P. 2001. L’Architecture Romaine, du Début du IIIè Siècle av. J.-C. à la Fin du Haut-Empire 2: Maisons, Palais, Villas et Tombeaux, 188–89. Les Manuels d’Art et d’Archéologie Antiques. Paris: Picard.
+Lancha, J. 1990. Les Mosaïques de Vienne, 42–6. Lyon: Presses Universitaires de Lyon.
+Pelletier, A., H. Savay-Guerraz, A. Barbet, J. Lancha, and A. Canal. 1981. “Découvertes Archéologiques Récentes à Vienne (Isère).” Monuments et Mémoires de la Fondation Eugène Piot 64:17–140.&lt;/p&gt;
+&lt;!--
+## Keywords
+- 
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
+
+--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes"&gt;porticoes&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004145&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards"&gt;courtyards (uncovered spaces)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004095&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pool"&gt;pool&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--
+## Places
+places containing this garden will be listed automatically
+- 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
+
+
+
+
+ &lt;br&gt;
+
+- 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+
+
+
+
+ &lt;br&gt;
+
+--&gt;
+&lt;p&gt;PLACES&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+
+ Saint-Romain-en-Gal
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/747563989" title="Pleiades gazetteer of ancient places"&gt;Pleiades:747563989&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>House Of Bacchus And Ariadne</title><link>https://roman-gardens.github.io/test-drafts/id/181c32511b/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/181c32511b/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
@@ -83,12 +566,15 @@ places containing this garden will be listed automatically
 
  &lt;br&gt;
 
---&gt;</description></item><item><title>House Of Bacchus And Ariadne</title><link>https://roman-gardens.github.io/test-drafts/id/181c32511b/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/181c32511b/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+--&gt;</description></item><item><title>House of the Head of Ivory</title><link>https://roman-gardens.github.io/test-drafts/id/0a131c2719/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0a131c2719/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;Possibly 1st century BC.&lt;/p&gt;
+&lt;!-- For now, include dates exactly as written in the document. TO DO: find better date? --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;Discovered in 1800s, excavated in 1968.&lt;/p&gt;
+&lt;!-- format as YYYY or YYYY-YYYY TO DO: Find specifics? --&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;In the nineteenth century, two houses were found in the course of creating the rue (street) Victor Hugo, which runs north from the railroad station. A strong retaining wall held up the terrace on which the house to the west was built. This house had two sectors. The garden was in the one on the south. The fragmentary ruins show that it was built around a peristyle [1] with three porticoes [2-3-4] and ornamented with a rectangular pool, later transformed into a U-shaped channel pool. On the axis of the garden there opened to the east a big reception room [5].&lt;/p&gt;
+&lt;!-- This is the main text describing the garden TO DO: Add the other details you found in Gardens of Roman Empire --&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -100,9 +586,9 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="Plan of a villa. Shows three porticoes and the road to the top right." onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- &lt;/figcaption&gt;
+ Fig. 270 - Vienne, Victor Hugo Road, House of the Head of Ivory: general plan of the ruins.&lt;div class="credit"&gt;Credit: according to Pelletier, 1982.&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
 &lt;!--
@@ -113,101 +599,30 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pelletier, A. 1982. &lt;em&gt;Vienne Antique: De la Conquête Romaine aux Invasions Alamanniques (IIe Siècle Avant–IIIe Siècle Après J.-C.)&lt;/em&gt;, 172–76. Roanne: Éditions Horvath. &lt;a href="https://search.worldcat.org/title/10996966" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Leblanc, J. 1881. “Rapport sur les Fouilles Archéologiques Faites à Vienne en 1879–1880.” &lt;em&gt;Bulletin Épigraphique de la Gaule&lt;/em&gt; 1:231–36. &lt;a href="https://search.worldcat.org/title/32053469" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bouet, A. 2003. &lt;em&gt;Les Thermes Privés e Publics en Gaule Narbonnaise&lt;/em&gt;. Volume 2 (catalogue, coll.), 366–67, fig. 270. Rome: École Française de Rome. &lt;a href="https://search.worldcat.org/title/315092589" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Morvillez, E. 2017. &amp;quot;The Garden in the Domus&amp;quot;. In &lt;em&gt;Gardens of the Roman Empire&lt;/em&gt;, edited by W. F. Jashemski, K. L. Gleason, K. J. Hartswick, and A.-A. Malek 17-71. Cambridge: Cambridge University Press. &lt;a href="https://search.worldcat.org/title/8158381183" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
+Source to cite: https://www.romeartlover.it/Vienne2.html
+Source to cite: https://www.exarc.org/oam/muse-gallo-romain-de-saint-romain-en-gal
+TO DO: PUT OTHER SOURCES!!!
 --&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>House Of Orpheus</title><link>https://roman-gardens.github.io/test-drafts/id/f46f30a755/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/f46f30a755/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=terraces"&gt;terraces (landscaped-site elements)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004182" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004182&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles"&gt;peristyles (Roman courtyards)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300080971&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes"&gt;porticoes&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004145&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -254,261 +669,6 @@ places containing this garden will be listed automatically
  &lt;br&gt;
 
 --&gt;</description></item><item><title>House Rue Des Colonnes</title><link>https://roman-gardens.github.io/test-drafts/id/eaa78964ed/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/eaa78964ed/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Maison Au Nord De La Place Des Capucins</title><link>https://roman-gardens.github.io/test-drafts/id/cd4e9b17fe/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/cd4e9b17fe/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Nympheas House Of The Atrium Phase 1</title><link>https://roman-gardens.github.io/test-drafts/id/f531910fe5/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/f531910fe5/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_narbonensis/vienne/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Nympheas House Of The Atrium Phase 2</title><link>https://roman-gardens.github.io/test-drafts/id/3a5fde991b/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/3a5fde991b/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;

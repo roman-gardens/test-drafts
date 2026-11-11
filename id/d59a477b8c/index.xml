@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sorde L Abbaye on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/d59a477b8c/</link><description>Recent content in Sorde L Abbaye on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/d59a477b8c/index.xml" rel="self" type="application/rss+xml"/><item><title>Barat De Vin</title><link>https://roman-gardens.github.io/test-drafts/id/aeaee1dfc9/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/aeaee1dfc9/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sorde L Abbaye on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/d59a477b8c/</link><description>Recent content in Sorde L Abbaye on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2026 13:18:56 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/d59a477b8c/index.xml" rel="self" type="application/rss+xml"/><item><title>Barat De Vin</title><link>https://roman-gardens.github.io/test-drafts/id/aeaee1dfc9/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/aeaee1dfc9/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
@@ -84,11 +84,14 @@ places containing this garden will be listed automatically
  &lt;br&gt;
 
 --&gt;</description></item><item><title>Villa Of Sorde L Abbaye</title><link>https://roman-gardens.github.io/test-drafts/id/fda865c325/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/fda865c325/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;end of fourth or early years of fifth century until beginning of middle ages&lt;/p&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;Excavated between 1957 and 1966 by J. Lauffray.&lt;/p&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;This villa covering 2000 square meters is in the center of the town, only a few meters from the bank of the Gave d’Oloron and inside the enclosure of the Abbey of Saint John, begun in 975. The abbey follows the orientation of the villa and covers part of it. The villa was noted in 1873 and excavated between 1957 and 1966 by J. Lauffray. At least three phases of work and embellishment have been detected. It has two peristyles of very different sizes. The larger (30 x 22.5 m ), to the northwest, is trapezoidal in shape; the sides running in the north-south direction are parallel, but the other two are not. It had marble columns. One of the galleries (20.8 x 4.3 m) had a mosaic floor with stars formed by two squares and other geometric and figured motifs. They are tentatively dated at the end of the fourth or early years of the fifth century. The second, smaller peristyle in the southern part of the house (about 15 x 14 m on the outside and 8.5 x 7.2 m on the inside) was surrounded by galleries 2.3 meters wide. At an even later period, it connected the baths – along the south side near the river -- to the main body of the house. The geometric mosaic decoration are very late – sixth and even perhaps seventh century. Though without pools or other direct evidence, both peristyles are possible locations for gardens. Remarkably, the site was occupied, seemingly without interruption, until the beginning of the Middle Ages.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -97,14 +100,12 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Plans
+&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/sorde-l_abbaye/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- &lt;/figcaption&gt;
+ AQU 7.1.1. Sorde-L'Abaye&lt;div class="credit"&gt;Credit: Adapted from Demeures, p. 415.&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
---&gt;
 &lt;!--
 ## Images
 &lt;figure&gt;
@@ -113,41 +114,29 @@ places containing this garden will be listed automatically
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lauffray, J. 1962. “Sorde-L’Abbaye: Ville Romaine et Médiévale d’après les Recherches Récentes.” Bulletin des Amis de Sorde et du Pays d’Orthe 1962:24–31.&lt;a href="https://search.worldcat.org/title/492103381" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Boyrie-Fénié, B. 1994. Carte Archéologique de la Gaule 40(306): 150–53. &lt;a href="https://search.worldcat.org/title/1507004430" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles"&gt;peristyles (Roman courtyards)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300080971&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics"&gt;mosaics (visual works)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300015342&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=marble"&gt;marble (rock)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300011443" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300011443&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=water baths"&gt;water baths&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300248755" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300248755&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
@@ -155,17 +144,16 @@ places containing this garden will be listed automatically
 
 
 
+ Barat de Vin Gallo-Roman villa
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/249908" title="Pleiades gazetteer of ancient places"&gt;Pleiades:249908&lt;/a&gt;)
 
 
 
-
- &lt;br&gt;
-
---&gt;</description></item></channel></rss>
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

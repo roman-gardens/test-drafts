@@ -1,9 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Castelculier on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/7db6982424/</link><description>Recent content in Castelculier on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/7db6982424/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa Lamarque</title><link>https://roman-gardens.github.io/test-drafts/id/942e967fc3/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/942e967fc3/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Castelculier on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/7db6982424/</link><description>Recent content in Castelculier on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2026 12:09:30 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/7db6982424/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa Lamarque</title><link>https://roman-gardens.github.io/test-drafts/id/942e967fc3/</link><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/942e967fc3/</guid><description>&lt;!-- TODO: authorship unclear --&gt;
+ &lt;!-- interesting to note that this garden had two jashemski catalogue numbers listed, so I put both of them above --&gt;
+&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;p&gt;End of first century, end of second/beginning of third century to sixth century CE&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;1859, 1987-1998&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;The villa was noted in 1859 but forgotten until a farmer turned up first one and then another marble statue in the 1980’s. Soon afterwards, the prospect of a suburban subdivision over the site led to aerial exploration which, thanks to the fact that the barley growing over the walls turned yellow earlier than the rest of the field, yielded a rather precise plan of the whole villa, shown below. Urgent salvage excavations were undertaken between 1987 and 1998. Materials found are at the Centre de Recherche Archéologique d’Aiguillon, and detailed publication of this vast villa is awaited.&lt;/p&gt;
+&lt;p&gt;The baths have been carefully studied by phases, with no less than eight identified. (The restoration in the park is based on the seventh.) The chronology covers the period from the early empire to the sixth century when the villa was abandoned. The first villa was built at the end of the first century. It was in the form of an L around a large rectangular pool or perhaps natatio with a surrounding gallery. The residential part was to the west. Then around the end of the second or beginning of the third century, the principal peristyle was built with rooms for daily life around it. The peristyle has been only partially excavated. Was it a garden? An apparently very preliminary, undated report found in the Castelculier library mentioned that the “west” corner of the courtyard had been located and that there the courtyard was paved with concrete to within 20 cm of the walls, where there was a gutter to catch the drip from the peristyle roof. The concrete is obviously not favorable to the hypothesis that the area was a garden. However, the report goes on to note that over the concrete was a 15 cm thick layer dense with rocks, pieces of dressed limestone, and ceramic fragments from late antiquity. This layer might perhaps indicate that planters and statuary would have given the paved part of the courtyard the appearance of a garden. Also, a garden in the center remains a possibility.&lt;/p&gt;
+&lt;p&gt;In late antiquity, the residence occupied 1.5 hectares and included two vast courtyards. In the one to the south, a peristyle formed the heart of the residence; the monumental entrance of the villa has been identified in its east wing. The precise organization of the two spaces, however, is not known. The northern courtyard, partially excavated, with an entrance porch, brought together the agricultural buildings. A semicircular portico, with a central space that may have been planted, connected the south peristyle to the monumental baths with rooms characteristic of late antiquity. These rooms were remodeled several times.&lt;/p&gt;
+&lt;!-- I thought it was interesting that they still aren't entirely sure that there was a garden here, but based on the evidence it seems likely that there was --&gt;
+&lt;!-- I also thought that the concrete that they found is important to note --&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -15,10 +24,20 @@
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/castelculier/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/castelculier/filename.jpg" alt="Plans of the villa based on excavations" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- &lt;/figcaption&gt;
+ Castelculier. Villa de Lamarque. Plan des fouilles (1995)&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/castelculier/filename.jpg" alt="More plans placed on top the excavation plans from previous plan" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Castelculier. Lamarque. Plan restitué de l'état 1 et de l'état 2&lt;/figcaption&gt;
+&lt;/figure&gt;
+ TODO: add files, add image credits for both plans (unsure of the exact citation for these)
+ first image says "par Ph. Jacques (d'aprés Fages 1995 [CAG, 47], 186, fig 123)."
+ second image says "par Ph. Jacques (d'aprés Fages 1995 [CAG, 47], 186, fig 124)."
+
+ both images are diagrams/plans of the villa and the excavations, helpful to visualize what it looked like and where the garden might have been
 --&gt;
 &lt;!--
 ## Images
@@ -28,59 +47,68 @@
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Centre Nationale de la Recherche Scientifique. 1988. &lt;em&gt;Gallia Informations&lt;/em&gt;, 139–42. 1987–88 vol. 1. Paris: Éditions du CNRS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- TODO: identify bibliography link --&gt;
+&lt;ul&gt;
+&lt;li&gt;Centre Nationale de la Recherche Scientifique. 1991. &lt;em&gt;Gallia Informations&lt;/em&gt;, 89–91. 1991 vol. 1. Paris: Éditions du CNRS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- TODO: identify bibliography link --&gt;
+&lt;ul&gt;
+&lt;li&gt;Coupry, M.J. 1963. “Circonscription de Bordeaux,” 528–29. &lt;em&gt;Gallia&lt;/em&gt; 21(2):505–36. &lt;a href="https://search.worldcat.org/title/732430579" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jacques, P. 1995. “Castelculier: Villa Gallo-Romaine.” In &lt;em&gt;Bilan Scientifique de la Région Aquitaine&lt;/em&gt;, 1994 edition, 88–9. Bordeaux: Service Régional de l’Archéologie. &lt;a href="https://search.worldcat.org/title/929762394" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jacques, P. 1998. “Castelculier: Lamarque.” In &lt;em&gt;Bilan Scientifique de la Région Aquitaine&lt;/em&gt;, 1998 edition, 100-3. Bordeaux: Service Régional de l’Archéologie.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- TODO: identify bibliography link --&gt;
+&lt;ul&gt;
+&lt;li&gt;Fages, B. Carte &lt;em&gt;Archéologique de la Gaule&lt;/em&gt; 47:184–95. &lt;a href="https://search.worldcat.org/title/1507315063" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Demeures&lt;/em&gt; p. 89, 348-351, plan p. 448&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- TODO: identify bibliography link --&gt;
+&lt;ul&gt;
+&lt;li&gt;Francis Stephanus and Phillippe Jacques, an undated report on the salvage excavations, found in the library in Castelculier.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- TODO: identify bibliography link --&gt;
+&lt;!-- a lot of the bibliography sourcees I was unable to find the correct editions (or year) on worldcat --&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=statues"&gt;statues&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300047600" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300047600&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villas"&gt;villas&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005517" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005517&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=natationes"&gt;natationes&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300162917" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300162917&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=concrete"&gt;concrete&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300010737" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300010737&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- made sure to include keywords that connected to the statues that were found there before they restarted the excavations, and the keyword natationes because there were at least eight baths in the villa. I also included the keyword concrete because of the concrete that was found there --&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;!-- places containing this garden will be listed automatically --&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
 
 
 
 
 
 
-
+ Lamarque Gallo-Roman Villa
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places/249936" title="Pleiades gazetteer of ancient places"&gt;Pleiades:249936&lt;/a&gt;)
 
 
 
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item></channel></rss>
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

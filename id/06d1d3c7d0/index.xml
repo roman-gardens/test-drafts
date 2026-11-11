@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Labastide D Armagnac on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/06d1d3c7d0/</link><description>Recent content in Labastide D Armagnac on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/06d1d3c7d0/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa Of Geou</title><link>https://roman-gardens.github.io/test-drafts/id/a0bccecae9/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/a0bccecae9/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Labastide D Armagnac on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/06d1d3c7d0/</link><description>Recent content in Labastide D Armagnac on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2026 13:48:07 -0500</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/06d1d3c7d0/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa Of Geou</title><link>https://roman-gardens.github.io/test-drafts/id/a0bccecae9/</link><pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/a0bccecae9/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;p&gt;unspecified&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;1970-1978&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;Situated two kilometers southeast of the town, at a place called Géou, this villa sits on a little plateau overlooking the Douze. It has been known since the middle of the nineteenth century and was excavated between 1970 and 1978.
+From the first phase of occupation in the early empire there remain only the foundations of a &lt;em&gt;villa rustica&lt;/em&gt;. In late antiquity, the villa was totally remodeled. In the new phase, it had an ample, slightly trapezoidal peristyle (44 x 34 m) with a large (7.4 m diameter) pool. This courtyard was presumably planted as a garden. The floors of the porticoes of the peristyle bore polychrome mosaics. Along the southeast and southwest sides of the peristyle stretched the rooms for daily life. The reception room (7.5 x 8.75 m) opened off the middle of the southeast portico. Because the peristyle was trapezoidal – leaning to the right as seen from the reception room – the pool had to be off center to the left in the courtyard to be fully enjoyed from this room. Two symmetric, rectangular masonry masses extend outward from the wall of the pool.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -15,10 +19,12 @@
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/labastide-d-armagnac/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/labastide-d-armagnac/filename.jpg" alt="An overhead layout of the villa." onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- &lt;/figcaption&gt;
+ Plan of the villa of Géou, near Labastide d'Armagnac&lt;div class="credit"&gt;Credit: Demeures&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
+
+TODO: add file
 --&gt;
 &lt;!--
 ## Images
@@ -28,59 +34,29 @@
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;p&gt;Bost, J.-P., P. Debord, R. Monturet, H. Rivière, and G. Fabre. 1984. “La Villa Gallo-Romaine de Géou à Labastide-d’Armagnac (Landes). II: L’Architecture.” &lt;em&gt;Bulletin de la Société de Borda (Dax)&lt;/em&gt; 109(396):651-703. [(worldcat)] ()
+Boyrie-Fénié, B. 1994. &lt;em&gt;Carte Archéologique de la Gaule&lt;/em&gt; 40(131):96–9. &lt;a href="https://search.worldcat.org/title/1507004430" target="_blank"&gt;(worldcat)&lt;/a&gt;
+Coupry, M.J. 1961. “Circonscription de Bordeaux,” 392. &lt;em&gt;Gallia&lt;/em&gt; 19(2):369–98. [(worldcat)] (&lt;a href="https://search.worldcat.org/title/732430329" target="_blank"&gt;https://search.worldcat.org/title/732430329&lt;/a&gt;)
+Coupry, M.J. 1963. “Circonscription de Bordeaux,” 529–30. &lt;em&gt;Gallia&lt;/em&gt; 21(2):505–36. [(worldcat)] (&lt;a href="https://search.worldcat.org/title/732430579" target="_blank"&gt;https://search.worldcat.org/title/732430579&lt;/a&gt;)
+Coupry, M.J. 1971. “Circonscription d'Aquitaine,” 356. &lt;em&gt;Gallia&lt;/em&gt; 29(2):333–67. [(worldcat)] (&lt;a href="https://search.worldcat.org/title/732431060" target="_blank"&gt;https://search.worldcat.org/title/732431060&lt;/a&gt;)
+Coupry, M.J. 1975. “Circonscription d'Aquitaine,” 483. &lt;em&gt;Gallia&lt;/em&gt; 33(2):461–90. [(worldcat)] (&lt;a href="https://search.worldcat.org/title/732429846" target="_blank"&gt;https://search.worldcat.org/title/732429846&lt;/a&gt;)
+Coupry, M.J. 1979. “Circonscription d'Aquitaine,” 514. &lt;em&gt;Gallia&lt;/em&gt; 37(2):495–520. [(worldcat)] (&lt;a href="https://search.worldcat.org/title/732429898" target="_blank"&gt;https://search.worldcat.org/title/732429898&lt;/a&gt;)
+&lt;em&gt;Demeures&lt;/em&gt; , p.357-359, plan p. 449. [(worldcat)] ()
+Gauthier, M. 1977. “Circonscription d'Aquitaine,” 465. &lt;em&gt;Gallia&lt;/em&gt; 35(2):449–72. [(worldcat)] (&lt;a href="https://search.worldcat.org/title/732431047" target="_blank"&gt;https://search.worldcat.org/title/732431047&lt;/a&gt;)&lt;/p&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles"&gt;peristyles (Roman courtyards)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300080971&lt;/a&gt;)
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=villa rusticae"&gt;villa rusticae&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=polychrome"&gt;polychrome&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300252261" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300252261&lt;/a&gt;)
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;!-- I did have to approximate a latitude/longitude since there were no Pleaides links about my garden, only about the overarching region. I used the coordinates of
+Notre-Dame des Cyclistes, which after research, I found was built on top of the site of the decayed villa, so I think it is a pretty good estimate. I didn't need to choose between similar editions of books on WorldCat, because all of the ones I needed had exact matches down to the page number. However, for the Demeures entry, I was unable to locate a WorldCat source. I chose my keywords based on words that stood out in the corpus document description of my garden. Some potential issues/questions are marked with TODO in the entry above.
 --&gt;</description></item></channel></rss>
