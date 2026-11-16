@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Saint Cricq Villeneuve on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/6866787894/</link><description>Recent content in Saint Cricq Villeneuve on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2026 21:14:32 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/6866787894/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa At Glesia</title><link>https://roman-gardens.github.io/test-drafts/id/0b91f82087/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0b91f82087/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Saint Cricq Villeneuve on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/6866787894/</link><description>Recent content in Saint Cricq Villeneuve on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2026 14:37:26 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/6866787894/index.xml" rel="self" type="application/rss+xml"/><item><title>Villa At Glesia</title><link>https://roman-gardens.github.io/test-drafts/id/0b91f82087/</link><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0b91f82087/</guid><description>&lt;!--TODO: authorship unclear--&gt;
+&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;On the right bank of the Midou, there was discovered in 1868 a large villa with much marble and numerous mosaics.&lt;/p&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;1976&lt;/p&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;On the right bank of the Midou, there was discovered in 1868 a large villa with much marble and numerous mosaics. A salvage excavation in 1976 only glimpsed the remains, and they are now known unfortunately only from a very schematic plan and sketchy descriptions. The villa was built around a large courtyard (88.6 by 31.6 as read from the plan), which may have been a garden. It does not seem to have been surrounded in the usual way by porticoes, but one should not put much trust in the very simplified plan. There are, however, façade galleries on several sides. The separate baths, situated below the house near the river, were connected to the villa a series of flights of steps with landings between them. Along the southeast two-thirds of the southwest façade, a gallery runs between two reception rooms, a feature shared with the villa de Baptest at Moncrabeau, though in the present case, the gallery seems to have been double. Moreover, according to the descriptions of the excavations, each end of the exterior gallery (65 x 3.78 m) was terminated by an apse, a form found in other plans in this region and elsewhere. At the southeast end, in a feature characteristic of late antiquity, a trilobed room opened off of the reception room and extended beyond the basic rectangle of the house, as if to allow the enjoyment of the surrounding grounds.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -15,9 +19,9 @@
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/saint-cricq-villeneuve/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/saint-cricq-villeneuve/filename.jpg" alt="plan for a garden witha large courtyard in the middle" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- &lt;/figcaption&gt;
+ AQU 9.1.1: Saint-Cricq-Villeneuve, plan from 1868, from Demeures, p. 402.&lt;div class="credit"&gt;Credit: from Demeures, p. 402.&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
 &lt;!--
@@ -28,20 +32,30 @@
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Morvillez, E. 1993. “Forme et Évolution des Salles de Réception des Grandes Demeures Tardives du Bassin Méditerranéen Occidental (IVe–VIe Siècles),” 179–85. Ph.D. diss, Paris 4 Sorbonne.
+-&lt;a href="https://search.worldcat.org/title/690387272" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Quicherat, J. 1870. “Rapport sur Diverses Communications concernant des Mosaïques Trouvées à Saint-Cricq (Landes).” Revue des Sociétés Savantes 5(1):116–19-&lt;a href="https://search.worldcat.org/title/9532074917" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Demeures, p. 401-403, 445.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--TODO: find reference information--&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=reception room"&gt;reception room&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyard"&gt;courtyard&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=apse"&gt;apse&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;!--places containing this garden will be listed automatically --&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
@@ -61,8 +75,8 @@ places containing this garden will be listed automatically
 
 
  &lt;br&gt;
-
-- 
+&lt;/li&gt;
+&lt;li&gt;
 
 
 
@@ -82,5 +96,5 @@ places containing this garden will be listed automatically
 
 
  &lt;br&gt;
-
---&gt;</description></item></channel></rss>
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

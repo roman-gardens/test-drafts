@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sorde L Abbaye on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/d59a477b8c/</link><description>Recent content in Sorde L Abbaye on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2026 13:18:56 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/d59a477b8c/index.xml" rel="self" type="application/rss+xml"/><item><title>Barat De Vin</title><link>https://roman-gardens.github.io/test-drafts/id/aeaee1dfc9/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/aeaee1dfc9/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sorde L Abbaye on Gardens of the Roman Empire</title><link>https://roman-gardens.github.io/test-drafts/id/d59a477b8c/</link><description>Recent content in Sorde L Abbaye on Gardens of the Roman Empire</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2026 14:39:30 -0400</lastBuildDate><atom:link href="https://roman-gardens.github.io/test-drafts/id/d59a477b8c/index.xml" rel="self" type="application/rss+xml"/><item><title>Barat De Vin</title><link>https://roman-gardens.github.io/test-drafts/id/aeaee1dfc9/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/aeaee1dfc9/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;unspecified&lt;/p&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;1957-1966&lt;/p&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;Two kilometers east of Sorde-l’Abbaye, beside the ancient road from Dax to Pamplona sat this structure on a terrace above the former bed of the Gave. The ruins have been known since the second half of the nineteenth century. They were partially excavated by J. Lauffray between 1957 and 1966. He considered the structure a villa. Later, Boyrie–Fénié and Bost (1994) conjectured that it was a wayside inn. Balmelle is inclined, on the basis of architecture and décor, to the villa interpretation.
+There are two structures separated by thirty meters or more. It is thought that they may have been connected by a peristyle not yet found. The more southern, lower structure is remarkable for the height of the remaining walls, in some places more than three meters. The southeast wing of this structure includes a large gallery [XI] (41 x 5 m) that ran parallel to the stream. It had large bays separated by columns of green marble. This unit made a sort of belvedere which connected the baths on the northwest to a large pavilion at the southeast extremity. Both the pavilion and the baths belong to a phase of construction in the fourth century. There is a spring between the stream and the baths, which may account for their location. Two possible locations for gardens may be conjectured: (1) between the gallery and the stream, and (2) in a possible peristyle between the upper (eastern) and lower (southern) known structures.&lt;/p&gt;
 &lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
@@ -12,14 +16,12 @@
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Plans
+&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/sorde-l_abbaye/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- &lt;/figcaption&gt;
+ Villa of Barat-de-Vin,&lt;div class="credit"&gt;Credit: Demeures&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
---&gt;
 &lt;!--
 ## Images
 &lt;figure&gt;
@@ -28,20 +30,32 @@
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lauffray, J. 1965. Notes sur les Fouilles Gallo-Romaines de Sorde-L’Abbaye.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Boyrie-Fénié, B. Carte Archéologique de la Gaule 40(306):154–55.
+&lt;a href="WORLDCAT_LINK_URL"&gt;(worldcat)&lt;/a&gt;&lt;/p&gt;
+&lt;!-- TODO:Not on Worldcat--&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Wine"&gt;Wine&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Villa"&gt;Villa&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Walled Garden"&gt;Walled Garden&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- TODO:chose these key words because they were main describing words to the garden that I saw seperated it from other gardens&gt;
 
---&gt;
-&lt;!--
+
+
 ## Places
 places containing this garden will be listed automatically
-- 
+ - 
 
 
 
@@ -49,41 +63,14 @@ places containing this garden will be listed automatically
 
 
 
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
+ Barat de Vin Gallo-Roman villa
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Villa Of Sorde L Abbaye</title><link>https://roman-gardens.github.io/test-drafts/id/fda865c325/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/fda865c325/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/249908" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:249908&lt;/a&gt;)</description></item><item><title>Villa Of Sorde L Abbaye</title><link>https://roman-gardens.github.io/test-drafts/id/fda865c325/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/fda865c325/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;p&gt;end of fourth or early years of fifth century until beginning of middle ages&lt;/p&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;

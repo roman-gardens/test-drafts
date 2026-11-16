@@ -469,7 +469,106 @@ places containing this garden will be listed automatically
 
 --&gt;
 &lt;!--No pleiades entry. To approximate location I followed multiple steps. Using the local Hugo generated map, I found Vienne (the "ancient city" refrenced in my entry). I then found the street (in south Vienne) named "Rue Du 11 Novembre" included in my entry. From there, I found "Pyramide de Vienne" which, from outside research, I found to be the obelisk centered in the midle of the circus (as described in my entry) I then went roughly 250 meters upwards (north), near house "10" on the map and copied those coordinates. It matches the description of "insula was bordered by a street next to the river" since to the west it's about a city block away from the river through Vienne. --&gt;
-&lt;!-- It could be argued that linking the Pleiades entry for Vienne is helpful here, as it is the closest location available for this garden. --&gt;</description></item><item><title>Villa At The Pont D Oly</title><link>https://roman-gardens.github.io/test-drafts/id/6ecf3c3b98/</link><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/6ecf3c3b98/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!-- It could be argued that linking the Pleiades entry for Vienne is helpful here, as it is the closest location available for this garden. --&gt;</description></item><item><title>Villa At Glesia</title><link>https://roman-gardens.github.io/test-drafts/id/0b91f82087/</link><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0b91f82087/</guid><description>&lt;!--TODO: authorship unclear--&gt;
+&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;On the right bank of the Midou, there was discovered in 1868 a large villa with much marble and numerous mosaics.&lt;/p&gt;
+&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;1976&lt;/p&gt;
+&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;On the right bank of the Midou, there was discovered in 1868 a large villa with much marble and numerous mosaics. A salvage excavation in 1976 only glimpsed the remains, and they are now known unfortunately only from a very schematic plan and sketchy descriptions. The villa was built around a large courtyard (88.6 by 31.6 as read from the plan), which may have been a garden. It does not seem to have been surrounded in the usual way by porticoes, but one should not put much trust in the very simplified plan. There are, however, façade galleries on several sides. The separate baths, situated below the house near the river, were connected to the villa a series of flights of steps with landings between them. Along the southeast two-thirds of the southwest façade, a gallery runs between two reception rooms, a feature shared with the villa de Baptest at Moncrabeau, though in the present case, the gallery seems to have been double. Moreover, according to the descriptions of the excavations, each end of the exterior gallery (65 x 3.78 m) was terminated by an apse, a form found in other plans in this region and elsewhere. At the southeast end, in a feature characteristic of late antiquity, a trilobed room opened off of the reception room and extended beyond the basic rectangle of the house, as if to allow the enjoyment of the surrounding grounds.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/saint-cricq-villeneuve/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Plans
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/saint-cricq-villeneuve/filename.jpg" alt="plan for a garden witha large courtyard in the middle" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ AQU 9.1.1: Saint-Cricq-Villeneuve, plan from 1868, from Demeures, p. 402.&lt;div class="credit"&gt;Credit: from Demeures, p. 402.&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/saint-cricq-villeneuve/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Morvillez, E. 1993. “Forme et Évolution des Salles de Réception des Grandes Demeures Tardives du Bassin Méditerranéen Occidental (IVe–VIe Siècles),” 179–85. Ph.D. diss, Paris 4 Sorbonne.
+-&lt;a href="https://search.worldcat.org/title/690387272" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Quicherat, J. 1870. “Rapport sur Diverses Communications concernant des Mosaïques Trouvées à Saint-Cricq (Landes).” Revue des Sociétés Savantes 5(1):116–19-&lt;a href="https://search.worldcat.org/title/9532074917" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Demeures, p. 401-403, 445.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--TODO: find reference information--&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=reception room"&gt;reception room&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyard"&gt;courtyard&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=apse"&gt;apse&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;!--places containing this garden will be listed automatically --&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
+
+
+
+
+ &lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
+
+
+
+
+ &lt;br&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Villa At The Pont D Oly</title><link>https://roman-gardens.github.io/test-drafts/id/6ecf3c3b98/</link><pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/6ecf3c3b98/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;p&gt;1770 CE
 1850 CE
@@ -15192,6 +15291,132 @@ The peristyle comprises a portico supported by nine by eleven columns. Following
 
 
 &lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>House Of The Five Mosaics</title><link>https://roman-gardens.github.io/test-drafts/id/1e065832bd/</link><pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/1e065832bd/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;late 1st century BCE - early 3rd centry CE&lt;/p&gt;
+&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;unspecified&lt;/p&gt;
+&lt;!-- TODO: find real excavation dates from Loustaud, can only find data on the other ruin with the same name --&gt;
+&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;Situated west of the forum, part of insula VI-5, this house had two successive phases. The first is called House of the Lion Emblema ; the second, House with the Opus Quadratum. Each occupied about 2300 square meters.&lt;/p&gt;
+&lt;p&gt;The House of the Lion Emblema was organized around a central garden with peristyle [1] of 20 by 23 meters. The floor of the porticoes is white concrete with calcite aggregates. The columns supporting the roof of the portico rest on a low wall covered by plaster painted red. To the north, on the axis of the garden, was the triclinium [2] (12.6 x 7.8 m) where were found two black-and-white carpet mosaics, with the emblema of the lion in the northern one. South of the garden, it is worth noting, there was a bath.&lt;/p&gt;
+&lt;p&gt;For no apparent reason, this beautiful house was destroyed and another, the House of the Opus Quadratum, was superimposed on the previous foundations, keeping practically the same plan. The garden with portico [1] of 440 square meters had in the northern part a foundation for a pool or perhaps for monumental stairs connecting the portico to the garden. The limestone columns were apparently Corinthian. The northern portico had a floor of opus signinum; the floors of the other galleries were bare. To the north, the reception room [3] was reduced in length to 9.8 by 7.8 meters, but flanked by symmetric rooms with larger mosaics than those of the preceding phase. This room, lying on the axis of the possible pool or steps, was embellished by a luxurious paving with an opus quadratum motif made of marble rectangles. South of the garden, an important room [4] (12 meters on a side) served as a vestibule for the main room and marked the end of this house, which was later connected to its neighbor In the center of the room was a pool with a rim and paving of white marble and a water jet in the center.&lt;/p&gt;
+&lt;!--
+## Maps
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/augustoritum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
+&lt;!--TODO: add files
+&lt;figure&gt;
+ &lt;img src="" alt="Picture of structural plans of phase 1 of site." onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 1: Phase 1 plan of the House of the Five Mosaics.&lt;div class="credit"&gt;Credit: Courtesy of Limoges Antique.&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+ &lt;img src="" alt="Picture of structural plans of phase 2 of site." onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ Fig. 2: Phase 2 plan of the House of the Five Mosaics.&lt;div class="credit"&gt;Credit: Courtesy of Limoges Antique.&lt;/div&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;!--
+## Images
+&lt;figure&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/augustoritum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;figcaption&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;!-- TODO: add WorldCat link --&gt;
+&lt;ul&gt;
+&lt;li&gt;Loustaud, J.P. 2000. Limoges Antique. Travaux d'Archéologie Limousine suppl. 5, 191–96. Limoges: Association des Antiquités Historiques du Limousin. &lt;a href="WORLDCAT_LINK_URL"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=domus"&gt;domus&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300005506" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300005506&lt;/a&gt;)
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=peristyles"&gt;peristyles (Roman courtyards)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080971" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300080971&lt;/a&gt;)
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=courtyards"&gt;courtyards (uncovered spaces)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004095" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004095&lt;/a&gt;)
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=porticoes"&gt;porticoes&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300004145" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300004145&lt;/a&gt;)
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=reception rooms"&gt;reception rooms&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300077176" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300077176&lt;/a&gt;)
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=mosaics"&gt;mosaics (visual works)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300015342" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300015342&lt;/a&gt;)
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=opus signinum"&gt;opus signinum&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300379969" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300379969&lt;/a&gt;)
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=pools"&gt;pools (bodies of water)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300008692" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300008692&lt;/a&gt;)
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=socles"&gt;socles&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300080499" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300080499&lt;/a&gt;)
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=foundations"&gt;foundations (structural elements)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300000919" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300000919&lt;/a&gt;)
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=tesserae"&gt;tesserae (mosaic components)&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300010730" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300010730&lt;/a&gt;)
+
+
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Early Imperial"&gt;Early Imperial&lt;/a&gt; (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/aat/300107346" title="Art and Architecture Thesaurus (Getty)"&gt;AAT:300107346&lt;/a&gt;)
+&lt;/p&gt;
+&lt;h2 id="places"&gt;Places&lt;/h2&gt;
+&lt;p&gt;places containing this garden will be listed automatically&lt;/p&gt;
+&lt;!-- There is no pleiades or TGN entry for the house. TGN entry goes to the town of Limoges--&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
+
+
+
+
+ &lt;br&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+
+ Limoges
+
+
+ 
+ 
+
+
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/7008410" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:7008410&lt;/a&gt;)
+
+
+
+&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Gardens Of Asinius Pollio</title><link>https://roman-gardens.github.io/test-drafts/id/4197402f2f/</link><pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/4197402f2f/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
@@ -21597,10 +21822,14 @@ Check Amplissimae.
  &lt;br&gt;
 
 &lt;!-- Description --&gt;</description></item><item><title>Barat De Vin</title><link>https://roman-gardens.github.io/test-drafts/id/aeaee1dfc9/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/aeaee1dfc9/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;p&gt;unspecified&lt;/p&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
+&lt;p&gt;1957-1966&lt;/p&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
+&lt;p&gt;Two kilometers east of Sorde-l’Abbaye, beside the ancient road from Dax to Pamplona sat this structure on a terrace above the former bed of the Gave. The ruins have been known since the second half of the nineteenth century. They were partially excavated by J. Lauffray between 1957 and 1966. He considered the structure a villa. Later, Boyrie–Fénié and Bost (1994) conjectured that it was a wayside inn. Balmelle is inclined, on the basis of architecture and décor, to the villa interpretation.
+There are two structures separated by thirty meters or more. It is thought that they may have been connected by a peristyle not yet found. The more southern, lower structure is remarkable for the height of the remaining walls, in some places more than three meters. The southeast wing of this structure includes a large gallery [XI] (41 x 5 m) that ran parallel to the stream. It had large bays separated by columns of green marble. This unit made a sort of belvedere which connected the baths on the northwest to a large pavilion at the southeast extremity. Both the pavilion and the baths belong to a phase of construction in the fourth century. There is a spring between the stream and the baths, which may account for their location. Two possible locations for gardens may be conjectured: (1) between the gallery and the stream, and (2) in a possible peristyle between the upper (eastern) and lower (southern) known structures.&lt;/p&gt;
 &lt;!-- This is the main text describing the garden --&gt;
 &lt;!--
 ## Maps
@@ -21610,14 +21839,12 @@ Check Amplissimae.
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Plans
+&lt;h2 id="plans"&gt;Plans&lt;/h2&gt;
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/sorde-l_abbaye/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- &lt;/figcaption&gt;
+ Villa of Barat-de-Vin,&lt;div class="credit"&gt;Credit: Demeures&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
---&gt;
 &lt;!--
 ## Images
 &lt;figure&gt;
@@ -21626,20 +21853,32 @@ Check Amplissimae.
  &lt;/figcaption&gt;
 &lt;/figure&gt;
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lauffray, J. 1965. Notes sur les Fouilles Gallo-Romaines de Sorde-L’Abbaye.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Boyrie-Fénié, B. Carte Archéologique de la Gaule 40(306):154–55.
+&lt;a href="WORLDCAT_LINK_URL"&gt;(worldcat)&lt;/a&gt;&lt;/p&gt;
+&lt;!-- TODO:Not on Worldcat--&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Wine"&gt;Wine&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Villa"&gt;Villa&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Walled Garden"&gt;Walled Garden&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- TODO:chose these key words because they were main describing words to the garden that I saw seperated it from other gardens&gt;
 
---&gt;
-&lt;!--
+
+
 ## Places
 places containing this garden will be listed automatically
-- 
+ - 
 
 
 
@@ -21647,41 +21886,14 @@ places containing this garden will be listed automatically
 
 
 
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
+ Barat de Vin Gallo-Roman villa
 
 
  
  
 
 
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>House 35, Insula VII-5</title><link>https://roman-gardens.github.io/test-drafts/id/c90bf54f5f/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/c90bf54f5f/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+ (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn/249908" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:249908&lt;/a&gt;)</description></item><item><title>House 35, Insula VII-5</title><link>https://roman-gardens.github.io/test-drafts/id/c90bf54f5f/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/c90bf54f5f/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
@@ -21947,92 +22159,7 @@ Credit= &amp;quot;Limoges Antique&amp;quot;&lt;/p&gt;
 
 45.8285425, 1.2643925&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!--TO DO: The latitude and longitude written is just the representative point of Limoges, France&gt;</description></item><item><title>House Of The Five Mosaics</title><link>https://roman-gardens.github.io/test-drafts/id/1e065832bd/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/1e065832bd/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/augustoritum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/augustoritum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/augustoritum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>House Of The Opus Sectile</title><link>https://roman-gardens.github.io/test-drafts/id/08deb91297/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/08deb91297/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
+&lt;!--TO DO: The latitude and longitude written is just the representative point of Limoges, France&gt;</description></item><item><title>House Of The Opus Sectile</title><link>https://roman-gardens.github.io/test-drafts/id/08deb91297/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/08deb91297/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
@@ -22204,10 +22331,13 @@ places containing this garden will be listed automatically
 
 --&gt;</description></item><item><title>House Of The Small Viridarium</title><link>https://roman-gardens.github.io/test-drafts/id/d4e9cec0b9/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/d4e9cec0b9/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
 &lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
+&lt;p&gt;Discovered in the course of a campaign of excavations in 1928&lt;/p&gt;
 &lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
 &lt;!-- format as YYYY, or YYYY-YYYY --&gt;
+&lt;p&gt;&lt;strong&gt;1928&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
 &lt;!-- This is the main text describing the garden --&gt;
+&lt;p&gt;Discovered in the course of a campaign of excavations in 1928, this house occupies part of insula VI-4 west of the forum. It had a central courtyard [1] with a peristyle of columns of brick. The garden, 11.5 meter long, occupied at least 90 square meters. Though incompletely explored, we know that it had in its center a vat for crushing lime and an area paved with reused marble plates with a molding.&lt;/p&gt;
 &lt;!--
 ## Maps
 &lt;figure&gt;
@@ -22219,29 +22349,32 @@ places containing this garden will be listed automatically
 &lt;!--
 ## Plans
 &lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/augustoritum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
+ &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/augustoritum/filename.jpg" alt="shows the outside plan on the building and measurements" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- &lt;/figcaption&gt;
+ Limoges, House of the Small Viridarium. From Limoges Antique.&lt;/figcaption&gt;
 &lt;/figure&gt;
+TODO: add image file,
 --&gt;
 &lt;!--
 ## Images
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/augustoritum/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
- &lt;/figcaption&gt;
+ &lt;div class="credit"&gt;Credit: From Limoges Antique.&lt;/div&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
+TODO: add image file, 
 --&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
+&lt;h2 id="bibliography"&gt;Bibliography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Loustaud, J.P. 2000. &lt;em&gt;Limoges Antique&lt;/em&gt;. &lt;em&gt;Travaux d’Archéologie Limousine&lt;/em&gt; suppl. 5, 210. Limoges: Association des Antiquités Historiques du Limousin.
+&lt;a href="https://search.worldcat.org/title/468151033?oclcNum=468151033" target="_blank"&gt;(worldcat)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="keywords"&gt;Keywords&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=Peristyle"&gt;Peristyle&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--
 ## Places
 places containing this garden will be listed automatically
@@ -22575,91 +22708,6 @@ Phase I. The first phase was a vast domus organized around a court or garden of 
 ## Images
 &lt;figure&gt;
  &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/saintes/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Bibliography
-- BIB_ENTRY [(worldcat)](WORLDCAT_LINK_URL)
---&gt;
-&lt;!--
-## Keywords
-- 
-&lt;a href="https://roman-gardens.github.io/test-drafts/search/?q=example"&gt;example&lt;/a&gt;
-
---&gt;
-&lt;!--
-## Places
-places containing this garden will be listed automatically
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="https://pleiades.stoa.org/places" title="Pleiades gazetteer of ancient places"&gt;Pleiades:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
-- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- (&lt;a class="id" target="_blank" href="http://vocab.getty.edu/page/tgn" title="Thesaurus of Geographic Names (Getty)"&gt;TGN:&lt;/a&gt;)
-
-
-
-
- &lt;br&gt;
-
---&gt;</description></item><item><title>Villa At Glesia</title><link>https://roman-gardens.github.io/test-drafts/id/0b91f82087/</link><pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-drafts/id/0b91f82087/</guid><description>&lt;h2 id="dates"&gt;Dates&lt;/h2&gt;
-&lt;!-- For now, include dates exactly as written in the document. We will revisit the question of date formatting once more data have been collected. If no date, use "unspecified" --&gt;
-&lt;h2 id="excavation-dates"&gt;Excavation Dates&lt;/h2&gt;
-&lt;!-- format as YYYY, or YYYY-YYYY --&gt;
-&lt;h2 id="garden-description"&gt;Garden Description&lt;/h2&gt;
-&lt;!-- This is the main text describing the garden --&gt;
-&lt;!--
-## Maps
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/saint-cricq-villeneuve/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Plans
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/saint-cricq-villeneuve/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
- &lt;figcaption&gt;
- &lt;/figcaption&gt;
-&lt;/figure&gt;
---&gt;
-&lt;!--
-## Images
-&lt;figure&gt;
- &lt;img src="https://raw.githubusercontent.com/roman-gardens/gre-images/main/content/place/gallia_aquitania/saint-cricq-villeneuve/filename.jpg" alt="" onclick="fullscreen(this)"&gt;
  &lt;figcaption&gt;
  &lt;/figcaption&gt;
 &lt;/figure&gt;
